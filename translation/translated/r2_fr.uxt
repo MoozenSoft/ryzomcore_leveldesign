@@ -29707,3 +29707,7 @@ uiR2EDDrawArrayContextHelp	[Bougez la souris puis cliquez pour créer une ligne 
 // INDEX 6916
 uiR2EDDrawArrayTooltip	[Aide à dessiner une ligne d'objets. Utile pour dessiner une succession de barrières. Cliquez pour sélectionner le point de départ, puis bougez la souris et cliquez à nouveau pour sélectionner la fin de la ligne.]
 
+// HASH_VALUE 1B474C3F2A470B8E
+// INDEX 6917
+uiR2EdAllEquipment	[All Equipment]
+

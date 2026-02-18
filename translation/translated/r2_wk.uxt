@@ -29709,3 +29709,7 @@ uiR2EDDrawArrayContextHelp	[Move the mouse around then click to create an array 
 // INDEX 6916
 uiR2EDDrawArrayTooltip	[Help to draw an array of objects. Useful to draw a succession of barriers. Click to select origin of the array, then move the mouse and click again to select the end of the array.]
 
+// HASH_VALUE 1B474C3F2A470B8E
+// INDEX 6917
+uiR2EdAllEquipment	[All Equipment]
+

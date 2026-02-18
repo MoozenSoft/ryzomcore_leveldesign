@@ -29704,3 +29704,7 @@ uiR2EDDrawArrayContextHelp	[Mueve el ratón alrededor luego haz un click para cr
 // INDEX 6916
 uiR2EDDrawArrayTooltip	[Ayuda a elaborar una serie de objetos. Útil para dibujar un serie de barreras. Haz un click para seleccionar el origen de la serieluego mueve el ratón y haz click otra vez para seleccionar el final de la serie.]
 
+// HASH_VALUE 1B474C3F2A470B8E
+// INDEX 6917
+uiR2EdAllEquipment	[All Equipment]
+
