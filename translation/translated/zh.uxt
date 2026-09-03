@@ -1,10 +1,719 @@
-﻿LanguageName	[简体中文]
+﻿// HASH_VALUE 6B09AC86E0363C89
+// INDEX 0
+LanguageName	[简体中文]
 
+// HASH_VALUE 3259CCA76B39A0A8
+// INDEX 1
 TheSagaOfRyzom	[Ryzom]
 
+// HASH_VALUE E0CF29F71C52F868
+// INDEX 2
 uiFontSans	[noto_sans.ttf\n
 	SourceHanSansSC-Regular.otf\n
 	noto_emoji.ttf]
 
+// HASH_VALUE AE4A8BC030C3E8A7
+// INDEX 3
 uiFontMonospace	[noto_mono.ttf\n
 	SourceHanSansSC-Regular.otf]
+
+// HASH_VALUE 48D0B43C48D0B43C
+// INDEX 4
+uittOK	[确定]
+
+// HASH_VALUE 23564859A3A4747B
+// INDEX 5
+uittCancel	[取消]
+
+// HASH_VALUE 5450841454508414
+// INDEX 6
+uiExitLogin	[退出]
+
+// HASH_VALUE A9C6449221164C8A
+// INDEX 7
+uiLogin	[登录]
+
+// HASH_VALUE 70583454645814B8
+// INDEX 8
+uiUsername	[用户名]
+
+// HASH_VALUE 70DC1440649CF4DC
+// INDEX 9
+uiPassword	[密码]
+
+// HASH_VALUE EA3A842642FA0CC0
+// INDEX 10
+uiConfirmPassword	[确认密码]
+
+// HASH_VALUE A9797F6868794A8F
+// INDEX 11
+uiEmail	[电子邮箱]
+
+// HASH_VALUE 89C0C4320910CC2A
+// INDEX 12
+uiOnLogin	[登录]
+
+// HASH_VALUE 8860AC38C9908837
+// INDEX 13
+uiOnline	[在线]
+
+// HASH_VALUE 49A088270810A42B
+// INDEX 14
+uiOffline	[离线]
+
+// HASH_VALUE C950C42EC951A81F
+// INDEX 15
+uiOnConnect	[连接]
+
+// HASH_VALUE 13B2403C13D33C3E
+// INDEX 16
+uiOnStatus	[状态]
+
+// HASH_VALUE 8CE2D0404EC2E43C
+// INDEX 17
+uiOnVersion	[版本]
+
+// HASH_VALUE C7CC3BE0464ED819
+// INDEX 18
+uiOnChecking	[正在检查需更新的文件……]
+
+// HASH_VALUE FB21B433B2B1EC22
+// INDEX 19
+uiOnRelease	[版本说明]
+
+// HASH_VALUE 48209C2B05607C06
+// INDEX 20
+uiGameConfiguration	[配置]
+
+// HASH_VALUE 0B71B01A04BEB405
+// INDEX 21
+uiCreateAccount	[创建账号]
+
+// HASH_VALUE 0F407CF9CAE070D4
+// INDEX 22
+uiEditAccount	[编辑账号]
+
+// HASH_VALUE 01120F12C422D70B
+// INDEX 23
+uiForgetPwd	[忘记密码]
+
+// HASH_VALUE 4AF1F0F94CDFE0EC
+// INDEX 24
+uiFreeTrial	[创建你的免费试用账号]
+
+// HASH_VALUE 9023144851D43C48
+// INDEX 25
+uiLoginSupport	[客服支持]
+
+// HASH_VALUE 46E1C43A831ECFEA
+// INDEX 26
+uiReleaseNote	[阅读说明]
+
+// HASH_VALUE 0B2190278A40A02A
+// INDEX 27
+uiNoteClose	[关闭]
+
+// HASH_VALUE 4792B81C49E2742F
+// INDEX 28
+uiOnPatch	[补丁]
+
+// HASH_VALUE 04628F3C85610A34
+// INDEX 29
+uiOnPatchDetail	[补丁详情]
+
+// HASH_VALUE 648AB4935C60B4C1
+// INDEX 30
+uiOnPatchOpt	[可选：从补丁中添加/移除文件]
+
+// HASH_VALUE 6BA9B484A5229440
+// INDEX 31
+uiClientVersion	[客户端版本]
+
+// HASH_VALUE 3EC17830B80D1B1D
+// INDEX 32
+uiRebootConfirm	[Ryzom 即将重新启动。请等待 Ryzom 完全重启。]
+
+// HASH_VALUE 809F582A06023625
+// INDEX 33
+uiRebootBut	[点击此处重新启动]
+
+// HASH_VALUE DAA9BC7956B86772
+// INDEX 34
+uiScoreMax	[数值最大值]
+
+// HASH_VALUE 6514289CA0C54BAA
+// INDEX 35
+uiScoreRegen	[数值回复值]
+
+// HASH_VALUE 062E270D40018C0A
+// INDEX 36
+uiConnecting	[正在连接……]
+
+// HASH_VALUE 5010542050105420
+// INDEX 37
+uiHelpTitle	[帮助]
+
+// HASH_VALUE B086B7809B27D79D
+// INDEX 38
+uiEmptySlot	[空槽位]
+
+// HASH_VALUE BF927812CC4E362E
+// INDEX 39
+uiDelChar	[删除此角色？]
+
+// HASH_VALUE 4450143844501438
+// INDEX 40
+uiName	[名字]
+
+// HASH_VALUE 87F1DC485003EC26
+// INDEX 41
+uiSurName	[姓氏]
+
+// HASH_VALUE CF0DA82308FF5117
+// INDEX 42
+uiDeleteTitle	[确定要删除吗？]
+
+// HASH_VALUE 071C63FDB432AC50
+// INDEX 43
+uiSelectTitle	[欢迎来到 RYZOM - Beta 2]
+
+// HASH_VALUE C27F70D8CA8F7029
+// INDEX 44
+uiSelCharTitle	[选择一个角色]
+
+// HASH_VALUE 8CB1F43C4E73043F
+// INDEX 45
+uiOptTitle	[选项]
+
+// HASH_VALUE 7858C4407858C440
+// INDEX 46
+uiPlay	[开始游戏]
+
+// HASH_VALUE 6417546864955498
+// INDEX 47
+uiDelete	[删除]
+
+// HASH_VALUE 2C9A588517F0A7A5
+// INDEX 48
+uiManCrea	[手动创建]
+
+// HASH_VALUE 6B89588A5841ABB4
+// INDEX 49
+uiRanCrea	[随机创建]
+
+// HASH_VALUE 6ED865116AD71FFE
+// INDEX 50
+uiSelLevel	[ - 等级 ]
+
+// HASH_VALUE 4F832C384DA1C02F
+// INDEX 51
+uiCulture	[文化]
+
+// HASH_VALUE C8506C2B90443C3E
+// INDEX 52
+uiEcosystem	[生态系统]
+
+// HASH_VALUE 911214414E53083A
+// INDEX 53
+uiFyName	[FYROS]
+
+// HASH_VALUE 8BC1D82A0A62AC3D
+// INDEX 54
+uiMaName	[MATIS]
+
+// HASH_VALUE CCC308468E730837
+// INDEX 55
+uiTrName	[TRYKER]
+
+// HASH_VALUE 09D214334D52D036
+// INDEX 56
+uiZoName	[ZORAÏ]
+
+// HASH_VALUE 8DB0183389433B3F
+// INDEX 57
+uiFyCulture	[FYROS-文化]
+
+// HASH_VALUE 0640B8340AC23F41
+// INDEX 58
+uiMaCulture	[MATIS-文化]
+
+// HASH_VALUE 0C53FC564901B418
+// INDEX 59
+uiTrCulture	[TRYKER-文化]
+
+// HASH_VALUE 87F1C83989015335
+// INDEX 60
+uiZoCulture	[ZORAÏ-文化]
+
+// HASH_VALUE 90E360418AC01319
+// INDEX 61
+uiFyEco	[FYROS-生态系统]
+
+// HASH_VALUE 0FA3083046301319
+// INDEX 62
+uiMaEco	[MATIS-生态系统]
+
+// HASH_VALUE 50940C2E484C3430
+// INDEX 63
+uiTrEco	[TRYKER-生态系统]
+
+// HASH_VALUE 8B03384B0C01130F
+// INDEX 64
+uiZoEco	[ZORAÏ-生态系统]
+
+// HASH_VALUE CB303FDCCD40AEED
+// INDEX 65
+uiSelCiv	[你想扮演哪个种族？]
+
+// HASH_VALUE 0C91B41EC6919C31
+// INDEX 66
+uiCaNaBoldF	[战士]
+
+// HASH_VALUE 48D014344C50940C
+// INDEX 67
+uiCaNaBoldM	[法师]
+
+// HASH_VALUE 4551941F8CB2BC2D
+// INDEX 68
+uiCaNaBoldC	[工匠]
+
+// HASH_VALUE F45FC41D05204C10
+// INDEX 69
+uiCareerTitle	[你想成为什么职业？]
+
+// HASH_VALUE 4871AC1F06706826
+// INDEX 70
+uiDesc	[概述]
+
+// HASH_VALUE 4050044C40506424
+// INDEX 71
+uiSpe	[专项]
+
+// HASH_VALUE C7D288304A21C429
+// INDEX 72
+uiShape	[脸型]
+
+// HASH_VALUE 5050142050501420
+// INDEX 73
+uiHair	[头发]
+
+// HASH_VALUE CE4280244871CC34
+// INDEX 74
+uiHaircut	[发型]
+
+// HASH_VALUE CAC3944B47C3DC46
+// INDEX 75
+uiTatoos	[纹身]
+
+// HASH_VALUE D190EC030D9E08F9
+// INDEX 76
+uiEyes	[眼睛颜色]
+
+// HASH_VALUE 083098218820D421
+// INDEX 77
+uiHeight	[身高]
+
+// HASH_VALUE 5050240450502404
+// INDEX 78
+uiArms	[手臂]
+
+// HASH_VALUE 50D0543050D05430
+// INDEX 79
+uiLegs	[腿部]
+
+// HASH_VALUE 0E93144550521848
+// INDEX 80
+uiTorso	[躯干]
+
+// HASH_VALUE EBF2AFF80CFC1F3B
+// INDEX 81
+uiAppearTitle	[你想要什么样的外观？]
+
+// HASH_VALUE 5810F4085810F408
+// INDEX 82
+uiBody	[身体]
+
+// HASH_VALUE 44D0141844D01418
+// INDEX 83
+uiFace	[面部]
+
+// HASH_VALUE 4C11E032CB21A023
+// INDEX 84
+uiClothes	[服装]
+
+// HASH_VALUE 90B2172BCCE15A26
+// INDEX 85
+uiFace1Fy	[嘴部高度]
+
+// HASH_VALUE 082FE819C251AC06
+// INDEX 86
+uiFace2Fy	[眼睛高度]
+
+// HASH_VALUE C71088303F00E4FC
+// INDEX 87
+uiFace3Fy	[鼻子高度]
+
+// HASH_VALUE 81F13C064CD21B42
+// INDEX 88
+uiFace4Fy	[嘴部宽度]
+
+// HASH_VALUE C89FB8348300D808
+// INDEX 89
+uiFace5Fy	[鼻子长度]
+
+// HASH_VALUE 47F2CC0B0AAFD015
+// INDEX 90
+uiFace6Fy	[鼻子宽度]
+
+// HASH_VALUE C6BF4F2EBB42D8D7
+// INDEX 91
+uiFace7Fy	[眼睛宽度 / 眉毛]
+
+// HASH_VALUE 1884DB5E28B067C1
+// INDEX 92
+uiInvalid	[不是有效的名字]
+
+// HASH_VALUE 53005EA9ABC8A864
+// INDEX 93
+uiValid	[是有效的名字]
+
+// HASH_VALUE 83B10304CECF23E2
+// INDEX 94
+uiSummaryTitle	[你想取什么名字？]
+
+// HASH_VALUE 856F6F1D7831E300
+// INDEX 95
+uiEnterName	[输入名字：]
+
+// HASH_VALUE 8871CC3A0EA0BC22
+// INDEX 96
+uiRand	[随机生成]
+
+// HASH_VALUE C660981A89B09825
+// INDEX 97
+uiRand1	[全部]
+
+// HASH_VALUE 86D2681D85E1AC1F
+// INDEX 98
+uiRand2	[职业]
+
+// HASH_VALUE 44D0144844D01448
+// INDEX 99
+uiRand3	[种族]
+
+// HASH_VALUE 0F93D8438C432435
+// INDEX 100
+uiRand4	[性别]
+
+// HASH_VALUE 5810F4085810F408
+// INDEX 101
+uiRand5	[身体]
+
+// HASH_VALUE 44D0141844D01418
+// INDEX 102
+uiRand6	[面部]
+
+// HASH_VALUE 4DE104244D511433
+// INDEX 103
+uiRand7	[颜色]
+
+// HASH_VALUE 5F39D89917F49466
+// INDEX 104
+uiSelInfos	[信息\n
+	\n
+	\t\n
+	\n
+	\t你有 5 个槽位，可保存 5 个不同的角色。\n
+	\n
+	\t要创建新角色，需要选择一个空槽位。\n
+	\n
+	\t\n
+	\n
+	\t如果没有空槽位可用，则必须删除一个现有角色才能创建新角色。]
+
+// HASH_VALUE D9161EE8306CE124
+// INDEX 105
+uiCultFy	[FYROS：烈火战士与燃烧沙漠的主人\n
+	\n
+	\t\n
+	\n
+	\tFyros 是战士的种族。\n
+	\n
+	\t他们的社会建立在严格的荣誉准则与一个共同目标之上：寻找那头曾蹂躏星球大片区域的巨龙。]
+
+// HASH_VALUE 0000000000000000
+// INDEX 106
+uiEcoFy	[]
+
+// HASH_VALUE E512F038A22B4E1E
+// INDEX 107
+uiExplcarac	[属性\n
+	\n
+	\t\n
+	\n
+	\t你有 20 点可以加到属性上。\n
+	\n
+	\t\n
+	\n
+	\t规则：\n
+	\n
+	\t-最小值为 20。\n
+	\n
+	\t-基础值最多可减少 5 点。\n
+	\n
+	\t-基础值最多可增加 10 点。]
+
+// HASH_VALUE 0182D82842B2D420
+// INDEX 108
+uiExplF	[战士说明]
+
+// HASH_VALUE 49814C0ACA60DF30
+// INDEX 109
+uiExplM	[法师说明]
+
+// HASH_VALUE CB31FF4B87CFB824
+// INDEX 110
+uiExplR	[游侠说明]
+
+// HASH_VALUE CA0FF03289D11630
+// INDEX 111
+uiMoreFFy	[FYROS 战士：狂战士]
+
+// HASH_VALUE 0D11630A7F4E0FD7
+// INDEX 112
+uiLocationTitle	[你想去哪里？]
+
+// HASH_VALUE B54C279E920E61A6
+// INDEX 113
+uiTryton1	[数个世纪以来，我穿行于 Ryzom 静谧的回廊。我见证了 Atys 的绿之复苏，也见证了 homin 一族的诞生。我目睹他们在这个无情的世界里挣扎求生——那里有杀人的植物，也有蜂拥的野兽。更糟的是，他们深陷蒙昧无知，为了与自己的同胞争夺权力而不惜流血厮杀。就这样，他们在种族间的战乱中元气大伤，又因自我隔绝而被禁锢在各自的领地之内，最终沦为可怕的 kitin 蜂群的猎物。]
+
+// HASH_VALUE 741C5438741C5438
+// INDEX 114
+uiNextTryton	[下一步]
+
+// HASH_VALUE 68D8140868D81408
+// INDEX 115
+uiBackTryton	[返回]
+
+// HASH_VALUE EED8605365B3504E
+// INDEX 116
+uiSkipTryton	[跳过开场]
+
+// HASH_VALUE A8882C8D23B73899
+// INDEX 117
+uiSumScore	[数值]
+
+// HASH_VALUE 1CF8207321457C87
+// INDEX 118
+uiSumMax	[最大]
+
+// HASH_VALUE 5A6710701F161883
+// INDEX 119
+uiSumReg	[回复]
+
+// HASH_VALUE 42C1443F4302443A
+// INDEX 120
+uiRename	[重命名]
+
+// HASH_VALUE 17A6C0F32AB79B83
+// INDEX 121
+uiEula	[最终用户许可协议]
+
+// HASH_VALUE 878180150661C424
+// INDEX 122
+uiEulaAccept	[我接受]
+
+// HASH_VALUE 4970781845207420
+// INDEX 123
+uiEulaDecline	[拒绝]
+
+// HASH_VALUE 4027930BDE0CCDA3
+// INDEX 124
+uiEulaContent	[RYZOM 许可协议\n
+	\n
+	\t\n
+	\n
+	\t致用户的重要提示：本文件是一份合同。在点击下方“我接受”按钮并完成安装或注册流程之前，请仔细阅读。当你点击“我接受”时，即表示你接受本合同的条款及其中所载的义务。如果你不愿成为本合同的当事方，或不愿受其全部条款的约束，请点击“取消”，不要安装本软件（若已安装请卸载），也不要使用它。\n
+	\n
+	\t接受本协议条款的同时，你也同意遵守此处所列的行为准则：https://ryzom.com/terms-of-service\n
+	\n
+	\t如果你就本许可协议遇到任何问题，请通过 support@ryzom.com 联系 Ryzom 客服。\n
+	\n
+	\t\n
+	\n
+	\t1. 合同标的。本 Ryzom 许可协议（以下简称“本合同”）是你与 Winch Gate Property Limited（“Winch Gate”或“我们”）之间订立的合同。其目的在于确定 Winch Gate（定义见下文第 2 条）向授权用户提供与大型多人在线游戏 Ryzom（“Ryzom”、“本游戏”或“Ryzom Arkitect”）相关之服务的条款。这些服务包括开设并维护一个账号，使用户能够通过互联网游玩本游戏，并使用我们的游戏内工具 Ryzom Arkitect 为游戏创建内部内容。\n
+	\n
+	\t\n
+	\n
+	\t2. 授权用户。只有已成年的自然人方可开设账号，供本人或其未成年子女游玩 Ryzom 使用。如果你是未成年人，则必须由你的父母创建账号并接受本合同条款。就本合同而言，“未成年人”指在其居住国尚未达到法定成年年龄的人。此外，唯有持有有效的免费或订阅访问账号的用户才被授权游玩 Ryzom。授权用户在下文中称为“用户”。\n
+	\n
+	\t\n
+	\n
+	\t3. 注册与开设账号。本合同允许你使用所提供的登记流程注册你的资料，以开设一个（1 个）账号，使你能够通过互联网游玩 Ryzom 和/或 Ryzom Arkitect。互联网连接并非由 Winch Gate 提供，用户须自行承担为获得、维持并使用该连接而应付的全部费用。注册要求你向 Winch Gate 发送信息，包括你的身份信息及所使用的支付方式。你保证在注册流程中提供的所有信息真实、正确，并承诺通过账号内提供的更新功能，把上述信息的任何变更告知 Winch Gate。\n
+	\n
+	\t\n
+	\n
+	\t4. 账号的个人属性。账号的使用严格限于本人。账号不得（即使是暂时地）与他人共享或以其他方式延伸给他人使用（无论是否收费），也不得以任何与正常合理使用本游戏无关的方式（无论是否收费）加以使用。用户须对其访问账号的使用，以及其未成年子女或其他任何能接触该账号的人对其账号的使用承担全部责任。\n
+	\n
+	\t\n
+	\n
+	\t5. 登录名与密码。要获得账号，你必须选择一个用于连接的登录名和一个密码；凭二者即可访问该账号。此登录名和密码严格属于个人，不得供他人使用；你也不得使用任何其他玩家的登录名和密码。你对登录名和密码的选择、对其保密，以及他人对其的任何使用承担全部责任。对于因登录名或密码遭到擅自使用而给账号造成的任何损害，Winch Gate 概不负责。\n
+	\n
+	\t\n
+	\n
+	\t6. 订阅与计费。当前的订阅费用显示在网站 http://ryzom.com/?page=page_why_pay 上，并在注册流程中再次显示。Winch Gate 可随时变更这些费用，但须事先通知用户，通知方式为：在页面 http://ryzom.com/?page=page_why_pay 上公布，或在用户登录其账号时提示，或向用户的地址发送电子邮件。适用费用的变更仅在下次续订订阅时生效。订阅费用在欧元区国家以欧元计价，在英国以英镑计价，在美国以美元计价。该费用对应明确的订阅期（1 个月、3 个月、6 个月、1 年）。视所使用的支付方式而定，订阅要么按相同时期自动续订（除非用户按下文第 18 条所述通知 Winch Gate），要么须由用户手动续订。如须由用户手动续订，用户有责任在订阅期到期前完成续订，否则 Winch Gate 保留立即关闭用户账号的一切权利。支付订阅费使用户能够在订阅期及任何续订延续期内无限制地访问 Ryzom。该款项不包含订阅及游玩 Ryzom 所需的互联网连接相关费用。订阅费及任何续订费用均须预付且不予退还。订阅可通过信用卡、借记卡或 Winch Gate 接受的任何其他方式支付，具体按 Winch Gate 网站上显示的流程办理。订阅费将在初次订阅时及每次续订之日自动从你的信用卡或借记卡中扣除。如果在任何续订日无法从用户的信用卡、借记卡或其他约定的支付方式中收取款项，Winch Gate 保留立即关闭该用户账号的权利。\n
+	\n
+	\t\n
+	\n
+	\t7. 支付安全。使用信用卡或借记卡的安全支付由多家外包支付系统公司保障，例如 WorldPay（ www.worldpay.com ）和 PayPal（ www.paypal.com ），两者均为安全在线支付交易的专业提供商；此外还可通过 Steam 门户支付系统（ http://store.steampowered.com/ ）支付。你的信用卡或借记卡信息（姓名、卡片类型、卡号和有效期）由各支付系统服务器直接使用 SSL 协议加密发送。订阅者提供的银行信息仅用于处理并向你开具付款账单。\n
+	\n
+	\t\n
+	\n
+	\t8. 隐私与数据保护。接受本合同即表示你确认已阅读并理解 Winch Gate 的隐私政策（http://ryzom.com/?page=privacy_policy）。使用 Winch Gate 的产品（“Ryzom”和“www.ryzom.com”）即表示你接受其隐私政策。Winch Gate 尊重其在线访客的隐私，并认识到为其收集的信息提供安全环境的重要性。Winch Gate 可能会收集有关你游戏内行为的数据（例如你的游玩时长）用于统计分析。这些统计将完全匿名，且不包含任何个人数据。但如果 Winch Gate 为统计目的收集个人数据，Winch Gate 将以适当方式告知用户并征求同意。\n
+	\n
+	\t\n
+	\n
+	\t9. 使用 Ryzom 的许可。本合同赋予你（用户）一项有限的、非独占的且可撤销的访问权：通过有效账号访问游戏服务器，按设计用途并依照本合同条款使用本游戏，除此之外不享有任何其他权利。本合同授权你安装并使用一份免费的本软件副本。在本合同约定的限制范围内，Winch Gate 授予你（用户）一项非独占且可撤销的许可：通过经授权的免费或已全额付费账号，在正当条件下仅为游玩 Ryzom 和/或使用 Ryzom Arkitect 工具而使用本游戏。对账号或本游戏的任何其他使用均被禁止。特别是，你在任何情况下都不得对本游戏所包含的软件程序进行逆向工程、反编译或反汇编。你不得将本游戏的全部或部分转让给他人。你不得出租、出借或出售本游戏，或使用 Ryzom Arkitect 工具或其他任何工具创建的任何元素、物件、设计或任何内容。本合同未明确授予用户的一切权利均由 Winch Gate 保留。\n
+	\n
+	\t\n
+	\n
+	\t10. GNU AGPL 许可证。Ryzom 客户端软件（用户计算机上所装软件的一部分）的源代码已由 Winch Gate 以特定的“GNU Affero 通用公共许可证”发布，其文本可在以下网址查阅：https://www.gnu.org/licenses/agpl-3.0.en.html。其使用受该许可证条款约束。可在 https://bitbucket.org/ryzom/ryzomcore/ 下载。\n
+	\n
+	\t\n
+	\n
+	\t11. 后续版本的改进。本合同和你的账号均不赋予你获得 Ryzom 和/或 Ryzom Arkitect 工具任何后续版本或扩展的权利。Winch Gate 可以更新或改进本游戏，但没有义务向你提供该更新或改进。Winch Gate 免费提供某项更新或改进，并不赋予你获得后续更新或改进的权利。\n
+	\n
+	\t\n
+	\n
+	\t12. 本游戏及其元素的所有权。Winch Gate 是 Ryzom 和 Ryzom Arkitect 工具、使其运行的全部专有元素，以及与这些元素相关的一切知识产权的唯一所有者。你确认 Ryzom 及其内容受 Winch Gate 或其供应商持有的版权及其他知识产权保护，并且除依据本合同第 7 条明确授予你的有限许可权利外，你不享有任何其他权利。Winch Gate 同时是用户账号以及用户通过该账号创建或使用的任何元素、物件、设计或内容（包括但不限于角色及其外观、特征、故事、创造或制造的物件、公会、团体和头衔），以及使用 Ryzom Arkitect 工具创建的任何元素、物件、设计或任何内容的唯一所有者。用户还授予 Winch Gate 充分的财产权利，使其可按自己的意愿（包括商业开发）使用通过账号发送到服务器的信息，以及使用 Ryzom Arkitect 工具创建的任何元素、物件、设计或任何内容（发送给其他用户的个人数据和消息除外）。\n
+	\n
+	\t\n
+	\n
+	\t13. 用户发送的信息与数据。用户在使用 Ryzom 过程中传达或发送的信息与数据不得：(a) 侵犯任何其他方的权利，包括其知识产权、肖像权和隐私权；(b) 违反任何法律或法规；(c) 包含任何诽谤性、猥亵、淫秽或以其他方式有害于未成年人的言论；或 (d) 包含任何病毒、木马、恶意代码、蠕虫、逻辑炸弹，或其他旨在损害数据、实际损害数据，或对 Ryzom 软件、Ryzom 服务器或 Ryzom Arkitect 工具进行未授权更改的计算机指令、程序或子程序。如果我们认为你的使用违反上述禁令，我们保留按我们认为合适的方式对你的账号采取任何紧急措施（包括暂停或注销）的权利。\n
+	\n
+	\t\n
+	\n
+	\t14. 行为规则。你确认，像 Ryzom 和/或 Ryzom Arkitect 这样的在线角色扮演游戏要想正常运作并取得成功，有赖于 Winch Gate 必须维持的微妙平衡。因此，严格禁止用户：(a) 使用任何程序或方法改变本游戏的内容或功能；(b) 造成服务器过载；(c) 使用任何手段，使其比正常游戏过程更快地获得任何指令；(d) 修改用户界面或任何其他组件，以获取物件、经验值、货币、角色属性、等级等，而非通过正常合理使用本游戏所得；(e) 购买、出售或转让游戏角色或其属性，或使用 Ryzom Arkitect 工具创建的任何元素、物件、设计或任何内容。此外，用户必须始终遵守公布在游戏论坛页面 http://app.ryzom.com/app_forum/index.php?page=topic/view/21885/ 上的行为准则、礼貌政策和 Ryzom 命名章程，其内容特此宣布为本合同不可分割的一部分。如果我们认为你的使用违反上述禁令，我们保留按我们认为合适的方式对你的账号采取任何紧急措施（包括暂停或注销）的权利。\n
+	\n
+	\t\n
+	\n
+	\t15. 个人/用户信息。Winch Gate 关于个人数据的承诺载于公布在 Ryzom 网站 www.ryzom.com 上的个人数据保护政策，该政策特此宣布为本合同不可分割的一部分。Winch Gate 无法确保用户在游戏过程中传达给另一用户的个人信息不会透露给他人。为了能够对本游戏进行更新/打补丁，你授权 Winch Gate：(a) 从你的计算机设备中提取你的个人资料的详细信息；(b) 从你的计算机中提取有关本游戏在文件系统中的位置以及你的访问权限的信息；(c) 使用你的账号将游戏组件及其安装所需组件下载到你的计算机。\n
+	\n
+	\t\n
+	\n
+	\t16. 保证/责任限制。本游戏及相关服务由 Winch Gate“按现状”提供，除适用于本合同的法定最低公共秩序保证外，不提供任何其他保证。任何其他保证，无论是法定的还是约定的，均被明确排除。Winch Gate 将尽力使用户的账号始终可以访问，但保留因技术及维护活动而中断服务的权利。但 Winch Gate 绝不能保证其服务或本游戏持续、无差错地运行，也不能保证用户不间断地访问其账号。在任何情况下，用户在使用本游戏时其硬件或软件受到损坏，Winch Gate 均不承担责任。在此提醒用户：应保持符合 Winch Gate 建议的适当硬件配置，定期更新软件，并定期备份重要文件。对于玩家之间的交流内容或玩家的行为，Winch Gate 同样不承担责任。如果因任何理由认定 Winch Gate 须对损害负责，其责任不得超过用户已支付的订阅费总额。\n
+	\n
+	\t\n
+	\n
+	\t17. Winch Gate 停止运营本游戏。Winch Gate 对其运营本游戏的期限不向用户作出任何保证。如果用户数量变得或持续过低，或在任何其他情况下，Winch Gate 保留全权决定停止提供本游戏或维持其服务的权利，但应通过访问本游戏时显示的消息、其网站 www.ryzom.com 或电子邮件通知用户。届时用户账号将被最终关闭。\n
+	\n
+	\t\n
+	\n
+	\t18. Winch Gate 的解约。如果用户违反其在本合同项下的任何一项义务，或违反已被宣布为本合同组成部分的任何文件所规定的任何条件，Winch Gate 可以不作通知、立即且不加警告地终止本合同并关闭用户账号。如果 Winch Gate 因用户违约而关闭其账号，Winch Gate 保留封禁用户计算机、信用卡和/或禁用该软件今后访问本游戏的权利。如果计算机被封禁或软件被禁用，使用同一计算机和/或软件的任何其他玩家都将无法连接。如果账号所用的信用卡被封禁，则使用同一信用卡开设的所有其他账号也可能被封禁。在这种情况下，对于当前订阅期至正常到期日剩余天数所对应的订阅费部分，用户无权获得退款。\n
+	\n
+	\t\n
+	\n
+	\t19. 用户的解约。用户可随时通过电子邮件（support@ryzom.com）或通过访问账号时提供的其他方式通知 Winch Gate，终止本合同并关闭其账号。解约自当前订阅期届满时生效。已支付的当前订阅费不予退还，即使用户在解约日之前未使用其账号。\n
+	\n
+	\t\n
+	\n
+	\t20. 许可的修订。Winch Gate 保留随时修订本合同条款的权利。变更后，用户将在首次访问其账号时被告知本合同的任何修订。此后访问本游戏即表示接受经修订的合同条款，这些条款将立即适用。\n
+	\n
+	\t\n
+	\n
+	\t21. 应采取的预防措施/癫痫。Winch Gate 提醒你：疲劳或睡眠不足时不要游玩。请确保在光线充足的房间游玩，且屏幕亮度不要过高。使用可与显示器连接的视频游戏时，请在距电视屏幕合理的位置游玩，以连接线允许的距离为限。每游玩一小时应休息十至十五分钟。我们还提请注意：有些人容易发生癫痫发作，可能伴随视觉意识丧失，且可能由某些类型的强光刺激引发，例如图像的快速连续切换、简单几何图形的重复，或闪电、爆炸的模拟。这类人群在游玩包含此类刺激的某些视频游戏时，即使既往无病史或从未发作过癫痫，也面临此类发作的风险。如果你本人或你的家族成员曾在光刺激下出现与癫痫相关的症状（抽搐或意识丧失），应在游玩前咨询医生。家长在孩子游玩视频游戏时也应特别注意。如果你本人或你的孩子出现以下任何症状：眩晕、视力障碍、眼部或肌肉抽搐、方向感障碍、不自主运动或惊厥，或短暂意识丧失，必须立即停止游玩并就医。\n
+	\n
+	\t\n
+	\n
+	\t22. 适用法律/其他条款。本合同受塞浦路斯法律管辖。《联合国国际货物销售合同公约》特此宣布不予适用。有关本合同的任何争议均受塞浦路斯法院的专属管辖。如果本合同的任何条款就用户而言被认定无效或不生效，该无效或不生效不影响本合同其他条款的有效性或效力。用户不得转让本合同。]
+
+// HASH_VALUE D8CAC083E0E7544A
+// INDEX 125
+uiLOGResolution	[游戏分辨率]
+
+// HASH_VALUE EC7A4CD8EA744A9A
+// INDEX 126
+uiLOGLod	[细节等级]
+
+// HASH_VALUE 348C00C4388C70E0
+// INDEX 127
+uiResValue	[1024x768]
+
+// HASH_VALUE D7F8A84014D9933C
+// INDEX 128
+uiCancelCreateAccount	[返回登录界面]
+
+// HASH_VALUE 3017307132262C87
+// INDEX 129
+uiSubmitNewAccount	[提交]
+
+// HASH_VALUE 0A7AAE591216F54A
+// INDEX 130
+uiSubmitSucces1	[恭喜！\n
+	\n
+	\t\n
+	\n
+	\t你已成功创建 Ryzom 账号\n
+	\n
+	\t一封电子邮件已发送至以下地址：\n
+	\n
+	\t]
+
+// HASH_VALUE 3B64D40332050146
+// INDEX 131
+uiSubmitSucces2	[\n
+	\n
+	\t现在你可以点击下方的连接按钮进行登录。]
+
+// HASH_VALUE C36FA10451D20B71
+// INDEX 132
+uiCreateAccountWelcome	[欢迎！\n
+	\n
+	\t请填写以下字段以创建你的新 Ryzom 账号。\n
+	\n
+	\t]
+
+// HASH_VALUE 93F7FF7D7010D8F7
+// INDEX 133
+uiAcceptTermsOfUse1	[是，我同意]
+
+// HASH_VALUE E8A7EF6619DA8679
+// INDEX 134
+uiAcceptTermsOfUse2	[使用条款。]
+
+// HASH_VALUE 0CC17829C1F0B028
+// INDEX 135
+uiUpgradeAccount	[升级账号]
+
+// HASH_VALUE 8211AB263A80B327
+// INDEX 136
+uiScanData	[检查数据]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 137
+uiCancelScanData	[取消]
+
+// HASH_VALUE 018EA0EB4810CBE0
+// INDEX 138
+uiOnDataScanning	[正在检查所有文件……]
+
+// HASH_VALUE D706BA911951BA99
+// INDEX 139
+uiOnDataScanningHelp	[此过程将检查你的所有数据文件（需要几分钟）。点击取消可中止。]
+
+// HASH_VALUE 7018542070185420
+// INDEX 140
+uittBrowseFaq	[帮助]
+
+// HASH_VALUE 82A1901C06A3F72E
+// INDEX 141
+uiTotalPatch	[补丁总量]
+
+// HASH_VALUE D091B40C4890BC25
+// INDEX 142
+uiRequiredFiles	[所需文件]
+
+// HASH_VALUE 8C42E02F0C01D422
+// INDEX 143
+uiLodValue	[普通]
+
