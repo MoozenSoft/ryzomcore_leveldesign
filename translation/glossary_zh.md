@@ -326,3 +326,23 @@ botchat：SELL TO MERCHANT→出售给商人；Retire Price→回收价格；Res
 ### 批次 2.5 实测：标记与结构保留
 
 全 474 键自查（make_cpp_zh.py + cpp_tr_p1..p5.py 程序化产译，规避 heredoc 折叠坑）：键集合一致；`@{` 931、`%` 486、`&` 38（=19 对 &CHK&/&SYS&/&BC&/&ISE&/&CHKCB& 频道前缀）、字面 `\n` 318、真实 LF 318、真实 TAB 318 **逐键计数一致**（单元一一对应：每个字面 `\n` 后恰为 LF+TAB，每个 LF 前恰为字面 `\n`）；`@{}` token 多重集逐键一致；无 `[ ]`、无行首 `#`；25 键值与 en 逐字节相同（纯色码标签 uiItem*Color、???、B/KiB/MiB、AC/JY、CTRL/ALT/SHIFT、{AFK}、", "、" - "、单空格、%f、%custom_text、%channel @{T8}/%shortcut、uihelpItemCosmetic/ScrollR2 纯 token 值）。具名 %token 由 strFindReplace **按名**替换（user_entity.cpp:3100 msgRollDiceLocal 实测），语序可安全调整；printf 序位占位（uiTipsTeleport 的 %s/%d 串）保持原序。uiBotChatPhrase 空值→空串。
+
+## 批次 2.6（动态拼接盲区 712+26 条）定译
+
+**七系元素统一**（dt/pt/rs/mpstat 同根）：Acid→酸蚀、Cold→冰霜、Rot→腐蚀、Fire→火焰、Poison→毒素、Electricity→闪电、Shockwave→冲击波。近战三系沿用 2.5：Slashing→劈砍、Smashing→砸击、Piercing→穿刺。
+**魔法域词**：Elemental→元素、Off./Def. Affliction→进攻/防御诅咒（沿用 c1b Affliction=诅咒暂定）、Healing→治疗；Cast Speed→施法速度、Power→威力。
+**RM 数值族（mpstat0..33）**：Durability→耐久度、Lightness→轻量化、Sap Load→树液储量（2.5）、Damage→伤害、Range→射程、Dodge/Parry Modifier→闪避/格挡修正、Adversary→对手、Protection Factor→防护系数、Max. X Protection→X防护上限、X Resistance→X抗性（沙漠/森林/湖泊/丛林/原始根须沿用 c1a）。**qualifier 裁定：只留名词、省略 of/with 介词**（运行时 "%p %n %s" 后缀位插于物品名后，直译"…之/的X"生硬；具名 token 按序拼接安全）。
+**RM 制造目标族（mpft，fix round 1 补正——toString 返回 stringTable 码 MpL..MpMF 非数字）**：Blade→刀刃、Hammer→锤头、Point→尖头、Shaft→柄杆、Grip→握柄、Counterweight→配重、Trigger→扳机、Firing Pin→击针、Barrel→枪管、Explosive→炸药、Ammo Jacket→弹壳、Ammo Bullet→弹头、Armor Shell→甲壳、Lining→内衬、Stuffing→填充物、Armor Clip→甲扣、Jewel Setting→宝石托、Jewel→宝石、Blacksmith Tool→铁匠工具、Pestle→研杵、Sharpening Tool→磨刃工具、Tunneling Knife→掘进刀、Jewelry Hammer→装身具锤、Campfire→营火、Clothes→服装、Magic Focus→魔法聚焦器（暂定）；裸 mpft（Unknown）沿用现译"未定义的原材料目标"。
+**品质与颜色**：mpfq Mediocre/Average/Very Good/Excellent→平庸/普通/很好/优秀（与 RM 品级 初级/优良/上选/优秀/极品 并存，Excellent=优秀 同词）；mpcol 八色用"X色"双字（红色…黑色、米色、青绿色）。
+**Ring 场景词**（uiRAP_*，沿用 c2/2.5 暂定）：等级段 新手/学徒/熟手/进阶/专家/大师；取向 新手训练/叙事/悬疑/砍杀/公会训练/其他；语言码 uiR2EDfr/de/en→法语/德语/英语。
+**语句评价（SENTENCE_APPRAISAL 16）**：ChildPlay→小儿科、RealEasy→非常简单、Easy→简单、FairlyEasy→比较简单、Average→中等难度、QuiteDifficult→颇为困难、Difficult→困难、ReallyDifficult→非常困难、Harsh→严酷、ExtremelyDifficult→极度困难；**sentence→短语**（无效短语/不完整短语/创建短语出错）；FeatureUnderConstruction→功能建造中、Cheater→作弊可不好哦……、Undefined→未定义。
+**战斗飘字/物品特效**：Life Stealer→汲血、Instant Cast→瞬发、Divine Intervention→神圣干预（暂定）、All Stats/Stat Bonus→全属性/属性增益、Forage Bonus→采集增益、No-Risk Forage→无风险采集；"% chance of" 句式统一"有 @{...}%p% @{...} 的概率…"（概率沿用 uiTS_Chances 先例）。
+**武器限制族（uiawr 74）**：Close-Combat→近战（uiawrSF"全部武器与近战"先例）、Hand-to-Hand→徒手、Melee/Range Weapon→近战/远程武器、One-/Two-handed→单手/双手；武器 Mace→锤、Staff→杖、Spear→矛、Pike→长矛、Axe→斧、Sword→剑、Dagger→匕首、Pistol→手枪、Rifle→步枪、Bow-Pistol→弓手枪、Bowrifle→弓式步枪、Launcher/Auto-Launcher→发射器/连发发射器；词缀 Burning/Electric/Living/Waving→燃烧/电击/生命/波动（直接拼武器名，暂定）。
+**键名（uiKey 143）**：字母/F1-F24 保拉丁面；NUMPAD n→小键盘 n；常用键中译：退格/回车/空格/删除/插入/行首/行末/上翻页/下翻页/截屏/暂停/大写锁定/数字锁定/滚动锁定/帮助；方向←↑→↓；鼠标左/中/右键；组合键沿用 2.5 CTRL/ALT/SHIFT 拉丁：左CTRL/右ALT 式；ESCAPE→ESC、TAB→TAB；标点键全译（逗号/句号/斜杠/反斜杠/分号/撇号/等号/连字符/波浪号/左方括号/右方括号/加号/减号/乘号/除号/小数点）；IME 冷僻键（ATTN/CRSEL/HANGEUL/KANA 等）保面。
+**Atys 历专名**：月份 uiWinderly..uiNivia（12）与星期 uiPrima..uiHoleth（6）**保留拉丁**（待全服统一定名后音译回填）；西历 uiDay0..6→星期日..星期六、uiMonth01..12→一月..十二月；季节→春/夏/秋/季按"季节"语境：春季/夏季/秋季/冬季（配 uiTipsTeleport"季节为 %s"）；序数 uiAtysianCycle1..4Ordinal→第 N 个（后接保留的"AC"）；罗盘 16 向→北/东北偏北/…/西北偏北（uiNorth=北 先例扩展）。
+**表情词（uiEmote0..29，兼 /命令词，暂定待实机复核）**：afk→挂机、agree→同意、wave→挥手、victory→胜利、lol→哈哈哈、go away→走开 等；Hiha 类拟声按既有规则保留。
+**加载趣味语（uiLoadingString 54）**：Atys 专名保拉丁（Yubo、Ragus、Frahar、Ma-Duk、Stinga、Yber、Gingo、Kincher、Jena、Fairhaven、Pyr、IRC；kitin/homin 沿用拉丁）；firewine→火酒、RAM→内存；尾随空格逐键保留。
+**PvP 交易**：NOT ENOUGH X POINTS→"X 阵营点数不足"（faction→阵营沿用 c1a）；tooltip→"你没有足够的 X 阵营点数，无法购买此物品。"；BUY/RETRIEVE→购买/回收（沿用 2.5 回收价格）。
+**聊天/界面**：FILTER 与频道标题 GUILD/TEAM/REGION/UNIVERSE→公会/小队/地区/宇宙（地区/领地分治沿用 c1a）、REGION/UNIVERSE CHAT→地区聊天/宇宙聊天；Windowed→窗口化；LOD 档 低/中/高/普通/自定义；Unlock→解锁、Leave Editor→离开编辑器、临时背包标题（拾取物/剖割材料/背包已满/制造物品/获得的物品/晶化法术/采集的材料/物品，wait 行"…请稍候……"）；键位组 uiCP_KeysetName_bi_wasd/zqsd→使用"WASD/ZQSD"移动、wow_alike→其他 1、Import→导入该角色的键位组配置+@{6F6F}仅编辑器/仅游戏/游戏 & 编辑器。
+**备案例外**：uiRAP_WaitMsg0..2 尾随 ASCII "."/".."/"..." 为帧动画计数非省略号，原样保留；uiMissionAnd 纯空白值 " -    " 原样；iompfUnknown 与暴击飘字两空值保空；identity 115 键（种族名/Atys 历名/键面/拉丁专名）属规则保留。
+
