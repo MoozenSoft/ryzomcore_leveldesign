@@ -717,3 +717,885 @@ uiRequiredFiles	[所需文件]
 // INDEX 143
 uiLodValue	[普通]
 
+// HASH_VALUE AA12D38AE5798454
+// INDEX 144
+uiCrashing1	[连接失败。]
+
+// HASH_VALUE 180E5AA16915A2F0
+// INDEX 145
+uiCrashing2	[如果你刚刚离开游戏，请等待 30 秒，]
+
+// HASH_VALUE B2BFBE15B45FEB3C
+// INDEX 146
+uiCrashing3	[待你之前的角色断开连接后再试。]
+
+// HASH_VALUE 285864848CD31372
+// INDEX 147
+uiQuit	[退出游戏]
+
+// HASH_VALUE 8B008C06C70EA400
+// INDEX 148
+uiHairColor	[头发颜色]
+
+// HASH_VALUE 0DE2B01AC5D2F03C
+// INDEX 149
+uiBreasts	[胸部]
+
+// HASH_VALUE 4C50840C4C50840C
+// INDEX 150
+uiFace8Fy	[下巴]
+
+// HASH_VALUE 8D21F8338F42CC2C
+// INDEX 151
+uiLocDest1Matis	[STALLI]
+
+// HASH_VALUE 089194174851601A
+// INDEX 152
+uiLocDest2Matis	[BOREA]
+
+// HASH_VALUE CCE2A03809918033
+// INDEX 153
+uiLocDest3Matis	[NISTIA]
+
+// HASH_VALUE 8A21E03D8D42E836
+// INDEX 154
+uiLocDest4Matis	[ROSILIO]
+
+// HASH_VALUE 8760842D8810B825
+// INDEX 155
+uiLocDest5Matis	[MIANI]
+
+// HASH_VALUE CBD0C4394911E831
+// INDEX 156
+uiCP_Infos	[信息]
+
+// HASH_VALUE C6F18C2E86B2601C
+// INDEX 157
+uiCP_title1	[角色]
+
+// HASH_VALUE 0BF2A82E8B31101E
+// INDEX 158
+uiCP_title2	[目的地]
+
+// HASH_VALUE 8931D8390A61A419
+// INDEX 159
+uiCP_selection	[选择]
+
+// HASH_VALUE 4050240C4CD09450
+// INDEX 160
+uiCP_creation	[创建]
+
+// HASH_VALUE 5850C4405850C440
+// INDEX 161
+uiCharSel_Play	[开始游戏]
+
+// HASH_VALUE 4411542844915438
+// INDEX 162
+uiCharSel_Del	[删除]
+
+// HASH_VALUE 4CDEF4FCC8CFC021
+// INDEX 163
+uiCharSel_CreateNew	[新建]
+
+// HASH_VALUE 5450544454505444
+// INDEX 164
+uiCharSel_Quit	[退出]
+
+// HASH_VALUE 116EBD6A7F5B6F17
+// INDEX 165
+uiCharSel_DelChar	[确定要删除这个角色吗？]
+
+// HASH_VALUE 4411542844915438
+// INDEX 166
+uiCP_Delete_yes	[删除]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 167
+uiCP_Delete_no	[取消]
+
+// HASH_VALUE 4770882B09C3F034
+// INDEX 168
+uiCP_Menu_1	[种族]
+
+// HASH_VALUE 0F93D8438C432435
+// INDEX 169
+uiCP_Menu_2	[性别]
+
+// HASH_VALUE 5810F4085810F408
+// INDEX 170
+uiCP_Menu_3	[身体]
+
+// HASH_VALUE 44D0141844D01418
+// INDEX 171
+uiCP_Menu_4	[面部]
+
+// HASH_VALUE 8CB1C02187C29831
+// INDEX 172
+uiCP_Menu_5	[动作]
+
+// HASH_VALUE 911214414E53083A
+// INDEX 173
+uiCP_Specie_Fyros	[FYROS]
+
+// HASH_VALUE 8BC1D82A0A62AC3D
+// INDEX 174
+uiCP_Specie_Matis	[MATIS]
+
+// HASH_VALUE CCC308468E730837
+// INDEX 175
+uiCP_Specie_Tryker	[TRYKER]
+
+// HASH_VALUE 09D214334D52D036
+// INDEX 176
+uiCP_Specie_Zorai	[ZORAÏ]
+
+// HASH_VALUE 4410143444101434
+// INDEX 177
+uiCP_Sex_Male	[男]
+
+// HASH_VALUE 42D044254360442B
+// INDEX 178
+uiCP_Sex_Female	[女]
+
+// HASH_VALUE 64CA8C8CC4D27CB0
+// INDEX 179
+uiCP_BP1	[专项：]
+
+// HASH_VALUE CA52A40E2CF4D41C
+// INDEX 180
+uiCP_BP_Des	[内容详情：]
+
+// HASH_VALUE 0861902D08E18C3A
+// INDEX 181
+uiCP_Finish	[完成]
+
+// HASH_VALUE 0C519C294771A836
+// INDEX 182
+uiCP_Abort	[中止]
+
+// HASH_VALUE 3DE2F2EB07B1B443
+// INDEX 183
+uiCP_Abort2	[中止操作将丢失你所做的修改……]
+
+// HASH_VALUE 5490F40C4454E424
+// INDEX 184
+uiCP_Abort_yes	[继续]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 185
+uiCP_Abort_no	[取消]
+
+// HASH_VALUE FA00BC3D8F20DEF3
+// INDEX 186
+uiCP_Title	[头衔：]
+
+// HASH_VALUE FC408C1683DF9014
+// INDEX 187
+uiCP_Pack	[动作包内容：]
+
+// HASH_VALUE C881A032CB318823
+// INDEX 188
+uiCP_Refugee	[难民]
+
+// HASH_VALUE 4AF0AC2BC6B1B029
+// INDEX 189
+uiCP_JOB1	[战斗]
+
+// HASH_VALUE 49697FD959E95C22
+// INDEX 190
+uiCP_Res_F	[- 战斗专项]
+
+// HASH_VALUE 2E07FBEF9EC2E674
+// INDEX 191
+uiCP_Job_F1	[1- 匕首\n
+	2- 精确攻击 1 动作]
+
+// HASH_VALUE 40E73E605EC2B540
+// INDEX 192
+uiCP_Job_M1	[1- 品质 10 的魔法放大器\n
+	2- 酸系伤害 1 法术]
+
+// HASH_VALUE 5A7A17E4438FD999
+// INDEX 193
+uiCP_Job_G1	[1- 采集工具\n
+	2- 基础提取动作]
+
+// HASH_VALUE 6BF722C24BAB80F0
+// INDEX 194
+uiCP_Job_C1	[1- 护甲制作工具\n
+	2- 50 份品质 10 的通用原材料\n
+	3- 可制作本种族护甲\n
+	4- 靴子制作图]
+
+// HASH_VALUE 4630296EDB43AACF
+// INDEX 195
+uiCP_Name_Enter	[输入名字\n
+	\n
+	Ryzom 中每个角色的名字都是唯一的，供你认出其他玩家并与他们交流。名字必须遵守命名章程的规定（见 www.ryzom.com），且只能是由字母 A 到 Z 组成的单个单词，不含重音符号、空格、数字或特殊字符。\n
+	]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 196
+uiCP_Name_Cancel	[取消]
+
+// HASH_VALUE 1011303112222C27
+// INDEX 197
+uiCP_Name_Submit	[提交]
+
+// HASH_VALUE D2D9AC68D669F823
+// INDEX 198
+uiCP_Name_Invalid	[名字无效，请换一个]
+
+// HASH_VALUE 5850C44054D0E480
+// INDEX 199
+uiLocation_Play	[立即开始]
+
+// HASH_VALUE 1281FCF6912F10F6
+// INDEX 200
+uiLocation_Back	[稍后开始]
+
+// HASH_VALUE E0F51B6868143202
+// INDEX 201
+uiCP_Location_Back	[确定稍后让这个角色在所选目的地开始吗？]
+
+// HASH_VALUE 0B2190278A40A02A
+// INDEX 202
+uiInfos_Close	[关闭]
+
+// HASH_VALUE 220A13D6592A98DD
+// INDEX 203
+uiCharSel_Infos1	[角色选择信息 - 非空]
+
+// HASH_VALUE 05035E0A6EEA905B
+// INDEX 204
+uiCharSel_Infos2	[角色选择信息 - 空槽位]
+
+// HASH_VALUE 2759803D28F2E89E
+// INDEX 205
+uiLocation_Infos	[目的地信息]
+
+// HASH_VALUE 9575E0651BAA9CB0
+// INDEX 206
+uiAppear_Infos1	[种族描述]
+
+// HASH_VALUE EAF7E034151CDF60
+// INDEX 207
+uiAppear_Infos2	[外观信息 - 性别]
+
+// HASH_VALUE 202A6B904A91FB57
+// INDEX 208
+uiAppear_Infos3	[外观信息 - 身体]
+
+// HASH_VALUE 20E967824B91FB57
+// INDEX 209
+uiAppear_Infos4	[外观信息 - 面部]
+
+// HASH_VALUE ACA9C0825FFEEF0F
+// INDEX 210
+uiAppear_Infos5	[外观信息 - 动作]
+
+// HASH_VALUE 8835A1BEF5B44A40
+// INDEX 211
+uiAppear_Infos_Fyros	[FYROS 种族\n
+	\n
+	真理、荣誉与纪律——每一个生而纯正的 Fyros 都珍视这些价值！我们是坚守严格荣誉准则的沙漠卫士。我们是为知识而战的战士，在追寻神话巨龙背后真相的征途上誓不退缩。Jena 法与 Karavan 的禁令都阻挡不了我们深入 Atys 的腹地；在那里，我们揭开的神秘遗物与邪恶一样多。\n
+	\n
+	我们是较为丰饶地区的守护者，因为唯有我们有勇气在灼热的沙漠中重建城镇——那里正是巨龙最可能再度现身之地。\n
+	\n
+	我们将从这片险恶的沙丘中塑造我们的新帝国，使其强大，并与 Kami 缔结同盟——我们以能施展 Kami 的魔法为荣。我们也立志进一步发展火淬工具与武器的制造技艺，以助我们求得真相。\n
+	\n
+	如果你热忱而正直，就来加入我们吧，homin。帝国需要你！！\n
+	\n
+	现在，如果你有任何疑问……\n
+	\n
+	\n
+	我是谁？\n
+	你是一名年轻的 homin 难民。你勇敢地踏上了从旧大陆到新大陆的漫长险途——我们已在这片新天地开始建设我们的新帝国。等你经受足够的历练，就能把本领善加施展，效力于我们的皇帝，帮助我们重建种族。\n
+	\n
+	我的祖先是谁？\n
+	你的祖先以剑与火铸就了史上最强大的帝国。只要一息尚存，就要缅怀他们的功绩！但他们劳动的成果毁于 kitin 蜂群的大举入侵，他们侥幸逃过了屠杀。此后不久，我们找到了一片新区域——称作 New Lands——用以重建帝国。第一次蜂群入侵后，我们花了多年的血汗才打下新帝国的根基；2562 年的第二次蜂群入侵又几乎将它再度摧毁。如今轮到你这一代把它建起来。你的父母劝你踏上漫漫长路，来 New Lands 与自己的族人相聚，这需要极大的勇气。既然你已找到我们，就不要辜负他们的勇气。\n
+	\n
+	我们的首领是谁？\n
+	Lykos 是我们合法的皇帝，你必须向他效忠。他的命令只有在更高的层面才能商议。在你获得足够的军阶之前，不得质疑——年轻的 homin，永远记住这一点！你要么成功执行帝国命令，要么死在执行的路上，除非你甘愿玷污祖先的名声。Lykos 为自己遴选了最优秀的辅臣：Dios Apotheps、Lyan Cexius 与 Ibiphan Dynix 是他的元老。\n
+	\n
+	我们信奉什么？\n
+	我们信奉 Atys 的能量——那种赋予万物生命与知觉的能量。按 Zoraï 一族的说法，Kami 便是那种创造世界的伟大能量的化身，他们称之为 Ma-Duk。尽管我们拒绝盲从他们的教义，但近年来为了躲避 Karavan 对采矿与地底探索的制裁，我们与 Kami 走得更近了。即便不把信仰献给 Kami，我们也欠他们一份忠诚。\n
+	\n
+	我们的价值观是什么？\n
+	你的人生必须建立在支撑我们帝国的四大支柱之上：\n
+	真理是第一支柱。\n
+	懦弱的谎言经不起战场的刀光剑影！对战友只说真话，正如他们也必须直答你的问题。但面对敌人时，尽管运用智谋——用得其所的计谋，与紧握在手的利矛同样是危险的武器！\n
+	荣誉是第二支柱。\n
+	无论如何都要以荣誉为准绳。无论潜在的收益多高，也绝不屈就于卑劣的情感。记住：光荣的死胜过苟活的生。\n
+	纪律是第三支柱。\n
+	Fyros 帝国之所以存在，靠的是那条从最年轻的新兵到最负盛名的将军、人人相连直通皇帝的服从之链。我们每个人都必须服从上级的指挥。哪怕只有一个 Fyros 抗命，也足以斩断链条，危及整个帝国。\n
+	公正是第四支柱。\n
+	皇帝是我们绝对的首领，但连他也必须一丝不苟地遵守祖先立下的法律。从最尊贵到最卑微，我们毫无妥协地尊重法律。因此，真正支配我们行止的并非帝国之首，而是帝国之法。\n
+	\n
+	我们有何禁令？\n
+	- 绝不受诱惑为 Karavan 效劳。他们与 Kami 为敌，也与我们的正义感相悖——事实上，他们把 Jena 法置于社会正义之上。\n
+	- 绝不为 Karavan 执行任务。\n
+	- 绝不为敌对部落执行任务。\n
+	- 绝不违背荣誉准则。\n
+	\n
+	我们的目标是什么？\n
+	我们的帝国在大蜂群入侵中损失惨重。凭纪律之心，我们得以比 Matis 或 Tryker 更好地幸存下来，宏伟的都城 Pyr 便是明证。现在我们必须：\n
+	- 锤炼个人的力量与技能\n
+	- 组建强大而组织严密的公会，凝聚前进的动力\n
+	- 探明巨龙背后的真相\n
+	- 对抗 Karavan，在 Kami 周边确立新秩序\n
+	- 收拢大蜂群入侵期间散落各地的知识，打开通往往昔秘密的大门\n
+	- 巩固疆土并征服更多领地。\n
+	\n
+	谁是我们的朋友？\n
+	自 Fairhaven 和约签署以来，我们与其他 homin 民族一直和平相处。然而过去仍给我们留下许多伤疤，见证着昔日的动荡，我们与各文明的关系也各有亲疏。\n
+	Zoraï：多年来，Zoraï 一族一再证明他们对我们民族的忠诚与友谊。何况我们同样心怀 Kami，也同样深恶 Karavan。\n
+	Tryker：我们一再想把 Tryker 置于自己的庇护之下，但他们太过散漫、太过轻浮，难成持久的友谊。如今我们必须提防这些善变的小个子 homin——他们对 Karavan 女神的崇拜比以往任何时候都更向 Matis 看齐。\n
+	Matis：Matis 是我们与生俱来的敌人，不可信任。我们不认同他们以君主制和 Jena 法为核心的正义观。即便在这和平年代，我们也须保持警惕，以防他们联手对付我们。\n
+	友好部落包括：The Root Tappers、Kitin Gatherers、Pyromancers、Watchers、Frahar Hunters、Water Breakers、First Deserters、Slash and Burn、Oasis Diggers、Sacred Sap。\n
+	\n
+	谁是我们的敌人？\n
+	- Karavan：他们反对我们向地底挖掘求索真相，不可信任。\n
+	- kitin：这些巨虫屠杀了成千上万的 Fyros，在旧大陆毁灭了我们伟大的帝国。\n
+	- 神话中的巨龙：几个世纪以来，我们一直在探寻传说中巨龙背后的真相。正是我们向 Atys 腹地——传说中巨龙沉眠之处——的挖掘，才第一次招致 Karavan 的天罚。我们将继续挖掘，直到真相大白。\n
+	- 敌对部落包括：The Sap Gleaners、Cockroaches、Chlorogoos、Lawless、Scorchers、Renegades、Lagoon Brothers、Tutors、Ancient Dryads。\n
+	- 盗匪：当心，各地满是法外之徒、窃贼与杀手。\n
+	- 猛兽：动物界中捕食者众多，当心它们对 homin 血肉毫不挑剔！\n
+	\n
+	我能为族人做什么？\n
+	我们需要工匠、采集者、法师与战士来维系文明并使之更强。\n
+	- Atys 危机四伏，我们需要战士保卫疆土，并为新的定居点征服新的土地。\n
+	- 我们需要工匠打造日常器物与武器，需要采集者为衣食与制造收集原材料。\n
+	- 我们需要法师为制品附魔，保护采集者，在战斗中救治战士并助他们杀敌。\n
+	\n
+	族人能给我什么？\n
+	- 来自资深训练师的训练。\n
+	- 我们的族人由公会守护；一旦你加入公会，他们便会前来相助。\n
+	- 你为族人做得越多，你的英勇事迹就会得到越丰厚的回报。\n
+	\n
+	我们的新领地是什么？\n
+	2483 年，我们的族人从新发现的大地 Prime Roots 重见天日后，首次在这些沙漠之地定居。沙漠是最严酷的区域，但这份严酷向来与我们的勇气和族人的价值观旗鼓相当。自 2487 年起，难民不断壮大我们的人口，直到 2562 年第二次蜂群入侵迫使我们再度逃亡保命。如今我们已重返沙漠之地，而你正沿着那条来自旧大陆的路——你勇敢走过的路——来到了我们中间。\n
+	Atys——我们的世界——能给你什么？\n
+	Atys 蕴藏着丰富的原材料，年轻的 homin。只要你尊重环境，就能从她的怀抱中收获良多。随着你渐渐通晓这个世界的法则，你将学会驯服荒野、开拓新的疆土。]
+
+// HASH_VALUE 2E24187EE0E9ABAF
+// INDEX 212
+uiCP_Choose_Mainland	[选择一个社区]
+
+// HASH_VALUE 48D0B43C48D0B43C
+// INDEX 213
+uiCP_Mainland_Ok	[确定]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 214
+uiCP_Mainland_Cancel	[取消]
+
+// HASH_VALUE 4A1048FB7FE2F436
+// INDEX 215
+uiLaunchEditor	[场景编辑器]
+
+// HASH_VALUE 469C21A66AD69D1C
+// INDEX 216
+uiCP_Choose_Keyset	[选择你的键位配置]
+
+// HASH_VALUE 48D0B43C48D0B43C
+// INDEX 217
+uiCP_Keyset_Ok	[确定]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 218
+uiCP_Keyset_Cancel	[取消]
+
+// HASH_VALUE AC8AB07F995277AD
+// INDEX 219
+uiCharSel_ResumeSession	[继续场景]
+
+// HASH_VALUE F008FB192E1DB51E
+// INDEX 220
+uiR2EDNewScenarioWarning	[点击确定以重置编辑器并从零创建一个新场景]
+
+// HASH_VALUE AA699882DFD7A376
+// INDEX 221
+uiCP_Name_Generator	[名字生成器]
+
+// HASH_VALUE 6498541C641C14C8
+// INDEX 222
+uiCP_Name_Generate	[生成]
+
+// HASH_VALUE 92C6D489AAC438C4
+// INDEX 223
+uiCP_Name_Policy	[命名章程]
+
+// HASH_VALUE E7473F9596B88799
+// INDEX 224
+uiCP_FirstName	[名字]
+
+// HASH_VALUE 6467007F5645D768
+// INDEX 225
+uiCP_LastName	[姓氏]
+
+// HASH_VALUE EF987C4B2D4957B1
+// INDEX 226
+uiPrevStep	[上一步]
+
+// HASH_VALUE 27C8249752C57F71
+// INDEX 227
+uiNextStep	[下一步]
+
+// HASH_VALUE EED8605365B3504E
+// INDEX 228
+uiSkipIntro	[跳过开场]
+
+// HASH_VALUE 082FE819C251AC06
+// INDEX 229
+uiFace1Ma	[眼睛高度]
+
+// HASH_VALUE C71088303F00E4FC
+// INDEX 230
+uiFace2Ma	[鼻子高度]
+
+// HASH_VALUE C89FB8348300D808
+// INDEX 231
+uiFace3Ma	[鼻子长度]
+
+// HASH_VALUE 47F2CC0B0AAFD015
+// INDEX 232
+uiFace4Ma	[鼻子宽度]
+
+// HASH_VALUE 81F13C064CD21B42
+// INDEX 233
+uiFace5Ma	[嘴部宽度]
+
+// HASH_VALUE 90B2172BCCE15A26
+// INDEX 234
+uiFace6Ma	[嘴部高度]
+
+// HASH_VALUE 09E1982DC4006306
+// INDEX 235
+uiFace7Ma	[耳朵大小]
+
+// HASH_VALUE 4C50840C4C50840C
+// INDEX 236
+uiFace8Ma	[下巴]
+
+// HASH_VALUE 082FE819C251AC06
+// INDEX 237
+uiFace1Tr	[眼睛高度]
+
+// HASH_VALUE C71088303F00E4FC
+// INDEX 238
+uiFace2Tr	[鼻子高度]
+
+// HASH_VALUE C89FB8348300D808
+// INDEX 239
+uiFace3Tr	[鼻子长度]
+
+// HASH_VALUE 47F2CC0B0AAFD015
+// INDEX 240
+uiFace4Tr	[鼻子宽度]
+
+// HASH_VALUE 81F13C064CD21B42
+// INDEX 241
+uiFace5Tr	[嘴部宽度]
+
+// HASH_VALUE 90B2172BCCE15A26
+// INDEX 242
+uiFace6Tr	[嘴部高度]
+
+// HASH_VALUE 09E1982DC4006306
+// INDEX 243
+uiFace7Tr	[耳朵大小]
+
+// HASH_VALUE 4C50840C4C50840C
+// INDEX 244
+uiFace8Tr	[下巴]
+
+// HASH_VALUE CC91F82DC4002F11
+// INDEX 245
+uiFace1Zo	[眼睛大小]
+
+// HASH_VALUE 3ABEFC3D4E12BEE4
+// INDEX 246
+uiFace2Zo	[角：下部 1]
+
+// HASH_VALUE 7ABEFC3D4E12C2E4
+// INDEX 247
+uiFace3Zo	[角：下部 2]
+
+// HASH_VALUE 388E9C2AC9C1A6EF
+// INDEX 248
+uiFace4Zo	[角：中部 1]
+
+// HASH_VALUE 788E9C2AC9C1AAEF
+// INDEX 249
+uiFace5Zo	[角：中部 2]
+
+// HASH_VALUE B87D1F3BCB4FD6FA
+// INDEX 250
+uiFace6Zo	[角：顶部与右侧]
+
+// HASH_VALUE 360E7A30D0522A0C
+// INDEX 251
+uiFace7Zo	[角：顶部与左侧]
+
+// HASH_VALUE 4B31842EC711BC30
+// INDEX 252
+uiLocDest1Fyros	[AEGUS]
+
+// HASH_VALUE 8950782A86B0AC2E
+// INDEX 253
+uiLocDest2Fyros	[KAEMON]
+
+// HASH_VALUE D0A1D832CAC2E84A
+// INDEX 254
+uiLocDest3Fyros	[SEKOVIX]
+
+// HASH_VALUE D123DC48CD93F447
+// INDEX 255
+uiLocDest4Fyros	[PHYXON]
+
+// HASH_VALUE CD4180198581C43C
+// INDEX 256
+uiLocDest5Fyros	[GALEMUS]
+
+// HASH_VALUE 0D7100364E51C029
+// INDEX 257
+uiLocDest1Tryker	[AUBERMOUTH]
+
+// HASH_VALUE 489414084C105410
+// INDEX 258
+uiLocDest2Tryker	[BARKDELL]
+
+// HASH_VALUE 5490F4205810C414
+// INDEX 259
+uiLocDest3Tryker	[HOBWELLY]
+
+// HASH_VALUE 4494145C4CD04448
+// INDEX 260
+uiLocDest4Tryker	[WAVERTON]
+
+// HASH_VALUE C7A0AC354CD19C2A
+// INDEX 261
+uiLocDest5Tryker	[DINGLETON]
+
+// HASH_VALUE B901FB37BE823332
+// INDEX 262
+uiLocDest1Zorai	[QAÏ-LO]
+
+// HASH_VALUE 4C50844C4CD4D01C
+// INDEX 263
+uiLocDest2Zorai	[SHENG-WO]
+
+// HASH_VALUE 2C90543444909460
+// INDEX 264
+uiLocDest3Zorai	[NEN-XING]
+
+// HASH_VALUE C9607F104220F848
+// INDEX 265
+uiLocDest4Zorai	[KOÏ-ZUN]
+
+// HASH_VALUE 8681E02F497F5314
+// INDEX 266
+uiLocDest5Zorai	[YIN-PIANG]
+
+// HASH_VALUE 8AF12B307EE12331
+// INDEX 267
+uiQuickhelpTitle	[快速帮助]
+
+// HASH_VALUE 908237408323573D
+// INDEX 268
+uiCharSel_EmptySlot	[空槽位]
+
+// HASH_VALUE 4C71D03587DFB4F6
+// INDEX 269
+uiCP_Fight1	[新手战士]
+
+// HASH_VALUE 44C1D825099ED312
+// INDEX 270
+uiCP_Magic1	[新手法师]
+
+// HASH_VALUE 0801C8344A3FB4F6
+// INDEX 271
+uiCP_Forage1	[新手采集者]
+
+// HASH_VALUE 4C51B83C4570A8F6
+// INDEX 272
+uiCP_Craft1	[新手工匠]
+
+// HASH_VALUE 43F0641AC6906C20
+// INDEX 273
+uiCP_JOB2	[魔法]
+
+// HASH_VALUE C422942547616C26
+// INDEX 274
+uiCP_JOB3	[采集]
+
+// HASH_VALUE 8AD1AC2F45B2C01E
+// INDEX 275
+uiCP_JOB4	[制造]
+
+// HASH_VALUE C49E1C470D78B970
+// INDEX 276
+uiAppear_Infos_Matis	[MATIS 种族\n
+	\n
+	Matis 应具备 homin 一族最高贵的品格：忠诚、谦恭、坚韧，而最重要的是虔敬。服从我们的国王，就是在荣耀我们的女神 Jena——是祂授予国王神授之权。我们相信，正如 Jena 宇宙中的每一粒微尘皆有职能，每一个 homin 也须在社会中争取自己真正的位置。\n
+	\n
+	Jena 助自助者，Matis 绝不言弃。我们追求卓越，令整个文明日益强盛。唯有最优秀者才能跻身社会的上层，唯有精英才能引领我们的民族前行。\n
+	\n
+	我们通过操控自然使灵魂升华，更接近神性。的确如此，homin——我们成为 Atys 的动植物操控大师，绝非偶然。我们的武器、护甲，乃至寻常的家用物品，都是活物！\n
+	\n
+	我们已在新大陆的森林地带扎根，那里具备实验所需的一切生命精华。如今，我们要以 Jena 之名，让新王国更强大、更美好。\n
+	\n
+	如果你血管里流淌着高贵的血，就来向你的国王宣誓效忠吧！我们的王国需要胜者！！\n
+	\n
+	来吧，homin，如果你有任何疑问……\n
+	\n
+	\n
+	我是谁？\n
+	你是一名年轻的 homin 难民。你从旧大陆一路跋涉，历经艰险，来到这片新大陆——我们已在这里建立新的王国。经过一段时间的训练，作为国王的忠实臣民，你将能善用自己的本领，帮助我们重建王国。\n
+	\n
+	我的祖先是谁？\n
+	你的先祖曾在旧大陆建立起全 Atys 最辉煌的王国。但 2481 年，在可怕的蜂群入侵中，kitin 摧毁了我们的国土和都城 Matia。你的祖先逃入森林，在 kitin 的持续威胁下过着艰辛的生活。他们后来找到了一片新区域——称作 New Lands——在那里重建了我们辉煌的王国。2562 年，kitin 再度蜂拥而来，我们被迫再次逃亡。流亡数年后，你的父母为你着想，劝你踏上那条通往 New Lands 的伟大道路，与族人团聚。你找到了我们；我们已再度确保疆土，并将一如既往地塑造我们的王国。能否不负昔日荣光、让文明重现威仪，就看你们这一代了。\n
+	\n
+	我们的首领是谁？\n
+	国王 Stevano。他是 Jena 之下的最高主宰，你必须对他绝对忠诚。挑战他的权威就是对抗 Jena，是死有余辜的异端。若有幸被委以王室使命，你必须体面地完成，除非你甘愿违抗他的神授权威。你要努力配得上他的信任，如此也能获得晋升。Rodi di Varello、Mephyros Xytis、Kellen Codgan 与 Libi Freldo 是向他进言的忠实公爵。\n
+	\n
+	我们信奉什么？\n
+	Jena 是我们的女神，我们必须遵守她的法——由她忠实的门徒 Karavan 向我们宣讲的法。他们守护我们，以免我们偏离正道。他们准许我们向女神献祭、效劳，以为来世的应许之地做准备。记住，年轻的 homin，Karavan 掌握着伟大的力量，只与虔信者分享。通过与她的门徒交往来寻求 Jena 的眷顾是你的本分，你也将学会运用他们的技术。\n
+	\n
+	我们的价值观是什么？\n
+	要成为真正的 Matis，你必须把人生建立在三大核心价值之上：\n
+	- 忠于国王与 Jena：国王凭借神授之权掌权，他的敌人就是你的敌人，捍卫我们的宗教就是捍卫我们的王国。同样，违抗他及其宫廷就是不敬 Jena，因此构成异端之罪。\n
+	- 审美造诣：我们的文化只接受最好，我们以创造美好来荣耀女神，正如她使我们高贵。\n
+	- 竞争：我们相信每个 Matis 都必须争取自己在社会中真正的位置。竞争磨砺我们的品格，分出弱者与强者。而我们 Matis 战斗就是为了赢！\n
+	\n
+	我们有何禁令？\n
+	- 严禁接近 Kami（除非奉 Karavan 之命）。他们是邪恶的恶魔，与 Karavan 为敌。\n
+	- 绝不违犯 Jena 之法。\n
+	- 不要在 Atys 的地表之下游荡，否则你将有惊醒可怕的天启巨龙之虞。\n
+	- 绝不为敌对部落执行任务。\n
+	- 禁止在各地散布龙火。它吞噬树木，夺走我们创造所需的生命精华。\n
+	\n
+	我们的目标是什么？\n
+	从 Prime Roots 重见天日之后，我们最大的挑战就是驯服这片土地并使之高贵。我们那些直接以树木雕琢而成的城镇与聚居地，就是我们成功的活证明。现在我们必须：\n
+	- 锤炼个人的力量与技能\n
+	- 组建强大而忠诚的公会，在异教徒中传播 Jena 的福音，把世界从 Kami 的支配中解放出来\n
+	- 深化我们的知识，造出更好的工具与武器。大蜂群入侵期间，大量知识散落各地。发现这些知识乃至更多，将打开通往往昔秘密的大门。\n
+	\n
+	谁是我们的朋友？\n
+	自 2515 年在 Fairhaven 签署和平条约以来，我们与其他 homin 民族一直和平相处。但几十年的和平抹不去昔日耻辱的伤疤。实际上，我们与各文明的关系各有亲疏。\n
+	Tryker：过去告诉我们，Tryker 是驯不服的，为了维持他们的生活方式，他们连灵魂都能卖给恶魔。也罢；以 Jena 之名，我们学会了宽容相待，以免他们投向异教徒一边。托 Jena 之福，我们的友谊从未如此牢固，尽管他们的热忱常常差强人意。\n
+	Zoraï：Zoraï 是异教徒，他们的异教崇拜理应受到约束。即便如此，救下当今国王父亲的正是一名 Zoraï 战士。恕我直言，我们中许多人对这份欠 Zoraï 的人情耿耿于怀——它损害了我们在 Karavan 眼中的信誉。但愿此事不再重演。\n
+	Fyros：Fyros 是我们与生俱来的敌人，几十年来他们与邪恶的 Kami 越走越近。不要忘记，他们过去曾成功诱使 Tryker 站在他们一边对付我们。而如今 Fyros 更愿意与同样崇拜 Kami 恶魔的 Zoraï 为伍。然而我们必须保持警惕，以防他们用亵渎之言说动 Tryker。\n
+	友好部落包括：The Barkers、Frahar Hunters、Silt Sculptors、Renegades、Slavers、Icon Worshippers、Hamazans of the Dead Seed、Green Seed、Sap Slaves、Arid Matis、Darkening Sap、Kuilde。\n
+	\n
+	我们还有哪些敌人？\n
+	- Kami：他们阻挠我们为 Jena 的土地带来秩序与美。他们是邪恶的祸害，理应被连根拔除。\n
+	- kitin：这些巨虫屠杀了成千上万的 Matis，在旧日的土地上毁灭了我们庄严的王国。\n
+	- 敌对部落包括：The Sap Gleaners、Cockroaches、Chlorogoos、Lawless、Scorchers、Lagoon Brothers、Tutors、Ancient Dryads、First Deserters、Slash and Burn、Woven Bridles。\n
+	- 盗匪：当心在森林中游荡、猎取易得猎物的法外之徒、窃贼与杀手。\n
+	- 猛兽：野兽可能十分凶残，许多野兽一见 homin 就会发动攻击！\n
+	\n
+	我能为族人做什么？\n
+	我们缺少工匠、采集者、法师与战士，需要扩充实力，才能在竞争中保持领先。\n
+	- 我们需要战士保卫疆土，开拓新的生存空间。\n
+	- 我们需要熟练的工匠打造日常器物与武器，需要采集者为衣食与制造收集原材料。\n
+	- 我们需要法师为制品附魔，保护采集者，在战斗中救治战士并牵制敌人。\n
+	\n
+	族人能给我什么？\n
+	- 来自资深训练师的训练。\n
+	- 我们的族人由公会守护；一旦你加入公会，他们便会前来相助。\n
+	- 你为族人做得越多，你高贵的功绩就会得到越丰厚的回报。\n
+	\n
+	我们的新领地是什么？\n
+	2483 年，我们的族人从新大陆上 Prime Roots 的庇护所重见天日后，首次在这片林地上扎根。森林是 Atys 最美丽的地方，在敏锐的目光看来，这里具备创造所需的一切生命精华。自 2487 年起，难民不断前来与我们汇合，直到 2562 年第二次蜂群入侵迫使我们再度逃亡保命。如今我们已重返这片林地，而你正沿着那条来自旧大陆的路——你勇敢走过的路——来到了我们中间。\n
+	\n
+	Atys——我们的世界——能给你什么？\n
+	Atys 蕴藏着惊人的自然财富，年轻的 homin，假以时日，你将学会把它们变成可以交易的财富。随着你渐渐通晓这个世界的法则，你将学会驯服荒野、开拓新的疆土。]
+
+// HASH_VALUE 69D4E423BABC9C11
+// INDEX 277
+uiAppear_Infos_Tryker	[TRYKER 种族\n
+	\n
+	我们 Tryker 以自由、平等、分享为德。我们相信所有 homin 生而平等，应当彼此相容、各自生活。我们注重培养个人的品质，而不只是整体的群体。毕竟，我们可爱的女神 Jena 让 homin 一个一个地降生于世，而不是十个八个一起！重视个人的发展与幸福，群体内部的和谐与团结便会随之而来，就像溪流汇成一条大河一样自然！\n
+	\n
+	Tryker 是伟大的旅行家与探索者，也是风系技术的专家。自大蜂群入侵摧毁我们在远古大地上的岛屿城市以来，我们便在新大陆的湖区安家，为新联邦打下了根基。\n
+	\n
+	如果你相信世上可以没有暴政与偏狭、没有主子也没有奴隶，就来帮我们把它建立起来吧！！\n
+	\n
+	现在就可以提出你的疑问……\n
+	\n
+	\n
+	我是谁？\n
+	你是一名年轻的 homin 难民。你从旧大陆踏上漫长而危险的道路来到这里与我们相聚——我们已在这里建立了新家，这一路你走得很好。等你经受一些历练，就能让我们看看你的本事，帮我们建设 Tryker 各族的联邦。\n
+	\n
+	我的祖先是谁？\n
+	你的祖先在旧大陆建起了最迷人的岛屿城市，他们在那里活得像风一样自由。直到五代以前，kitin 第一次降临，在整个大地上肆虐死亡与毁灭。你的祖先逃入丘陵，在对 kitin 袭击的持续恐惧中谋生，直到找到一片重新开始的新区域——New Lands。上一代人时，kitin 再度蜂拥而来，我们被迫逃命。你的父母劝你结束那没有指望的生活，冒险踏上伟大之路来 New Lands 重新与我们会合，这是件好事。既然你找到了我们，你的新生活就可以开始了。\n
+	\n
+	我们的首领是谁？\n
+	Ailan Mac'kean 女士，她就是老大。她是 Tryker 议会的总督。她一发话，你就得行动！至少在你往上爬到能与她平视而谈之前是如此。年轻的 homin，你可要坚定地站在她那边，我们的独立靠的是我们的团结！她的左右手是 Shaley Nara 与 Denen Toen，他们都是经验丰富的 homin，为她出谋划策。倘若你有幸为议会执行任务，务必全力以赴——说不定，我们的自由就系于此举。\n
+	\n
+	我们信奉什么？\n
+	Jena 是我们的女神，她是创造之母。我们的许多习俗都围绕对她的崇拜。比如感恩节，定在冬至，象征大蜂群入侵之后的黑暗岁月过去、光明重归。为了不让那样的历史重演，我们必须遵行她的法——由她忠实的门徒 Karavan 传交给我们的法。他们守护我们，保护我们不受 Kami 支配。记住，年轻的 homin，只要你听话、别去招惹他们，你也能学会运用他们的技术。哦，对了；这你可要保密——有人说 Elias 其实就是 Jena 的丈夫，也就是所谓的圣父。这话可别跟 Karavan 说！\n
+	\n
+	我们最看重什么？\n
+	要做真正的 Tryker，你就得以自由、平等、分享为德：\n
+	- 自由：所有 homin 都应对自己的行为负责且享有自由。任何侵犯他人自由的 homin，都构成对 homin 权利法案的违背——而这部法案恰好正是由 Tryker 议会起草的。\n
+	- 平等：只要不侵犯其他 homin 的权利，每个 homin 都平等地享有在大地上行走、接受教导、采集自然资源、选择自己命运的权利。\n
+	- 分享：我们相信，力量源于团结，而团结生于分享。要是我们能说服 Jena 所有的孩子都像我们 Tryker 一样，这个世界会更安全！\n
+	\n
+	我们有何禁令？\n
+	- 绝不可与 Kami 缔约或为其效力。他们是邪恶的恶魔，会支配你的灵魂。\n
+	- 绝不违犯 Jena 之法。\n
+	- 绝不为敌对部落执行任务。\n
+	- 如果你冒险下到 Atys 的地表之下，当心别惊醒可怕的天启巨龙。\n
+	- 禁止在各地散布龙火。它会使土地贫瘠。\n
+	\n
+	我们的目标是什么？\n
+	自从从 Prime Roots 重见天日，我们一直在为未来的文明打下坚实的根基——一个没有暴政与偏狭、所有 Jena 的孩子都能自由生活的文明。现在我们必须：\n
+	- 锤炼个人的力量与技能\n
+	- 组建强大而紧密的公会，传播 Karavan 的福音，把异教徒从 Kami 的支配中解放出来\n
+	- 增进我们的知识，造出更好的工具与武器。大蜂群入侵期间，大量知识散落各地。发现这些知识乃至更多，将打开通往往昔秘密的大门。\n
+	\n
+	谁是我们的朋友？\n
+	自 2515 年在 Fairhaven 签署和平条约以来，我们与其他 homin 民族一直和平相处。但这不妨碍我们各有好恶。\n
+	Matis：尽管过去有过争执与误会，Matis 如今尊重我们的思想自由，尊重我们按自己的意愿建设社会的权利。毕竟，真正要紧的是我们同样信奉 Jena。托 Jena 之福，我们的友谊从未如此牢固，尤其在 Matis 批准了 homin 权利法案之后。何况在某种程度上，经历了 Jinovitch 的独裁，Matis 的自由还欠我们一份情。Tryker 议会不仅为 Yrkanis 在 Fairhaven 提供政治庇护，我们的前任总督 Still Wyler 还亲自护送他回到 Matis 领地，打败 Jinovitch、登上王位。\n
+	Fyros：Fyros 曾是盟友，却利用我们对保护的需要，让我们以低价向 Fyros 城镇供应商品。自从学会了自己作战，我们就不再需要那些以恩人自居的 Fyros 保护者了——尤其在与 Matis 萌生新的兄弟情谊之后。况且，Fyros 已与 Kami 走得很近。\n
+	Zoraï：Zoraï 不可信任，他们公开崇奉 Kami，违犯 Jena 之法。而且在大蜂群入侵旧大陆期间，Zoraï 拒绝让我们通过他们的长城，令成千上万的 Tryker 死于 kitin 之口。更近的事例是，最早在新大陆推行奴隶制的正是 Zoraï。\n
+	友好部落包括：The Frahar Hunters、Silt Sculptors、Corsairs、Beachcombers、Shadow Runners、Green Seed、Slash and Burn、Ecowarriors、Oasis Diggers、Kuilde。\n
+	\n
+	我们还有哪些敌人？\n
+	- Kami：他们是一股邪恶的祸患，用魔法扰乱你的心智，只为支配你。理应把他们连根拔除。\n
+	- kitin：这些巨虫屠杀了成千上万的 Tryker，在旧日的 Trykoth 大地上毁灭了我们美妙的悬浮城市。\n
+	- 巨龙：从没人见过它，但我们知道它潜伏在 Atys 腹地的某个深处。不过我们也做不了什么，最好把它抛在脑后。\n
+	- 敌对部落包括：The Sap Gleaners、Chlorogoos、Lawless、Lagoon Brothers、Slavers、Tutors、Ancient Dryads、Woven Bridles、Darkening Sap。\n
+	- 盗匪：最好当心那些法外之徒、窃贼与杀手，他们无处不在。\n
+	- 猛兽：Atys 上有许多非常凶恶的野兽，如果你不想沦为它们的晚餐，千万看清脚下的路！\n
+	\n
+	我能为族人做什么？\n
+	很简单，无论你是工匠、采集者、法师还是战士，我们都需要你！\n
+	- 我们需要战士保卫我们的领土权利，支撑我们发展的需要。\n
+	- 我们需要能干的工匠打造日常器物与武器，需要采集者为衣食与制造收集原材料。\n
+	- 我们需要法师为制品附魔，保护采集者，在战斗中救治战士并牵制敌人。\n
+	\n
+	族人能给我什么？\n
+	- 来自资深训练师的训练。\n
+	- 我们的族人由公会守护；一旦你加入公会，他们便会前来相助。\n
+	- 你为族人做得越多，你耀眼的功绩就会得到越丰厚的回报。\n
+	\n
+	我们的新领地是什么？\n
+	2483 年，我们的族人从 Prime Roots 重见天日来到 New Lands 后，首次在湖区安家。湖区是 Atys 最有魔力的地方，但你手脚得麻利点——这里可不是留给膝盖发软的人的！自 2487 年起，难民不断前来与我们汇合，直到 2562 年第二次蜂群入侵迫使我们再度逃命。如今我们已重返湖区，而你正沿着那条来自旧大陆的路——你勇敢走过的路——来到了我们中间。\n
+	\n
+	Atys——我们的世界——能给你什么？\n
+	Atys 蕴藏着惊人的自然财富，年轻的 homin，假以时日，你将学会靠它们过上好日子。\n
+	随着你渐渐通晓这个世界的法则，你将学会看清大地的格局，从而开拓新的疆土。]
+
+// HASH_VALUE 3C0E7C72556007F0
+// INDEX 278
+uiAppear_Infos_Zorai	[ZORAÏ 种族\n
+	\n
+	我们的社会建立在对灵性修为、智慧与自然之敬的追求之上。几个世纪以来，我们与 Kami——Ma-Duk（Atys 的创造者）派来的神圣存在——建立了联系。我们自豪地佩戴着象征亲缘的 Kami 面具，以此区别于灵性根基较弱的 homin 种族。\n
+	\n
+	他人追逐私利，我们探求知识。我们最先将口头之言写录成文，使祖先的知识得以流传。我们的社会围绕宏伟的神庙城市构建，在那里举行盛大仪式，以抵御吞噬植物的 Goo 恶疾——连 Kami 自己也无法驱除它。\n
+	\n
+	自毁灭性的 kitin 蜂群入侵以来，我们再次明确选定新的驻地——位于迷人丛林的深处，那里 Goo 污染最为肆虐。\n
+	\n
+	如今我们力求重振昔日王朝的辉煌，使之如智慧的灯塔般闪耀。我们热切希望把灵性的觉悟传遍世界，让所有 homin 一族都能达致永恒的福乐。\n
+	\n
+	如果你认为生活远不止眼前的表象，那我们就需要你！！\n
+	\n
+	现在就提出你的疑问吧，好让自己安心……\n
+	\n
+	\n
+	我是谁？\n
+	你是一名年轻的 homin 难民。你从旧大陆踏上漫长而艰险的旅途，明智地回应了族人的召唤。几十年来，我们一直在这片应许的新大陆上重建社会的根基，我们需要你的帮助。经过一段时间的训练，你将能善用自己的本领，帮助我们重建文明。\n
+	\n
+	我的祖先是谁？\n
+	你的祖先曾围绕富有魅力的神庙城市构建社会，在那里举行盛大仪式以求灵性觉悟。如今，重新点燃那火焰、让我们的文明作为真正的灵性领袖再度闪耀，就靠你们这一代了。你的祖先为躲避 2481 年 kitin 的猛攻而避难，直到找到这片 New Land 重新开始。但 2562 年 kitin 又一次卷土重来。你在荒野中长大，但流亡已经结束；你的父母劝你告别不幸的生活，踏上伟大之路与其余族人相聚，他们做得对。你已跋涉多年，如今你找到了我们。你的新生活才刚刚开始。\n
+	\n
+	我们的首领是谁？\n
+	大贤者 Mabreka 是我们的灵性领袖。他引领到哪里，你就必须跟随到哪里；他的光辉如夜里的灯塔，指引我们的灵魂。追随他的光，你也将在族人中间闪耀。若你被选中奉他之命执行任务，当视为莫大的荣耀——结果将证明你的资质。Supplice、Sens 与 Season 是积累了功德的贤者，为他提供指引。\n
+	\n
+	我们信奉什么？\n
+	我们崇拜创造了 Atys 的至高生命能量，祂名为 Ma-Duk。Ma-Duk 通过守护其造物的 Kami 在 Atys 上彰显他的存在。记住，homin，Kami 必须受到保护，正是通过他们，你才能积累功德、达致圆满的觉悟。尽你所能向他们献祭、为他们效劳，他们就会把魔法传授给你。\n
+	\n
+	我们看重什么？\n
+	要作为真正的 Zoraï 获得彻底重生，你必须把新生活建立在智慧、灵性修为与敬重自然这三块基石之上：\n
+	- 智慧：为了更好地侍奉 Kami，认识你自己、你的族人与 Atys 很重要。通过积累知识，你还将学会如何更好地保卫 Atys、Kami 与你的族人，使其免受蛮行之害。\n
+	- 灵性修为：你必须为灵魂寻求功德，以达觉悟。为此，你不仅要巩固自己与 Kami 的个人联系，还要把 Kami 觉悟的教诲传给其他 homin，让他们也能分享终极的福乐。\n
+	- 敬重自然：我们的文化建立在对自然的深深敬意之上。你必须警惕过度开发与火，并不惜一切代价对抗连 Kami 也无法驱除的 Goo。\n
+	\n
+	我们有何禁令？\n
+	- 绝不可与 Karavan 有往来。他们是 Kami 的敌人，企图阻挠我们根除 Goo 的大业。为 Karavan 收集原材料，便是玷污我们有责任珍爱的星球之罪。资源的逐渐枯竭与环境破坏，正是 Karavan 之责。\n
+	- 绝不嘲弄或对抗 Kami。Kami 的作为皆为 Atys 之善。\n
+	- 禁止在各地纵火。它夺走大地的财富，使之贫瘠。\n
+	- 绝不为敌对部落执行任务。\n
+	\n
+	我们的目标是什么？\n
+	几十年来，我们一直在勤勉地打下文明的根基。现在我们必须：\n
+	- 锤炼个人的力量与技能\n
+	- 让我们的王朝闪耀，以 Kami 崇拜为中心，在整个新拓大地上弘扬灵性觉悟\n
+	- 组建强大的公会，把 homin 一族从 Karavan 的影响中解放出来。如此我们便能同心协力，发动对抗 Goo 的圣战，让这个世界更美好\n
+	- 找回大蜂群入侵期间失落的知识。发现这些知识，你就能打开通往往昔秘密的大门。\n
+	\n
+	谁是我们的朋友？\n
+	自 2515 年在 Fairhaven 签署和平条约以来，我们与其他 homin 民族一直和平相处。但十年的和平抹不去其他 homin 土地上多年充斥的蛮行。我们仍然认为，有些 homin 比另一些更有功德。\n
+	Fyros：Fyros 是莽撞却英勇的战士，近来已证明配得上我们的信任。他们的灵性发展进步可观，并已明确选择了 Kami 之路。\n
+	Tryker：Tryker 的心智尚未进化到足以接受 Kami 觉悟的程度，灵性价值寥寥。据说他们过去待 Kami 轻慢无礼，而今又崇奉与 Kami 敌对的 Karavan。\n
+	Matis：我们必须设法把 Matis 从 Karavan 的影响中解放出来，引导他们走上 Kami 的生活方式。正因如此，2509 年，当今 Matis 国王之父 Yrkanis 在 Zora 获得庇护，并得以招募军队，废黜极端亲 Karavan 的君主 Jinovitch，建立起较为宽容的政府。这是把 Matis 引入 Kami 世界的第一步。\n
+	友好部落包括：The Barkers、Dune Riders、Beachcombers、Icon Worshippers、Tutors、Hamazans of the Dead Seed、Ecowarriors、Oasis Diggers、Sacred Sap、Siblings of the Weeds。\n
+	\n
+	我们还有哪些敌人？\n
+	- Karavan：他们与 Kami 敌对，并向心智较弱者强加对其女神 Jena 的盲从。我们的先祖，以及近来的 Fyros，成功摆脱了他们的控制。我们必须帮助其他民族也做到这一点。\n
+	- kitin：这些巨虫屠杀了成千上万的 Zoraï，在旧日的土地上毁灭了我们的王朝。\n
+	- Goo：这是我们星球的毒瘤。它触怒 Kami，必须被根除。\n
+	- 敌对部落包括：The Cockroaches、Chlorogoos、Lawless、Scorchers、Lagoon Brothers、Masters of the Goo、Antikamis、Goo Heads、Woven Bridles、Darkening Sap。\n
+	- 盗匪：当心法外之徒、窃贼与杀手，年轻的 homin。只要有利可图，他们不会留你活口。\n
+	- 猛兽：丛林是许多野生动物的家园，其中不少一见 homin 就会发动攻击！\n
+	\n
+	我能为族人做什么？\n
+	要建设我们的神庙城市、担当 Atys 灵性领袖之责，我们必须强大到足以抵御反抗势力。为此我们要招募更多工匠、采集者、法师与战士。\n
+	- 我们需要战士保卫疆土，建立新的 Kami 崇拜中心。\n
+	- 我们需要工匠打造日常器物与武器，需要采集者为衣食与制造收集原材料。\n
+	- 我们需要法师为制品附魔，保护采集者，在战斗中救治战士并牵制敌人。\n
+	\n
+	族人能给我什么？\n
+	- 来自资深训练师的训练。\n
+	- 我们的族人由公会守护；一旦你加入公会，他们便会前来相助。\n
+	- 你为族人做得越多，你高贵的功绩就会得到越丰厚的回报。\n
+	\n
+	我们的新领地是什么？\n
+	2483 年从新大陆的 Prime Roots 重见天日后，我们在丛林深处选定了新的驻地——那里正是 Kami 最需要我们的地方。丛林是 Atys 最有灵性的地方，但也需要悉心照料——Goo 正是在此处最为肆虐。自 2487 年起，难民不断前来与我们汇合，直到 2562 年第二次蜂群入侵迫使我们再度逃亡保命。如今我们已重返丛林，而你正沿着那条来自旧大陆的路——你勇敢走过的路——来到了我们中间。\n
+	\n
+	Atys——我们的世界——能给你什么？\n
+	Atys 提供丰富的自然财富，年轻的 homin，只要尊重环境，你就可以取用它们来增进自身的发展。否则，Kami 的雷霆之怒会降临到你头上！\n
+	随着你渐渐通晓这个世界的法则，你将学会认清大地的格局——这是你宣示新领土前必经的重要历练，homin。]
+
+// HASH_VALUE F6A0687DF032C854
+// INDEX 279
+uiCP_InRingSession	[该角色启动的 Ring 场景仍在运行。点击 @{6F6F}“继续场景” @{FFFF}继续]
+
+// HASH_VALUE 6C6994846857949F
+// INDEX 280
+uiR2EDEditScenario	[继续]
+
+// HASH_VALUE 67B87B8127D566A3
+// INDEX 281
+uiR2EDNewScenario	[重置编辑器]
+
+// HASH_VALUE 2909687AA5B7748F
+// INDEX 282
+uiBGD_Paused	[已暂停]
+
+// HASH_VALUE 49CBE87A1CEAF49E
+// INDEX 283
+uiBGD_LowPriority	[低优先级]
+
+// HASH_VALUE A91AE8982684E7AA
+// INDEX 284
+uiBGD_NormalPriority	[普通优先级]
+
+// HASH_VALUE BD4D3CF8E95C917A
+// INDEX 285
+uiBGD_PriorityTooltip	[选择 Ryzom 下载器的优先级。如果感觉速度变慢，可以将下载器@{6F6F}暂停@{FFFF}。如果你的机器性能很好，或想加快补丁进程，可选择@{6F6F}普通优先级@{FFFF}]
+
