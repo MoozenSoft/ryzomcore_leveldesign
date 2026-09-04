@@ -307,3 +307,25 @@ Team → 小队（Leave Team → 离开小队；Team Members → 小队成员；
 | allegiance | **效忠** | 效忠8 : 信仰2 | uiRingFilterReligionNeutral "无信仰的玩家"→"未效忠任何阵营的玩家" |
 
 语境例外（保留不动）：uiRAP_CharReligionTooltip 的 en 源词为 **religion**（非 allegiance），"宗教信仰"属语境正确译法，不计入分治；uiBrowseRedoButton "Next→下一页" 沿用批次 1 已裁定的语境化分译。c2 的 Ring 会话浏览器 allegiance→信仰 记录由本裁定统一为效忠。
+
+
+## 批次 2.5（客户端 C++/Lua 硬引用 474 条）定译
+
+聊天命令帮助（cmd* / uiAddPartyChatCmd / uiRemovePartyChatCmd / uiInviteCmd / uiRandomBadParameter）：**完整成句翻译**；命令名与参数占位保留拉丁原样（/createGroup、group_name、destination、bag/player_room/guild/pet_animal1-4、'random'、<invite>、<add_to_party_chat>、<remove_party_chat>、ROOT 槽、"WRITE ME" 未写文占位）。
+引擎/弹窗正式完整句：can_t_create_*、agp_trouble、uiDesktopNotIn32、uiUpdateDisplayDrivers* 系列（Ryzom 启动失败与显卡驱动弹窗）。
+聊天引导词族（拼接前后缀）：says/shouts/tells you → 说/喊话/密语给你；You say/You shout/You tell/You tell %name → 你说/你喊话/你密语/你密语 %name（沿用批次2汇合裁定 Shout=喊话、tell=密语）。
+单位定译：m→米、km→公里、bits→位、h/m/s（任务计时标签）→小时/分钟/秒、" h "/" m "/" s. "/" second(s) "/" meter(s)"→" 小时 "/" 分钟 "/" 秒。"/" 秒 "/" 米"；字节单位 B/KiB/MiB、纪元缩写 AC/JY、键名 CTRL/ALT/SHIFT、{AFK} 保留原样。
+计量/武器术语：Sap Load→树液储量；Dodge/Parry Modifier→闪避/格挡修正；Adv. Dodge/Parry Modifier→对手闪避/格挡修正；Max. vs Slash/Smash/Pierce→对劈砍/砸击/穿刺最大吸收；Hit/Minute→命中/分钟；Magazine→弹匣容量；Reach→攻击距离；Command Range→指令距离；Max Packers→最大驮兽数；Action Cost/Credit→动作花费/动作点数；Kg→千克。
+原材料（mp* / MP）：Raw Material Source/Target→原材料来源/目标；Item Parts→原材料部件；Can be used to Craft→可用于制造（Craft=制造沿用 c3；Forage 技能名→沙漠/森林/丛林/湖泊/原始根须采集）。
+Ring（沿用 c2 场景）：ASK FOR INVITE→请求邀请；Mastered/Masterless→有主持/无主持（沿用 c2）；Entry point→进入点；场景取向：Hack'n'Slash→砍杀（暂定）、Story telling→叙事（暂定）、Mystery→悬疑、Guild/Newbie training→公会/新手训练；Connected (on the same/another) Mainland or Ring Scenario→在（同一/其他）主大陆或 Ring 场景中连接。
+战斗飘字：Evade→规避（暂定，与 Dodge=闪避 区分）、Resist→抵抗。
+botchat：SELL TO MERCHANT→出售给商人；Retire Price→回收价格；Resale Time Left→剩余转售时间；MAKE A PACT→缔结契约、BUILDING→建筑、GUILD ROLE MASTER→公会职业导师（沿用 c2/c3）。
+称号（Title=称号沿用 c1b、Stanza=节沿用 c1b）：Stanzas/Skills Needed→所需节数/所需技能；Free to play account→免费游玩账号（暂定；与 Free Trial Account=免费试用账号区分）。
+日期胶水词：uiTheSeasonIs→"现在是 "、uiAndTheWeatherIs→"，天气为 "（**备案偏差**：后者删前导空格，中文句子间拼接不需要；其余逐键首尾空格全保留）。uiDate/uiNowDate/uiApplyingDelta 等日期与补丁日志行按完整句。
+
+### 批次 2.5 实测：标记与结构保留
+
+全 474 键自查（make_cpp_zh.py + cpp_tr_p1..p5.py 程序化产译，规避 heredoc 折叠坑）：键集合一致；`@{` 931、`%` 486、`&` 38（=19 对 &CHK&/&SYS&/&BC&/&ISE&/&CHKCB& 频道前缀）、字面 `
+` 318、真实 LF 318、真实 TAB 318 **逐键计数一致**（单元一一对应：每个字面 
+ 后恰为 LF+TAB，每个 LF 前恰为字面 
+）；`@{}` token 多重集逐键一致；无 `[ ]`、无行首 `#`；25 键值与 en 逐字节相同（纯色码标签 uiItem*Color、???、B/KiB/MiB、AC/JY、CTRL/ALT/SHIFT、{AFK}、", "、" - "、单空格、%f、%custom_text、%channel @{T8}/%shortcut、uihelpItemCosmetic/ScrollR2 纯 token 值）。具名 %token 由 strFindReplace **按名**替换（user_entity.cpp:3100 msgRollDiceLocal 实测），语序可安全调整；printf 序位占位（uiTipsTeleport 的 %s/%d 串）保持原序。uiBotChatPhrase 空值→空串。

@@ -9246,3 +9246,2217 @@ uiInterfaceScale	[界面缩放]
 // INDEX 2144
 uiInterfaceScaleAuto	[自动界面缩放]
 
+// HASH_VALUE A8C4945353A41F40
+// INDEX 2145
+uittQuitCancelEditor	[返回编辑器]
+
+// HASH_VALUE DA9AB6B3E228F4CD
+// INDEX 2146
+agp_trouble	[驱动未能分配 AGP 内存，这可能导致性能与显示问题。\n
+	你想了解更多吗？]
+
+// HASH_VALUE 553984846E949284
+// INDEX 2147
+can_t_create_a_window_display	[无法创建窗口显示。]
+
+// HASH_VALUE 58393B04E6548F6A
+// INDEX 2148
+can_t_create_a_fullscreen_display	[无法创建全屏显示。]
+
+// HASH_VALUE 701C9488701C9488
+// INDEX 2149
+bits	[位]
+
+// HASH_VALUE 6408978EDFA22BB2
+// INDEX 2150
+mpft	[未定义的原材料目标]
+
+// HASH_VALUE 86908B89A0672FFC
+// INDEX 2151
+mpfq	[良好 %p]
+
+// HASH_VALUE 3980093F2B930979
+// INDEX 2152
+uiErrOffLineShard	[错误：无法连接到离线服务器（错误代码 15）。]
+
+// HASH_VALUE 3DDF0D8BBD1D3C7A
+// INDEX 2153
+uiErrCantPatch	[错误：无法补丁，因为数据库中未设置 PatchURL（错误代码 16）。]
+
+// HASH_VALUE 1CFD71DE1856F357
+// INDEX 2154
+uiErrServerLost	[错误：补丁过程中与服务器失去联系。]
+
+// HASH_VALUE B11FE4024EE3A1CB
+// INDEX 2155
+uiErrPatchApply	[错误：补丁流程已结束，但补丁未能成功应用。]
+
+// HASH_VALUE 428B3D2BDA3B2CD2
+// INDEX 2156
+uiErrChecking	[错误：文件更新检查失败。]
+
+// HASH_VALUE 8E9280411622E45F
+// INDEX 2157
+uiKb	[KiB]
+
+// HASH_VALUE 90B288459762EC61
+// INDEX 2158
+uiMb	[MiB]
+
+// HASH_VALUE 9FA5A06DD895B637
+// INDEX 2159
+uiLoginGetFile	[正在获取文件：]
+
+// HASH_VALUE 373988CC56A4B9DB
+// INDEX 2160
+uiDLFailed	[从紧急服务器下载失败，补丁已中止]
+
+// HASH_VALUE 0DD314AEEB0A6833
+// INDEX 2161
+uiDLURIFailed	[从 URL 下载失败（稍后将重试）：]
+
+// HASH_VALUE 9FEF11F92FE58883
+// INDEX 2162
+uiNoMoreURI	[补丁 URL 已用尽，尝试紧急补丁服务器]
+
+// HASH_VALUE D126843FEAF6BF89
+// INDEX 2163
+uiDLWithCurl	[正在使用 Curl 下载文件：]
+
+// HASH_VALUE 5DF5B8902957A38B
+// INDEX 2164
+uiDecompressing	[正在解压文件：]
+
+// HASH_VALUE 5C24504228490833
+// INDEX 2165
+uiCheckInt	[正在检查完整性：]
+
+// HASH_VALUE 4C08EC7AE63A3CA8
+// INDEX 2166
+uiNoVersionFound	[未找到版本]
+
+// HASH_VALUE EA9BF07087F0DE5C
+// INDEX 2167
+uiVersionFound	[发现版本：]
+
+// HASH_VALUE 6CBAA4C2CED054DA
+// INDEX 2168
+uiApplyingDelta	[正在应用补丁增量：]
+
+// HASH_VALUE 2EAADC9D27B47047
+// INDEX 2169
+uiServerVersion	[服务器版本]
+
+// HASH_VALUE A8B6FC32E686BF9C
+// INDEX 2170
+uiCheckingFile	[正在检查文件]
+
+// HASH_VALUE 6618CC5E4408BC94
+// INDEX 2171
+uiNeededPatches	[所需补丁：]
+
+// HASH_VALUE 57D72C08D558C375
+// INDEX 2172
+uiCheckInBNP	[正在检查 BNP 内部：]
+
+// HASH_VALUE 8810F72436CBB610
+// INDEX 2173
+uiSHA1Diff	[强制解包 BNP：校验和不匹配：]
+
+// HASH_VALUE 0328885969AA93AC
+// INDEX 2174
+uiCheckEndNoErr	[文件检查完成，没有错误]
+
+// HASH_VALUE 9759642196BA93B6
+// INDEX 2175
+uiCheckEndWithErr	[文件检查完成，存在错误：]
+
+// HASH_VALUE 03196C6669AA93A9
+// INDEX 2176
+uiPatchEndNoErr	[文件补丁完成，没有错误]
+
+// HASH_VALUE E2A45B80D6C8F35E
+// INDEX 2177
+uiPatchEndWithErr	[补丁失败！]
+
+// HASH_VALUE 97987345E8D46F43
+// INDEX 2178
+uiPatchDiskFull	[磁盘已满！]
+
+// HASH_VALUE 67818F3F0F656F1B
+// INDEX 2179
+uiPatchWriteError	[磁盘写入错误！（磁盘已满？）]
+
+// HASH_VALUE 54956061978AB897
+// INDEX 2180
+uiProcessing	[正在处理文件：]
+
+// HASH_VALUE D183CC5E53E4E24A
+// INDEX 2181
+uiUnpack	[正在解包 BNP：]
+
+// HASH_VALUE 57282453CE0D24A5
+// INDEX 2182
+uiUnpackErrHead	[无法读取 BNP 文件头：]
+
+// HASH_VALUE EA9888EBCAF59355
+// INDEX 2183
+uiChangeDate	[正在修改文件日期：]
+
+// HASH_VALUE 4589434CDD042E75
+// INDEX 2184
+uiChgDateErr	[无法修改文件时间：]
+
+// HASH_VALUE 5BCA0C0C45A99719
+// INDEX 2185
+uiNowDate	[现在的日期是：]
+
+// HASH_VALUE 485B4807F0581777
+// INDEX 2186
+uiSetAttrib	[设置文件属性：]
+
+// HASH_VALUE 5EB5789353166D5E
+// INDEX 2187
+uiAttribErr	[无法获得读写权限：]
+
+// HASH_VALUE C2B6FF326665E080
+// INDEX 2188
+uiDelFile	[正在删除文件：]
+
+// HASH_VALUE 0D262B3499A4A35A
+// INDEX 2189
+uiDelErr	[无法删除文件：]
+
+// HASH_VALUE C238BC781514042B
+// INDEX 2190
+uiDelNoFile	[删除文件（无文件）]
+
+// HASH_VALUE C1B7E33CDEF4085B
+// INDEX 2191
+uiRenameFile	[正在重命名文件：]
+
+// HASH_VALUE 8DB5533699858756
+// INDEX 2192
+uiRenameErr	[无法重命名文件：]
+
+// HASH_VALUE 7212E837BB01C03B
+// INDEX 2193
+uiNotReceived	[未收到]
+
+// HASH_VALUE 3A8B4223C0BD4D18
+// INDEX 2194
+uigcLowTextureMode	[低 (32 MB)]
+
+// HASH_VALUE 033177F63D6EB21E
+// INDEX 2195
+uigcNormalTextureMode	[普通 (64 MB)]
+
+// HASH_VALUE 8B4EC937BAABC2C2
+// INDEX 2196
+uigcHighTextureMode	[高 (128 MB)]
+
+// HASH_VALUE D72E51D69923FABB
+// INDEX 2197
+uigcRequestReboot	[需要重新启动 Ryzom 以应用更改。]
+
+// HASH_VALUE 2746845E67F4B877
+// INDEX 2198
+uiGuildLeader	[会长]
+
+// HASH_VALUE 69A81419E898ACF1
+// INDEX 2199
+uiGuildHighOfficer	[高级军官]
+
+// HASH_VALUE 278864845FE73489
+// INDEX 2200
+uiGuildOfficer	[军官]
+
+// HASH_VALUE 25D67C6CE6D4B084
+// INDEX 2201
+uiGuildMember	[成员]
+
+// HASH_VALUE 0F62B9E759B3A62A
+// INDEX 2202
+uiQQuitGuild	[你真的要离开你的公会吗？]
+
+// HASH_VALUE FC234C09E2729D59
+// INDEX 2203
+uiOutpostPeriodFormat	[%dayname %daynumber %month，%timestart 至 %timeend]
+
+// HASH_VALUE 66DCCC6AC2E81CB4
+// INDEX 2204
+uiOutpostPeriodEnded	[攻击已结束]
+
+// HASH_VALUE 0B48E9436F6E2255
+// INDEX 2205
+uittPvpOutpostOutOfZone	[你正参与前哨站 PvP 冲突。\n
+	你已离开该区域，仍将在一段时间内保持 PvP 标记。若你执行以下任一操作，计时将重新开始：\n
+	@{T4}- 治疗友方。\n
+	@{T4}- 攻击敌方。\n
+	@{T4}- 返回前哨站区域。]
+
+// HASH_VALUE 42D7C3705E707D9C
+// INDEX 2206
+uittPvpOutpostOn	[你正参与前哨站 PvP 冲突。\n
+	攻击或防御阶段尚未开始，但你已可与敌人交战。]
+
+// HASH_VALUE CA559BEB9D015D55
+// INDEX 2207
+uittPvpOutpostInRound	[你正参与前哨站 PvP 冲突。\n
+	当前正处于战斗阶段。\n
+	图标中显示当前回合。\n
+	图标下方显示本回合剩余时间。]
+
+// HASH_VALUE C8DA6D580293191D
+// INDEX 2208
+uiQConfirmOutpostBanPlayer	[你真的要禁止这名玩家参与前哨站战争吗？]
+
+// HASH_VALUE 149140A8104C371A
+// INDEX 2209
+uiQConfirmOutpostBanGuild	[你真的要禁止这名玩家所在的整个公会参与前哨站战争吗？]
+
+// HASH_VALUE AF5462EFCD6E7A31
+// INDEX 2210
+uiQConfirmGiveupOutpost	[你真的要放弃这座前哨站吗？]
+
+// HASH_VALUE AB69A8A01B48A868
+// INDEX 2211
+uiRespawnPoint	[复活点]
+
+// HASH_VALUE 56949C48ED9B87BF
+// INDEX 2212
+uiSquadSpawnPoint	[小队出动位置]
+
+// HASH_VALUE A627C0732B46848C
+// INDEX 2213
+uiStable	[马厩]
+
+// HASH_VALUE 2D79EC806D00D1D6
+// INDEX 2214
+uittXpBonus	[一组催化器正在生效：使用低于催化器品质的技能获得 XP 时，你可获得加成。\n
+	仅限免费游玩账号：点击此处停用该加成。]
+
+// HASH_VALUE E02A77CCC8F159E8
+// INDEX 2215
+uittDeathPenalty	[@{6F6F}你身上有死亡惩罚\n
+	@{FFFF}每次你死亡并由 Kami 或 Karavan 复活时，\n
+	死亡惩罚的数值都会增加。\n
+	此后你获得的全部 XP 都将用于削减惩罚。\n
+	当惩罚降至 0，你将恢复正常获取 XP。\n
+	你当前的死亡惩罚为 @{6F6F}%dp@{FFFF}%。]
+
+// HASH_VALUE C6382BD9E5BE63CA
+// INDEX 2216
+uiFameAllegianceCivSetNeutralWarning	[注意！成为中立后，你的种族名望（Fyros/Matis/Tryker/Zoraï）若超出中立的上限值，可能会受损。]
+
+// HASH_VALUE E090B9CAD3908C08
+// INDEX 2217
+uiFameAllegianceCultSetNeutralWarning	[注意！成为中立后，你的教派名望（Kami/Karavan）若超出中立的上限值，可能会受损。]
+
+// HASH_VALUE BE5FE5FA26384BE9
+// INDEX 2218
+uiFameAllegianceCivSetNeutralGuildWarning	[注意！成为中立后，你的公会种族名望（Fyros/Matis/Tryker/Zoraï）若超出中立公会的最大值，可能会受损。]
+
+// HASH_VALUE 0F277CDE233581B4
+// INDEX 2219
+uiFameAllegianceCultSetNeutralGuildWarning	[注意！成为中立后，你的公会教派名望（Kami/Karavan）若超出中立公会的最大值，可能会受损。]
+
+// HASH_VALUE 70DC34CC70DC34CC
+// INDEX 2220
+uiMissionTimerSecond	[秒]
+
+// HASH_VALUE 6C58D4B46C58D4B4
+// INDEX 2221
+uiMissionTimerMinute	[分钟]
+
+// HASH_VALUE 681884A0681884A0
+// INDEX 2222
+uiMissionTimerHour	[小时]
+
+// HASH_VALUE 0AB1E435C992D836
+// INDEX 2223
+uiKeySHIFT	[SHIFT]
+
+// HASH_VALUE 4C94440C4C94440C
+// INDEX 2224
+uiKeyCONTROL	[CTRL]
+
+// HASH_VALUE C862B8228B31D82D
+// INDEX 2225
+uiKeyMENU	[ALT]
+
+// HASH_VALUE 36B251FFFAE39E10
+// INDEX 2226
+uiTextHelpSelectRootBrick	[<- 点击 ROOT 槽以定义你的动作类型。]
+
+// HASH_VALUE C54E6F05CFC14F9B
+// INDEX 2227
+uiTextHelpSelectEffectBrick	[<- 点击以选择效果 ]
+
+// HASH_VALUE 08DE1628072C9C92
+// INDEX 2228
+uiFirewallAlert	[请为 Ryzom 授予防火墙权限]
+
+// HASH_VALUE D7C4407FEBD94C9A
+// INDEX 2229
+uiFirewallFail	[连接失败]
+
+// HASH_VALUE 6458F4206458F420
+// INDEX 2230
+uiHome	[家]
+
+// HASH_VALUE 45FB9FEFF875C517
+// INDEX 2231
+uihelpItemMagicBonusAll	[@{FFF9}全部魔法加成：\n
+	@{T3}施放速度：@{T16}@{FFFF}%cs%@{FFF9}\n
+	@{T3}威力：@{T16}@{FFFF}%mp%\n
+	]
+
+// HASH_VALUE 4A4CE5C3DA44A737
+// INDEX 2232
+uihelpItemMagicBonusHeader	[\n
+	@{FFFF}魔法加成@{FFF9}（法术等级低于或等于 @{FFFF}%mglvl@{FFF9}时生效）：\n
+	]
+
+// HASH_VALUE F0AA55011CAF7807
+// INDEX 2233
+uihelpMagicProtectFormatHeader	[@{FFF9}@{HuittInfoProt}防护：@{H}\n
+	]
+
+// HASH_VALUE D94F70517B78674A
+// INDEX 2234
+uihelpMagicProtectFormat	[@{T3}@{FFF9}%t：@{T18}@{FFFF}+%v%\n
+	]
+
+// HASH_VALUE ED2AD1F20B1DE4B3
+// INDEX 2235
+uihelpMagicProtectMaxAbsorbFormat	[@{T3}@{FFF9}最大吸收：@{T18}@{FFFF}+%v\n
+	]
+
+// HASH_VALUE FCD4C98932A028D0
+// INDEX 2236
+uihelpMagicResistFormatHeader	[@{FFF9}@{HuittInfoResist}抗性：@{H}\n
+	]
+
+// HASH_VALUE D94F7047B478674A
+// INDEX 2237
+uihelpMagicResistFormat	[@{T3}@{FFF9}%t：@{T18}@{FFFF}+%v\n
+	]
+
+// HASH_VALUE 6498F4386498F438
+// INDEX 2238
+uihelpItemCaracReqNone	[无]
+
+// HASH_VALUE 194BA7110E6FC84A
+// INDEX 2239
+uihelpItemCaracReqMetFmt	[\n
+	@{FFFF}%d @{FFF9}点@{FFFF}%s]
+
+// HASH_VALUE 901802A9FF2250E0
+// INDEX 2240
+uihelpItemCaracReqNotMetFmt	[\n
+	@{F80B}%d 点%s]
+
+// HASH_VALUE 9BE0A704CD338F22
+// INDEX 2241
+uihelpItemCaracReqAnd	[\n
+	@{FFF9}与@{FFFF}]
+
+// HASH_VALUE 194BA7110E6FC84A
+// INDEX 2242
+uihelpItemSkillReqMetFmt	[\n
+	@{FFFF}%d @{FFF9}点@{FFFF}%s]
+
+// HASH_VALUE 901802A9FF2250E0
+// INDEX 2243
+uihelpItemSkillReqNotMetFmt	[\n
+	@{F80B}%d 点%s]
+
+// HASH_VALUE F382278ACDF979B3
+// INDEX 2244
+uihelpItemAnySkillReqMetFmt	[\n
+	@{FFFF}%d @{FFF9}点@{FFFF}任意技能]
+
+// HASH_VALUE 39ED56193D63584E
+// INDEX 2245
+uihelpItemAnySkillReqNotMetFmt	[\n
+	@{F80B}%d 点任意技能]
+
+// HASH_VALUE FD55A3FB7ACC09B0
+// INDEX 2246
+uihelpSkillModVsType	[@{FFF9}技能加成： @{FFFF}+%mod @{FFF9}对抗 @{FFFF}%type]
+
+// HASH_VALUE F20CAAD34A44EC7F
+// INDEX 2247
+uihelpItemDefaultFormat	[@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	\n
+	%cansell\n
+	@{FFFF}%desc%no_rent@{FFFF}%descnr%custom_text]
+
+// HASH_VALUE 33BBBD4A8EBCBED9
+// INDEX 2248
+uihelpItemCantSell	[@{F80B}该物品无法出售给商人。@{FFFF}\n
+	]
+
+// HASH_VALUE A203D9DB12EA02AC
+// INDEX 2249
+uihelpItemCosmeticDontFit	[@{F80B}由于你的种族或性别限制，无法对你使用该外观道具@{FFFF}\n
+	]
+
+// HASH_VALUE 03E5545F85F4B4DE
+// INDEX 2250
+uihelpItemNoRent	[@{F80B}非租借物品： @{FFFF}]
+
+// HASH_VALUE CC04DC80B5D30827
+// INDEX 2251
+uihelpItemNoRentDesc	[@{F80B}断开连接几分钟后，该物品将被销毁。@{FFFF}\n
+	]
+
+// HASH_VALUE 68DDFECD9FC79CEE
+// INDEX 2252
+uihelpItemCosmetic	[\n
+	\n
+	%cansell\n
+	@{FFFF}%desc]
+
+// HASH_VALUE EA125F4DF699651A
+// INDEX 2253
+uihelpItemArmorFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoArmorQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}要求：@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoArmorType}护甲类型：@{H}@{T16}@{FFFF}%armor %armor_bonus\n
+	@{FFF9}@{HuittInfoDodgeMod}闪避修正：@{H}@{T16}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}格挡修正：@{H}@{T16}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoMalus}动作减益：@{H}@{T16}@{FFFF}+%actmalus\n
+	@{FFF9}@{HuittInfoArmorProtection}防护：@{H}@{T16}@{FFFF}%protect%\n
+	@{FFF9}  @{HuittInfoArmorSlash}对劈砍最大吸收：@{H}@{T16}@{FFFF}%p_slash\n
+	@{FFF9}  @{HuittInfoArmorBlunt}对砸击最大吸收：@{H}@{T16}@{FFFF}%p_blunt\n
+	@{FFF9}  @{HuittInfoArmorPierc}对穿刺最大吸收：@{H}@{T16}@{FFFF}%p_pierce\n
+	%buffs%special_effects%desc%custom_text]
+
+// HASH_VALUE 13E0EBA3282D2876
+// INDEX 2254
+uihelpItemMeleeWeaponFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoWeaponQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoWeaponSapLoad}树液储量：@{H}@{T10}@{FFFF}%sap/%sapmax\n
+	@{FFF9}@{HuittInfoItemSkill}技能：@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}要求： @{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoDamageType}伤害类型：@{H}@{T16}@{FFFF}%dmtype\n
+	@{FFF9}@{HuittInfoWeaponDamage}伤害：@{H}@{T16}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n
+	@{FFF9}@{HuittInfoWeaponHitMin}命中/分钟：@{H}@{T16}@{FFFF}%speed\n
+	@{FFF9}@{HuittInfoWeaponReach}攻击距离：@{H}@{T16}@{FFFF}%reach\n
+	@{FFF9}@{HuittInfoDodgeMod}闪避修正：@{H}@{T20}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}格挡修正：@{H}@{T20}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoTargetDodgeMod}对手闪避修正：@{H}@{T20}@{FFFF}%adv_dodge\n
+	@{FFF9}@{HuittInfoTargetParryMod}对手格挡修正：@{H}@{T20}@{FFFF}%adv_parry\n
+	@{FFF9}@{HuittInfoMalus}动作减益：@{H}@{T20}@{FFFF}+%actmalus\n
+	%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment]
+
+// HASH_VALUE 3C0F81B91BD521BD
+// INDEX 2255
+uihelpItemRangeWeaponFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoWeaponQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoWeaponSapLoad}树液储量：@{H}@{T10}@{FFFF}%sap/%sapmax\n
+	@{FFF9}@{HuittInfoItemSkill}技能：@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}要求：@{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoWeaponRDamage}伤害：@{H}@{T14}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n
+	@{FFF9}@{HuittInfoWeaponRHitMin}命中/分钟：@{H}@{T14}@{FFFF}%speed\n
+	@{FFF9}@{HuittInfoWeaponRange}射程：@{H}@{T14}@{FFFF}%range\n
+	@{FFF9}@{HuittInfoDodgeMod}闪避修正：@{H}@{T20}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}格挡修正：@{H}@{T20}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoTargetDodgeMod}对手闪避修正：@{H}@{T20}@{FFFF}%adv_dodge\n
+	@{FFF9}@{HuittInfoTargetParryMod}对手格挡修正：@{H}@{T20}@{FFFF}%adv_parry\n
+	@{FFF9}@{HuittInfoMalus}动作减益：@{H}@{T20}@{FFFF}+%actmalus\n
+	%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment]
+
+// HASH_VALUE 1589D2AD17955FDD
+// INDEX 2256
+uihelpItemAmmoFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoWeaponQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoItemSkill}技能：@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	\n
+	@{FFF9}@{HuittInfoAmmoMagazine}弹匣容量：@{H}@{T16}@{FFFF}%magazine\n
+	@{FFF9}@{HuittInfoDamageType}伤害类型：@{H}@{T16}@{FFFF}%dmtype\n
+	@{FFF9}@{HuittInfoAmmoDamage}伤害：@{H}@{T16}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n
+	@{FFF9}@{HuittInfoAmmoHitMin}命中/分钟：@{H}@{T16}@{FFFF}%speed\n
+	@{FFF9}@{HuittInfoAmmoRange}射程：@{H}@{T16}@{FFFF}%range\n
+	\n
+	@{FFFF}%desc]
+
+// HASH_VALUE 83398662F7CD3D0A
+// INDEX 2257
+uihelpItemMPFormat	[@{FFF9}@{HuittInfoMpQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	%cansell\n
+	@{FFF9}@{HuittInfoMpEco}生态系统：@{H}@{T14}@{FFFF}%ecosystem\n
+	@{FFF9}@{HuittInfoMpFam}家族：@{H}@{T14}@{FFFF}%family\n
+	@{FFF9}@{HuittInfoMpColor}颜色：@{H}@{T14}@{FFFF}%mpcolor\n
+	@{FFFF}%desc\n
+	%craft]
+
+// HASH_VALUE 9634984ED277B4A5
+// INDEX 2258
+uihelpItemScroll	[%custom_text]
+
+// HASH_VALUE 65AC42BD4923A2E4
+// INDEX 2259
+uihelpItemScrollR2	[@{ffff}%r2_description_text\n
+	@{ffff}%r2_comment_text]
+
+// HASH_VALUE 4FA97D2A655ED26E
+// INDEX 2260
+uihelpItemMPCraft	[@{FFF9}可用于制造：\n
+	@{FFFF}@{T2}%ip\n
+	]
+
+// HASH_VALUE 14FEA68DBA9776FB
+// INDEX 2261
+uihelpItemMPNoCraft	[@{FFF9}这是任务物品，无法用于制造。@{FFFF}\n
+	]
+
+// HASH_VALUE 3BFD23539F5DEDFE
+// INDEX 2262
+uihelpItemMPCraftRequirement	[@{FFF9}作为制作特殊物品的组件使用。@{FFFF}\n
+	]
+
+// HASH_VALUE 9DB73B2E92320463
+// INDEX 2263
+uihelpItemMPAllCraft	[全部原材料部件]
+
+// HASH_VALUE E1334509A8C05133
+// INDEX 2264
+uihelpItemShieldFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoArmorQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}要求：@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoShieldCat}类别：@{H}@{T16}@{FFFF}%cat\n
+	@{FFF9}@{HuittInfoDodgeMod}闪避修正：@{H}@{T16}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}格挡修正：@{H}@{T16}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoMalus}动作减益：@{H}@{T16}@{FFFF}+%actmalus\n
+	@{FFF9}@{HuittInfoArmorProtection}防护：@{H}@{T16}@{FFFF}%protect%\n
+	@{FFF9}  @{HuittInfoArmorSlash}对劈砍最大吸收：@{H}@{T16}@{FFFF}%p_slash\n
+	@{FFF9}  @{HuittInfoArmorBlunt}对砸击最大吸收：@{H}@{T16}@{FFFF}%p_blunt\n
+	@{FFF9}  @{HuittInfoArmorPierc}对穿刺最大吸收：@{H}@{T16}@{FFFF}%p_pierce\n
+	%buffs%special_effects%desc%custom_text]
+
+// HASH_VALUE FFE62CC8B7369AC0
+// INDEX 2265
+uihelpItemCraftingToolFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoToolQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittToolCraftType}工具类型：@{H}@{T10}@{FFFF}%tool\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}要求：@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	%buffs\n
+	%special_effects\n
+	\n
+	@{FFFF}%desc%custom_text]
+
+// HASH_VALUE 12DD79BE889C767A
+// INDEX 2266
+uihelpItemHarvestToolFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoToolQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}要求：@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	%buffs\n
+	%special_effects\n
+	\n
+	@{FFFF}%desc%custom_text]
+
+// HASH_VALUE AB833BD0D048F9BB
+// INDEX 2267
+uihelpItemTamingToolFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoToolQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoItemSkill}技能：@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	@{FFF9}指令距离：@{T12}@{FFFF}%cmdrange\n
+	@{FFF9}最大驮兽数：@{T12}@{FFFF}%maxpacker\n
+	\n
+	@{FFFF}%desc%custom_text]
+
+// HASH_VALUE C6ED74E2DF2FE4E5
+// INDEX 2268
+uihelpItemJewelFormat	[@{FFF9}@{HuittInfoOrigin}来源：@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoJewelryQuality}品质：@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}重量：@{H}@{T10}@{FFFF}%weight 千克\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}生命值：@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}要求：@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text]
+
+// HASH_VALUE 6E6E2DA956AF0E3A
+// INDEX 2269
+uihelpItemCrystalSpell	[该物品可用于\n
+	为武器附魔。\n
+	\n
+	将你要附魔的武器拿在右手。\n
+	\n
+	然后右键点击该水晶，选择"附魔右手"。\n
+	\n
+	注意：施加晶化法术会覆盖物品上已有的任何附魔。\n
+	\n
+	%cansell\n
+	%enchantment%custom_text]
+
+// HASH_VALUE 6CF513AA416395BB
+// INDEX 2270
+uihelpItemChargeSpell	[@{FFF9}树液储量：@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoBulk}体积：@{H}@{T10}@{FFFF}%bulk\n
+	\n
+	该物品可用于\n
+	为附魔武器补充树液。\n
+	\n
+	将你要补充树液的武器拿在右手，然后右键点击该充能物品并选择"装满右手"。\n
+	\n
+	右键点击该物品并选择'信息'，可查看当前树液储量与该物品可容纳的最大充能。\n
+	\n
+	%cansell%custom_text]
+
+// HASH_VALUE 88359CF16D5CFDBD
+// INDEX 2271
+uihelpItemAnimal	[该物品代表你的\n
+	动物 #%petnumber。\n
+	\n
+	你可以通过该物品赠送或出售动物，但只有当动物的背包为空时才可以！\n
+	\n
+	%cansell\n
+	%desc%custom_text]
+
+// HASH_VALUE CB10EC5C14C1477D
+// INDEX 2272
+uihelpItemTeleport	[使用时，右键点击该物品并选择\n
+	"使用传送"\n
+	\n
+	%cansell\n
+	%desc%custom_text]
+
+// HASH_VALUE 9B6A37002639A74D
+// INDEX 2273
+uihelpBrickFormat	[@{FFF9}等级：@{T10}@{FFFF}%lvl\n
+	%ks@{FFF9}技能：@{T10}@{FFFF}%skill\n
+	%ks@{FFF9}%hcost：@{T10}@{FFFF}%cost\n
+	%magicresist\n
+	@{FFFF}%desc]
+
+// HASH_VALUE E9693C64187AA7CC
+// INDEX 2274
+uihelpBrickMagicResist	[@{FFF9}魔法领域：\n
+	@{T4}@{FFFF}%t\n
+	]
+
+// HASH_VALUE C3CCBC6A52334340
+// INDEX 2275
+uihelpBrickCombatSkillSeparator	[@{FFF9} 或\n
+	@{T8}@{FFFF}]
+
+// HASH_VALUE 74DCF40C74DCF40C
+// INDEX 2276
+uihelpSabrinaCost	[花费]
+
+// HASH_VALUE EB76F4546E54FC7A
+// INDEX 2277
+uihelpSabrinaCredit	[点数]
+
+// HASH_VALUE E6DE7A794789E895
+// INDEX 2278
+uihelpBrickFaberFormat	[@{FFF9}等级：@{T10}@{FFFF}%lvl\n
+	%ks@{FFF9}技能：@{T10}@{FFFF}%skill\n
+	%ks@{FFF9}%hcost：@{T10}@{FFFF}%cost\n
+	\n
+	@{FFF9}工具类型：@{T10}@{FFFF}%tool\n
+	@{FFF9}所需原材料部件：@{FFFF}\n
+	%mpinfo@{FFF9}所需特定物品：@{FFFF}\n
+	%mpformula\n
+	@{FFFF}%desc]
+
+// HASH_VALUE 0895079119161E76
+// INDEX 2279
+uihelpMpNone	[@{T4}无\n
+	]
+
+// HASH_VALUE A1E9888131FA82B6
+// INDEX 2280
+uihelpAuraDisabled	[\n
+	\n
+	该光环已禁用。\n
+	你可能不在该区域内，或需要稍等一段时间才能再次受到该光环影响。]
+
+// HASH_VALUE 5072B2C842D8F4AE
+// INDEX 2281
+uittAuraDisabled	[ - 光环已禁用]
+
+// HASH_VALUE 41CC871412930664
+// INDEX 2282
+uihelpPhraseHeaderBricks	[ ]
+
+// HASH_VALUE 820FADA1D202D652
+// INDEX 2283
+uihelpPhraseCombatFormat	[@{FFF9}动作名称：@{T14}@{FFFF}%name\n
+	@{FFF9}动作花费：@{T14}@{FFFF}%cost\n
+	@{FFF9}动作点数：@{T14}@{FFFF}%credit\n
+	@{FFF9}可用搭配：@{T14}@{FFFF}%wcomp\n
+	\n
+	%compostart这些数值取决于你所装备的武器。\n
+	@{FFF9}@{HuittActionSuccessRateSF}成功率：@{H}@{T20}@{FFFF}%success%\n
+	@{FFF9}耐力花费：@{T20}@{FFFF}%energy_cost\n
+	@{FFF9}HP 花费：@{T20}@{FFFF}%hp_cost\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE 6D6328B568C27DD6
+// INDEX 2284
+uihelpPhraseMagicFormat	[@{FFF9}动作名称：@{T14}@{FFFF}%name\n
+	@{FFF9}动作花费：@{T14}@{FFFF}%cost\n
+	@{FFF9}动作点数：@{T14}@{FFFF}%credit\n
+	@{FFF9}@{HuittActionSpellLevel}法术等级：@{H}@{T14}@{FFFF}%mglvl\n
+	%magicresist\n
+	%compostart@{FFF9}@{HuittActionSuccessRateSM}成功率：@{H}@{T16}@{FFFF}%success%\n
+	@{FFF9}施放持续时间：@{T16}@{FFFF}%duration 秒。\n
+	@{FFF9}树液花费：@{T16}@{FFFF}%energy_cost\n
+	@{FFF9}HP 花费：@{T16}@{FFFF}%hp_cost\n
+	@{FFF9}射程：@{T16}@{FFFF}%range\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE E9693C64187AA7CC
+// INDEX 2285
+uihelpPhraseMagicResist	[@{FFF9}魔法领域：\n
+	@{T4}@{FFFF}%t\n
+	]
+
+// HASH_VALUE ED2937326A692681
+// INDEX 2286
+uihelpPhraseRangeMeters	[%dist 米]
+
+// HASH_VALUE 6418544C6418544C
+// INDEX 2287
+uihelpPhraseRangeSelf	[自身]
+
+// HASH_VALUE FEB497ABF65D73CE
+// INDEX 2288
+uihelpPhraseCraftFormat	[@{FFF9}动作名称：@{T14}@{FFFF}%name\n
+	@{FFF9}动作花费：@{T14}@{FFFF}%cost\n
+	@{FFF9}动作点数：@{T14}@{FFFF}%credit\n
+	\n
+	%compostart@{FFF9}@{HuittActionSuccessRateSC}成功率：@{H}@{T16}@{FFFF}视所制造的物品而定。\n
+	@{FFF9}动作持续时间：@{T16}@{FFFF}%duration 秒。\n
+	@{FFF9}专注花费：@{T16}@{FFFF}%energy_cost\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE B5EEF9CDEFE4BF3A
+// INDEX 2289
+uihelpPhraseForageExtractionFormat	[@{FFF9}动作名称：@{T14}@{FFFF}%name\n
+	@{FFF9}动作花费：@{T14}@{FFFF}%cost\n
+	@{FFF9}动作点数：@{T14}@{FFFF}%credit\n
+	\n
+	%compostart%suc_forage@{FFF9}施放持续时间：@{T20}@{FFFF}%duration 秒。\n
+	@{FFF9}专注花费：@{T20}@{FFFF}%energy_cost\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE E1F8D905BBCF29E1
+// INDEX 2290
+uihelpPhraseForageSuccessAll	[@{FFF9}@{HuittActionSuccessRateSH}成功率@{H}（沙漠/森林/丛林/湖泊/原始根须）：\n
+	@{T4}@{FFFF}%suc_desert%@{FFF9} / @{FFFF}%suc_forest%@{FFF9} / @{FFFF}%suc_jungle%@{FFF9} / @{FFFF}%suc_lake%@{FFF9} / @{FFFF}%suc_prime%\n
+	]
+
+// HASH_VALUE C42870FAC7288A2B
+// INDEX 2291
+uihelpPhraseOtherFormat	[@{FFF9}动作名称：@{T14}@{FFFF}%name\n
+	@{FFF9}动作花费：@{T14}@{FFFF}%cost\n
+	@{FFF9}动作点数：@{T14}@{FFFF}%credit\n
+	\n
+	%compostart@{FFF9}成功率：@{T16}@{FFFF}%success%\n
+	@{FFF9}施放持续时间：@{T16}@{FFFF}%duration 秒。\n
+	@{FFF9}专注花费：@{T16}@{FFFF}%energy_cost\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE 7BF23D9209DAD4A2
+// INDEX 2292
+uihelpPhraseSpecialPowerFormat	[@{FFF9}动作名称：@{T14}@{FFFF}%name\n
+	@{FFF9}动作花费：@{T14}@{FFFF}%cost\n
+	@{FFF9}动作点数：@{T14}@{FFFF}%credit\n
+	\n
+	%compostart@{FFF9}距离：@{T14}@{FFFF}%range\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE D143C452681C513F
+// INDEX 2293
+uihelpPhraseRequirementHeader	[\n
+	@{FFFF}--- 要求 ---\n
+	@{FFF9}@{HuittActionSkillPoint}技能点数花费：@{H}@{T16}@{FFFF}%sp/%basesp\n
+	@{FFF9}@{HuittActionSkillReq}所需技能：@{H}\n
+	]
+
+// HASH_VALUE 03B2BD64B83F75A9
+// INDEX 2294
+uihelpPhraseRequirementLine	[@{T4}@{FFFF}%s@{FFF9} 达到 @{FFFF}%d 级\n
+	]
+
+// HASH_VALUE 03436449B0FD3CA9
+// INDEX 2295
+uihelpPhraseRequirementNotMetLine	[@{T4}@{F80F}%s@{F80B} 达到 @{F80F}%d 级\n
+	]
+
+// HASH_VALUE C4646B55D3A3471E
+// INDEX 2296
+uihelpPhraseRequirementOR	[@{FFFF}或\n
+	]
+
+// HASH_VALUE E38ADC3C9A64A5D1
+// INDEX 2297
+uihelpPhraseBrickRequirement	[@{FFF9}@{HuittActionStanzaReq}所需节数：@{H}@{FFFF}\n
+	]
+
+// HASH_VALUE 428D8631CC10708E
+// INDEX 2298
+uihelpPhraseNotCastableFormat	[@{FFFF}这是一项动作强化，可教你若干新的节。\n
+	你无法施放它，也无法将其放入动作栏。\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE 0F0F8DFF048A8EF8
+// INDEX 2299
+uihelpPhraseCharacteristic	[@{FFFF}这是一项强化，可提升部分属性。\n
+	你无法施放它，也无法将其放入动作栏。\n
+	@{FFFF}%desc%req]
+
+// HASH_VALUE AFC850B7201BDDEA
+// INDEX 2300
+uihelpPhraseProcEnchantment	[@{FFFF}通过该动作，你激活右手物品上的附魔。\n
+	\n
+	若右手的物品未附魔，则无法执行该动作。\n
+	]
+
+// HASH_VALUE 0B663B02619E27B2
+// INDEX 2301
+uihelpPactFormat	[@{FFF9}等级：@{T14}@{FFFF}%lvl\n
+	@{FFF9}损失生命值：@{T14}@{FFFF}%hp\n
+	@{FFF9}损失耐力：@{T14}@{FFFF}%sta\n
+	@{FFF9}损失树液：@{T14}@{FFFF}%sap\n
+	@{FFF9}损失技能：@{T14}@{FFFF}%skill\n
+	]
+
+// HASH_VALUE 91F02F314780B0F7
+// INDEX 2302
+uihelpTitleInfo	[信息]
+
+// HASH_VALUE DCA8B0599A987B59
+// INDEX 2303
+uiTitleCantObtain	[你无法获得该称号。]
+
+// HASH_VALUE 75276CBE949A8C0C
+// INDEX 2304
+uiTitleSkillNoNeed	[获得该称号无需任何技能。\n
+	]
+
+// HASH_VALUE 77C78094F0880DD9
+// INDEX 2305
+uiTitleBrickNoNeed	[获得该称号无需任何节\n
+	]
+
+// HASH_VALUE DEF51475829BA943
+// INDEX 2306
+uihelpTitleFormat	[@{FFF9}名字：@{T8}@{FFFF}%name\n
+	@{FFF9}称号：@{T8}@{FFFF}%title\n
+	%skills%bricks]
+
+// HASH_VALUE A28115BA4B573F5A
+// INDEX 2307
+uiTitleSkillHeader	[@{FFF9}所需技能：@{FFFF}\n
+	]
+
+// HASH_VALUE E581150DC7384752
+// INDEX 2308
+uiTitleBrickHeader	[@{FFF9}所需节数：@{FFFF}\n
+	]
+
+// HASH_VALUE 70D824BC70D824BC
+// INDEX 2309
+uiTitleSkillOr	[或]
+
+// HASH_VALUE 8D55FA233A55F62F
+// INDEX 2310
+msgCantUseItem	[&CHK&无法使用该物品。]
+
+// HASH_VALUE FFC356400C128F30
+// INDEX 2311
+msgCantBuild	[&CHK&无法制作该物品。]
+
+// HASH_VALUE C5C3335B8582FA57
+// INDEX 2312
+msgCantUseBuiltItem	[&CHK&无法使用该建造物。]
+
+// HASH_VALUE DBEE187F4177BB42
+// INDEX 2313
+msgCantPutItemInBag	[&CHK&无法将物品放入背包。你的背包已满。]
+
+// HASH_VALUE 1FDA9BE2E90C44B0
+// INDEX 2314
+msgCantFightSwim	[&CHK&在水中时无法进入战斗。]
+
+// HASH_VALUE E98B63E2109C58CC
+// INDEX 2315
+msgCantFightSit	[&CHK&坐下时无法进入战斗。]
+
+// HASH_VALUE 268A63E110263CD1
+// INDEX 2316
+msgCantFightRide	[&CHK&骑乘时无法进入战斗。]
+
+// HASH_VALUE 13A3D3621475754B
+// INDEX 2317
+msgUserIsRunning	[&SYS&你已进入奔跑模式。]
+
+// HASH_VALUE 13A3C7600FC5754B
+// INDEX 2318
+msgUserIsWalking	[&SYS&你已进入行走模式。]
+
+// HASH_VALUE 88A32B9E3798F085
+// INDEX 2319
+msgUserModeParry	[&CHKCB&你将尝试格挡近战攻击。]
+
+// HASH_VALUE 3AB415FF4D287548
+// INDEX 2320
+msgUserModeDodge	[&CHKCB&你将尝试闪避近战攻击。]
+
+// HASH_VALUE C175BF678BE34219
+// INDEX 2321
+msgUserIsSitting	[&SYS&你坐了下来。]
+
+// HASH_VALUE D7A4F330C4576BFA
+// INDEX 2322
+msgUserIsStanding	[&SYS&你站了起来。]
+
+// HASH_VALUE 312F1AA8FDEFD53C
+// INDEX 2323
+msgPermanentlyBanned	[&BC&你已被永久封禁，无法登录 Ryzom。]
+
+// HASH_VALUE C7C5908EE2C4720F
+// INDEX 2324
+uiBotChatPrice	[价格： ]
+
+// HASH_VALUE DEB2060E5EB9C0A1
+// INDEX 2325
+uiBotChatFactionType	[阵营： ]
+
+// HASH_VALUE C7D186455AC47621
+// INDEX 2326
+uiBotChatFactionPointPrice	[. 点数： ]
+
+// HASH_VALUE 6698829CC29474AE
+// INDEX 2327
+uiBotChatRetirePrice	[. 回收价格： ]
+
+// HASH_VALUE 681400B8208C54B4
+// INDEX 2328
+uiBotChatTime	[. 时间： ]
+
+// HASH_VALUE 73DC6ACDC6DC351A
+// INDEX 2329
+uiBotChatTimeMinute	[ 分 ]
+
+// HASH_VALUE 77FDD2E14B1DBD34
+// INDEX 2330
+uiBotChatTimeSecond	[ 秒。]
+
+// HASH_VALUE 4D1843DD6B043B40
+// INDEX 2331
+uiBotChatResaleTimeLeft	[剩余转售时间：%d 天 %h 小时。]
+
+// HASH_VALUE 06A4172916D08F05
+// INDEX 2332
+uiBotChatNPCTag	[（NPC 物品）]
+
+// HASH_VALUE 6C18544C208C2494
+// INDEX 2333
+uiBotChatVendorTag	[卖家： ]
+
+// HASH_VALUE 9A145B3DD5E35627
+// INDEX 2334
+uiBotChatPact	[契约： ]
+
+// HASH_VALUE CCC5B49323836219
+// INDEX 2335
+uiBotChatSkill	[技能： ]
+
+// HASH_VALUE 3E013627BDCA4051
+// INDEX 2336
+uiContactAlreadyInList	[该联系人已在你的列表中。]
+
+// HASH_VALUE A1AEFE5B1DBBCB86
+// INDEX 2337
+uiInvalidPartyChatName	[群聊名称已存在或无效。]
+
+// HASH_VALUE CAF93F8CDAA55B8C
+// INDEX 2338
+uiBadPartyChatName	[群聊名称无效。]
+
+// HASH_VALUE 63B6DC3458C4E7BB
+// INDEX 2339
+uiCantRemovePartyChat	[无法移除群聊。]
+
+// HASH_VALUE DCC5015043786F31
+// INDEX 2340
+uiRemovePartyChatCmd	[<remove_party_chat> 需要一个参数：要移除的群聊名称。]
+
+// HASH_VALUE 4130B94CC59767F3
+// INDEX 2341
+uiAddPartyChatCmd	[<add_to_party_chat> 需要一个参数：要加入的群聊名称。]
+
+// HASH_VALUE 85106EC49E173C2A
+// INDEX 2342
+uiInviteCmd	[<invite> 需要两个参数：<玩家名> <群聊名>。]
+
+// HASH_VALUE 4C1054504C105450
+// INDEX 2343
+uiTell	[密语]
+
+// HASH_VALUE C2B80C8260EC9A9A
+// INDEX 2344
+uiLogTurnedOn	[聊天日志已开启。]
+
+// HASH_VALUE D5798C7B892F8352
+// INDEX 2345
+uiLogTurnedOff	[聊天日志已关闭。]
+
+// HASH_VALUE E692146868D074C6
+// INDEX 2346
+uiTargetErrorCmd	[未找到该实体。]
+
+// HASH_VALUE D67740F4A74949CB
+// INDEX 2347
+uiCantAddYourSelfInContactList	[你不能把自己加入好友列表，真傻。]
+
+// HASH_VALUE 205CF4E46C1854D0
+// INDEX 2348
+youTell	[你密语]
+
+// HASH_VALUE ACBAF8D11D96AFB0
+// INDEX 2349
+tellsYou	[密语给你]
+
+// HASH_VALUE 2629789252E56B6A
+// INDEX 2350
+uiUserChat	[用户聊天]
+
+// HASH_VALUE D46D58FC6B8D9ADD
+// INDEX 2351
+uiDisconnected	[你已断开连接。服务器宕机或网络故障。]
+
+// HASH_VALUE AE4860992787689C
+// INDEX 2352
+uiNorth	[北]
+
+// HASH_VALUE 08BFAC180161B4F6
+// INDEX 2353
+uiPhraseEdit	[编辑动作]
+
+// HASH_VALUE 0000000000000000
+// INDEX 2354
+uiBotChatPhrase	[]
+
+// HASH_VALUE E693F42E181AA6B0
+// INDEX 2355
+uiPhraseFaberExecuteNoPlan	[制作一件物品。]
+
+// HASH_VALUE B32B683C21D844A2
+// INDEX 2356
+uiPhraseFaberSuccessRate	[@{FFF9}成功率：@{T16}@{FFFF}%success%]
+
+// HASH_VALUE 6448649464486494
+// INDEX 2357
+uihelpFaberMpHeader	[%f]
+
+// HASH_VALUE 691ADC89EBA8ECAB
+// INDEX 2358
+uiSpecialPowerFilter	[能力]
+
+// HASH_VALUE 0BA7BB7F6053B08F
+// INDEX 2359
+uiPhraseNoFilter	[全部动作]
+
+// HASH_VALUE DDF9DFF2DBD7A039
+// INDEX 2360
+uiFaberStatGrayed	[首饰只取三项最强的魔法防护与三项最强的抗性生效。\n
+	该项不在其中。]
+
+// HASH_VALUE FE4F223A1E32EE4D
+// INDEX 2361
+uiFaberStatActive	[首饰只取三项最强的魔法防护与三项最强的抗性生效。\n
+	该项属于其中之一。]
+
+// HASH_VALUE FE111FEDCAC2CCFF
+// INDEX 2362
+uiBotChatTeleport	[缔结契约]
+
+// HASH_VALUE 46D0D4D2C8704A4E
+// INDEX 2363
+uiBotChatFaction	[阵营物品]
+
+// HASH_VALUE 4CD4F40C40504414
+// INDEX 2364
+uiBotChatCosmetic	[外观道具]
+
+// HASH_VALUE 4C50540844909410
+// INDEX 2365
+uiBotChatGuildOptions	[建筑]
+
+// HASH_VALUE C03FB834CDA1E31E
+// INDEX 2366
+uiBotChatGuildRoleMaster	[公会职业导师]
+
+// HASH_VALUE B68EBC2A5690E428
+// INDEX 2367
+uiNotEnoughMoney	[资源不足]
+
+// HASH_VALUE F9E1842984B1D438
+// INDEX 2368
+uiBadQuantity	[数量无效]
+
+// HASH_VALUE BD031737C100B723
+// INDEX 2369
+uiPriceNotReceived	[未收到价格]
+
+// HASH_VALUE B614AA16B8B27A44
+// INDEX 2370
+uiWontBuyThis	[我不要买这个]
+
+// HASH_VALUE BFD1AC31C12FB428
+// INDEX 2371
+uiWaitingChoiceFromServer	[正在等待服务器选择]
+
+// HASH_VALUE 3CCCF0FC3CCCF0FC
+// INDEX 2372
+uiMissionOptionNotReceived	[???]
+
+// HASH_VALUE 3CCCF0FC3CCCF0FC
+// INDEX 2373
+uiWebPageNameNotReceived	[???]
+
+// HASH_VALUE 3CCCF0FC3CCCF0FC
+// INDEX 2374
+uiMissionRingNameNotReceived	[???]
+
+// HASH_VALUE FF8F13094B10182E
+// INDEX 2375
+uiNotEnoughGuildMoney	[公会达珀不足]
+
+// HASH_VALUE 3DA1FC030C2E2F31
+// INDEX 2376
+uiNotEnoughGuildXP	[公会经验不足]
+
+// HASH_VALUE 27F8448AE2182C81
+// INDEX 2377
+uiPrice	[价格]
+
+// HASH_VALUE 388C341C42D27448
+// INDEX 2378
+uiBadResalePrice	[转售价格无效]
+
+// HASH_VALUE C6B04C30523074E8
+// INDEX 2379
+uiSellImmediately	[出售给商人]
+
+// HASH_VALUE F781CAC6C0AB8C6D
+// INDEX 2380
+uittDirectSellButton	[立即按基础价格出售 (Shift + ENTER)]
+
+// HASH_VALUE 23773888D2031766
+// INDEX 2381
+uiItemSold	[物品已出售]
+
+// HASH_VALUE 8F4EA6230895FC49
+// INDEX 2382
+uiItemSoldColor	[@{08FF}]
+
+// HASH_VALUE 8D2FDF4710F6FC33
+// INDEX 2383
+uiItemUserSellColor	[@{FF0F}]
+
+// HASH_VALUE 0A4EDF4710F6C325
+// INDEX 2384
+uiItemUserSellColorNotRetirable	[@{FF08}]
+
+// HASH_VALUE 090EA6398DF6EC2F
+// INDEX 2385
+uiItemCannotUseColor	[@{F80B}]
+
+// HASH_VALUE 8B81A201CF47631A
+// INDEX 2386
+uiTotalFPPrice	[%fac F.P. 总计]
+
+// HASH_VALUE 5A19375067E44357
+// INDEX 2387
+uiTipsTitle	[提示 ]
+
+// HASH_VALUE DB59503A8BD2A84D
+// INDEX 2388
+uiTipsEnd	[按上或下键查看下一条或上一条提示。]
+
+// HASH_VALUE 9A983F205D463162
+// INDEX 2389
+uiTipsTeleport	[正在加载大陆 %s，第 %d 天，时间 %d。季节为 %s，天气为 %s。]
+
+// HASH_VALUE 7F3DF004CC42EC2C
+// INDEX 2390
+uiNotEnoughSkillPoints	[技能点数不足]
+
+// HASH_VALUE 649C145038084494
+// INDEX 2391
+uiTargetTwoPoint	[目标：]
+
+// HASH_VALUE B3026E4335D2A536
+// INDEX 2392
+uiNewTitleBold	[你赢得新称号： ]
+
+// HASH_VALUE 6C58D4B46C58D4B4
+// INDEX 2393
+uiMeterUnit	[米]
+
+// HASH_VALUE 6CD8D4AC6CD8D4AC
+// INDEX 2394
+uiKilometerUnit	[公里]
+
+// HASH_VALUE E8CBD85FC6F3F4AD
+// INDEX 2395
+uihelpMission	[任务详情]
+
+// HASH_VALUE ABE830356F5884FB
+// INDEX 2396
+uihelpZCCharge	[领地税责详情]
+
+// HASH_VALUE 125B887C4DB54438
+// INDEX 2397
+uihelpRMBuy	[职业导师详情]
+
+// HASH_VALUE FD7A9490D8293C28
+// INDEX 2398
+uihelpRMUpgrade	[职业导师升级详情]
+
+// HASH_VALUE 70D8CCC46A58948A
+// INDEX 2399
+uihelpBuilding	[建筑详情]
+
+// HASH_VALUE 28493049B158CC0E
+// INDEX 2400
+uihelpZCRequirement	[领地税责要求详情]
+
+// HASH_VALUE 709858306AF9303B
+// INDEX 2401
+uihelpBuildingRequirement	[建筑要求详情]
+
+// HASH_VALUE 70D8CCC46A58948A
+// INDEX 2402
+uihelpOutpostBuilding	[建筑详情]
+
+// HASH_VALUE 8B464C1CFF4C1E26
+// INDEX 2403
+uiQCancelZoneCharge	[你真的要放弃该领地税责吗？]
+
+// HASH_VALUE CE08015DC14A0639
+// INDEX 2404
+uiQDestroyBuilding	[你真的要摧毁该建筑吗？]
+
+// HASH_VALUE 7310DCE362146121
+// INDEX 2405
+uiQReplaceAppartment	[购买这套公寓将摧毁你现有的公寓及其中的全部物品。\n
+	你真的要这样做吗？]
+
+// HASH_VALUE 9E2B48D12EB5C377
+// INDEX 2406
+youShout	[你喊话]
+
+// HASH_VALUE 9AA6DF7D9E7B0CC6
+// INDEX 2407
+youSay	[你说]
+
+// HASH_VALUE 6F0AFCC42EFA14CB
+// INDEX 2408
+heShout	[喊话]
+
+// HASH_VALUE 705C14CC705C14CC
+// INDEX 2409
+heSays	[说]
+
+// HASH_VALUE 9370C2C7FDD63E88
+// INDEX 2410
+uiTeamSelectNotInVision	[该小队成员距离太远，无法选中。]
+
+// HASH_VALUE 68585420781C9490
+// INDEX 2411
+uiHumidity	[湿度]
+
+// HASH_VALUE C3C67F4899A7839B
+// INDEX 2412
+uiTheSeasonIs	[现在是 ]
+
+// HASH_VALUE D2F9D8806618D4D4
+// INDEX 2413
+uiAndTheWeatherIs	[，天气为 ]
+
+// HASH_VALUE 194ECD02D7D4B358
+// INDEX 2414
+uiCommandWrongArgumentCount	[命令参数数量错误。]
+
+// HASH_VALUE 533988971905B457
+// INDEX 2415
+mpSource	[原材料来源]
+
+// HASH_VALUE 36739468C991E31C
+// INDEX 2416
+uittBulkFormat	[@{6F6F}体积@{FFFF}：%v/%m]
+
+// HASH_VALUE 0746E4996B666A49
+// INDEX 2417
+uiBotChatSkillPointCost	[技能点数： ]
+
+// HASH_VALUE 993AC4412A485333
+// INDEX 2418
+uiBotChatSkillPointCostNotReceived	[未收到技能点数花费。]
+
+// HASH_VALUE 5EC0486AA3B48067
+// INDEX 2419
+uittQualityAbbrev	[品质]
+
+// HASH_VALUE D71A56541260A0AA
+// INDEX 2420
+uiForageToolMissing	[你没有采集工具。]
+
+// HASH_VALUE BD75E475F0864D50
+// INDEX 2421
+uiExtractionPhraseMissing	[你的动作栏中没有可用的提取动作。]
+
+// HASH_VALUE A9604559224F1442
+// INDEX 2422
+uittAnimalDeadPopupToolTip	[你的第一只死亡动物消失前的剩余小时数]
+
+// HASH_VALUE C52B629385E0C076
+// INDEX 2423
+uiAnimalSelectNotInVision	[无法选中这只动物，它距离太远。]
+
+// HASH_VALUE 0E6261DD98092B20
+// INDEX 2424
+uiQConfirmFreeAnimal	[你真的要放生这只动物吗？]
+
+// HASH_VALUE C52A2E4C49773F24
+// INDEX 2425
+uiQConfirmFreeAllAnimal	[你真的要放生你的全部动物吗？]
+
+// HASH_VALUE 8773A9CCE8467FD9
+// INDEX 2426
+uiUpdateDisplayDriversNotUpToDate	[你的显卡驱动不是最新版本。]
+
+// HASH_VALUE CECEB1E9359CF0EA
+// INDEX 2427
+uiUpdateDisplayDrivers	[你想升级驱动吗？]
+
+// HASH_VALUE 2F4B742C5031D0AB
+// INDEX 2428
+uiUpdateDisplayDriversCurrent	[当前驱动版本： ]
+
+// HASH_VALUE 0E80AC8A6A399056
+// INDEX 2429
+uiUpdateDisplayDriversRecommanded	[推荐驱动版本： ]
+
+// HASH_VALUE A2A356D00D65D0A6
+// INDEX 2430
+uiUpdateDisplayDriversVendor	[厂商： ]
+
+// HASH_VALUE 61030EBEC724A0A7
+// INDEX 2431
+uiUpdateDisplayDriversCard	[设备： ]
+
+// HASH_VALUE 89273CA24287DB48
+// INDEX 2432
+uiDesktopNotIn32	[要以窗口模式运行 Ryzom，桌面必须设置为 32 位色深。]
+
+// HASH_VALUE 6694E8FCD8E528A4
+// INDEX 2433
+uiPhraseLevelFmt	[需求等级：%d]
+
+// HASH_VALUE A1A9B419D995D468
+// INDEX 2434
+uiPhraseSectionFmt	[需求等级 %min-%max：]
+
+// HASH_VALUE DD459C779E500F5D
+// INDEX 2435
+uiMessageOfTheDay	[打破现实，重获新生！]
+
+// HASH_VALUE C9358B9A5A696C6A
+// INDEX 2436
+uiSendingStatReport	[正在发送统计报告……]
+
+// HASH_VALUE EB5A047893A4ECAD
+// INDEX 2437
+uittPhraseCombatRestrictOK	[动作兼容]
+
+// HASH_VALUE 5555406D1084B091
+// INDEX 2438
+uittPhraseCombatRestrictKO	[动作不兼容]
+
+// HASH_VALUE 0917B47E1C101853
+// INDEX 2439
+uiawrSF	[全部武器与近战]
+
+// HASH_VALUE 97E83B1DA08643BD
+// INDEX 2440
+uiPhraseWRHeader	[仅可与以下搭配使用： ]
+
+// HASH_VALUE 200800B0200800B0
+// INDEX 2441
+uiPhraseWRSeparator	[, ]
+
+// HASH_VALUE 3E67E4291FBB3642
+// INDEX 2442
+uiMoveToNoMoreSlot	[该背包中没有更多空闲槽位]
+
+// HASH_VALUE 918272974F939B3F
+// INDEX 2443
+uiItemMpCanCraft	[可制造： ]
+
+// HASH_VALUE EE573E78DE717BA9
+// INDEX 2444
+uiItemMpNoCraft	[无法用于制造]
+
+// HASH_VALUE 9DAE2A76714C4017
+// INDEX 2445
+uiItemMpCraftRequirement	[制作特殊物品所需]
+
+// HASH_VALUE 56B8DC46AC364383
+// INDEX 2446
+uiBCNotAvailable	[不可用]
+
+// HASH_VALUE AC4BD4932308449E
+// INDEX 2447
+uiResist	[抵抗]
+
+// HASH_VALUE 6D98289465A75487
+// INDEX 2448
+uiEvade	[规避]
+
+// HASH_VALUE 558610745735209D
+// INDEX 2449
+uiInterrupt	[已中断！]
+
+// HASH_VALUE 811450759C22A6E9
+// INDEX 2450
+uiFailure	[失败！]
+
+// HASH_VALUE 5ECD741E95F7341E
+// INDEX 2451
+uittNotEnoughMoney	[你没有足够的达珀购买该物品。]
+
+// HASH_VALUE 923E66223C721EEB
+// INDEX 2452
+uittNotEnoughGuildMoney	[你的公会没有足够的达珀购买该物品]
+
+// HASH_VALUE 9EA0F87CB6A59313
+// INDEX 2453
+uittNotEnoughGuildXP	[你的公会经验不足，无法购买该物品。]
+
+// HASH_VALUE 53D9C9F44CDBDCD8
+// INDEX 2454
+uittNotEnoughSkillPoints	[你的技能点数不足，无法学习该动作。]
+
+// HASH_VALUE 54D3D13C71366CC4
+// INDEX 2455
+uittBCNotAvailable	[你无法从这里取回你的物品，但仍可将其销毁。]
+
+// HASH_VALUE DA255C0E2456B097
+// INDEX 2456
+uittBadQuantity	[你输入的数量无效。]
+
+// HASH_VALUE FEF9AE3B63185136
+// INDEX 2457
+uittBadResalePrice	[你输入的转售价格无效。转售价格不得低于"基础价格"。]
+
+// HASH_VALUE C61CAA56C8BA7AC4
+// INDEX 2458
+uittWontBuyThis	[我不要买这个。]
+
+// HASH_VALUE 12E3008491061489
+// INDEX 2459
+uiAFK	[{AFK}]
+
+// HASH_VALUE C3480F9CE5F4FC70
+// INDEX 2460
+uiCancelingScanData	[正在取消数据扫描，请稍候……]
+
+// HASH_VALUE 661A66B087AD7306
+// INDEX 2461
+uiScanDataSucess	[数据扫描未发现损坏文件。\n
+	请按"关闭"]
+
+// HASH_VALUE 721E5E1A9456EFBF
+// INDEX 2462
+uiScanDataErrors	[数据扫描报告了 %d 个损坏文件，将在下次补丁时完整重新下载。请按"关闭"]
+
+// HASH_VALUE E75AB8609366163E
+// INDEX 2463
+uiErrDataScanning	[错误：数据扫描失败]
+
+// HASH_VALUE 18912791DA6A6861
+// INDEX 2464
+uiCorruptedFile	[文件缺失或损坏： ]
+
+// HASH_VALUE 712A6C2CC21B503C
+// INDEX 2465
+uiDate	[当前日期 ]
+
+// HASH_VALUE 4050340440503404
+// INDEX 2466
+uiAtysianCycle	[AC]
+
+// HASH_VALUE 5890942858909428
+// INDEX 2467
+uiJenaYear	[JY]
+
+// HASH_VALUE 6B61A036022E46B3
+// INDEX 2468
+uiRandomBadParameter	[文本"%s"不是 'random' 命令的有效参数。]
+
+// HASH_VALUE 688B68318DBAC8DB
+// INDEX 2469
+uiItemTextMessageFromCrafter	[@{FFF9}来自工匠的消息：\n
+	@{FFFF}]
+
+// HASH_VALUE A5CD835D83322944
+// INDEX 2470
+uihelpItemConsumableFormat	[@{FFF9}消耗时间：@{T16}@{FFFF}%consumption_time 秒。\n
+	@{FFF9}再使用间隔：@{T16}@{FFFF}%overdose_timer_min 分钟 %overdose_timer_sec\n
+	\n
+	\n
+	@{FFFF}%consumable_effects%custom_text]
+
+// HASH_VALUE 3AE04726A243C91F
+// INDEX 2471
+uiItemConsumableEffectDownCharac	[为你的 @{2F2F}%charac@{FFFF} 提供 @{F22F}%bonus@{FFFF} 点减益\n
+	持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 356C7F1BA243C933
+// INDEX 2472
+uiItemConsumableEffectUpCharac	[为你的 @{2F2F}%charac@{FFFF} 提供 @{2F2F}%bonus@{FFFF} 点增益\n
+	持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE DF3EF99A20B4695F
+// INDEX 2473
+uiItemConsumableEffectModDefenseSuccess	[你的防御被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 3506E5DDEF147CED
+// INDEX 2474
+uiItemConsumableEffectModDodgeSuccess	[你的闪避能力被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE ECEAE5CBEDE43CCA
+// INDEX 2475
+uiItemConsumableEffectModParrySuccess	[你的格挡能力被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 2A117FFC8275CB18
+// INDEX 2476
+uiItemConsumableEffectModMeleeSuccess	[你的近战战斗技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 6FFDDC9A005FC218
+// INDEX 2477
+uiItemConsumableEffectModRangeSuccess	[你的远程战斗技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 6BB2E2D5DACC1DF2
+// INDEX 2478
+uiItemConsumableEffectModMagicSuccess	[你的魔法技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 0643269EF329F766
+// INDEX 2479
+uiItemConsumableEffectModCraftSuccess	[你的制造技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 623EF99BA0545D5F
+// INDEX 2480
+uiItemConsumableEffectModForageSuccess	[你的采集技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE FC96A365A5108A74
+// INDEX 2481
+uiItemConsumableEffectModDesertForageSuccess	[你的沙漠采集技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE C615071883CB86AB
+// INDEX 2482
+uiItemConsumableEffectModForestForageSuccess	[你的森林采集技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE F29FFCD29327D7E5
+// INDEX 2483
+uiItemConsumableEffectModLacustreForageSuccess	[你的湖泊采集技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE FC56675F25BFB89A
+// INDEX 2484
+uiItemConsumableEffectModJungleForageSuccess	[你的丛林采集技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 646834C54196B1B1
+// INDEX 2485
+uiItemConsumableEffectModPrimaryRootForageSuccess	[你的原始根须采集技能被修改 %modifier 点，持续 %minutes 分 %secondes 秒。]
+
+// HASH_VALUE 789B903E4FE50883
+// INDEX 2486
+uiItemConsumableEffectStaminaAura	[@{2F2F}耐力光环@{FFFF}，提供 @{2F2F}%modifier@{FFFF} 点增益，持续 %minutes 分 %secondes 秒，半径 %radius 米。\n
+	目标禁用时间 %targetDisableTime 秒，使用者禁用时间 %userDisableTime 秒。]
+
+// HASH_VALUE 659C9459CECD5FFB
+// INDEX 2487
+uiItemConsumableEffectSapAura	[@{2F2F}树液光环@{FFFF}，提供 @{2F2F}%modifier@{FFFF} 点增益，持续 %minutes 分 %secondes 秒，半径 %radius 米。\n
+	目标禁用时间 %targetDisableTime 秒，使用者禁用时间 %userDisableTime 秒。]
+
+// HASH_VALUE 1B38899A63140B67
+// INDEX 2488
+uiItemConsumableEffectLifeAura	[@{2F2F}生命光环@{FFFF}，提供 @{2F2F}%modifier@{FFFF} 点增益，持续 %minutes 分 %secondes 秒，半径 %radius 米。\n
+	目标禁用时间 %targetDisableTime 秒，使用者禁用时间 %userDisableTime 秒。]
+
+// HASH_VALUE EE240287D7904157
+// INDEX 2489
+uittModMeleeSuccess	[你的近战战斗技能被修改 %modifier 点]
+
+// HASH_VALUE F927C8F48B446158
+// INDEX 2490
+uittModRangeSuccess	[你的远程战斗技能被修改 %modifier 点]
+
+// HASH_VALUE 17F5479C9E396272
+// INDEX 2491
+uittModCraftSuccess	[你的制造技能被修改 %modifier 点]
+
+// HASH_VALUE C2693FC917B27331
+// INDEX 2492
+uittModDefenseSuccess	[你的防御被修改 %modifier 点]
+
+// HASH_VALUE C5C94000A557F4CF
+// INDEX 2493
+uittModDodgeSuccess	[你的闪避能力被修改 %modifier 点]
+
+// HASH_VALUE 74AD40EEA327B4CC
+// INDEX 2494
+uittModParrySuccess	[你的格挡能力被修改 %modifier 点]
+
+// HASH_VALUE 45693FCA97526731
+// INDEX 2495
+uittModForageSuccess	[你的采集技能被修改 %modifier 点]
+
+// HASH_VALUE 8459FE885B530296
+// INDEX 2496
+uittModDesertForageSuccess	[你的沙漠采集技能被修改 %modifier 点]
+
+// HASH_VALUE B4136B89CDB38542
+// INDEX 2497
+uittModForestForageSuccess	[你的森林采集技能被修改 %modifier 点]
+
+// HASH_VALUE 56F25CAD75DC4A2F
+// INDEX 2498
+uittModLacustreForageSuccess	[你的湖泊采集技能被修改 %modifier 点]
+
+// HASH_VALUE 8419C282DB02309C
+// INDEX 2499
+uittModJungleForageSuccess	[你的丛林采集技能被修改 %modifier 点]
+
+// HASH_VALUE 7ACE5BA9F4C7F607
+// INDEX 2500
+uittModPrimaryRootForageSuccess	[你的原始根须采集技能被修改 %modifier 点]
+
+// HASH_VALUE 99285C69E4A58896
+// INDEX 2501
+uiScenarioLevel_Any	[任意]
+
+// HASH_VALUE 99285C69E4A58896
+// INDEX 2502
+uiScenarioOrient_Any	[任意]
+
+// HASH_VALUE E7199C86A5A36BA5
+// INDEX 2503
+uiScenarioOrient_NewbieTraining	[新手训练]
+
+// HASH_VALUE 71C3049F96EB47B4
+// INDEX 2504
+uiScenarioOrient_StoryTelling	[叙事]
+
+// HASH_VALUE 70FB18ADAA39C89D
+// INDEX 2505
+uiScenarioOrient_Mistery	[悬疑]
+
+// HASH_VALUE A21548239C517C02
+// INDEX 2506
+uiScenarioOrient_HackSlash	[砍杀]
+
+// HASH_VALUE 56A8D07F6E67BB8D
+// INDEX 2507
+uiScenarioOrient_GuildTraining	[公会训练]
+
+// HASH_VALUE 2C17789A63E86C8E
+// INDEX 2508
+uiScenarioOrient_Other	[其他]
+
+// HASH_VALUE A4F4910E026E04D9
+// INDEX 2509
+uittFriendsOnlineAbroad	[在其他主大陆或 Ring 场景中连接]
+
+// HASH_VALUE D7686838B0480BA9
+// INDEX 2510
+uittFriendsOffline	[未连接]
+
+// HASH_VALUE 9BC3D805B99BB138
+// INDEX 2511
+uittGuildMemberOnline	[在同一主大陆或 Ring 场景中连接]
+
+// HASH_VALUE A4F4910E026E04D9
+// INDEX 2512
+uittGuildMemberOnlineAbroad	[在其他主大陆或 Ring 场景中连接]
+
+// HASH_VALUE D7686838B0480BA9
+// INDEX 2513
+uittGuildMemberOffline	[未连接]
+
+// HASH_VALUE 9E118F8DA4E4C858
+// INDEX 2514
+uittTargetUnknown	[目标等级未知。]
+
+// HASH_VALUE 0E97E8D2CD5836DA
+// INDEX 2515
+uittTargetLevel	[目标等级：@{6F6F}%min @{FFFF}至 @{6F6F}%max]
+
+// HASH_VALUE 9E39F76DBB00ECE7
+// INDEX 2516
+uittTargetBoss	[等级为 @{6F6F}%n 的首领生物]
+
+// HASH_VALUE 23163435076A9E73
+// INDEX 2517
+uittTargetGuardBoss	[等级为 @{6F6F}%n 的守卫或首领生物]
+
+// HASH_VALUE 2C802BB94A366E80
+// INDEX 2518
+uittTargetNamed	[等级为 @{6F6F}%n 的命名生物]
+
+// HASH_VALUE 9E5240C6E7967FBD
+// INDEX 2519
+uiDefaultChatInput	[** 按回车键发言 **]
+
+// HASH_VALUE 4F1BFC426F18DFC5
+// INDEX 2520
+uiR2EntryPoint	[进入点]
+
+// HASH_VALUE 74DC143464582494
+// INDEX 2521
+uiR2EDstrict	[有主持]
+
+// HASH_VALUE AA08B0916A27EC98
+// INDEX 2522
+uiR2EDliberal	[无主持]
+
+// HASH_VALUE DBFAB22C8879A626
+// INDEX 2523
+uiCP_KeysetName_	[使用方向键移动]
+
+// HASH_VALUE 0ACCC21F27279934
+// INDEX 2524
+uiCP_KeysetTooltip_	[仅使用@{6F6F}方向键@{FFFF}移动你的化身。]
+
+// HASH_VALUE 29153B4A8261F4D2
+// INDEX 2525
+uiRAP_NoSessionForLangFilter	[找到了一些场景，但没有符合所选语言的场景！]
+
+// HASH_VALUE C7846485EB89785C
+// INDEX 2526
+uiRAP_NoSessionFound	[未找到场景]
+
+// HASH_VALUE DB69BDD240B51037
+// INDEX 2527
+uiRAP_NotInvited	[要加入该场景，你必须先获得场景所有者的邀请。请点击"请求邀请"按钮与其联系。]
+
+// HASH_VALUE B1AC34FA292C2E15
+// INDEX 2528
+uiRAP_HowToBeInvited	[你没有该 Ring 场景的邀请。双击该场景，或选中它并使用本窗口右下角的 @{6F6F}"请求邀请"@{FFFF} 按钮，即可向场景所有者发送加入请求。]
+
+// HASH_VALUE 352A6FDF7485BE55
+// INDEX 2529
+uiRAP_JoinFailed	[抱歉，尝试加入场景时发生错误，请重试]
+
+// HASH_VALUE 9C55CB466969C742
+// INDEX 2530
+uiRAP_JoinConfirm	[加入该场景？]
+
+// HASH_VALUE 2A922083176AD879
+// INDEX 2531
+uiRAP_NoRate	[暂无评价]
+
+// HASH_VALUE C7CC9091D253FCB1
+// INDEX 2532
+uiRAP_TellSentTo	[邀请请求已发送给：]
+
+// HASH_VALUE 73CC6FBBDB9441B6
+// INDEX 2533
+uiRingInviteNotification	[<R2_INVITE>你已受邀加入一个 Ring 场景。在 Ring 终端处选中该场景即可直接加入。]
+
+// HASH_VALUE DB910EA8014D380B
+// INDEX 2534
+uiRingInvitationSent	[已被邀请加入该 Ring 场景]
+
+// HASH_VALUE DBF99B6AEE7A6879
+// INDEX 2535
+uiRingPlotItemDesc	[描述： ]
+
+// HASH_VALUE 6904B2319F59B8AE
+// INDEX 2536
+uiRingPlotItemComment	[评论： ]
+
+// HASH_VALUE 63D8688DA6D8349A
+// INDEX 2537
+uiRingPlotItemEmpty	[ - ]
+
+// HASH_VALUE A8A8647065158087
+// INDEX 2538
+uiR2EDLaunchScenario	[启动]
+
+// HASH_VALUE B1E86C96A3B95C96
+// INDEX 2539
+uiR2EDApplyScenarioFilters	[应用]
+
+// HASH_VALUE 001FEF6E892C40E8
+// INDEX 2540
+uiRingWarningInviteFreeTrial	[你无法邀请这名玩家，因为他使用的是免费试用账号，而该场景不允许免费试用玩家加入。\n
+	]
+
+// HASH_VALUE 0FDAAC9109769FFD
+// INDEX 2541
+uiRingWarningBanishedPlayer	[你已被封禁。你已失去启动场景的能力。]
+
+// HASH_VALUE 7484A535D707EA06
+// INDEX 2542
+uiRingLaunchScenarioError	[尝试启动你的场景时发生错误。]
+
+// HASH_VALUE D34A4A98246E6F7A
+// INDEX 2543
+uiRingUpdateScenarioFiltersError	[尝试更新你的场景筛选条件时发生错误。]
+
+// HASH_VALUE 9EA0A0FD78FB3997
+// INDEX 2544
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_NewbieTreeInfo	[@{6F6F}newbieLand 场景\n
+	@{FFFF} WRITE ME]
+
+// HASH_VALUE 69A91C34D4D88F52
+// INDEX 2545
+uiR2EDLoadScenario_InvalidFileName	[无效的文件名]
+
+// HASH_VALUE E082DD6A29896311
+// INDEX 2546
+uiR2EDLoadScenario_Yes	[你的 Atys 知识已足够。]
+
+// HASH_VALUE 18577D9A4E0EA0E9
+// INDEX 2547
+uiR2EDLoadScenario_No	[你的 Atys 知识不足。]
+
+// HASH_VALUE 8B2CEDC612649D91
+// INDEX 2548
+msgCustomizedEmoteNoAnim	[&CHK&你请求仅播放表情动作的动画，但该表情动作没有动画。]
+
+// HASH_VALUE EAFA20514E42BBA3
+// INDEX 2549
+uiBGD_Progress	[补丁进度： ]
+
+// HASH_VALUE 7F3B30F36D90E7CF
+// INDEX 2550
+uiBGD_PatchUpToDate	[Ryzom 已是最新版本。]
+
+// HASH_VALUE 39907708AD43B943
+// INDEX 2551
+uiBGD_PatchError	[补丁错误，请检查磁盘空间与系统设置后重试。]
+
+// HASH_VALUE 1EF6CD9CD14C00BD
+// INDEX 2552
+uiBGD_ProtocolError	[游戏与 Ryzom Downloader 通信错误。请重启 Ryzom，仅在万不得已时使用 Ryzom Downloader 修复安装。]
+
+// HASH_VALUE 26A8FD55064E9186
+// INDEX 2553
+uiBGD_DownloaderDisconnected	[Ryzom Downloader 已停止，请重启 Ryzom。]
+
+// HASH_VALUE 1FD58B5C19984C77
+// INDEX 2554
+uiBGD_Launching	[正在启动 Ryzom Downloader……]
+
+// HASH_VALUE 362A10B37B9728DB
+// INDEX 2555
+uiBGD_LaunchError	[无法启动 Ryzom Downloader……]
+
+// HASH_VALUE 7ECB388114199FF6
+// INDEX 2556
+uiBGD_ShuttingDown	[正在关闭 Ryzom Downloader……]
+
+// HASH_VALUE EEEB21C72DECD132
+// INDEX 2557
+uiBGD_ForciblyShutdown	[Ryzom Downloader 仍在运行但没有响应，你可能需要重启电脑……]
+
+// HASH_VALUE 7E32B3307187D28F
+// INDEX 2558
+uiBGD_FullPatchNeeded	[后台补丁完成后才能访问此功能。后台补丁进度由进度条显示。]
+
+// HASH_VALUE A01CE7B6A9D03D43
+// INDEX 2559
+uiBGD_MainlandCharFullPatchNeeded	[该角色所在位置需后台补丁完成后才能访问。后台补丁进度由进度条显示。]
+
+// HASH_VALUE 201CF438645834D4
+// INDEX 2560
+uiBGD_NotUsed	[未使用]
+
+// HASH_VALUE F40D1B4F626F4271
+// INDEX 2561
+uiBGD_ShutdownFailed	[无法关闭 Ryzom Downloader，你可能需要重启电脑来解决该问题。]
+
+// HASH_VALUE B703221C05EDDEEE
+// INDEX 2562
+uiBGD_InGamePatchIncomplete	[进入 Atys 主大陆和 Ryzom Ring 需要先完成补丁。补丁进度显示在补丁窗口中。]
+
+// HASH_VALUE 40DA4DB418F59CA7
+// INDEX 2563
+uiBGD_InGamePatchIncompleteBC	[请等待补丁完成。]
+
+// HASH_VALUE 0269C693E713F9B0
+// INDEX 2564
+uiBGD_InGamePatchCompletion	[Ryzom 补丁已全部完成！现在你可以进入 Ryzom Ring 或被传送到主大陆！]
+
+// HASH_VALUE C7AD816F15B07E9F
+// INDEX 2565
+uiBGD_MultipleRyzomInstance	[另一个 Ryzom 已在运行，无法启动补丁流程。请关闭另一个 Ryzom 后重试。]
+
+// HASH_VALUE 6B383031692D6A2F
+// INDEX 2566
+msgNoCastWhileMoving	[&CHK&移动时无法施放法术。]
+
+// HASH_VALUE 0C7EDB50CF8E5F8A
+// INDEX 2567
+uiBGD_HandShaking	[正在与补丁程序建立通信（第 %d/%d 次尝试）]
+
+// HASH_VALUE 7018542070185420
+// INDEX 2568
+uiRyzomErrorMsgBoxHelp	[帮助]
+
+// HASH_VALUE C7272835423B4BEB
+// INDEX 2569
+uiQDeleteAction	[你真的要删除该动作吗？]
+
+// HASH_VALUE 47E728F6763B6FDA
+// INDEX 2570
+uiQDeleteMacro	[你真的要删除该宏吗？]
+
+// HASH_VALUE 9E11A88A1CA2FAAC
+// INDEX 2571
+uiQResetUI	[你真的要重置界面吗？]
+
+// HASH_VALUE EC18EC7026582CA0
+// INDEX 2572
+uiCommandNotExists	[未知命令。]
+
+// HASH_VALUE 650D15C4888305BE
+// INDEX 2573
+uittConsiderTargetLevel	[@{6F6F}目标@{FFFF}等级]
+
+// HASH_VALUE 0AB7FA32A8511BE3
+// INDEX 2574
+uittConsiderBoss	[该生物属于@{6F6F}公会挑战@{FFFF}。]
+
+// HASH_VALUE 2AF11D0906C7D2D2
+// INDEX 2575
+uittConsiderBossNpc	[该角色属于@{6F6F}公会级挑战@{FFFF}。]
+
+// HASH_VALUE 8C74A6F550643098
+// INDEX 2576
+uittConsiderNamedOrMiniBoss	[该生物属于@{6F6F}小队级挑战@{FFFF}。]
+
+// HASH_VALUE 359EDEECC69B0BB1
+// INDEX 2577
+uittConsiderUnknownLevel	[目标等级相对于你的等级@{F00F}过高@{FFFF}。\n
+	\n
+	@{888F}注：你只能看到高于自身等级 10 级以内的目标等级。你所在的小队每有一名玩家，该范围增加 10 级。]
+
+// HASH_VALUE 57D08F660BB56E6F
+// INDEX 2578
+uittSeconds	[ 秒 ]
+
+// HASH_VALUE F43D9AD3C83D4D26
+// INDEX 2579
+uittSecondsShort	[ 秒 ]
+
+// HASH_VALUE 73DC6ACDC6DC351A
+// INDEX 2580
+uittMinutesShort	[ 分钟 ]
+
+// HASH_VALUE 328C42C8448C2110
+// INDEX 2581
+uittHoursShort	[ 小时 ]
+
+// HASH_VALUE D9C0A6E4DB46C4AB
+// INDEX 2582
+uittMeters	[ 米]
+
+// HASH_VALUE 9A37BFA3CD952A3E
+// INDEX 2583
+uittSuccessRate	[成功率：@{6F6F}]
+
+// HASH_VALUE FA111C562D322699
+// INDEX 2584
+uittRegenTime	[禁用剩余：@{6F6F}]
+
+// HASH_VALUE 1C388F5C1710ACA6
+// INDEX 2585
+uiScreenshotSaved	[已保存到你的 Ryzom 文件夹。]
+
+// HASH_VALUE 5B008CB3BFE212C7
+// INDEX 2586
+uiUntranslatedToken	[无效标记："%s"。既无返回值，也未指定默认值。]
+
+// HASH_VALUE 200EB441EC195B51
+// INDEX 2587
+uiCurrentLocalAndUtcTime	[当前本地时间为 %local，UTC 时间为 %utc。]
+
+// HASH_VALUE 125A567C47B698C6
+// INDEX 2588
+youTellPlayer	[你密语 %name]
+
+// HASH_VALUE C5878CD4F49A9E18
+// INDEX 2589
+uiPlayerOnline	[&ISE&%s 已上线。]
+
+// HASH_VALUE C666FFDC96558E3E
+// INDEX 2590
+uiPlayerOffline	[&ISE&%s 已离线。]
+
+// HASH_VALUE A735121BBB3AD1A5
+// INDEX 2591
+uiQSetLeader	[你确定要将这名成员设为公会会长吗？]
+
+// HASH_VALUE 6498F4386498F438
+// INDEX 2592
+uigcFxAnisotropicFilterNone	[无]
+
+// HASH_VALUE 4090240840902408
+// INDEX 2593
+uiByte	[B]
+
+// HASH_VALUE 61B9BCDD9CF5F488
+// INDEX 2594
+uiFilterMenuDynamic	[%channel @{T8}/%shortcut]
+
+// HASH_VALUE 27273D41B0FA7DD2
+// INDEX 2595
+uiPlayedTime	[你使用该角色已累计游戏 %time。]
+
+// HASH_VALUE 4046D798ED76B4BE
+// INDEX 2596
+cmdCreateGroupUsage1	[createGroup 命令用法：]
+
+// HASH_VALUE 672F2158D608B33D
+// INDEX 2597
+cmdCreateGroupUsage2	[/createGroup group_name：将你当前全部已装备的物品创建为名为 group_name 的群组]
+
+// HASH_VALUE 281F2D43F2731DEC
+// INDEX 2598
+cmdCreateGroupUsage3	[/createGroup group_name true：将你当前全部已装备的物品创建为名为 group_name 的群组，并为每个空栏位创建一条卸下命令]
+
+// HASH_VALUE 87A04D4E0C663745
+// INDEX 2599
+cmdCreateGroupError	[名为 %name 的群组已存在，无法创建同名群组。]
+
+// HASH_VALUE 57AAD85BEAA4D7B9
+// INDEX 2600
+cmdCreateGroupSuccess1	[群组 %name 创建成功。]
+
+// HASH_VALUE 9C6A88FAC1CEA4DC
+// INDEX 2601
+cmdCreateGroupSuccess2	[群组 %name 创建成功，所有未装备的物品将被移除。]
+
+// HASH_VALUE EBB1FF685D7AFCC7
+// INDEX 2602
+cmdEquipGroupUsage1	[equipGroup 命令用法：]
+
+// HASH_VALUE 0FDFE7D6741FF8C5
+// INDEX 2603
+cmdEquipGroupUsage2	[/equipGroup group_name：从可用背包中取出 group_name 群组的物品并装备。]
+
+// HASH_VALUE 5434105FEEDBCB30
+// INDEX 2604
+cmdEquipGroupError	[无法装备群组 %name：未找到该名称的群组。]
+
+// HASH_VALUE 5B9A98912A55C7C1
+// INDEX 2605
+cmdEquipGroupSuccess	[群组 %name 已成功装备。]
+
+// HASH_VALUE 82B6A399EDB6D0B1
+// INDEX 2606
+cmdDeleteGroupUsage1	[deleteGroup 命令用法：]
+
+// HASH_VALUE 2022F308D2F5591B
+// INDEX 2607
+cmdDeleteGroupUsage2	[/deleteGroup group_name：若存在名为 group_name 的群组，将其删除。]
+
+// HASH_VALUE 06DA351B3C7F2E56
+// INDEX 2608
+cmdDeleteGroupError	[无法删除群组 %name：未找到该名称的群组。]
+
+// HASH_VALUE 19D9DC5BEAA4D7BD
+// INDEX 2609
+cmdDeleteGroupSuccess	[群组 %name 已成功删除。]
+
+// HASH_VALUE ADEA727BDB89387A
+// INDEX 2610
+cmdMoveGroupUsage1	[moveGroup 命令用法：]
+
+// HASH_VALUE 9AF23A3F90C2A5A1
+// INDEX 2611
+cmdMoveGroupUsage2	[/moveGroup group_name destination：将物品从所有可用背包移动到 destination]
+
+// HASH_VALUE 5BE3F613CFC022DC
+// INDEX 2612
+cmdMoveGroupUsage3	[destination 可以是 bag、player_room、guild、pet_animal1、pet_animal2、pet_animal3、pet_animal4 之一]
+
+// HASH_VALUE 063AAC84DBD18975
+// INDEX 2613
+cmdMoveGroupError	[无法将群组 %name 移动到 %inventory：未找到该名称的群组，或目标不是有效的背包。]
+
+// HASH_VALUE 53F23D1089A67059
+// INDEX 2614
+cmdMoveGroupSuccess	[群组 %name 已成功移动到 %inventory。]
+
+// HASH_VALUE AE999B8E9D9143A5
+// INDEX 2615
+cmdListGroupHeader	[可用的物品群组：]
+
+// HASH_VALUE 5BD4C6549B44ABA5
+// INDEX 2616
+cmdListGroupLine	[* %name，内含 %size 件物品。]
+
+// HASH_VALUE 843E4EA6D3404359
+// INDEX 2617
+msgRollDiceLocal	[&SYS&@{FF1F}你在 %min 到 %max 的随机中掷出了 %roll。]
+
+// HASH_VALUE F25F5861435C0FC9
+// INDEX 2618
+uiMP3SoundDisabled	[媒体播放器需要启用声音]
+
