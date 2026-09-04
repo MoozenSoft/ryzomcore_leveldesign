@@ -1599,3 +1599,7650 @@ uiBGD_NormalPriority	[普通优先级]
 // INDEX 285
 uiBGD_PriorityTooltip	[选择 Ryzom 下载器的优先级。如果感觉速度变慢，可以将下载器@{6F6F}暂停@{FFFF}。如果你的机器性能很好，或想加快补丁进程，可选择@{6F6F}普通优先级@{FFFF}]
 
+// HASH_VALUE 7338BC59AC44A449
+// INDEX 286
+uittQuitRyzom	[退出 Ryzom]
+
+// HASH_VALUE 6187AF81E9FAF455
+// INDEX 287
+uittQuitGame	[角色选择]
+
+// HASH_VALUE 1538E0EB43F8ACC9
+// INDEX 288
+uittQuitCancel	[返回游戏]
+
+// HASH_VALUE 6A18C81B8FE8F4B6
+// INDEX 289
+uittLaunchEditor	[场景编辑器]
+
+// HASH_VALUE AF06A35FABD45A88
+// INDEX 290
+uittLead	[小队队长]
+
+// HASH_VALUE 31DAA87FA2275372
+// INDEX 291
+uittSuccessor	[小队继承人]
+
+// HASH_VALUE FB5FBC3D8F01EEF7
+// INDEX 292
+uiPlayerTitle	[头衔：]
+
+// HASH_VALUE 4450141844501418
+// INDEX 293
+uiFameTitle	[名望]
+
+// HASH_VALUE 5190081E8FF0201E
+// INDEX 294
+uiEmoteTitle	[表情动作]
+
+// HASH_VALUE C802E02A0BB10037
+// INDEX 295
+uiEM_Bow	[鞠躬]
+
+// HASH_VALUE 48608C2284318C1F
+// INDEX 296
+uiEM_Cheer	[欢呼]
+
+// HASH_VALUE 12832C398C12E03C
+// INDEX 297
+uiEM_Courtly	[典雅]
+
+// HASH_VALUE 0470640DC490381A
+// INDEX 298
+uiEM_Dance	[舞蹈]
+
+// HASH_VALUE 4C50241040504404
+// INDEX 299
+uiEM_Dramatic	[戏剧性]
+
+// HASH_VALUE C762742B45C16C2C
+// INDEX 300
+uiEM_Heroic	[英勇]
+
+// HASH_VALUE 4010942040109420
+// INDEX 301
+uiEM_Hiha	[Hiha]
+
+// HASH_VALUE CE5108414C220844
+// INDEX 302
+uiEM_Silly	[滑稽]
+
+// HASH_VALUE 4C5084504C54642C
+// INDEX 303
+uiEM_Thankful	[感谢]
+
+// HASH_VALUE 4494145C4494145C
+// INDEX 304
+uiEM_Wave	[挥手]
+
+// HASH_VALUE CBD0C4394911E831
+// INDEX 305
+uimInfos	[信息]
+
+// HASH_VALUE C0222506816F0609
+// INDEX 306
+uiRadarZoom0	[25m]
+
+// HASH_VALUE 01020907C07FFE02
+// INDEX 307
+uiRadarZoom1	[50m]
+
+// HASH_VALUE 6C4C20C46C4C20C4
+// INDEX 308
+uiRadarZoom2	[125m]
+
+// HASH_VALUE 6C0C50C86C0C50C8
+// INDEX 309
+uiRadarZoom3	[250m]
+
+// HASH_VALUE 405E2F458F710411
+// INDEX 310
+uimZoomIn	[放大]
+
+// HASH_VALUE 4CD0F4685454F480
+// INDEX 311
+uimZoomOut	[缩小]
+
+// HASH_VALUE EE1AB066D965CB6A
+// INDEX 312
+uigcUnitMeters	[ 米]
+
+// HASH_VALUE 112BE84E25A4C48A
+// INDEX 313
+uigcUnitChar	[ 个字符]
+
+// HASH_VALUE 2408508024085080
+// INDEX 314
+uigcUnitPercent	[%]
+
+// HASH_VALUE 50582440208C4494
+// INDEX 315
+uigcPreSet	[预设：]
+
+// HASH_VALUE CEA2083E8EF12841
+// INDEX 316
+uigcPreSetLow	[低]
+
+// HASH_VALUE 48B184334741A43B
+// INDEX 317
+uigcPreSetMedium	[中]
+
+// HASH_VALUE 8C42E02F0C01D422
+// INDEX 318
+uigcPreSetNormal	[普通]
+
+// HASH_VALUE 48D0942048D09420
+// INDEX 319
+uigcPreSetHigh	[高]
+
+// HASH_VALUE D292302812911034
+// INDEX 320
+uigcPreSetCustom	[自定义]
+
+// HASH_VALUE 91E2EC368BB3DC36
+// INDEX 321
+uittGCValid	[应用]
+
+// HASH_VALUE CD93F03ECE02BC38
+// INDEX 322
+uittGCCancel	[取消]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 323
+uiGCCancel	[取消]
+
+// HASH_VALUE 91E2EC368BB3DC36
+// INDEX 324
+uiGCApply	[应用]
+
+// HASH_VALUE 48D0B43C48D0B43C
+// INDEX 325
+uiGCOk	[确定]
+
+// HASH_VALUE 741C5450385824D4
+// INDEX 326
+uigcTextureMode	[纹理：]
+
+// HASH_VALUE 14D8DB8825D52063
+// INDEX 327
+uigcScreenRatio	[屏幕比例：]
+
+// HASH_VALUE B19B14CA6FAB24C5
+// INDEX 328
+uigcScreenRatio43	[4:3]
+
+// HASH_VALUE 38C860C438C860C4
+// INDEX 329
+uigcScreenRatio169	[16:9]
+
+// HASH_VALUE F298306832951094
+// INDEX 330
+uigcScreenRatioCustom	[自定义]
+
+// HASH_VALUE F58CB6044EEA9C23
+// INDEX 331
+uigcttScreenRatio	[显示器的@{6F6F}屏幕比例@{FFFF}。\n
+	如果你的显示器不是标准的 4:3 显示器，可以更改此项。\n
+	注意：无需担心像素分辨率（即使你调整过窗口大小），Ryzom 会自行处理。]
+
+// HASH_VALUE 5050241C50D09420
+// INDEX 332
+uigcGraph	[图形]
+
+// HASH_VALUE 4871AC1F06706826
+// INDEX 333
+uigcGeneral	[常规]
+
+// HASH_VALUE 07108C2208C1A426
+// INDEX 334
+uigcLandscape	[地形]
+
+// HASH_VALUE 4340882E4130D421
+// INDEX 335
+uigcSpecialFX	[特效]
+
+// HASH_VALUE CBB2902AC7A1C417
+// INDEX 336
+uigcCharacter	[角色]
+
+// HASH_VALUE 4490143044D01454
+// INDEX 337
+uigcLanguage	[语言]
+
+// HASH_VALUE 4B11801245F1C839
+// INDEX 338
+uigcInterface	[界面]
+
+// HASH_VALUE 8A61DC29CDA19836
+// INDEX 339
+uigcHUD	[HUD]
+
+// HASH_VALUE 8D91AC32CB222C50
+// INDEX 340
+uigcAlphaColor	[窗口]
+
+// HASH_VALUE CAD14012C421CC32
+// INDEX 341
+uigcWinColor	[标题颜色]
+
+// HASH_VALUE 0CB0F444FB91E30C
+// INDEX 342
+uigcWinColorR2	[Ring 标题栏]
+
+// HASH_VALUE 5450840C5450840C
+// INDEX 343
+uigcChatColor	[聊天]
+
+// HASH_VALUE 4B01AC26C830BC29
+// INDEX 344
+uigcEnglish	[ENGLISH]
+
+// HASH_VALUE 4C5024185050140C
+// INDEX 345
+uigcFrancais	[FRANCAIS]
+
+// HASH_VALUE 8D229C20C911A81F
+// INDEX 346
+uigcDeutch	[DEUTSCH]
+
+// HASH_VALUE 0912144D9193DC2A
+// INDEX 347
+uigcRussian	[РУССКИЙ]
+
+// HASH_VALUE CBC1A432CBD2FC37
+// INDEX 348
+uigcSpanish	[ESPANOL]
+
+// HASH_VALUE 11E314364F722841
+// INDEX 349
+uigcInput	[输入]
+
+// HASH_VALUE 4D52DC344F71D43A
+// INDEX 350
+uigcMouse	[鼠标]
+
+// HASH_VALUE 4054542C4494143C
+// INDEX 351
+uigcKeyboard	[键盘]
+
+// HASH_VALUE CC62F0348FC2D43A
+// INDEX 352
+uigcSound	[声音]
+
+// HASH_VALUE 07F1B03C09518420
+// INDEX 353
+uigcLandmarkColor	[地标]
+
+// HASH_VALUE 38D4041838D40418
+// INDEX 354
+uiFPS	[FPS：]
+
+// HASH_VALUE 2A19E06B0573BCB0
+// INDEX 355
+uiGeneralColor	[常规选项]
+
+// HASH_VALUE ABBAA4A89C540447
+// INDEX 356
+uiScreen	[屏幕控制]
+
+// HASH_VALUE 7498F40C74DC14C8
+// INDEX 357
+uiContrast	[对比度]
+
+// HASH_VALUE 6F181CA1ECB71C9B
+// INDEX 358
+uiLuminosity	[亮度]
+
+// HASH_VALUE 6636DC76DF76DC82
+// INDEX 359
+uiGamma	[伽马值]
+
+// HASH_VALUE 7458145C4C906480
+// INDEX 360
+uiWaitVBL	[VBL 同步]
+
+// HASH_VALUE 6CA7B090A988CC8A
+// INDEX 361
+uiFullscreen	[全屏]
+
+// HASH_VALUE A3F2CB94EAD8D0BB
+// INDEX 362
+uiLandGeneral	[地形选项]
+
+// HASH_VALUE 1F160C8228C9A4A6
+// INDEX 363
+uiLand	[地形]
+
+// HASH_VALUE 209C14187058C40C
+// INDEX 364
+uiVision	[远景裁剪]
+
+// HASH_VALUE 23926B7513882442
+// INDEX 365
+uiTileNear	[地块近裁剪]
+
+// HASH_VALUE F0B9B0932419D0A7
+// INDEX 366
+uiThreshold	[品质]
+
+// HASH_VALUE E8FA7468E8B6B2C6
+// INDEX 367
+uiMicroVeget	[微植被]
+
+// HASH_VALUE B1FAC08AE1175C9A
+// INDEX 368
+uiMicroVegetDensity	[密度]
+
+// HASH_VALUE 6348886E4934D4A1
+// INDEX 369
+uiFXGeneral	[特效]
+
+// HASH_VALUE A0EAD4896C97ACBF
+// INDEX 370
+uiFxLimitations	[限制]
+
+// HASH_VALUE 4ABA8451A0F9BC54
+// INDEX 371
+uiFxMaxPoly	[最大多边形数]
+
+// HASH_VALUE 5417F477DEA4E483
+// INDEX 372
+uiFxCloud	[启用云]
+
+// HASH_VALUE F0B9B0932419D0A7
+// INDEX 373
+uiFxCloudQuality	[质量]
+
+// HASH_VALUE 6ABAAC8EDE709CB2
+// INDEX 374
+uiFxCloudUpdate	[更新频率]
+
+// HASH_VALUE A89984725FF26848
+// INDEX 375
+uiFxShadow	[启用阴影]
+
+// HASH_VALUE 1B24C4621310A089
+// INDEX 376
+uiFxBloom	[启用泛光]
+
+// HASH_VALUE 152908826C060CBF
+// INDEX 377
+uiFxSquareBloom	[方形滤镜]
+
+// HASH_VALUE B1FAC08AE1175C9A
+// INDEX 378
+uiFxDensityBloom	[密度]
+
+// HASH_VALUE B2D1AC8FB27D333E
+// INDEX 379
+uiFxTooltipBloom	[你的配置不支持泛光效果。请尝试更新驱动程序。]
+
+// HASH_VALUE 6573D09729FA6452
+// INDEX 380
+uiCharPoly	[角色选项]
+
+// HASH_VALUE 6866348DA0D63882
+// INDEX 381
+uiCharModel	[模型]
+
+// HASH_VALUE 4ABA8451A0F9BC54
+// INDEX 382
+uiCharMaxPoly	[最大多边形数]
+
+// HASH_VALUE C3DAC002D5C9E0FD
+// INDEX 383
+uiCharMaxNotCLod	[高清角色上限]
+
+// HASH_VALUE 209C14187058C40C
+// INDEX 384
+uiCharFarClip	[远景裁剪]
+
+// HASH_VALUE 28E8807DD82152A6
+// INDEX 385
+uiEnableRacialAnimation	[启用种族动画]
+
+// HASH_VALUE 8A61DC29CDA19836
+// INDEX 386
+uiHud	[HUD]
+
+// HASH_VALUE 33832A66F2D875AC
+// INDEX 387
+uiActivateHardwareCursor	[是否启用硬件光标？]
+
+// HASH_VALUE 90A54C8E6B99734F
+// INDEX 388
+uiShowUnderCursor	[在光标下方显示]
+
+// HASH_VALUE A8B74796A9F41865
+// INDEX 389
+uiShowTargeted	[显示所选目标]
+
+// HASH_VALUE 5A081C44E478CB3A
+// INDEX 390
+uiSelectWithRClick	[右键点击也可选中]
+
+// HASH_VALUE 4E72B87EA335E4A3
+// INDEX 391
+uiFollowOnAtk	[跟随被攻击的目标]
+
+// HASH_VALUE 7EB8F3F064C41068
+// INDEX 392
+uiAtkOnSelect	[选中目标后立即攻击]
+
+// HASH_VALUE 6E56639A22D5F44D
+// INDEX 393
+uiCharFade	[角色淡出]
+
+// HASH_VALUE E7C8A475884340BF
+// INDEX 394
+uiCharOpacityMin	[不透明度]
+
+// HASH_VALUE 98FC03AA6A398888
+// INDEX 395
+uiCurrentActionOut	[当前动作动态显示]
+
+// HASH_VALUE 0290135ACB958DD5
+// INDEX 396
+uittCurrentActionOut	[勾选后，@{6F6F}当前动作@{FFFF}将在需要时显示于动作栏的下方/上方。\n
+	取消勾选时，@{6F6F}当前动作@{FFFF}显示于玩家窗口中。]
+
+// HASH_VALUE 2909F07F0AE530C3
+// INDEX 397
+uiGlobalColor	[窗口选项]
+
+// HASH_VALUE 2B46C79BDF46A46A
+// INDEX 398
+uiUIColor	[界面背景颜色]
+
+// HASH_VALUE 6B896489DE73843C
+// INDEX 399
+uiGlobalOpacity	[全局不透明度]
+
+// HASH_VALUE 2683447557870F6A
+// INDEX 400
+uiMouseOverOpacity	[悬停不透明度]
+
+// HASH_VALUE 26836833A153FC85
+// INDEX 401
+uiColorD	[白天]
+
+// HASH_VALUE 64D6E45F9DB1AC89
+// INDEX 402
+uiColorN	[夜晚]
+
+// HASH_VALUE 1526525E29E2BF6C
+// INDEX 403
+uiDefDayCol	[定义白天界面颜色]
+
+// HASH_VALUE 97668B3989A16C9C
+// INDEX 404
+uiDefNightCol	[定义夜晚界面颜色]
+
+// HASH_VALUE 55B65E5D6A42E374
+// INDEX 405
+uittColDay	[选择日间界面颜色]
+
+// HASH_VALUE 18F6AB3ECBD168A1
+// INDEX 406
+uittColNight	[选择夜间界面颜色]
+
+// HASH_VALUE A836B4862BC68C7A
+// INDEX 407
+uiAlphaBG	[背景]
+
+// HASH_VALUE 2E69DC946357548A
+// INDEX 408
+uiAlphaContent	[内容]
+
+// HASH_VALUE A836B4862BC68C7A
+// INDEX 409
+uiAlphaRolloverBG	[背景]
+
+// HASH_VALUE 2E69DC946357548A
+// INDEX 410
+uiAlphaRolloverContent	[内容]
+
+// HASH_VALUE A1E43C6A1BA05492
+// INDEX 411
+uiRolloverAlphaSpeed	[淡出速度]
+
+// HASH_VALUE 9815F856D9671069
+// INDEX 412
+uiChatColors	[聊天颜色与选项]
+
+// HASH_VALUE EB27288CA3A73480
+// INDEX 413
+uiGuildColor	[公会]
+
+// HASH_VALUE 297ABC379F315466
+// INDEX 414
+uittChooseGuildColor	[选择公会消息的颜色]
+
+// HASH_VALUE E978D38D2584EF83
+// INDEX 415
+uiCCDGuild	[选择公会消息颜色]
+
+// HASH_VALUE 6C5854506C585450
+// INDEX 416
+uiTeamColor	[小队]
+
+// HASH_VALUE A858F045E7027B65
+// INDEX 417
+uittChooseTeamColor	[选择小队消息的颜色]
+
+// HASH_VALUE A5EA6CA09BB85759
+// INDEX 418
+uiCCDTeam	[选择小队消息颜色]
+
+// HASH_VALUE 5E793C80E2179C8E
+// INDEX 419
+uiSayColor	[说话]
+
+// HASH_VALUE 275ABB379F315F73
+// INDEX 420
+uittChooseSayColor	[选择“说话”消息的颜色]
+
+// HASH_VALUE 2CF84B3068046726
+// INDEX 421
+uiCCDSay	[选择“说话”消息颜色]
+
+// HASH_VALUE 6F087CA426F894AB
+// INDEX 422
+uiShoutColor	[喊话]
+
+// HASH_VALUE 6D79A36596B58875
+// INDEX 423
+uittChooseShoutColor	[选择“喊话”消息的颜色]
+
+// HASH_VALUE EFA92C1C1110B766
+// INDEX 424
+uiCCDShout	[选择“喊话”消息颜色]
+
+// HASH_VALUE 6C1854506C185450
+// INDEX 425
+uiTellColor	[密语]
+
+// HASH_VALUE AC6A833F58C07C60
+// INDEX 426
+uittChooseTellColor	[选择“密语”消息的颜色]
+
+// HASH_VALUE 56C58C5B98B562B2
+// INDEX 427
+uiCCDTell	[选择“密语”消息颜色]
+
+// HASH_VALUE 7458E45464DC2494
+// INDEX 428
+uiUnivColor	[宇宙]
+
+// HASH_VALUE F60920A6EC859C69
+// INDEX 429
+uittChooseUnivColor	[选择“宇宙”消息的颜色]
+
+// HASH_VALUE 58742265AB7AF8A7
+// INDEX 430
+uiCCDUniv	[选择“宇宙”消息颜色]
+
+// HASH_VALUE A807887AA7B6AC97
+// INDEX 431
+uiRegionColor	[区域]
+
+// HASH_VALUE 29E73B5EE804A06D
+// INDEX 432
+uittChooseRegionColor	[选择地区消息的颜色]
+
+// HASH_VALUE 82820D6BEE8C6D1D
+// INDEX 433
+uittChatEnter	[勾选此选项后，发送消息后不会退出聊天状态。\n
+	也可以使用 @{6F6F}/chat@{FFFF} 指令在两种模式之间切换。]
+
+// HASH_VALUE EA58130CF3F5B8B7
+// INDEX 434
+uiCCDRegion	[选择区域消息颜色]
+
+// HASH_VALUE 6C59A0585505AB92
+// INDEX 435
+uiWinColors	[标题颜色]
+
+// HASH_VALUE 33B8407C33D73C9E
+// INDEX 436
+uiPlaColor	[玩家窗口]
+
+// HASH_VALUE AA489885A0C73C81
+// INDEX 437
+uiAniColor	[动物窗口]
+
+// HASH_VALUE 6B861C80282A00B3
+// INDEX 438
+uiComColor	[通讯窗口]
+
+// HASH_VALUE E3788CA32F79F8B7
+// INDEX 439
+uiInvColor	[动作进度窗口]
+
+// HASH_VALUE ACB9F49C6679849F
+// INDEX 440
+uiOptColor	[配置窗口]
+
+// HASH_VALUE A3A9A0952FF600B0
+// INDEX 441
+uiLabColor	[方位窗口]
+
+// HASH_VALUE 99A4BF4686706A63
+// INDEX 442
+uiMemColor	[公会、小队和聊天窗口]
+
+// HASH_VALUE 7018542070185420
+// INDEX 443
+uiHelColor	[帮助窗口]
+
+// HASH_VALUE E2BAB8852F36D8B0
+// INDEX 444
+uiInfColor	[信息窗口]
+
+// HASH_VALUE 66C8348F22D8407E
+// INDEX 445
+uiTraColor	[交易窗口]
+
+// HASH_VALUE 0A51C82F8B019431
+// INDEX 446
+uiBotColor	[NPC 窗口]
+
+// HASH_VALUE 24097393EA255FA4
+// INDEX 447
+uiCCDPla	[选择玩家窗口标题栏颜色]
+
+// HASH_VALUE 18D9B07954E5C86F
+// INDEX 448
+uiCCDAni	[选择动物窗口标题栏颜色]
+
+// HASH_VALUE ADF6E874E7697B70
+// INDEX 449
+uiCCDCom	[选择通讯窗口标题栏颜色]
+
+// HASH_VALUE EAC95B58DB77F4AD
+// INDEX 450
+uiCCDInv	[选择动作窗口标题栏颜色]
+
+// HASH_VALUE 178AC0955396D88B
+// INDEX 451
+uiCCDOpt	[选择配置窗口标题栏颜色]
+
+// HASH_VALUE 9214186CEF38E8B3
+// INDEX 452
+uiCCDLab	[选择方位窗口标题栏颜色]
+
+// HASH_VALUE D82A1C71C4806F53
+// INDEX 453
+uiCCDMem	[选择公会、小队和聊天窗口标题栏颜色]
+
+// HASH_VALUE DB99DC7FA7986B13
+// INDEX 454
+uiCCDHel	[选择帮助窗口标题栏颜色]
+
+// HASH_VALUE 96B4F860EF38B0BB
+// INDEX 455
+uiCCDInf	[选择信息窗口标题栏颜色]
+
+// HASH_VALUE 6AC7B88C54D4674B
+// INDEX 456
+uiCCDTra	[选择交易窗口标题栏颜色]
+
+// HASH_VALUE C06C14666A188CAE
+// INDEX 457
+uiCCDBot	[选择 NPC 窗口标题栏颜色]
+
+// HASH_VALUE EB776EF9ACA4A455
+// INDEX 458
+uittChoosePlaColor	[选择玩家窗口的标题颜色]
+
+// HASH_VALUE 2C028AB7E8546861
+// INDEX 459
+uittChooseAniColor	[选择动物窗口的标题颜色]
+
+// HASH_VALUE C78C1C5BD85C35CD
+// INDEX 460
+uittChooseComColor	[选择通讯窗口的标题颜色]
+
+// HASH_VALUE DB3E4CA5E9346429
+// INDEX 461
+uittChooseInvColor	[选择动作窗口的标题颜色]
+
+// HASH_VALUE ADE28AB76834586C
+// INDEX 462
+uittChooseOptColor	[选择配置窗口的标题颜色]
+
+// HASH_VALUE 47BC4498ABE05FDC
+// INDEX 463
+uittChooseLabColor	[选择地图窗口的标题颜色]
+
+// HASH_VALUE 46BB036084B05DC2
+// INDEX 464
+uittChooseMemColor	[选择公会、小队和聊天窗口的标题颜色]
+
+// HASH_VALUE E986833A969EB864
+// INDEX 465
+uittChooseHelColor	[选择帮助窗口的标题颜色]
+
+// HASH_VALUE 062C549BD79181CC
+// INDEX 466
+uittChooseInfColor	[选择信息窗口的标题颜色]
+
+// HASH_VALUE 6B878FF20D755458
+// INDEX 467
+uittChooseTraColor	[选择交易窗口的标题颜色]
+
+// HASH_VALUE E41673376980D748
+// INDEX 468
+uittChooseBotColor	[选择 NPC 窗口的标题颜色]
+
+// HASH_VALUE E8340A7E6C9C84B2
+// INDEX 469
+uiLandmarkColors	[地标颜色]
+
+// HASH_VALUE 60DC943460DC9434
+// INDEX 470
+uiLMMiscColor	[杂项]
+
+// HASH_VALUE E728548DA3583884
+// INDEX 471
+uiLMTribeColor	[部落]
+
+// HASH_VALUE A7866C5BE6C4B882
+// INDEX 472
+uiLMBanditColor	[强盗]
+
+// HASH_VALUE ECDA0489A1F70090
+// INDEX 473
+uiLMCitizenColor	[公民]
+
+// HASH_VALUE A8B7F876E1E7DC8A
+// INDEX 474
+uiLMFaunaColor	[动物]
+
+// HASH_VALUE 0CBAE83E27D4E76C
+// INDEX 475
+uiLMFaunaExcelColor	[命名生物]
+
+// HASH_VALUE 6C5C1418705C3484
+// INDEX 476
+uiLMFaunaSupColor	[首领生物]
+
+// HASH_VALUE E428946567656C86
+// INDEX 477
+uiLMForageColor	[采集]
+
+// HASH_VALUE 1AEAEC802B04F080
+// INDEX 478
+uiLMForageExcelColor	[优质材料]
+
+// HASH_VALUE 60886C7E631780A9
+// INDEX 479
+uiLMForageSupColor	[极品材料]
+
+// HASH_VALUE 1C591877A0875485
+// INDEX 480
+uiLMSapColor	[树液]
+
+// HASH_VALUE E8660C859C37187A
+// INDEX 481
+uiLMAmberColor	[琥珀]
+
+// HASH_VALUE 6418F4386418F438
+// INDEX 482
+uiLMNodeColor	[节点]
+
+// HASH_VALUE E7761086DC471C7F
+// INDEX 483
+uiLMFiberColor	[纤维]
+
+// HASH_VALUE 689C1408689C1408
+// INDEX 484
+uiLMBarkColor	[树皮]
+
+// HASH_VALUE 6458544C6458544C
+// INDEX 485
+uiLMSeedColor	[种子]
+
+// HASH_VALUE A9D7349362D75090
+// INDEX 486
+uiLMShellColor	[甲壳]
+
+// HASH_VALUE 2A48648E23983C9C
+// INDEX 487
+uiLMResinColor	[树脂]
+
+// HASH_VALUE 64D8F45C64D8F45C
+// INDEX 488
+uiLMWoodColor	[木材]
+
+// HASH_VALUE 1B163873A244448D
+// INDEX 489
+uiLMOilColor	[油料]
+
+// HASH_VALUE ACFAE49C65875093
+// INDEX 490
+uiLMMissionColor	[任务]
+
+// HASH_VALUE 64D8F41864D8F418
+// INDEX 491
+uiLMFoodColor	[食物]
+
+// HASH_VALUE 2B19E86E278AF49F
+// INDEX 492
+uiLMConstructionColor	[建筑]
+
+// HASH_VALUE 5856546C62D45494
+// INDEX 493
+uiLMGooColor	[胶质]
+
+// HASH_VALUE 6A38D868AC95F082
+// INDEX 494
+uiLMInsectColor	[昆虫]
+
+// HASH_VALUE 6C275C8BA3773096
+// INDEX 495
+uiLMKitinColor	[kitin]
+
+// HASH_VALUE E8B7B47569658C9D
+// INDEX 496
+uiLMNociveColor	[有害]
+
+// HASH_VALUE 697A0079E58B008E
+// INDEX 497
+uiLMPreservativeColor	[防腐剂]
+
+// HASH_VALUE 66FAA49724A8F87D
+// INDEX 498
+uiLMPassageColor	[通道]
+
+// HASH_VALUE 6B88EC9BAA39B095
+// INDEX 499
+uiLMTeleporterColor	[传送点]
+
+// HASH_VALUE E05A9C8958A98361
+// INDEX 500
+uiCCDLMMisc	[选择杂项地标颜色]
+
+// HASH_VALUE E4288B9620348799
+// INDEX 501
+uiCCDLMTribe	[选择部落地标颜色]
+
+// HASH_VALUE 5739A06AD7B428A8
+// INDEX 502
+uiCCDLMBandit	[选择强盗地标颜色]
+
+// HASH_VALUE E7CA5C43940763C4
+// INDEX 503
+uiCCDLMCitizen	[选择公民地标颜色]
+
+// HASH_VALUE E7E9478423F54387
+// INDEX 504
+uiCCDLMFauna	[选择动物地标颜色]
+
+// HASH_VALUE 1B25187E2CE71093
+// INDEX 505
+uiCCDLMFaunaExcel	[选择命名生物地标颜色]
+
+// HASH_VALUE 69898B32519B9484
+// INDEX 506
+uiCCDLMFaunaSup	[选择首领生物地标颜色]
+
+// HASH_VALUE 9689D06BD894FCA6
+// INDEX 507
+uiCCDLMForage	[选择采集地标颜色]
+
+// HASH_VALUE 1578A085ABA62C65
+// INDEX 508
+uiCCDLMForageExcel	[选择优质材料地标颜色]
+
+// HASH_VALUE E016A76EAE366CAB
+// INDEX 509
+uiCCDLMForageSup	[选择极品材料地标颜色]
+
+// HASH_VALUE 9239649D64A43F6E
+// INDEX 510
+uiCCDLMSap	[选择树液地标颜色]
+
+// HASH_VALUE A5B87790E1C47393
+// INDEX 511
+uiCCDLMAmber	[选择琥珀地标颜色]
+
+// HASH_VALUE A169B48A58C94767
+// INDEX 512
+uiCCDLMNode	[选择节点地标颜色]
+
+// HASH_VALUE A5B86795E1C46398
+// INDEX 513
+uiCCDLMFiber	[选择纤维地标颜色]
+
+// HASH_VALUE 1F4A7C7E58297F59
+// INDEX 514
+uiCCDLMBark	[选择树皮地标颜色]
+
+// HASH_VALUE A2798C8F58B94B5D
+// INDEX 515
+uiCCDLMSeed	[选择种子地标颜色]
+
+// HASH_VALUE 67E8639CA3F45F9F
+// INDEX 516
+uiCCDLMShell	[选择甲壳地标颜色]
+
+// HASH_VALUE A6C9579DE2D553A0
+// INDEX 517
+uiCCDLMResin	[选择树脂地标颜色]
+
+// HASH_VALUE A319B49358B97367
+// INDEX 518
+uiCCDLMWood	[选择木材地标颜色]
+
+// HASH_VALUE 94B7849964A43F6A
+// INDEX 519
+uiCCDLMOil	[选择油料地标颜色]
+
+// HASH_VALUE EBA9844C94A78BB3
+// INDEX 520
+uiCCDLMMission	[选择任务地标颜色]
+
+// HASH_VALUE 5F19B48258B97367
+// INDEX 521
+uiCCDLMFood	[选择食物地标颜色]
+
+// HASH_VALUE E319D4876BDAB36E
+// INDEX 522
+uiCCDLMConstruction	[选择建筑地标颜色]
+
+// HASH_VALUE 15679C9164A43F6D
+// INDEX 523
+uiCCDLMGoo	[选择胶质地标颜色]
+
+// HASH_VALUE 978ABC72188444A2
+// INDEX 524
+uiCCDLMInsect	[选择昆虫地标颜色]
+
+// HASH_VALUE A6D96796E2E56399
+// INDEX 525
+uiCCDLMKitin	[选择 kitin 地标颜色]
+
+// HASH_VALUE 98980C7B14941CB5
+// INDEX 526
+uiCCDLMNocive	[选择有害地标颜色]
+
+// HASH_VALUE E5FAE09427EA8F62
+// INDEX 527
+uiCCDLMPreservative	[选择防腐剂地标颜色]
+
+// HASH_VALUE E929644F92486BA2
+// INDEX 528
+uiCCDLMPassage	[选择通道地标颜色]
+
+// HASH_VALUE 97D4788CEF29F499
+// INDEX 529
+uiCCDLMTeleporter	[选择传送点地标颜色]
+
+// HASH_VALUE EAA6733E56914073
+// INDEX 530
+uittChooseLMMiscColor	[选择“杂项”地标的颜色]
+
+// HASH_VALUE AE479F5DD9646C60
+// INDEX 531
+uittChooseLMTribeColor	[选择“部落”地标的颜色]
+
+// HASH_VALUE 27D61B6BE964506F
+// INDEX 532
+uittChooseLMBanditColor	[选择“强盗”地标的颜色]
+
+// HASH_VALUE ECD853A128E58C68
+// INDEX 533
+uittChooseLMCitizenColor	[选择“公民”地标的颜色]
+
+// HASH_VALUE 6A669F5DD9249C6C
+// INDEX 534
+uittChooseLMFaunaColor	[选择“动物”地标的颜色]
+
+// HASH_VALUE 427C0CB81DD414A1
+// INDEX 535
+uittChooseLMFaunaExcelColor	[选择“命名生物”地标的颜色]
+
+// HASH_VALUE B1E934B461F46C74
+// INDEX 536
+uittChooseLMFaunaSupColor	[选择“首领生物”地标的颜色]
+
+// HASH_VALUE AA161B6B25444473
+// INDEX 537
+uittChooseLMForageColor	[选择“采集”地标的颜色]
+
+// HASH_VALUE 06CC8878E82618D2
+// INDEX 538
+uittChooseLMForageExcelColor	[选择“优质材料”地标的颜色]
+
+// HASH_VALUE B76D788968846490
+// INDEX 539
+uittChooseLMForageSupColor	[选择“极品材料”地标的颜色]
+
+// HASH_VALUE 2A67A7335FB09364
+// INDEX 540
+uittChooseLMSapColor	[选择“树液”地标的颜色]
+
+// HASH_VALUE 6D169F5DD9357859
+// INDEX 541
+uittChooseLMAmberColor	[选择“琥珀”地标的颜色]
+
+// HASH_VALUE 6BB6733E56914864
+// INDEX 542
+uittChooseLMNodeColor	[选择“节点”地标的颜色]
+
+// HASH_VALUE E8F6733E56916072
+// INDEX 543
+uittChooseLMBarkColor	[选择“树皮”地标的颜色]
+
+// HASH_VALUE E907733E56914465
+// INDEX 544
+uittChooseLMSeedColor	[选择“种子”地标的颜色]
+
+// HASH_VALUE 2C379F5DD9D4945C
+// INDEX 545
+uittChooseLMShellColor	[选择“甲壳”地标的颜色]
+
+// HASH_VALUE 6B279F5DD9F4886A
+// INDEX 546
+uittChooseLMResinColor	[选择“树脂”地标的颜色]
+
+// HASH_VALUE 6B47733E5691446F
+// INDEX 547
+uittChooseLMWoodColor	[选择“木材”地标的颜色]
+
+// HASH_VALUE 2C26A7335FB09360
+// INDEX 548
+uittChooseLMOilColor	[选择“油料”地标的颜色]
+
+// HASH_VALUE EC7853A1AAD4B467
+// INDEX 549
+uittChooseLMMissionColor	[选择“任务”地标的颜色]
+
+// HASH_VALUE 6B36733E5691446F
+// INDEX 550
+uittChooseLMFoodColor	[选择“食物”地标的颜色]
+
+// HASH_VALUE C54D00B3F2D839DD
+// INDEX 551
+uittChooseLMConstructionColor	[选择“建筑”地标的颜色]
+
+// HASH_VALUE ADA6A7335FB09363
+// INDEX 552
+uittChooseLMGooColor	[选择“胶质”地标的颜色]
+
+// HASH_VALUE 6A461B6BE9045474
+// INDEX 553
+uittChooseLMInsectColor	[选择“昆虫”地标的颜色]
+
+// HASH_VALUE 6CB69F5DD9F4886B
+// INDEX 554
+uittChooseLMKitinColor	[选择“kitin”地标的颜色]
+
+// HASH_VALUE AA961B6B25356464
+// INDEX 555
+uittChooseLMNociveColor	[选择“有害”地标的颜色]
+
+// HASH_VALUE 861EF8B4F2E715DB
+// INDEX 556
+uittChooseLMPreservativeColor	[选择“防腐剂”地标的颜色]
+
+// HASH_VALUE EAA95398A854B467
+// INDEX 557
+uittChooseLMPassageColor	[选择“传送门”地标的颜色]
+
+// HASH_VALUE C45D50B2A7C5F098
+// INDEX 558
+uittChooseLMTeleporterColor	[选择“传送点”地标的颜色]
+
+// HASH_VALUE 2523C4A25CD653BD
+// INDEX 559
+uiMouseOptions	[鼠标选项]
+
+// HASH_VALUE 6317007265F9C8B9
+// INDEX 560
+uiMouseInterface	[界面]
+
+// HASH_VALUE 4D0407315B567C79
+// INDEX 561
+uiDoubleClickSpeed	[双击速度]
+
+// HASH_VALUE A5A608659D81FC91
+// INDEX 562
+uiCursorSpeed	[光标速度]
+
+// HASH_VALUE 9F779F81A115F0AC
+// INDEX 563
+uiCursorAccel	[光标加速]
+
+// HASH_VALUE DF974C8FD112DB5C
+// INDEX 564
+uiMouseHead	[自由视角]
+
+// HASH_VALUE E4F7083D9FA3042E
+// INDEX 565
+uiHeadSpeed	[头部速度]
+
+// HASH_VALUE 6688FC7EE527DB57
+// INDEX 566
+uiHeadAccel	[头部加速]
+
+// HASH_VALUE 6A3CA4D6EA1A84B0
+// INDEX 567
+uiKeybOptions	[键盘选项]
+
+// HASH_VALUE 9F0424681A302497
+// INDEX 568
+uiKeybCamera	[镜头速度]
+
+// HASH_VALUE 6D4AC08F2347449C
+// INDEX 569
+uiKeybCamSpeedMax	[最大]
+
+// HASH_VALUE 6DA9B88DA226649C
+// INDEX 570
+uiKeybCamSpeedMin	[最小]
+
+// HASH_VALUE E484C0A35CC657BC
+// INDEX 571
+uiSoundGeneral	[声音选项]
+
+// HASH_VALUE 2446905727846C7E
+// INDEX 572
+uiSoundOnOff	[启用声音]
+
+// HASH_VALUE BFC0F74D92678833
+// INDEX 573
+uiUseEax	[使用 EAX]
+
+// HASH_VALUE 1427A86DD4B69B84
+// INDEX 574
+uiMaxTracks	[最大音轨数]
+
+// HASH_VALUE 19D9773EAEB8F72D
+// INDEX 575
+uiSoundFSB	[软件缓冲（可能提升 FPS）]
+
+// HASH_VALUE 4F564082D1E5EB6E
+// INDEX 576
+uiSoundSFXVolume	[音效音量]
+
+// HASH_VALUE E8A9FF6969D7AA7F
+// INDEX 577
+uiSoundGameMusicVolume	[音乐音量]
+
+// HASH_VALUE E48970A26427ACA4
+// INDEX 578
+uiSoundPerf	[性能]
+
+// HASH_VALUE EEC7E4856C66BC9C
+// INDEX 579
+uiSoundVolume	[音量]
+
+// HASH_VALUE 4494F4344494F434
+// INDEX 580
+uimGcmMove	[移动]
+
+// HASH_VALUE D0C20C3DC3CF3313
+// INDEX 581
+uimGcmStopMove	[停止移动]
+
+// HASH_VALUE 4810145048101450
+// INDEX 582
+uimGcmTalk	[交谈]
+
+// HASH_VALUE 50D4543850D45438
+// INDEX 583
+uimGcmNews	[新闻]
+
+// HASH_VALUE 87D2D4194CA1B01B
+// INDEX 584
+uimGcmAttack	[攻击]
+
+// HASH_VALUE 47F0D326C6BF74FA
+// INDEX 585
+uimGcmDuel	[提议决斗]
+
+// HASH_VALUE 4160A40AB630D80D
+// INDEX 586
+uimGcmUnDuel	[放弃决斗]
+
+// HASH_VALUE 85ECC827473C942A
+// INDEX 587
+uimGcmPvpChallenge	[提议 PVP 挑战]
+
+// HASH_VALUE FFF1882B7F81A4EC
+// INDEX 588
+uimGcmUnPvpChanllenge	[放弃 PVP 挑战]
+
+// HASH_VALUE 0CCFD42703919807
+// INDEX 589
+uimGcmInvit	[队伍邀请]
+
+// HASH_VALUE 0A014F288A017A25
+// INDEX 590
+uimGcmGuildInvit	[公会邀请]
+
+// HASH_VALUE 54D0F43054D0F430
+// INDEX 591
+uimGcmLoot	[拾取]
+
+// HASH_VALUE C402903B43237001
+// INDEX 592
+uimGcmExtractRM	[提取原材料]
+
+// HASH_VALUE 0C32AC458C93D034
+// INDEX 593
+uimGcmQuartering	[剖割]
+
+// HASH_VALUE 48D0841444D0E404
+// INDEX 594
+uimGcmExchange	[交换]
+
+// HASH_VALUE D001183E0E62FC44
+// INDEX 595
+uimGcmMount	[骑乘]
+
+// HASH_VALUE 8861681185C0B82F
+// INDEX 596
+uimGcmDisengage	[脱离战斗]
+
+// HASH_VALUE 10D2D424BEE04712
+// INDEX 597
+uimGcmQuitTeam	[离开队伍]
+
+// HASH_VALUE 4C90E4244C90E424
+// INDEX 598
+uimGcmInfo	[信息]
+
+// HASH_VALUE 8A70A0F8032FFC36
+// INDEX 599
+uimFollowMe	[跟我来]
+
+// HASH_VALUE 70D8444C70D8444C
+// INDEX 600
+uimGcmStop	[停止]
+
+// HASH_VALUE 6458241864582418
+// INDEX 601
+uimGcmFree	[放生]
+
+// HASH_VALUE 28897B5DEC77428A
+// INDEX 602
+uimGcmEnterStable	[进入马厩]
+
+// HASH_VALUE EDC82852A5045446
+// INDEX 603
+uiQuitGuild	[离开公会]
+
+// HASH_VALUE A58BA0A9ED19FCB6
+// INDEX 604
+uiGuildInfoDes	[描述： ]
+
+// HASH_VALUE 705C1410705C1410
+// INDEX 605
+uiGuildInfoAge	[天]
+
+// HASH_VALUE 697968819F376097
+// INDEX 606
+uiGuildInfoEff	[名成员]
+
+// HASH_VALUE 59BA788624C3D244
+// INDEX 607
+uiGuildInfoHead	[总部： ]
+
+// HASH_VALUE 289714776057E07A
+// INDEX 608
+uiGuildInfoHead2	[Borea]
+
+// HASH_VALUE F8114F799D5216C4
+// INDEX 609
+uiGuildInfoFame	[名望： ]
+
+// HASH_VALUE 18DA0493637139E2
+// INDEX 610
+uiGuildInfoScore	[公会点数： ]
+
+// HASH_VALUE 497168218731E037
+// INDEX 611
+uiGuildMembers	[成员]
+
+// HASH_VALUE 6898144868981448
+// INDEX 612
+uiGuildMemberRank	[职位]
+
+// HASH_VALUE A866AC78E9948897
+// INDEX 613
+uiGuildMemberOnline	[在线]
+
+// HASH_VALUE 7670DC0684E11A41
+// INDEX 614
+uimGuildLeader	[设为会长]
+
+// HASH_VALUE A9E2B8E64A903C35
+// INDEX 615
+uimGuildHighOfficer	[设为高级军官]
+
+// HASH_VALUE EC12B4F78B4CAC3A
+// INDEX 616
+uimGuildOfficer	[设为军官]
+
+// HASH_VALUE F492D4E84EB1E741
+// INDEX 617
+uimGuildRecruiter	[设为招募官]
+
+// HASH_VALUE 7670DC0607411A37
+// INDEX 618
+uimGuildBearer	[设为旗手]
+
+// HASH_VALUE 7670DC0603B11A42
+// INDEX 619
+uimGuildMember	[设为成员]
+
+// HASH_VALUE 872F7C1DFEE0C0F3
+// INDEX 620
+uimGuildKick	[将成员踢出公会]
+
+// HASH_VALUE 9432163D94D5864E
+// INDEX 621
+uiXpGuild	[公会经验： ]
+
+// HASH_VALUE 92E43C49D3A4384E
+// INDEX 622
+uittPutMoney	[存入]
+
+// HASH_VALUE 085298278881D425
+// INDEX 623
+uittGetMoney	[取出]
+
+// HASH_VALUE FE51F742BE8F073C
+// INDEX 624
+uiMoneyFromGuild	[从公会银行取出达珀]
+
+// HASH_VALUE 888FF822C3018E11
+// INDEX 625
+uiMoneyToGuild	[向公会银行存入达珀]
+
+// HASH_VALUE 2ECA178D6F11EF48
+// INDEX 626
+uiOutpostTitleNameOwned	[拥有的前哨站]
+
+// HASH_VALUE 7458441474584414
+// INDEX 627
+uiOutpostTitleStatus	[状态]
+
+// HASH_VALUE 7858244078582440
+// INDEX 628
+uiOutpostTitleCost	[费用]
+
+// HASH_VALUE 2E09138DED59F348
+// INDEX 629
+uiOutpostTitleNameChallenged	[正在攻击的前哨站]
+
+// HASH_VALUE 7858144078581440
+// INDEX 630
+uiOutpostPeace	[和平]
+
+// HASH_VALUE 2C59A808B9105132
+// INDEX 631
+uiOutpostWarDeclaration	[已宣战]
+
+// HASH_VALUE A8FA446AC5C2D0C8
+// INDEX 632
+uiOutpostAttackBefore	[攻击前]
+
+// HASH_VALUE BA86477ED6AA8C96
+// INDEX 633
+uiOutpostAttackRound	[攻击阶段]
+
+// HASH_VALUE 0354A8121D68F9BE
+// INDEX 634
+uiOutpostAttackAfter	[攻击后]
+
+// HASH_VALUE E859E2E286C2C8C3
+// INDEX 635
+uiOutpostDefenseBefore	[防御前]
+
+// HASH_VALUE 983D668BF88673A6
+// INDEX 636
+uiOutpostDefenseRound	[防御阶段]
+
+// HASH_VALUE 6CFCF0264AD844B4
+// INDEX 637
+uiOutpostDefenseAfter	[防御后]
+
+// HASH_VALUE 42E75F8E29188B60
+// INDEX 638
+uiOutpostDescription	[描述： ]
+
+// HASH_VALUE E3E346C84BC5C8A5
+// INDEX 639
+uiOutpostLevel	[等级： ]
+
+// HASH_VALUE 6EFBF746AB75B469
+// INDEX 640
+uittOutpostLevel	[@{6F6F}前哨站等级@{FFFF}\n
+	前哨站等级越高，防御小队的等级就越高，所产材料的等级也越高。]
+
+// HASH_VALUE 197AF48C25ECB435
+// INDEX 641
+uiOutpostOwner	[所有者： ]
+
+// HASH_VALUE 2F68C76D413DA758
+// INDEX 642
+uittOutpostOwner	[拥有此前哨站的公会]
+
+// HASH_VALUE 4B48AC7CBB368441
+// INDEX 643
+uiOutpostTribe	[此前哨站由敌对部落占据。]
+
+// HASH_VALUE 5347F7679616FB97
+// INDEX 644
+uiOutpostAttacker	[攻击方： ]
+
+// HASH_VALUE A29C60CD69C6386E
+// INDEX 645
+uittOutpostAttacker	[当前正在攻击此前哨站的公会]
+
+// HASH_VALUE BB02A78EE3B34EBF
+// INDEX 646
+uiOutpostStatus	[状态： ]
+
+// HASH_VALUE D68AB8507120BC37
+// INDEX 647
+uittOutpostStatus	[前哨站的当前状态]
+
+// HASH_VALUE 458F04DDFF6A6EAF
+// INDEX 648
+uiOutpostCrash	[攻击或防御阶段期间发生的服务器崩溃已取消此前哨站战争。\n
+	为这场战争花费的所有达珀均已退还给各公会（即宣战费、购买小队费等）。]
+
+// HASH_VALUE 8A709A3EBFB0A4E9
+// INDEX 649
+uiOutpostWarStatus	[战争状态]
+
+// HASH_VALUE 6E5A7482C4EE00B2
+// INDEX 650
+uiOutpostLvlThreshold	[最低阈值： ]
+
+// HASH_VALUE 6296E2E90728FFF2
+// INDEX 651
+uittOutpostLvlThreshold	[@{6F6F}最低阈值@{FFFF}是攻击方在其@{6F6F}攻击阶段@{FFFF}期间必须超越的@{6F6F}回合等级@{FFFF}。\n
+	该阈值根据上一次前哨站易主的@{6F6F}攻击阶段@{FFFF}中达到的最高@{6F6F}回合等级@{FFFF}计算得出。\n
+	从那时起，该阈值会以相当缓慢的速度下降。]
+
+// HASH_VALUE 4792246493E57856
+// INDEX 652
+uiOutpostLvlMaxAttacker	[攻击方最高回合等级： ]
+
+// HASH_VALUE 384FE58FF1A62CA0
+// INDEX 653
+uittOutpostLvlMaxAttacker	[攻击方达到的最高@{6F6F}回合等级@{FFFF}。\n
+	即攻击方在其@{6F6F}攻击阶段@{FFFF}期间所能达到的最高@{6F6F}回合等级@{FFFF}。\n
+	]
+
+// HASH_VALUE 48B1FA6555257053
+// INDEX 654
+uiOutpostLvlMaxDefender	[防御方最高回合等级： ]
+
+// HASH_VALUE A9A5CF968DD5501D
+// INDEX 655
+uittOutpostLvlMaxDefender	[防御方达到的最高@{6F6F}回合等级@{FFFF}。\n
+	即防御方在其@{6F6F}防御阶段@{FFFF}期间所能达到的最高@{6F6F}回合等级@{FFFF}。\n
+	]
+
+// HASH_VALUE 2AC7623086A5DCAD
+// INDEX 656
+uiOutpostLvlCurrent	[当前回合等级： ]
+
+// HASH_VALUE CE36AF95996F110D
+// INDEX 657
+uittOutpostLvlCurrent	[当前@{6F6F}回合等级@{FFFF}\n
+	攻击或防御阶段期间，指进攻小队的一方当前达到的@{6F6F}回合等级@{FFFF}。\n
+	]
+
+// HASH_VALUE 6CDA0C8EC6AE00B0
+// INDEX 658
+uiOutpostRoundCur	[当前回合： ]
+
+// HASH_VALUE 280C5A64E033A6AE
+// INDEX 659
+uittOutpostRoundCur	[当前@{6F6F}回合@{FFFF} \n
+	攻击或防御阶段期间，即正在进行中的回合。\n
+	]
+
+// HASH_VALUE 3DC388FE8A8EEF2D
+// INDEX 660
+uiOutpostWarSchedule	[战争时间表]
+
+// HASH_VALUE 50528C8047F81492
+// INDEX 661
+uiOutpostDefHour	[防御时间： ]
+
+// HASH_VALUE F3E48BB10FDA1262
+// INDEX 662
+uittOutpostDefHour	[@{6F6F}防御时间@{FFFF}\n
+	公会希望防守其前哨站的时间（所选时区的@{6F6F}当地时间@{FFFF}）。]
+
+// HASH_VALUE 52718E9047A0FC98
+// INDEX 663
+uiOutpostDefPeriod	[防御阶段： ]
+
+// HASH_VALUE A173BD1DA14A45A2
+// INDEX 664
+uittOutpostDefPeriod	[@{6F6F}防御阶段@{FFFF}\n
+	公会实际防守其前哨站的时间（所选时区的@{6F6F}当地时间@{FFFF}）。]
+
+// HASH_VALUE 87345488DCA85997
+// INDEX 665
+uiOutpostAttPeriod	[攻击阶段： ]
+
+// HASH_VALUE 479AFD7F21DC723E
+// INDEX 666
+uittOutpostAttPeriod	[@{6F6F}攻击阶段@{FFFF}\n
+	攻击公会实际进攻此前哨站的时间（所选时区的@{6F6F}当地时间@{FFFF}）。]
+
+// HASH_VALUE E7CB741DB0B1B8A1
+// INDEX 667
+uiOutpostTimeZone	[时区： ]
+
+// HASH_VALUE 207810C3149695AB
+// INDEX 668
+uittOutpostTimeZone	[选择你的时区以正确显示时间。\n
+	@{6F6F}注意！@{FFFF} 如适用，你必须将夏令时考虑在内。\n
+	@{6F6F}自动模式@{FFFF}也是如此。例如在法国，夏令时期间显示的模式将为 GMT+2（而法国通常为 GMT+1）。]
+
+// HASH_VALUE 7F8EA4FB11304F0C
+// INDEX 669
+uiOutpostDeclareWar	[宣战]
+
+// HASH_VALUE 3DFA26C9EE357F25
+// INDEX 670
+uittOutpostDeclareWar	[对此前哨站宣战\n
+	如果你的公会获胜，将拥有此前哨站。\n
+	]
+
+// HASH_VALUE F64ED3F482D06804
+// INDEX 671
+uiOutpostWarCost	[宣战费用： ]
+
+// HASH_VALUE CAF544A84E2694D6
+// INDEX 672
+uiOutpostWarCostDesc	[向前哨站宣战会消耗公会的达珀（例如在防御回合期间需要为小队付费）。\n
+	 \n
+	这笔金额将从你公会的金库扣除，或从你自己的钱包扣除。\n
+	]
+
+// HASH_VALUE 8F52938208D44C1D
+// INDEX 673
+uiOutpostAttHour	[攻击时间： ]
+
+// HASH_VALUE D585578451CB3AFB
+// INDEX 674
+uittOutpostAttHour	[@{6F6F}攻击时间@{FFFF}\n
+	公会希望攻击该前哨站的时间（所选时区的@{6F6F}当地时间@{FFFF}）。]
+
+// HASH_VALUE CD7124A26E55399A
+// INDEX 675
+uittOutpostSquadDesc	[所选小队的描述]
+
+// HASH_VALUE 50D0544850504454
+// INDEX 676
+uiOutpostSetSquad	[招募]
+
+// HASH_VALUE 605E78394D00F5FA
+// INDEX 677
+uittOutpostSetSquad	[招募此小队以替换所选小队]
+
+// HASH_VALUE 69BA8097AA9AF0C7
+// INDEX 678
+uiOutpostRemoveSquad	[移除]
+
+// HASH_VALUE 0B52F61343D83C92
+// INDEX 679
+uiOutpostInsertSquad	[插入]
+
+// HASH_VALUE 985A6704C990F866
+// INDEX 680
+uittOutpostRemoveSquad	[移除所选小队]
+
+// HASH_VALUE A191CF90F45C112B
+// INDEX 681
+uittOutpostInsertSquad	[将此小队插入到所选小队之前]
+
+// HASH_VALUE 5450441454504414
+// INDEX 682
+uitabOutpostStatus	[状态]
+
+// HASH_VALUE C8F2C42107A1A43A
+// INDEX 683
+uitabOutpostSquads	[小队]
+
+// HASH_VALUE 47B2AC374CA0C02B
+// INDEX 684
+uitabOutpostBuildings	[建筑]
+
+// HASH_VALUE 3F497A4006ECFD5A
+// INDEX 685
+uiOutpostBuildingInfoOwned	[你前哨站内的建筑： ]
+
+// HASH_VALUE F75CACFA4EED0D56
+// INDEX 686
+uiOutpostBuildingInfoNotOwned	[你无法获取更多敌方建筑的信息。]
+
+// HASH_VALUE C37F2F304851D03B
+// INDEX 687
+uiOutpostSSquad	[已出动小队]
+
+// HASH_VALUE 0F3B4563845E6EFF
+// INDEX 688
+uittOutpostSSquad	[已出动防守前哨站的小队。\n
+	出动小队的数量直接取决于@{6F6F}回合等级@{FFFF}。\n
+	]
+
+// HASH_VALUE 08110B32CC11D70D
+// INDEX 689
+uiOutpostTSquad	[待命小队]
+
+// HASH_VALUE F1D1A88C0BDB046E
+// INDEX 690
+uittOutpostTSquad	[已做好准备、正在等待下一回合的小队。\n
+	根据@{6F6F}回合等级@{FFFF}，只有排在前面的“X”支小队会出动。\n
+	]
+
+// HASH_VALUE DB499A35C8B08D6A
+// INDEX 691
+uiOutpostSSquadStart	[回合开始时]
+
+// HASH_VALUE B9DFD98B9078B369
+// INDEX 692
+uittOutpostSSquadStart	[在回合开始时出场的小队]
+
+// HASH_VALUE 5AD05478425A1CA0
+// INDEX 693
+uiOutpostSSquadDuring	[回合期间]
+
+// HASH_VALUE FE99BA6C4B31DDDE
+// INDEX 694
+uittOutpostSSquadDuring	[将在回合期间逐一出场的小队]
+
+// HASH_VALUE DB499A35C8B08D6A
+// INDEX 695
+uiOutpostTSquadStart	[回合开始时]
+
+// HASH_VALUE 96BEF85F8CB24D86
+// INDEX 696
+uittOutpostTSquadStart	[将在回合开始时出场的小队]
+
+// HASH_VALUE 5AD05478425A1CA0
+// INDEX 697
+uiOutpostTSquadDuring	[回合期间]
+
+// HASH_VALUE FE99BA6C4B31DDDE
+// INDEX 698
+uittOutpostTSquadDuring	[将在回合期间逐一出场的小队]
+
+// HASH_VALUE 9344AEB00A6F6FA1
+// INDEX 699
+uiOutpostSquadEditDef	[你正在防守此前哨站。\n
+	@{6F6F}攻击阶段@{FFFF}期间，小队将出动防守此前哨站。\n
+	在此窗口中，你可以查看已出动的小队，并更改即将出动的小队。\n
+	注意：只有高级军官和公会会长才能编辑小队。]
+
+// HASH_VALUE C24385362A0BC5BD
+// INDEX 700
+uiOutpostSquadEditAtt	[你正在攻击此前哨站。\n
+	@{6F6F}防御阶段@{FFFF}期间，小队将出动，攻击试图守住前哨站的防御方。\n
+	在此窗口中，你可以查看已出动的小队，并更改即将出动的小队。\n
+	注意：只有高级军官和公会会长才能编辑小队。]
+
+// HASH_VALUE 3F6F38EC4351C039
+// INDEX 701
+uiOutpostCapital	[战争金库]
+
+// HASH_VALUE B3ECCE9347314BB9
+// INDEX 702
+uiOutpostCapitalDoc	[你在此处编辑的小队不会立刻消耗公会的达珀。\n
+	只有当小队出动参加一个回合时才消耗达珀。\n
+	不过，如果公会的达珀不足以支付一次@{6F6F}小队出动@{FFFF}，将改用默认小队（战斗力弱得多）。\n
+	你还可以@{6F6F}通过前哨站@{FFFF}修改下方的@{6F6F}金库@{FFFF}来限制小队开销。\n
+	每次@{6F6F}小队出动@{FFFF}时，公会与前哨站（如果可能）的@{6F6F}金库@{FFFF}都会减少。\n
+	每当@{6F6F}小队@{FFFF}生还归来（哪怕只剩部分成员），公会与前哨站的@{6F6F}金库@{FFFF}都会增加。\n
+	]
+
+// HASH_VALUE 9E53FA091EB9BCAE
+// INDEX 703
+uiOutpostCapitalHeader	[金库： ]
+
+// HASH_VALUE B5F8EA99B9981482
+// INDEX 704
+uiOutpostCapitalEditOK	[点击编辑前哨站的战争@{6F6F}金库@{FFFF}。]
+
+// HASH_VALUE 0906F15B3A481A8C
+// INDEX 705
+uiOutpostCapitalEditKO	[只有公会会长或高级军官才能编辑前哨站的@{6F6F}金库@{FFFF}。]
+
+// HASH_VALUE 4EFCD05556575B95
+// INDEX 706
+uiOutpostChangeCapital	[更改金库。]
+
+// HASH_VALUE 544777846044A88C
+// INDEX 707
+uiOutpostJoinPVPProposalTitle	[前哨站 PvP]
+
+// HASH_VALUE F15D3DA357B124B7
+// INDEX 708
+uiOutpostJoinPVPProposalDesc	[你正处于前哨站区域。\n
+	你可以参战夺取或防守该前哨站。\n
+	如果你的公会参战，你不能与其为敌（但你可以保持中立）。\n
+	]
+
+// HASH_VALUE 4014440450505444
+// INDEX 709
+uiOutpostJoinPVPAttack	[攻击]
+
+// HASH_VALUE 4490541044944438
+// INDEX 710
+uiOutpostJoinPVPDefend	[防御]
+
+// HASH_VALUE CCB3904308429047
+// INDEX 711
+uiOutpostJoinPVPNeutral	[中立]
+
+// HASH_VALUE 9EB847876D88139A
+// INDEX 712
+uiOutpostJoinPVPAttHeader	[攻击方： ]
+
+// HASH_VALUE BE2731890CE6F18A
+// INDEX 713
+uiOutpostJoinPVPDefHeader	[防御方： ]
+
+// HASH_VALUE D4E792A162074EAE
+// INDEX 714
+uiOutpostJoinPVPDefMarauder	[劫掠部落]
+
+// HASH_VALUE 898B73AF77FC7803
+// INDEX 715
+uiOutpostJoinPVPTimer	[@{FFFA}你将在@{FFFF}%time@{FFFA} 秒后被自动判定为中立。]
+
+// HASH_VALUE EC140A4E5EB2BCBC
+// INDEX 716
+uimGcmOutpostBanishPlayer	[驱逐玩家]
+
+// HASH_VALUE F0B40A46D890F4A4
+// INDEX 717
+uimGcmOutpostBanishGuild	[驱逐公会]
+
+// HASH_VALUE 6C1C54046C1C5404
+// INDEX 718
+uiOutpostAutoTimeZone	[自动]
+
+// HASH_VALUE 86206C19C6A0881A
+// INDEX 719
+uiOutpostDel	[删除]
+
+// HASH_VALUE 02A1240292320B4E
+// INDEX 720
+uiOutpostTitle	[前哨站]
+
+// HASH_VALUE 6498F4686498F468
+// INDEX 721
+uiOutpostSpawnZone	[区域]
+
+// HASH_VALUE 56C5B03EDA2967C1
+// INDEX 722
+uittOutpostSpawn	[小队出动位置]
+
+// HASH_VALUE 9A4AACB397C4CC68
+// INDEX 723
+uittOutpostSquadCost	[小队招募费用]
+
+// HASH_VALUE 30125A91E1959AD0
+// INDEX 724
+uittOutpostSS	[可招募的小队]
+
+// HASH_VALUE E0C7459F9DC969A4
+// INDEX 725
+uiSquadSpawnTitle	[小队出动位置]
+
+// HASH_VALUE 3C02AC03C8AF103A
+// INDEX 726
+uiOutpostSquadShopTitle	[小队招募]
+
+// HASH_VALUE E0F8448127A9A4BA
+// INDEX 727
+uiOutpostSS	[小队]
+
+// HASH_VALUE D0509449F9E26B15
+// INDEX 728
+uiRespawnMapTitle	[复活点地图]
+
+// HASH_VALUE CCC3A83ACD92F438
+// INDEX 729
+uiRespawn	[复活]
+
+// HASH_VALUE 68D8140868D81408
+// INDEX 730
+uittBack	[返回]
+
+// HASH_VALUE 8B4068214CFD7036
+// INDEX 731
+uiLinksTitle	[生效链接]
+
+// HASH_VALUE 90A2E4398C92E83D
+// INDEX 732
+uiLinksCosts	[消耗]
+
+// HASH_VALUE 8DF2E40F4E30100E
+// INDEX 733
+uiStopLinkSpell	[停止法术]
+
+// HASH_VALUE A9B9907EDF18248C
+// INDEX 734
+uiLinkInfo	[详情]
+
+// HASH_VALUE 8BD3A835C7E3803B
+// INDEX 735
+uihIntro	[简介]
+
+// HASH_VALUE 8841AC214512B434
+// INDEX 736
+uihInterfaces	[界面]
+
+// HASH_VALUE 4C1454504C509448
+// INDEX 737
+uihTutorial	[教程]
+
+// HASH_VALUE B6B3373B81C23747
+// INDEX 738
+uihHowTo	[操作指南]
+
+// HASH_VALUE 6A877B926C85805C
+// INDEX 739
+uihHowToSelfHeal	[自我治疗]
+
+// HASH_VALUE 61D5E07D17E7B06B
+// INDEX 740
+uihHowToHealOther	[治疗他人]
+
+// HASH_VALUE 2B2A538C2D64F46F
+// INDEX 741
+uihHowToCastOffensiveSpells	[施放攻击法术]
+
+// HASH_VALUE EAD45086D9D4703E
+// INDEX 742
+uihHowToChangeItemsInHand	[更换手中物品]
+
+// HASH_VALUE ACC9F345E609DB5E
+// INDEX 743
+uihHowToFindRMSources	[寻找原材料]
+
+// HASH_VALUE C7EA20F9D80C6861
+// INDEX 744
+uihHowToExtractRMFromASource	[从资源点提取原材料]
+
+// HASH_VALUE 28F6B84BD6A37CA8
+// INDEX 745
+uihHowToResurectADeadFriend	[复活死亡的朋友]
+
+// HASH_VALUE 6C584424781C94D0
+// INDEX 746
+uihIdentity	[我的属性]
+
+// HASH_VALUE E67874686595BC86
+// INDEX 747
+uihGauges	[我的状态条]
+
+// HASH_VALUE 27E9787FA607C490
+// INDEX 748
+uihTarget	[目标]
+
+// HASH_VALUE E8C62C801EB7048D
+// INDEX 749
+uihHands	[动作栏]
+
+// HASH_VALUE A0C7108A4AA2EB58
+// INDEX 750
+uihMainChat	[主聊天]
+
+// HASH_VALUE 2C2AB88F2237648A
+// INDEX 751
+uihCompas	[罗盘]
+
+// HASH_VALUE AA489885A0C73C81
+// INDEX 752
+uihPA	[动物]
+
+// HASH_VALUE 20176F921EA24061
+// INDEX 753
+uihActionBook	[动作]
+
+// HASH_VALUE 847334492917FB60
+// INDEX 754
+uihTradeNPC	[NPC 交易]
+
+// HASH_VALUE C7123CF2C76344CB
+// INDEX 755
+uihCredits	[制作名单]
+
+// HASH_VALUE 1C591877A0875485
+// INDEX 756
+uiSap	[树液]
+
+// HASH_VALUE A868B095A4A85C8B
+// INDEX 757
+uiStamina	[耐力]
+
+// HASH_VALUE ECE7309DA1C77891
+// INDEX 758
+uiFocus	[专注]
+
+// HASH_VALUE 41E3D738C5300C19
+// INDEX 759
+uiSapBarDisplay	[树液显示]
+
+// HASH_VALUE CC22C83402E0A824
+// INDEX 760
+uiStaBarDisplay	[耐力显示]
+
+// HASH_VALUE 895E302F3D723B38
+// INDEX 761
+uiFocBarDisplay	[专注显示]
+
+// HASH_VALUE D433345651734C4C
+// INDEX 762
+uitabFameYou	[自己]
+
+// HASH_VALUE CB21A82C8BA1B420
+// INDEX 763
+uitabFameGuild	[公会]
+
+// HASH_VALUE 88C1E8368C72EC27
+// INDEX 764
+uitabFameTribes	[部落]
+
+// HASH_VALUE D174344652741C4C
+// INDEX 765
+uitabFamePvp	[PVP]
+
+// HASH_VALUE 6858142C6858142C
+// INDEX 766
+uiFameKami	[Kami]
+
+// HASH_VALUE E8BAAC7F1ED7F090
+// INDEX 767
+uiFameKaravan	[Karavan]
+
+// HASH_VALUE B11894A16659889A
+// INDEX 768
+uiFameFyros	[Fyros]
+
+// HASH_VALUE ABC7588A22682C9D
+// INDEX 769
+uiFameMatis	[Matis]
+
+// HASH_VALUE ECC90886AE770897
+// INDEX 770
+uiFameTryker	[Tryker]
+
+// HASH_VALUE 29D8949365585096
+// INDEX 771
+uiFameZorai	[Zoraï]
+
+// HASH_VALUE 75E4D8329E79B828
+// INDEX 772
+uiFameAllegianceCult	[教派效忠： ]
+
+// HASH_VALUE 8AA4182D9CE8C822
+// INDEX 773
+uiFameAllegianceCiv	[种族效忠： ]
+
+// HASH_VALUE D8AA849A28C56C8B
+// INDEX 774
+uiFameAllegianceCivSetNeutral	[成为中立]
+
+// HASH_VALUE D8AA849A28C56C8B
+// INDEX 775
+uiFameAllegianceCultSetNeutral	[成为中立]
+
+// HASH_VALUE 77E6B622B95448FB
+// INDEX 776
+uiFameAllegianceCivSetNeutralTT	[将种族效忠设为中立]
+
+// HASH_VALUE F0D1D5B5D65C7E37
+// INDEX 777
+uiFameAllegianceCultSetNeutralTT	[将教派效忠设为中立]
+
+// HASH_VALUE 12E4812321F30793
+// INDEX 778
+uiFameAllegianceCivSetNeutralGuildTT	[成为中立后，你的公会将成为无国籍公会，\n
+	不再拥有任何种族效忠。\n
+	只有公会会长可以执行此操作。]
+
+// HASH_VALUE AE8AC62D968D7C91
+// INDEX 779
+uiFameAllegianceCultSetNeutralGuildTT	[成为中立后，你的公会将成为无信者，\n
+	不再拥有任何教派效忠。\n
+	只有公会会长可以执行此操作。]
+
+// HASH_VALUE 5D739D0817C7B25B
+// INDEX 780
+uittFameKOS	[卫兵见到你会立即击杀你]
+
+// HASH_VALUE 159A5C875A391426
+// INDEX 781
+uittFameNoTrade	[无法交易]
+
+// HASH_VALUE 922A408EA4C683AA
+// INDEX 782
+uittFameWeakTrade	[受限交易]
+
+// HASH_VALUE 469A7C724E40CC9A
+// INDEX 783
+uittFameNormal	[正常交易]
+
+// HASH_VALUE 1DD98C4C3E297072
+// INDEX 784
+uiPvpFameAllegiance	[效忠：]
+
+// HASH_VALUE 47EAD801B913A297
+// INDEX 785
+uiPvpFameNoCivAllegiance	[你尚未效忠任何种族。]
+
+// HASH_VALUE EF3939FA4ACF5B6F
+// INDEX 786
+uittPvpFameInfo	[点击玩家窗口中的剑形图标即可激活你的@{2F2F}PvP 标记@{FFFF}。\n
+	若身处本方阵营控制的区域，将获得@{2F2F}增益@{FFFF}。\n
+	若身处对方阵营控制的区域，将受到@{2F2F}减益@{FFFF}。]
+
+// HASH_VALUE 5EB9CE136A1CA81F
+// INDEX 787
+uittPvpFameAllegianceInfo	[击杀对方@{2F2F}阵营@{FFFF}成员或摧毁敌方@{2F2F}尖塔@{FFFF}即可获得点数。]
+
+// HASH_VALUE 3C424447D935F882
+// INDEX 788
+uiPvpEffectInfo	[\n
+	尖塔效果：]
+
+// HASH_VALUE CE41AC3DC9E2F42C
+// INDEX 789
+uiValues	[数值]
+
+// HASH_VALUE 8501644684B26442
+// INDEX 790
+uiRegeneration	[回复]
+
+// HASH_VALUE B009C46E316AAC9F
+// INDEX 791
+uiCarac_HpMax	[体质]
+
+// HASH_VALUE 6618AC8EE6078C96
+// INDEX 792
+uiCarac_HpReg	[新陈代谢]
+
+// HASH_VALUE 649C444C681C74B8
+// INDEX 793
+uiCarac_StaMax	[力量]
+
+// HASH_VALUE 25955F899E549C5C
+// INDEX 794
+uiCarac_StaReg	[平衡]
+
+// HASH_VALUE E45ADC6364A9D486
+// INDEX 795
+uiCarac_SapMax	[智力]
+
+// HASH_VALUE E7D990902817A0A8
+// INDEX 796
+uiCarac_SapReg	[智慧]
+
+// HASH_VALUE A5B85C9A6C5A10B6
+// INDEX 797
+uiCarac_WishMax	[灵巧]
+
+// HASH_VALUE 6C18945C6C18945C
+// INDEX 798
+uiCarac_WishReg	[意志]
+
+// HASH_VALUE 13B2403C13D33C3E
+// INDEX 799
+uiStatusTitle	[状态]
+
+// HASH_VALUE 89C7BB1D992EB754
+// INDEX 800
+uiSkillsTitle	[身份]
+
+// HASH_VALUE 50D494345090F424
+// INDEX 801
+uiJournalTitle	[任务]
+
+// HASH_VALUE C8C3D81FBEEFF42D
+// INDEX 802
+uiMissionDetails	[任务详情]
+
+// HASH_VALUE 2A385872DB360482
+// INDEX 803
+uittMissionAbandon	[放弃]
+
+// HASH_VALUE 68989418645884CC
+// INDEX 804
+uittMissionFinished	[已完成]
+
+// HASH_VALUE 4C90E4244C90E424
+// INDEX 805
+uiInfo	[信息]
+
+// HASH_VALUE C2E0380A83B0380D
+// INDEX 806
+uiPeopleAdd	[添加]
+
+// HASH_VALUE 88659B8D6F6FE8B4
+// INDEX 807
+uiJoinChatQuestion	[要加入群聊吗？]
+
+// HASH_VALUE 4CEEA830C143FF05
+// INDEX 808
+uiJoinGuildProposal	[公会邀请]
+
+// HASH_VALUE 0D520B173C3C8C2F
+// INDEX 809
+uiJoinDuelProposal	[警告 - 决斗邀请]
+
+// HASH_VALUE 201464406C58C40C
+// INDEX 810
+uiJoinClanProposalTitle	[PvP 氏族]
+
+// HASH_VALUE 2CDB049C6657048D
+// INDEX 811
+uiPvpClanNeutral	[中立]
+
+// HASH_VALUE 190C2BCF467374EF
+// INDEX 812
+uiJoinClanProposalDesc	[你正在进入一个氏族 PvP 区域。请选择一个氏族或保持中立。警告：选择氏族可能影响你的名望！ ]
+
+// HASH_VALUE 4B6F401306FF332F
+// INDEX 813
+uiInfosSystem	[我的信息系统]
+
+// HASH_VALUE 1362A01A1341C41F
+// INDEX 814
+uiAscensorTeleportList	[目的地]
+
+// HASH_VALUE 3E32C812CBF2B822
+// INDEX 815
+uiTeleportLocation	[传送地点]
+
+// HASH_VALUE 4DD2CC2D8A42D033
+// INDEX 816
+uimDismiss	[遣散]
+
+// HASH_VALUE 38C1330B8D316F22
+// INDEX 817
+uimSetSuccesor	[设置继承人]
+
+// HASH_VALUE 07E3783F8603C430
+// INDEX 818
+uimTarget	[目标]
+
+// HASH_VALUE CE61A0363F825B1C
+// INDEX 819
+uimTeamCompass	[罗盘目标]
+
+// HASH_VALUE 5190081E8FF0201E
+// INDEX 820
+uimEmotes	[表情动作]
+
+// HASH_VALUE CA95D895A4330EFB
+// INDEX 821
+uimEmote1	[表情动作 1]
+
+// HASH_VALUE 0A95D895A44312FC
+// INDEX 822
+uimEmote2	[表情动作 2]
+
+// HASH_VALUE 4A95D895A45316FD
+// INDEX 823
+uimEmote3	[表情动作 3]
+
+// HASH_VALUE 8B95D895A4631AFE
+// INDEX 824
+uimEmote4	[表情动作 4]
+
+// HASH_VALUE CB95D895A4731EFF
+// INDEX 825
+uimEmote5	[表情动作 5]
+
+// HASH_VALUE 0B95D895A4832200
+// INDEX 826
+uimEmote6	[表情动作 6]
+
+// HASH_VALUE 4B95D895A4932601
+// INDEX 827
+uimEmote7	[表情动作 7]
+
+// HASH_VALUE 4C50F40C5010E404
+// INDEX 828
+uimCommands	[指令]
+
+// HASH_VALUE 490F8B17CB10A82A
+// INDEX 829
+uimCommand1	[指令 1]
+
+// HASH_VALUE 491F8F18CB10A82A
+// INDEX 830
+uimCommand2	[指令 2]
+
+// HASH_VALUE 492F9319CB10A82A
+// INDEX 831
+uimCommand3	[指令 3]
+
+// HASH_VALUE 493F971ACB10A82A
+// INDEX 832
+uimCommand4	[指令 4]
+
+// HASH_VALUE 494F9B1BCB10A82A
+// INDEX 833
+uimCommand5	[指令 5]
+
+// HASH_VALUE 495F9F1CCB10A82A
+// INDEX 834
+uimCommand6	[指令 6]
+
+// HASH_VALUE 10D2D424BEE04712
+// INDEX 835
+uimQuitTeam	[离开小队]
+
+// HASH_VALUE C91FC826BDE3E327
+// INDEX 836
+uimSeedsSharing	[分享金钱]
+
+// HASH_VALUE 48327C47C6837C4B
+// INDEX 837
+uimRemove	[移除]
+
+// HASH_VALUE 41002B370C210010
+// INDEX 838
+uimMoveTo	[移至]
+
+// HASH_VALUE C990E433B73EF808
+// INDEX 839
+uimMoveToIgnoreList	[移至屏蔽列表]
+
+// HASH_VALUE 86401030B69EE00F
+// INDEX 840
+uimMoveToFriendList	[移至好友列表]
+
+// HASH_VALUE 8810A41C4690741F
+// INDEX 841
+uimBlock	[屏蔽]
+
+// HASH_VALUE 4C1054504C105450
+// INDEX 842
+uimTell	[密语]
+
+// HASH_VALUE 8810B0318B11C832
+// INDEX 843
+uimUnBlock	[取消屏蔽]
+
+// HASH_VALUE 5494F44C5494F44C
+// INDEX 844
+uimSort	[排序]
+
+// HASH_VALUE 9192AC377E0EFB1E
+// INDEX 845
+uimRemovePartyChat	[移除群聊]
+
+// HASH_VALUE 88A3AC3CC9D28847
+// INDEX 846
+uimInvite	[邀请加入小队]
+
+// HASH_VALUE C2F074F5BC31D3F8
+// INDEX 847
+uimAddAllGM	[添加所有公会成员]
+
+// HASH_VALUE CAFE901085ED6443
+// INDEX 848
+uimRemoveAllGM	[移除所有公会成员]
+
+// HASH_VALUE 37416C18B6708CF6
+// INDEX 849
+uimAddAllTM	[添加所有小队成员]
+
+// HASH_VALUE 0D9E9030FF1FE325
+// INDEX 850
+uimRemoveAllTM	[移除所有小队成员]
+
+// HASH_VALUE 4FE0F81F8E00C02C
+// INDEX 851
+uitabChatAround	[周围]
+
+// HASH_VALUE 5450E45444D42414
+// INDEX 852
+uitabChatUniverse	[宇宙]
+
+// HASH_VALUE 8801883A87B2AC37
+// INDEX 853
+uitabChatRegion	[地区]
+
+// HASH_VALUE 4C5054504C505450
+// INDEX 854
+uitabChatTeam	[小队]
+
+// HASH_VALUE CB21A82C8BA1B420
+// INDEX 855
+uitabChatGuild	[公会]
+
+// HASH_VALUE 8B8308478F83BC42
+// INDEX 856
+uitabChatSysInfo	[系统信息]
+
+// HASH_VALUE 5050345450503454
+// INDEX 857
+uitabChatUser	[用户]
+
+// HASH_VALUE 4FE0F81F8E00C02C
+// INDEX 858
+uiFilterAround	[周围]
+
+// HASH_VALUE D21E035913A3BF71
+// INDEX 859
+uiFilterMenuAround	[周围 @{T8}/s]
+
+// HASH_VALUE 53C19C5E00E32743
+// INDEX 860
+uiFilterMenuUniverse	[宇宙 @{T8}/u]
+
+// HASH_VALUE E0DD804CC85218F0
+// INDEX 861
+uiFilterMenuRegion	[区域 @{T8}/r]
+
+// HASH_VALUE 1ECFB04DCB621CE4
+// INDEX 862
+uiFilterMenuTeam	[小队 @{T8}/p]
+
+// HASH_VALUE 9C4DCC438DC108DA
+// INDEX 863
+uiFilterMenuGuild	[公会 @{T8}/g]
+
+// HASH_VALUE E077D052719D1EAD
+// INDEX 864
+uittFilterChat	[点击以设置聊天模式]
+
+// HASH_VALUE D0F8CD5A68438599
+// INDEX 865
+uittEmote	[点击以选择并执行表情动作]
+
+// HASH_VALUE 17774BA065F05056
+// INDEX 866
+uittTell	[密语好友]
+
+// HASH_VALUE 64D814506C181480
+// INDEX 867
+uittTakeAll	[全部取出]
+
+// HASH_VALUE 70D824106C181480
+// INDEX 868
+uittDropAll	[全部丢弃]
+
+// HASH_VALUE 45027C0EC8DFAC07
+// INDEX 869
+uiTeamShareTitle	[小队分配]
+
+// HASH_VALUE C6D1A0244A81942F
+// INDEX 870
+uiValidate	[确认]
+
+// HASH_VALUE 8D01D83D0B62F82E
+// INDEX 871
+uiTeamShareItems	[物品]
+
+// HASH_VALUE 781C84E0781C84E0
+// INDEX 872
+uiTeamShareAsks	[x]
+
+// HASH_VALUE 2448509424485094
+// INDEX 873
+uiTeamShareChance	[%]
+
+// HASH_VALUE 0AD1B4324632A827
+// INDEX 874
+uiTeamShareValid	[确认数]
+
+// HASH_VALUE 9CB8AA9BEB75D446
+// INDEX 875
+uiTS_Select	[你的物品选择]
+
+// HASH_VALUE AA48C06E5918ABBA
+// INDEX 876
+uiTS_Items	[物品描述]
+
+// HASH_VALUE 45AC77FED706D39D
+// INDEX 877
+uiTS_Times	[想要此物品的玩家数量]
+
+// HASH_VALUE B67FFCAC2AB534BC
+// INDEX 878
+uiTS_Chances	[获得此物品的概率百分比]
+
+// HASH_VALUE F15568955D65E83D
+// INDEX 879
+uiTS_Valids	[确认分配的玩家]
+
+// HASH_VALUE 0F52F02F4CC3C033
+// INDEX 880
+uitabInvEquip	[装备]
+
+// HASH_VALUE 4120300C01D0480B
+// INDEX 881
+uitabInvBag	[背包]
+
+// HASH_VALUE 45C377438542FE4A
+// INDEX 882
+uitabInvPAMount0	[坐骑 1]
+
+// HASH_VALUE 3E01170D0660370F
+// INDEX 883
+uitabInvPAPacker0	[驮包 1]
+
+// HASH_VALUE 43D02B23C140DA2D
+// INDEX 884
+uitabInvPADemon0	[恶魔 1]
+
+// HASH_VALUE 85C37B43C542064A
+// INDEX 885
+uitabInvPAMount1	[坐骑 2]
+
+// HASH_VALUE 7E011B0E06703B10
+// INDEX 886
+uitabInvPAPacker1	[驮包 2]
+
+// HASH_VALUE 83D02F230140E22D
+// INDEX 887
+uitabInvPADemon1	[恶魔 2]
+
+// HASH_VALUE C5C37F4305420E4A
+// INDEX 888
+uitabInvPAMount2	[坐骑 3]
+
+// HASH_VALUE BE011F0F06803F11
+// INDEX 889
+uitabInvPAPacker2	[驮包 3]
+
+// HASH_VALUE C3D033234140EA2D
+// INDEX 890
+uitabInvPADemon2	[恶魔 3]
+
+// HASH_VALUE 06C383434642164A
+// INDEX 891
+uitabInvPAMount3	[坐骑 4]
+
+// HASH_VALUE FF01231006904312
+// INDEX 892
+uitabInvPAPacker3	[驮包 4]
+
+// HASH_VALUE 04D037238240F22D
+// INDEX 893
+uitabInvPADemon3	[恶魔 4]
+
+// HASH_VALUE CB21A82C8BA1B420
+// INDEX 894
+uitabInvGuild	[公会]
+
+// HASH_VALUE 4CD0F4484CD0F448
+// INDEX 895
+uitabInvRoom	[房间]
+
+// HASH_VALUE 4A9B60EE5DF6980C
+// INDEX 896
+uittDetail	[在详细和紧凑模式之间切换列表显示]
+
+// HASH_VALUE FD72B7455EC7285F
+// INDEX 897
+uittFilterArmor	[过滤@{6F6F}护甲\n
+	@{FFFF}右键点击可仅选中@{6F6F}护甲@{FFFF}。]
+
+// HASH_VALUE E9E3C6E6EE8B69C7
+// INDEX 898
+uittFilterWeapon	[过滤@{6F6F}武器\n
+	@{FFFF}右键点击可仅选中@{6F6F}武器@{FFFF}。]
+
+// HASH_VALUE 55691FEE9A045C17
+// INDEX 899
+uittFilterTool	[过滤@{6F6F}工具\n
+	@{FFFF}右键点击可仅选中@{6F6F}工具@{FFFF}。]
+
+// HASH_VALUE F7EC4C94289E3142
+// INDEX 900
+uittFilterMP	[过滤@{6F6F}材料\n
+	@{FFFF}右键点击可仅选中@{6F6F}材料@{FFFF}。]
+
+// HASH_VALUE 9BDEB6C211CDE882
+// INDEX 901
+uittFilterMissMP	[过滤@{6F6F}任务物品或任务材料\n
+	@{FFFF}右键点击可仅选中@{6F6F}任务物品或任务材料@{FFFF}。]
+
+// HASH_VALUE A524A030BB79C757
+// INDEX 902
+uittMacroUserDefIcon	[点击以自定义图标]
+
+// HASH_VALUE 91831F4AD1484877
+// INDEX 903
+uittNewKeyShortcut	[新按键]
+
+// HASH_VALUE 831B0064D50B1077
+// INDEX 904
+uiEditCmdNone	[未指定]
+
+// HASH_VALUE 8E0034F7CC6030D2
+// INDEX 905
+uiEditCmd	[编辑命令]
+
+// HASH_VALUE 8B22D8258881DC33
+// INDEX 906
+uimMacroExec	[执行]
+
+// HASH_VALUE 5450441454504414
+// INDEX 907
+uimMacroEdit	[编辑]
+
+// HASH_VALUE 4411542844915438
+// INDEX 908
+uimMacroDel	[删除]
+
+// HASH_VALUE C2102B370C320812
+// INDEX 909
+uimMCMoveUp	[上移]
+
+// HASH_VALUE 0C110841C18EFF0A
+// INDEX 910
+uimMCMoveDown	[下移]
+
+// HASH_VALUE 5450441454504414
+// INDEX 911
+uimMCEdit	[编辑]
+
+// HASH_VALUE 4411542844915438
+// INDEX 912
+uimMCDel	[删除]
+
+// HASH_VALUE 4F517B288CF0C80A
+// INDEX 913
+uiKeysPlayerTitle	[玩家按键]
+
+// HASH_VALUE 0C62243E815E1B0A
+// INDEX 914
+uiKeysMovementTitle	[移动按键]
+
+// HASH_VALUE 86221728CBFE040B
+// INDEX 915
+uiKeysActionsTitle	[动作按键]
+
+// HASH_VALUE 4701E034814F03FD
+// INDEX 916
+uiKeysChatTitle	[聊天按键]
+
+// HASH_VALUE 0D823047817F1F05
+// INDEX 917
+uiKeysViewTitle	[视角按键]
+
+// HASH_VALUE FE92BC48F5E3F440
+// INDEX 918
+uiKeysWindowsTitle	[窗口按键]
+
+// HASH_VALUE 8D729B38CFD0FC17
+// INDEX 919
+uiKeysSystemTitle	[系统按键]
+
+// HASH_VALUE C961D836814F2301
+// INDEX 920
+uiKeysEditTitle	[编辑按键]
+
+// HASH_VALUE CBB1F72FFF903726
+// INDEX 921
+uiKeysDebugTitle	[调试按键]
+
+// HASH_VALUE 5054542C5054542C
+// INDEX 922
+uiKeysTitle	[按键]
+
+// HASH_VALUE 300C00C0300C00C0
+// INDEX 923
+uiKey0	[0]
+
+// HASH_VALUE 304C10C4304C10C4
+// INDEX 924
+uiKey1	[1]
+
+// HASH_VALUE 308C20C8308C20C8
+// INDEX 925
+uiKey2	[2]
+
+// HASH_VALUE 30CC30CC30CC30CC
+// INDEX 926
+uiKey3	[3]
+
+// HASH_VALUE 340C40D0340C40D0
+// INDEX 927
+uiKey4	[4]
+
+// HASH_VALUE 344C50D4344C50D4
+// INDEX 928
+uiKey5	[5]
+
+// HASH_VALUE 348C60D8348C60D8
+// INDEX 929
+uiKey6	[6]
+
+// HASH_VALUE 34CC70DC34CC70DC
+// INDEX 930
+uiKey7	[7]
+
+// HASH_VALUE 380C80E0380C80E0
+// INDEX 931
+uiKey8	[8]
+
+// HASH_VALUE 384C90E4384C90E4
+// INDEX 932
+uiKey9	[9]
+
+// HASH_VALUE 300C10C0300C10C0
+// INDEX 933
+uiNumber01	[01]
+
+// HASH_VALUE 300C20C0300C20C0
+// INDEX 934
+uiNumber02	[02]
+
+// HASH_VALUE 300C30C0300C30C0
+// INDEX 935
+uiNumber03	[03]
+
+// HASH_VALUE 340C40C0340C40C0
+// INDEX 936
+uiNumber04	[04]
+
+// HASH_VALUE 340C50C0340C50C0
+// INDEX 937
+uiNumber05	[05]
+
+// HASH_VALUE 340C60C0340C60C0
+// INDEX 938
+uiNumber06	[06]
+
+// HASH_VALUE 340C70C0340C70C0
+// INDEX 939
+uiNumber07	[07]
+
+// HASH_VALUE 380C80C0380C80C0
+// INDEX 940
+uiNumber08	[08]
+
+// HASH_VALUE 380C90C0380C90C0
+// INDEX 941
+uiNumber09	[09]
+
+// HASH_VALUE 304C00C4304C00C4
+// INDEX 942
+uiNumber10	[10]
+
+// HASH_VALUE 304C10C4304C10C4
+// INDEX 943
+uiNumber11	[11]
+
+// HASH_VALUE 304C20C4304C20C4
+// INDEX 944
+uiNumber12	[12]
+
+// HASH_VALUE 304C30C4304C30C4
+// INDEX 945
+uiNumber13	[13]
+
+// HASH_VALUE 344C40C4344C40C4
+// INDEX 946
+uiNumber14	[14]
+
+// HASH_VALUE 344C50C4344C50C4
+// INDEX 947
+uiNumber15	[15]
+
+// HASH_VALUE 344C60C4344C60C4
+// INDEX 948
+uiNumber16	[16]
+
+// HASH_VALUE 344C70C4344C70C4
+// INDEX 949
+uiNumber17	[17]
+
+// HASH_VALUE 384C80C4384C80C4
+// INDEX 950
+uiNumber18	[18]
+
+// HASH_VALUE 384C90C4384C90C4
+// INDEX 951
+uiNumber19	[19]
+
+// HASH_VALUE 308C00C8308C00C8
+// INDEX 952
+uiNumber20	[20]
+
+// HASH_VALUE 4E9F18ED8BBF1020
+// INDEX 953
+uiAssignKey	[指定按键]
+
+// HASH_VALUE 545044145850B480
+// INDEX 954
+uimEditKey	[编辑按键]
+
+// HASH_VALUE CA5EBCFDC54FA429
+// INDEX 955
+uimDeleteKey	[删除按键]
+
+// HASH_VALUE 4E9F18ED8BBF1020
+// INDEX 956
+uimAssignKey	[指定按键]
+
+// HASH_VALUE 641C140C789CF49C
+// INDEX 957
+uiCategory	[类别]
+
+// HASH_VALUE 2717CC855F361882
+// INDEX 958
+uiDebug	[调试]
+
+// HASH_VALUE A0C78B8523131467
+// INDEX 959
+uiDebugToggleHelp	[切换帮助显示]
+
+// HASH_VALUE AFF7DC6CD5D97C72
+// INDEX 960
+uiDebugDisplayInfos	[显示信息]
+
+// HASH_VALUE 246637A11E634C4E
+// INDEX 961
+uiDebugRenderMode	[渲染模式]
+
+// HASH_VALUE A857543DD0C347A9
+// INDEX 962
+uiDebugToggleRender	[切换渲染模式]
+
+// HASH_VALUE 6649DC72C5B847A3
+// INDEX 963
+uiDebugToggleChat	[显示/隐藏界面]
+
+// HASH_VALUE 2D0A3494592F2850
+// INDEX 964
+uiDebugSwitchConsoleDisplay	[切换控制台显示]
+
+// HASH_VALUE AB83D04CA683D493
+// INDEX 965
+uiDebugToggleFly	[切换飞行]
+
+// HASH_VALUE 74DC545074DC5450
+// INDEX 966
+uiDebugTest	[测试]
+
+// HASH_VALUE D344274C52096C85
+// INDEX 967
+uiDebugSetPos	[设置位置]
+
+// HASH_VALUE 3089A824F0492CF4
+// INDEX 968
+uiDebugPacsBorders	[PACS 边界]
+
+// HASH_VALUE 9A0ACC8FADF59360
+// INDEX 969
+uiDebugClusters	[调试集群]
+
+// HASH_VALUE A344F3379C365897
+// INDEX 970
+uiDebugReloadLandscapeIG	[重载地形 IG]
+
+// HASH_VALUE 67B8C4972478508A
+// INDEX 971
+uiDebugProfile	[性能分析]
+
+// HASH_VALUE 58F0A44CC8187CB0
+// INDEX 972
+uiDebugProfileVbLock	[分析 VB 锁定]
+
+// HASH_VALUE E859D05F09290C63
+// INDEX 973
+uiDebugProfileTexture	[分析纹理占用]
+
+// HASH_VALUE D837F09328866CA5
+// INDEX 974
+uiDebugMemoryReport	[内存报告]
+
+// HASH_VALUE 6698C48CDAD274C0
+// INDEX 975
+uiDebugTogglePrimitive	[切换图元显示]
+
+// HASH_VALUE 6F17E36EB117EB87
+// INDEX 976
+uiDebugPrimitiveUp	[上移图元]
+
+// HASH_VALUE EEE7BB629C872C99
+// INDEX 977
+uiDebugPrimitiveDown	[下移图元]
+
+// HASH_VALUE 66B47A30D0B0CCB0
+// INDEX 978
+uiDebugToggle3dFilter	[切换 3D 过滤]
+
+// HASH_VALUE D877B894E2C48891
+// INDEX 979
+uiFilterNumber	[筛选器编号]
+
+// HASH_VALUE EF367C41AA528433
+// INDEX 980
+uiDebugDrawSound	[绘制声音]
+
+// HASH_VALUE FF447C4750E44841
+// INDEX 981
+uiDebugIncCameraHeight	[增大镜头 Z]
+
+// HASH_VALUE FF44343D50E4243C
+// INDEX 982
+uiDebugDecCameraHeight	[减小镜头 Z]
+
+// HASH_VALUE 20D8E42464589450
+// INDEX 983
+uiDebugWeatherIncTime	[增大时间]
+
+// HASH_VALUE 20D8541064589450
+// INDEX 984
+uiDebugWeatherDecTime	[减小时间]
+
+// HASH_VALUE 9748AC8FE2D41894
+// INDEX 985
+uiDebugWeatherTogSeason	[切换季节]
+
+// HASH_VALUE 17685895E4842C8E
+// INDEX 986
+uiDebugWeatherReloadSeason	[重载季节]
+
+// HASH_VALUE E338A0A352E31B5B
+// INDEX 987
+uiDebugWeatherWindTest	[风力测试]
+
+// HASH_VALUE 2AD828386718F006
+// INDEX 988
+uiDebugWeatherReelWeather	[真实天气]
+
+// HASH_VALUE 95481C869F46208E
+// INDEX 989
+uiDebugWeatherUpdateClouds	[更新云层]
+
+// HASH_VALUE 2B69989DD45F9B9F
+// INDEX 990
+uiDebugWeatherTogFunction	[切换天气函数]
+
+// HASH_VALUE 20D8E424705CF420
+// INDEX 991
+uiDebugWeatherIncHour	[增大小时]
+
+// HASH_VALUE 20D85410705CF420
+// INDEX 992
+uiDebugWeatherDecHour	[减小小时]
+
+// HASH_VALUE 6ED970AE66C9BC9B
+// INDEX 993
+uiDebugWeatherStats	[统计]
+
+// HASH_VALUE C1D7A492EB152A66
+// INDEX 994
+uiDebugWeatherDecDispFactor	[减小显示系数]
+
+// HASH_VALUE 0327C897EB152A66
+// INDEX 995
+uiDebugWeatherIncDispFactor	[增大显示系数]
+
+// HASH_VALUE 7458441474584414
+// INDEX 996
+uiEdit	[编辑]
+
+// HASH_VALUE EED744472A4857B3
+// INDEX 997
+uiEditPreviousChar	[上一字符]
+
+// HASH_VALUE 63459C6BCF66D097
+// INDEX 998
+uiEditSelectPreviousChar	[选中上一字符]
+
+// HASH_VALUE 32475C58EB8957A5
+// INDEX 999
+uiEditPreviousWord	[上一词]
+
+// HASH_VALUE E056B87FCF66D097
+// INDEX 1000
+uiEditSelectPreviousWord	[选中上一词]
+
+// HASH_VALUE 27E81C894A033F71
+// INDEX 1001
+uiEditNextChar	[下一字符]
+
+// HASH_VALUE C21AEC705E30E44C
+// INDEX 1002
+uiEditSelectNextChar	[选中下一字符]
+
+// HASH_VALUE 2707289354B48F71
+// INDEX 1003
+uiEditNextWord	[下一词]
+
+// HASH_VALUE C21AEC7058521C74
+// INDEX 1004
+uiEditSelectNextWord	[选中下一词]
+
+// HASH_VALUE 15B7173BA0D6343C
+// INDEX 1005
+uiEditGotoLineBegin	[移至行首]
+
+// HASH_VALUE 6322838A588E7B93
+// INDEX 1006
+uiEditSelectToLineBegin	[选中至行首]
+
+// HASH_VALUE D692D454ECB84C0A
+// INDEX 1007
+uiEditGotoBlockBegin	[移至块首]
+
+// HASH_VALUE D6A73769C8106894
+// INDEX 1008
+uiEditSelectToBlockBegin	[选中至块首]
+
+// HASH_VALUE ABD14E891490A046
+// INDEX 1009
+uiEditGotoLineEnd	[移至行尾]
+
+// HASH_VALUE 14B5F750DC20A089
+// INDEX 1010
+uiEditSelectToLineEnd	[选中至行尾]
+
+// HASH_VALUE D5313C3E6BB71441
+// INDEX 1011
+uiEditGotoBlockEnd	[移至块尾]
+
+// HASH_VALUE 23754E7BD0D41857
+// INDEX 1012
+uiEditSelectToBlockEnd	[选中至块尾]
+
+// HASH_VALUE 31E734546AD857A6
+// INDEX 1013
+uiEditPreviousLine	[上一行]
+
+// HASH_VALUE 27171C8A10A36371
+// INDEX 1014
+uiEditNextLine	[下一行]
+
+// HASH_VALUE DD682F7D9E221C5A
+// INDEX 1015
+uiEditDeleteChar	[删除字符]
+
+// HASH_VALUE 781CF40C781CF40C
+// INDEX 1016
+uiEditCopy	[复制]
+
+// HASH_VALUE AA99288A65A82C9C
+// INDEX 1017
+uiEditPaste	[粘贴]
+
+// HASH_VALUE 1A19886FA70684A1
+// INDEX 1018
+uiEditCut	[剪切]
+
+// HASH_VALUE 1DC31C421F33AC8E
+// INDEX 1019
+uiEditSelectAll	[全选]
+
+// HASH_VALUE E748D868AD958891
+// INDEX 1020
+uiEditExpand	[展开]
+
+// HASH_VALUE 68D8140868D81408
+// INDEX 1021
+uiEditBack	[退格]
+
+// HASH_VALUE 1A151D0AE1D3564D
+// INDEX 1022
+uittSelectBrick	[点击此处选择根节]
+
+// HASH_VALUE 09D17C144450882A
+// INDEX 1023
+uiDefenseTitle	[防御]
+
+// HASH_VALUE 06F0741FC6D08014
+// INDEX 1024
+uiStyle1	[闪避]
+
+// HASH_VALUE CE63F43C8CD3F44D
+// INDEX 1025
+uiStyle2	[格挡]
+
+// HASH_VALUE C660981A89B09825
+// INDEX 1026
+uiDefenseReset	[全部]
+
+// HASH_VALUE F16A2C2DD657C36B
+// INDEX 1027
+uittDefenseHead	[保护你的头部]
+
+// HASH_VALUE 30E7D79009253469
+// INDEX 1028
+uittDefenseChest	[保护你的胸部]
+
+// HASH_VALUE F16A2C3C5797D36B
+// INDEX 1029
+uittDefenseLegs	[保护你的腿部]
+
+// HASH_VALUE F16A2C3DD737BB6B
+// INDEX 1030
+uittDefenseFeet	[保护你的脚部]
+
+// HASH_VALUE F16A2C3C1CB8A76B
+// INDEX 1031
+uittDefenseArms	[保护你的手臂]
+
+// HASH_VALUE 30E7D3818DB54869
+// INDEX 1032
+uittDefenseHands	[保护你的手部]
+
+// HASH_VALUE 859D0F0F454F5314
+// INDEX 1033
+uiInventoryTitle	[背包]
+
+// HASH_VALUE 4CD0F4484CD0F448
+// INDEX 1034
+uiInvRoomTitle	[房间]
+
+// HASH_VALUE 4C03E42C4BC1F03F
+// INDEX 1035
+uiInvEquipTitle	[装备]
+
+// HASH_VALUE 0D00103A0A41EC39
+// INDEX 1036
+uiMoneyTitle	[达珀]
+
+// HASH_VALUE 4E01CC340A32D42F
+// INDEX 1037
+uiArmorTitle	[护甲]
+
+// HASH_VALUE C8C0AC2006B1842D
+// INDEX 1038
+uiHandsTitle	[手部]
+
+// HASH_VALUE 4EB2B82B0902EC41
+// INDEX 1039
+uiJewelryTitle	[首饰]
+
+// HASH_VALUE D001183E0E62FC44
+// INDEX 1040
+uimMount	[骑乘]
+
+// HASH_VALUE D001003F0E52184C
+// INDEX 1041
+uimUnmount	[下骑]
+
+// HASH_VALUE CEE008278E802830
+// INDEX 1042
+uimFollow	[跟随]
+
+// HASH_VALUE 8DB310280F92143A
+// INDEX 1043
+uimAssist	[协助]
+
+// HASH_VALUE 50D0444C50D0444C
+// INDEX 1044
+uimStop	[停止]
+
+// HASH_VALUE 4450241844502418
+// INDEX 1045
+uimFree	[放生]
+
+// HASH_VALUE C871D8124A4EEC11
+// INDEX 1046
+uimForgetMacro	[移除宏]
+
+// HASH_VALUE 46F2302652C1B04C
+// INDEX 1047
+uimCristalize	[晶化]
+
+// HASH_VALUE 2C66B0612A24EC7E
+// INDEX 1048
+uittHelmet	[头盔]
+
+// HASH_VALUE 6858E4646EF64AD0
+// INDEX 1049
+uittChest	[胸部护甲]
+
+// HASH_VALUE 6939C49063482C79
+// INDEX 1050
+uittArms	[护臂]
+
+// HASH_VALUE 31B60862AF342480
+// INDEX 1051
+uittHands	[手套]
+
+// HASH_VALUE 99B8478C5686E87A
+// INDEX 1052
+uittLegs	[腿部护甲]
+
+// HASH_VALUE AF57509863476498
+// INDEX 1053
+uittFeet	[靴子]
+
+// HASH_VALUE DC275093EA09708E
+// INDEX 1054
+uittHeaddress	[头冠]
+
+// HASH_VALUE 68D8543864D814B0
+// INDEX 1055
+uittNeck	[项链]
+
+// HASH_VALUE AFC8E42A2E7864FE
+// INDEX 1056
+uittEarl	[左耳环]
+
+// HASH_VALUE 6033DC9A935833A3
+// INDEX 1057
+uittEarr	[右耳环]
+
+// HASH_VALUE 6B147B889CD5985B
+// INDEX 1058
+uittWristl	[左手镯]
+
+// HASH_VALUE 5A69847FE8D5BF6D
+// INDEX 1059
+uittWristr	[右手镯]
+
+// HASH_VALUE 22F61C8A9104335F
+// INDEX 1060
+uittFingerl	[左戒指]
+
+// HASH_VALUE A7A66786D607639B
+// INDEX 1061
+uittFingerr	[右戒指]
+
+// HASH_VALUE 9B65B45F94B71C58
+// INDEX 1062
+uittAnklel	[左脚环]
+
+// HASH_VALUE EC567B836DF456A5
+// INDEX 1063
+uittAnkler	[右脚环]
+
+// HASH_VALUE 4B7FC42C020EF005
+// INDEX 1064
+uiSelMoney2Give	[选择要给出的达珀]
+
+// HASH_VALUE 48D0841444D0E404
+// INDEX 1065
+uiTrade2Player	[交换]
+
+// HASH_VALUE 4EA04B244AB09CFE
+// INDEX 1066
+uiPlayerName	[玩家名字]
+
+// HASH_VALUE C172980D4C211332
+// INDEX 1067
+uiOtherGive	[对方给予]
+
+// HASH_VALUE 8D01D83D0B62F82E
+// INDEX 1068
+uiItems	[物品]
+
+// HASH_VALUE 517E042ECC6C1C23
+// INDEX 1069
+uiPlayerGive	[你给出]
+
+// HASH_VALUE 878180150661C424
+// INDEX 1070
+uiAccept	[接受]
+
+// HASH_VALUE 4C22943D48E3943E
+// INDEX 1071
+uiRefuse	[拒绝]
+
+// HASH_VALUE 439F334184006A32
+// INDEX 1072
+uiTradeWith	[与谁交易？]
+
+// HASH_VALUE 52695C9F2AB4C366
+// INDEX 1073
+uittSetMoney	[设定金额]
+
+// HASH_VALUE CB0A8036EB06B7B0
+// INDEX 1074
+uittClearMoney	[清空金额]
+
+// HASH_VALUE 4C30A02C08D0E82E
+// INDEX 1075
+uiMacrosTitle	[宏]
+
+// HASH_VALUE 2D19632A97548F17
+// INDEX 1076
+uiQestionQuit	[你想去哪里？]
+
+// HASH_VALUE 1365D0771A40629D
+// INDEX 1077
+uiServerStalled	[请稍候……]
+
+// HASH_VALUE CB21A82C8BA1B420
+// INDEX 1078
+uimGuild	[公会]
+
+// HASH_VALUE 41FEB60C79CEFFED
+// INDEX 1079
+uiNotAssigned	[N/A]
+
+// HASH_VALUE 5010542050105420
+// INDEX 1080
+uimHelp	[帮助]
+
+// HASH_VALUE C8C0AC2006B1842D
+// INDEX 1081
+uimwHands	[动作栏 #1/手部]
+
+// HASH_VALUE CB720C430F71F837
+// INDEX 1082
+uimwInventory	[背包]
+
+// HASH_VALUE 8A40982588C1BC21
+// INDEX 1083
+uimwPA	[动物]
+
+// HASH_VALUE 0C22B82F0A31E42A
+// INDEX 1084
+uimwCompas	[罗盘]
+
+// HASH_VALUE 0AF2802B07C1BC1F
+// INDEX 1085
+uimwMap	[地图]
+
+// HASH_VALUE C4C0B02EC49DFC1F
+// INDEX 1086
+uimwTarget	[目标 HP]
+
+// HASH_VALUE 8F50470F82805715
+// INDEX 1087
+uimwGuildChat	[公会聊天]
+
+// HASH_VALUE 88C1902A3A9EEBF8
+// INDEX 1088
+uimwMainChat	[主聊天]
+
+// HASH_VALUE 09F2BC313A8EC7F3
+// INDEX 1089
+uimwTeamChat	[小队聊天]
+
+// HASH_VALUE 4C5054504C505450
+// INDEX 1090
+uimwTeamList	[小队]
+
+// HASH_VALUE 4742AC133AA37C11
+// INDEX 1091
+uimwContactList	[联系人列表]
+
+// HASH_VALUE 4450141844501418
+// INDEX 1092
+uimwFame	[名望]
+
+// HASH_VALUE 4408943444D05404
+// INDEX 1093
+uimwBars	[我的数值条]
+
+// HASH_VALUE C3621C0B4C114744
+// INDEX 1094
+uimwBonusMalus	[增益/减益]
+
+// HASH_VALUE CE004B1A03E0431A
+// INDEX 1095
+uimwGuild	[公会信息]
+
+// HASH_VALUE CA42F0330BC3D045
+// INDEX 1096
+uimwMissions	[任务]
+
+// HASH_VALUE 79C3BBDD892CB734
+// INDEX 1097
+uimwProgression	[$P 的身份]
+
+// HASH_VALUE 48209C2B05607C06
+// INDEX 1098
+uimwColors	[配置]
+
+// HASH_VALUE 4B51A82B88B1BC25
+// INDEX 1099
+uimwConnection	[连接]
+
+// HASH_VALUE 5054542C5054542C
+// INDEX 1100
+uimwKeys	[按键绑定]
+
+// HASH_VALUE 4C30A02C08D0E82E
+// INDEX 1101
+uimwMacros	[宏]
+
+// HASH_VALUE 50D0241050D02410
+// INDEX 1102
+uimDrop	[丢弃]
+
+// HASH_VALUE D293FC304B62C83E
+// INDEX 1103
+uimDestroy	[销毁]
+
+// HASH_VALUE 36104CE2D472DC30
+// INDEX 1104
+uimQuantityDrop	[要丢弃的数量]
+
+// HASH_VALUE F732340C91607C41
+// INDEX 1105
+uimQuantityDestroy	[要销毁的数量]
+
+// HASH_VALUE 4120300C01D0480B
+// INDEX 1106
+uimMtBag	[背包]
+
+// HASH_VALUE 4494941C4494941C
+// INDEX 1107
+uimGive	[给予]
+
+// HASH_VALUE 4C90E4244C90E424
+// INDEX 1108
+uimBoldInfo	[信息]
+
+// HASH_VALUE 0F52F02F4CC3C033
+// INDEX 1109
+uimEquip	[装备]
+
+// HASH_VALUE 0921EF39F322FB1F
+// INDEX 1110
+uimCristalEnchant	[附魔右手]
+
+// HASH_VALUE 0D10A0317FDEB704
+// INDEX 1111
+uimCristalReload	[充能右手]
+
+// HASH_VALUE 7691EC4EBF01B44D
+// INDEX 1112
+uimTeleportUse	[使用传送]
+
+// HASH_VALUE 0370002437E0F836
+// INDEX 1113
+uimItemConsume	[使用物品]
+
+// HASH_VALUE 076F78FA8853AC2C
+// INDEX 1114
+uimXpCatalyserUse	[激活催化器]
+
+// HASH_VALUE 02794481A8430873
+// INDEX 1115
+uittClose	[关闭]
+
+// HASH_VALUE 0ADE882807EC7C38
+// INDEX 1116
+uiDefmcwCol	[选择颜色]
+
+// HASH_VALUE 5414543854145438
+// INDEX 1117
+uiNext	[下一步]
+
+// HASH_VALUE 5050B44C5050B44C
+// INDEX 1118
+uiSkip	[跳过]
+
+// HASH_VALUE 5F725DC938E549F6
+// INDEX 1119
+uiQuitGameWithoutWarning	[不提示直接退出游戏并返回主菜单]
+
+// HASH_VALUE 70384C5765C79660
+// INDEX 1120
+uiQuitRyzomWithoutWarning	[不提示直接退出游戏]
+
+// HASH_VALUE 4450F4204450F420
+// INDEX 1121
+uiHOME	[主页]
+
+// HASH_VALUE 7018542070185420
+// INDEX 1122
+uiHelp	[帮助]
+
+// HASH_VALUE 2B271087A246208A
+// INDEX 1123
+uiClose	[关闭]
+
+// HASH_VALUE 09F2BC313A8EC7F3
+// INDEX 1124
+uiTeamChatTitle	[小队聊天]
+
+// HASH_VALUE C81227254C1ED00C
+// INDEX 1125
+uiIgnoreList	[屏蔽列表]
+
+// HASH_VALUE CF114F418A60E404
+// INDEX 1126
+uiSystemInfoTitle	[系统信息]
+
+// HASH_VALUE 0C8198F3FF7FDC44
+// INDEX 1127
+uiAroundMeTitle	[我周围]
+
+// HASH_VALUE 8F50470F82805715
+// INDEX 1128
+uiGuildChat	[公会聊天]
+
+// HASH_VALUE 4E73BC40CA131C2E
+// INDEX 1129
+uiSAY	[说话]
+
+// HASH_VALUE 4F02FC440EF2144B
+// INDEX 1130
+uiSHOUT	[喊话]
+
+// HASH_VALUE 7058542C7058542C
+// INDEX 1131
+uiKeepInfoButton	[保留]
+
+// HASH_VALUE ECB89CF96AE9664D
+// INDEX 1132
+uittKeepInfo	[@{6F6F}固定@{FFFF}此窗口。\n
+	固定后，其他物品的信息将显示在新窗口中。\n
+	取消固定后，此窗口将被复用。]
+
+// HASH_VALUE F0223D05D05A5A86
+// INDEX 1133
+uiForce	[@{FFFE}力量：@{FFFF} 大致表示目标的实力水平。\n
+	@{FFFE}背景@{FFFF}颜色显示目标所在区域的平均等级\n
+	@{FFFE}白星@{FFFF}前的数字表示你在此区域内的实力。\n
+	@{FFFE}黑星@{FFFF}专属于命名生物（@{FFFE}1 星@{FFFF}）或首领（@{FFFE}2 星@{FFFF}）\n
+	@{FFFE}右键点击@{FFFF}并选择@{FFFE}帮助@{FFFF}以获取更多帮助……]
+
+// HASH_VALUE 8E5160388660241A
+// INDEX 1134
+uimChooseUIAlpha	[窗口不透明度]
+
+// HASH_VALUE 7DDE1B28C3BC5303
+// INDEX 1135
+uimLockUnlock	[锁定 / 解锁]
+
+// HASH_VALUE 81AFD8300470172B
+// INDEX 1136
+uiUserAlpha	[使用全局设置]
+
+// HASH_VALUE BF00CC2C89721F32
+// INDEX 1137
+uiLocalAlpha	[局部设置]
+
+// HASH_VALUE 4B51A82B88B1BC25
+// INDEX 1138
+uiConnectionTitle	[连接]
+
+// HASH_VALUE CBF1D0370C82A023
+// INDEX 1139
+uiUpload	[上传]
+
+// HASH_VALUE 4CD4F4104450F430
+// INDEX 1140
+uiDownload	[下载]
+
+// HASH_VALUE 4490944044909440
+// INDEX 1141
+uiPing	[PING]
+
+// HASH_VALUE CE91FF3688AFE0F9
+// INDEX 1142
+uiPacketLost	[丢包]
+
+// HASH_VALUE 4F91783F8E6EAC31
+// INDEX 1143
+uiServerState	[服务器状态]
+
+// HASH_VALUE 52A5C487E5078496
+// INDEX 1144
+uiServerState0	[未初始化]
+
+// HASH_VALUE D768E838B0460B89
+// INDEX 1145
+uiServerState1	[未连接]
+
+// HASH_VALUE E71CE84A271CCC6E
+// INDEX 1146
+uiServerState2	[正在验证]
+
+// HASH_VALUE A9C6449221164C8A
+// INDEX 1147
+uiServerState3	[正在登录]
+
+// HASH_VALUE A2A8189CB1F7D0CA
+// INDEX 1148
+uiServerState4	[正在同步]
+
+// HASH_VALUE E156F080A7B994B0
+// INDEX 1149
+uiServerState5	[已连接]
+
+// HASH_VALUE 68485C8923782886
+// INDEX 1150
+uiServerState6	[正在探测]
+
+// HASH_VALUE A8F8B89464D84488
+// INDEX 1151
+uiServerState7	[停滞]
+
+// HASH_VALUE 22AAD45AA359E885
+// INDEX 1152
+uiServerState8	[已断开连接]
+
+// HASH_VALUE E7F3BB0580E2049C
+// INDEX 1153
+uiServerState9	[FS 丢失]
+
+// HASH_VALUE 8C20EC194A224837
+// INDEX 1154
+uiGlobalSettingsTitle	[配置]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 1155
+uiBotChatRefresh	[刷新]
+
+// HASH_VALUE C15EC7DCAF7E2C87
+// INDEX 1156
+uittBotChatRefresh	[强制 @{6F6F}刷新@{FFFF} 在售物品列表，例如查看你刚售出的物品。]
+
+// HASH_VALUE 4EE1131549BE1308
+// INDEX 1157
+uimToggleChatEBVis	[显示/隐藏聊天窗口]
+
+// HASH_VALUE 6C58043C6C58043C
+// INDEX 1158
+uiOpen	[打开]
+
+// HASH_VALUE D1A754921F221749
+// INDEX 1159
+uittNewMacro	[新建宏]
+
+// HASH_VALUE C1A1D432071E1709
+// INDEX 1160
+uiNewMacro	[新建宏]
+
+// HASH_VALUE 4CD034244CD03424
+// INDEX 1161
+uiMacroIcon	[图标]
+
+// HASH_VALUE 4450143844501438
+// INDEX 1162
+uiMacroName	[名称]
+
+// HASH_VALUE 4B32BC34CA510C2E
+// INDEX 1163
+uiMacroKey	[按键]
+
+// HASH_VALUE 4C50F40C5010E404
+// INDEX 1164
+uiMacroCom	[命令]
+
+// HASH_VALUE 7B90FF15C7FE9422
+// INDEX 1165
+uiMacroAddCom	[添加命令]
+
+// HASH_VALUE CA50172746A07002
+// INDEX 1166
+uiIconCreation	[创建图标]
+
+// HASH_VALUE 8830B4260BC08C1A
+// INDEX 1167
+uiIconBack	[背景]
+
+// HASH_VALUE 8A61EC2A0DF1AC2D
+// INDEX 1168
+uiIconFore	[前景]
+
+// HASH_VALUE 8D03BC398E42C835
+// INDEX 1169
+uiIconPat	[图案]
+
+// HASH_VALUE 5414545054145450
+// INDEX 1170
+uiIconTxt	[文字]
+
+// HASH_VALUE 4B32BC34CA510C2E
+// INDEX 1171
+uiCmdKey	[按键]
+
+// HASH_VALUE 405024504490942C
+// INDEX 1172
+uiTrackingTitle	[追踪]
+
+// HASH_VALUE 459398270FB0E032
+// INDEX 1173
+uiCommunication	[通讯]
+
+// HASH_VALUE 8BA1A0350FF00030
+// INDEX 1174
+uiOrientation	[方位]
+
+// HASH_VALUE 27E9787FA607C490
+// INDEX 1175
+uiTarget	[目标]
+
+// HASH_VALUE 5490F40C50143404
+// INDEX 1176
+uiContactListTitle	[联系人列表]
+
+// HASH_VALUE 0B62D02D40411433
+// INDEX 1177
+uiWinDisplay	[窗口显示]
+
+// HASH_VALUE 895E94333E311F1D
+// INDEX 1178
+uiDebugConsole	[调试控制台]
+
+// HASH_VALUE CCE0F01B0EC0B018
+// INDEX 1179
+uiGuildTitle	[公会信息]
+
+// HASH_VALUE CB21A82C8BA1B420
+// INDEX 1180
+uiGuildTabGuild	[公会]
+
+// HASH_VALUE 5014543C5014343C
+// INDEX 1181
+uiGuildTabOutpost	[前哨站]
+
+// HASH_VALUE CB3E8BD44A51DB2E
+// INDEX 1182
+uiGuildMembership	[公会： ]
+
+// HASH_VALUE 8A40982588C1BC21
+// INDEX 1183
+uiBeast	[动物]
+
+// HASH_VALUE 2144C475DBD09C8D
+// INDEX 1184
+uiToggleNames	[切换名字显示]
+
+// HASH_VALUE 46C2B42F0AD2C01E
+// INDEX 1185
+uiBotChatTrade	[交易]
+
+// HASH_VALUE 7B60EF008C420004
+// INDEX 1186
+uiBotChatOffer	[提出你的报价]
+
+// HASH_VALUE 9A74CC6F132098A0
+// INDEX 1187
+uiBotCreateGuild	[创建公会]
+
+// HASH_VALUE D6D28F5A4D442F0C
+// INDEX 1188
+uiShowHide	[显示/隐藏]
+
+// HASH_VALUE 74D8844C74D8844C
+// INDEX 1189
+uiShow	[显示]
+
+// HASH_VALUE 6418942064189420
+// INDEX 1190
+uiHide	[隐藏]
+
+// HASH_VALUE 738710663076287B
+// INDEX 1191
+uiPlayer	[玩家]
+
+// HASH_VALUE D36A9C4B6C15C7A4
+// INDEX 1192
+uiBonusMalus	[增益/减益]
+
+// HASH_VALUE EB27288CA3A73480
+// INDEX 1193
+uiGuild	[公会]
+
+// HASH_VALUE EFF60854AE541872
+// INDEX 1194
+uiCompas	[罗盘]
+
+// HASH_VALUE 6629889323B92489
+// INDEX 1195
+uiTaskbar	[任务栏]
+
+// HASH_VALUE 6E75B78D0F95A822
+// INDEX 1196
+uiShowOnPress	[按下时显示]
+
+// HASH_VALUE 8E253FF3DA307775
+// INDEX 1197
+uiLightOnOff	[开灯 / 关灯]
+
+// HASH_VALUE 7458840C7458840C
+// INDEX 1198
+uiChat	[聊天]
+
+// HASH_VALUE 7458945874589458
+// INDEX 1199
+uiView	[视角]
+
+// HASH_VALUE ACB9C0819FC81891
+// INDEX 1200
+uiActions	[动作]
+
+// HASH_VALUE 27987865A565A493
+// INDEX 1201
+uiAction	[动作]
+
+// HASH_VALUE F3F9507E34F72090
+// INDEX 1202
+uiSystem	[系统]
+
+// HASH_VALUE 20F54B2D593182F9
+// INDEX 1203
+uiTalkLeave	[交谈 / 离开]
+
+// HASH_VALUE 33B8407C33D73C9E
+// INDEX 1204
+uiStatus	[身份]
+
+// HASH_VALUE 70DC94347098F4A4
+// INDEX 1205
+uiJournal	[任务]
+
+// HASH_VALUE CB720C430F71F837
+// INDEX 1206
+uiInventory	[背包]
+
+// HASH_VALUE 4894F45C50D0844C
+// INDEX 1207
+uiWorkshop	[动作与背包]
+
+// HASH_VALUE A0C7108A4AA2EB58
+// INDEX 1208
+uiMainChat	[主聊天]
+
+// HASH_VALUE E717CFA1A2646464
+// INDEX 1209
+uiSystemInfo	[系统信息]
+
+// HASH_VALUE 248798130F85DCC4
+// INDEX 1210
+uiAroundMe	[我周围]
+
+// HASH_VALUE 1E25A87BD7E7A45D
+// INDEX 1211
+uiTellWinAct	[密语窗口]
+
+// HASH_VALUE 21F83C914A92C753
+// INDEX 1212
+uiTeamChat	[队伍聊天]
+
+// HASH_VALUE 6909C46F6B06949A
+// INDEX 1213
+uiTeamList	[队伍列表]
+
+// HASH_VALUE 7498F40C701C3484
+// INDEX 1214
+uiContactList	[联系人列表]
+
+// HASH_VALUE 705C542C705C542C
+// INDEX 1215
+uiKeys	[按键]
+
+// HASH_VALUE 6C36A06C28D4E88E
+// INDEX 1216
+uiMacros	[宏]
+
+// HASH_VALUE EA286F7F27E84AA6
+// INDEX 1217
+uiLinks	[生效链接]
+
+// HASH_VALUE 6B57A88BA8B7BC85
+// INDEX 1218
+uiConnection	[连接]
+
+// HASH_VALUE AC26EC796A2AC8B7
+// INDEX 1219
+uiGlobalSettings	[全局设置]
+
+// HASH_VALUE 649CF434649CF434
+// INDEX 1220
+uiMovement	[移动]
+
+// HASH_VALUE EADBE89EE5C7307D
+// INDEX 1221
+uiMoveForward	[前进]
+
+// HASH_VALUE 68D81408649C14DC
+// INDEX 1222
+uiMoveBackward	[后退]
+
+// HASH_VALUE A90A90930D023375
+// INDEX 1223
+uiMoveTurnLeft	[左转]
+
+// HASH_VALUE EE888C456504A84E
+// INDEX 1224
+uiMoveTurnRight	[右转]
+
+// HASH_VALUE DE986F8F62A36060
+// INDEX 1225
+uiMoveStrafeLeft	[向左平移]
+
+// HASH_VALUE 61D6D4759DB19888
+// INDEX 1226
+uiMoveStrafeRight	[向右平移]
+
+// HASH_VALUE 5303A795A3B70431
+// INDEX 1227
+uiMoveLookUp	[向上看]
+
+// HASH_VALUE A39684A0D1F2FB69
+// INDEX 1228
+uiMoveLookDown	[向下看]
+
+// HASH_VALUE 3CC62B48DD82B359
+// INDEX 1229
+uiMoveToggleSitStand	[坐下 / 起立]
+
+// HASH_VALUE A568387950836B78
+// INDEX 1230
+uiMoveToggleAutoWalk	[自动奔跑]
+
+// HASH_VALUE 97468744C572825B
+// INDEX 1231
+uiMoveRunWalk	[奔跑 / 行走]
+
+// HASH_VALUE F009007F8B0FC677
+// INDEX 1232
+uiMountUnmount	[骑乘 / 下骑]
+
+// HASH_VALUE 5867A88E5B940877
+// INDEX 1233
+uiToggleCamera	[切换视角]
+
+// HASH_VALUE 8B235C8E26F81F44
+// INDEX 1234
+uiNoTarget	[无目标]
+
+// HASH_VALUE E8FA0A846C92ECB2
+// INDEX 1235
+uiTargetCmd	[锁定一个实体]
+
+// HASH_VALUE 6E0914F3103796B9
+// INDEX 1236
+uiTargetCmdEntity	[要锁定的实体名称]
+
+// HASH_VALUE 2B29F0307EE6BC9A
+// INDEX 1237
+uiTargetTeammateCmd	[锁定队友 #]
+
+// HASH_VALUE 29E6FC6EEEF4F085
+// INDEX 1238
+uiTargetTeammateCmdI	[编号]
+
+// HASH_VALUE 42A740FFAFE6FCAA
+// INDEX 1239
+uiAssistCmd	[锁定该实体的当前目标]
+
+// HASH_VALUE AE2AC8F31037CEBB
+// INDEX 1240
+uiAssistCmdEntity	[要协助的实体名称]
+
+// HASH_VALUE D6625803A8C6E8AF
+// INDEX 1241
+uiAssistTargetCmd	[锁定当前目标的目标]
+
+// HASH_VALUE 5B36487A56279C4B
+// INDEX 1242
+uiSelfTarget	[锁定自己]
+
+// HASH_VALUE 1437F48B9A94408A
+// INDEX 1243
+uiToggleCombat	[切换战斗]
+
+// HASH_VALUE 52489FA01FB5D48B
+// INDEX 1244
+uiSetDesktop	[切换到桌面]
+
+// HASH_VALUE 711AB86450AA2CD4
+// INDEX 1245
+uiCopyToDesktop	[将当前桌面复制到另一桌面]
+
+// HASH_VALUE E9AAA07298669B8D
+// INDEX 1246
+uiDesktopNumber	[桌面编号]
+
+// HASH_VALUE C919D86B5D29A46C
+// INDEX 1247
+uiRunShortcut	[执行快捷操作]
+
+// HASH_VALUE AC4A6C2913FAC09E
+// INDEX 1248
+uiShortcutNumber	[快捷位编号]
+
+// HASH_VALUE 644957718CE6209A
+// INDEX 1249
+uiSelectShortcutBar	[选择快捷栏]
+
+// HASH_VALUE 147A14389DFC083E
+// INDEX 1250
+uiShortcutBarNumber	[快捷栏编号]
+
+// HASH_VALUE 6889B89AE6E9AC99
+// INDEX 1251
+uiScreenShot	[截图 TGA]
+
+// HASH_VALUE 57841C546889047B
+// INDEX 1252
+uiScreenShotJPG	[截图 JPG]
+
+// HASH_VALUE 74DC545074DC5450
+// INDEX 1253
+uiTest	[测试]
+
+// HASH_VALUE ABE76848A5B2283E
+// INDEX 1254
+uiFreeMouse	[释放鼠标]
+
+// HASH_VALUE A9070F3B21451361
+// INDEX 1255
+uiCloseHelp	[关闭所有帮助窗口]
+
+// HASH_VALUE 93A810995EB5EC4B
+// INDEX 1256
+uiToggleMovieRecorder	[切换录像器]
+
+// HASH_VALUE E2A6E8741AA13883
+// INDEX 1257
+uiReplayMovie	[重播影片]
+
+// HASH_VALUE A728284BA194E452
+// INDEX 1258
+uiSaveMovie	[保存影片]
+
+// HASH_VALUE 2BA95B8969E746B0
+// INDEX 1259
+uiReplyTeller	[回复密语]
+
+// HASH_VALUE E8375B8BD50877A7
+// INDEX 1260
+uiReplyTellerOnce	[单次回复密语]
+
+// HASH_VALUE 4DD49B892BA74023
+// INDEX 1261
+uiCameraUp	[上移镜头]
+
+// HASH_VALUE C2FA0C64EC1A94C8
+// INDEX 1262
+uiCameraDown	[下移镜头]
+
+// HASH_VALUE A4E6033B27D46469
+// INDEX 1263
+uiCameraTurnLeft	[向左旋转镜头]
+
+// HASH_VALUE E4261B3BE503EC5D
+// INDEX 1264
+uiCameraTurnRight	[向右旋转镜头]
+
+// HASH_VALUE 306B45B16DF488CA
+// INDEX 1265
+uiCameraTurnCenter	[使镜头重新回到玩家身后]
+
+// HASH_VALUE 2CA4D39D65B41417
+// INDEX 1266
+uiCycleTell	[在最近的联系人间轮换]
+
+// HASH_VALUE 81C8A43925626C7A
+// INDEX 1267
+uiTellCmd	[向玩家发送密语]
+
+// HASH_VALUE 2F87E87D2E27E88F
+// INDEX 1268
+uiTellCmdDest	[收件人]
+
+// HASH_VALUE 66FAB49864B7FC7A
+// INDEX 1269
+uiTellCmdMsg	[消息]
+
+// HASH_VALUE 6CA69F2A1A48B6A8
+// INDEX 1270
+uiEnterTellCmd	[进入与玩家的密语模式]
+
+// HASH_VALUE 5539D484CDD40467
+// INDEX 1271
+uiTalkCmd	[与任何人交谈]
+
+// HASH_VALUE ECA9A7F2A6195B10
+// INDEX 1272
+uiTalkCmdMode	[交谈使用的频道]
+
+// HASH_VALUE 5E793C80E2179C8E
+// INDEX 1273
+uiTalkCmdModeSay	[说话]
+
+// HASH_VALUE 6F087CA426F894AB
+// INDEX 1274
+uiTalkCmdModeShout	[喊话]
+
+// HASH_VALUE 6C5854506C585450
+// INDEX 1275
+uiTalkCmdModeTeam	[队伍]
+
+// HASH_VALUE EB27288CA3A73480
+// INDEX 1276
+uiTalkCmdModeGuild	[公会]
+
+// HASH_VALUE A807887AA7B6AC97
+// INDEX 1277
+uiTalkCmdModeRegion	[地区]
+
+// HASH_VALUE A7FB9466A5CB948F
+// INDEX 1278
+uiTalkCmdModeCivilisation	[种族]
+
+// HASH_VALUE A65994AEEEFA08B2
+// INDEX 1279
+uiTalkCmdModeTerritory	[领地]
+
+// HASH_VALUE 7458E45464DC2494
+// INDEX 1280
+uiTalkCmdModeUniverse	[宇宙]
+
+// HASH_VALUE 66FAB49864B7FC7A
+// INDEX 1281
+uiTalkCmdMsg	[消息]
+
+// HASH_VALUE 2CB3D832864946B2
+// INDEX 1282
+uiEnterTalkCmd	[进入交谈模式]
+
+// HASH_VALUE 41F97062092C55F4
+// INDEX 1283
+uiEditExpandOrCycleTell	[展开上一命令/切换联系人]
+
+// HASH_VALUE 578F4F0AEE340406
+// INDEX 1284
+uiDragToInventory	[将物品拖放到你的背包]
+
+// HASH_VALUE AD99AC92E328ACB0
+// INDEX 1285
+uiWindows	[窗口]
+
+// HASH_VALUE 6C58043C6C58043C
+// INDEX 1286
+uiOpenWindow	[打开]
+
+// HASH_VALUE 6458143864581438
+// INDEX 1287
+uiWindowName	[名称]
+
+// HASH_VALUE 87C6306B1D12FC4A
+// INDEX 1288
+uiCloseWindow	[关闭]
+
+// HASH_VALUE 5FE5FB2A9491F6FB
+// INDEX 1289
+uiToggleOpenCloseWindow	[打开 / 关闭]
+
+// HASH_VALUE 705980A4680994A5
+// INDEX 1290
+uiPopupWindow	[弹出窗口]
+
+// HASH_VALUE EC98789665E85C97
+// INDEX 1291
+uiPopinWindow	[停靠]
+
+// HASH_VALUE 5D15F47E48E5D76E
+// INDEX 1292
+uiTogglePopupPopinWindow	[弹出 / 停靠]
+
+// HASH_VALUE FED1A006BE4F7621
+// INDEX 1293
+uimGcmAddToFriendList	[加入好友列表]
+
+// HASH_VALUE 0211F31D4D3E1408
+// INDEX 1294
+uiJoinTeamProposal	[小队邀请]
+
+// HASH_VALUE C2B2DC544C104A32
+// INDEX 1295
+uiTradeInvitation	[交易邀请]
+
+// HASH_VALUE BC2E04E942E18037
+// INDEX 1296
+uiCreateNewPartyChat	[创建新群聊]
+
+// HASH_VALUE 4C50840C38105438
+// INDEX 1297
+uiChannel	[频道：]
+
+// HASH_VALUE 7458E45464DC2494
+// INDEX 1298
+uiUNIVERSE	[宇宙]
+
+// HASH_VALUE A807887AA7B6AC97
+// INDEX 1299
+uiREGION	[地区]
+
+// HASH_VALUE 0391446EE27600AF
+// INDEX 1300
+uiPeopleAddContact	[添加联系人]
+
+// HASH_VALUE 6E0E284EC3C94BD5
+// INDEX 1301
+uiCongifExplanation	[使用左侧列表选择要更改的配置。\n
+	\n
+	- 视频分辨率只有点击“应用”后才会更改。\n
+	- 纹理更改只有重启游戏后才会生效。\n
+	\n
+	- “取消”和“关闭”按钮只会撤销尚未应用的更改。]
+
+// HASH_VALUE 6458C4186458C418
+// INDEX 1302
+uiGuildBlason	[公会徽章]
+
+// HASH_VALUE 6458143864581438
+// INDEX 1303
+uiGuildName	[公会名称]
+
+// HASH_VALUE 9D8BA089ED17FCB6
+// INDEX 1304
+uiGuildDescription	[公会描述]
+
+// HASH_VALUE D5358054D8C61C58
+// INDEX 1305
+uiGuildBlasonDesign	[公会徽章设计]
+
+// HASH_VALUE 2CF04428AADF584B
+// INDEX 1306
+uiGuildNameWarning	[名称不得超过 32 个字符，且不得包含符号或数字。]
+
+// HASH_VALUE C12C0DDA018DD050
+// INDEX 1307
+uiGuildDescWarning	[描述不得超过 200 个字符。]
+
+// HASH_VALUE 2972EDF2E900397B
+// INDEX 1308
+uiGuildCostInfo	[创建公会需要 100,000 达珀。]
+
+// HASH_VALUE 68D8140868D81408
+// INDEX 1309
+uiGuildBlasonBack	[背景]
+
+// HASH_VALUE 9B44B4889EA2FBF2
+// INDEX 1310
+uiGuildBlasonColor1	[选择颜色 1]
+
+// HASH_VALUE DB44B4889EA2FFF2
+// INDEX 1311
+uiGuildBlasonColor2	[选择颜色 2]
+
+// HASH_VALUE A9D704826F36D09E
+// INDEX 1312
+uiGuildBlasonFore	[图案]
+
+// HASH_VALUE D768E89626E570A7
+// INDEX 1313
+uiNegativeSymbol	[反转符号]
+
+// HASH_VALUE E17363860BC7CB30
+// INDEX 1314
+uiGuildBlasonC1	[背景颜色 1]
+
+// HASH_VALUE E18363860BC7CF30
+// INDEX 1315
+uiGuildBlasonC2	[背景颜色 2]
+
+// HASH_VALUE 9CC834756265708C
+// INDEX 1316
+uiConnectionTitle_short	[网络]
+
+// HASH_VALUE 4BFF883E7D125F2C
+// INDEX 1317
+uimwWindowsBar	[窗口栏]
+
+// HASH_VALUE DBB57F3B17C36E07
+// INDEX 1318
+uiTestDialogue	[测试！]
+
+// HASH_VALUE 46C2B42F0AD2C01E
+// INDEX 1319
+uimGcmTrade	[交易]
+
+// HASH_VALUE 50D494345090F424
+// INDEX 1320
+uimGcmMissions	[任务]
+
+// HASH_VALUE 826ECC2F031C9840
+// INDEX 1321
+uimGcmCreateGuild	[创建公会]
+
+// HASH_VALUE FE111FEDCAC2CCFF
+// INDEX 1322
+uimGcmTeleport	[缔结契约]
+
+// HASH_VALUE 3DF1C72C7C118CFE
+// INDEX 1323
+uimGcmFaction	[购买阵营物品]
+
+// HASH_VALUE 33F3380C7E93200D
+// INDEX 1324
+uimGcmCosmetic	[购买外观道具]
+
+// HASH_VALUE 0641DCFD4E9EAC18
+// INDEX 1325
+uimGcmGuildOptions	[建筑交易]
+
+// HASH_VALUE 0641DCFD4E9EAC18
+// INDEX 1326
+uimGcmOutpostBuilding	[建筑交易]
+
+// HASH_VALUE 0962902D7F701700
+// INDEX 1327
+uimGcmGuildRoleMaster	[学习公会动作]
+
+// HASH_VALUE 0A921F2CFDB22B1D
+// INDEX 1328
+uimGcmTradePact	[交易契约]
+
+// HASH_VALUE 4C10544C4C10544C
+// INDEX 1329
+uiSell	[出售]
+
+// HASH_VALUE D0E6969DE07E6459
+// INDEX 1330
+uiQH_1	[如何移动]
+
+// HASH_VALUE 11347452A6235354
+// INDEX 1331
+uiQH_2	[如何使用窗口]
+
+// HASH_VALUE BE76D44D4701D459
+// INDEX 1332
+uiQH_3	[如何战斗]
+
+// HASH_VALUE 4E634F46D9006F93
+// INDEX 1333
+uiQH_4	[如何施法]
+
+// HASH_VALUE 8745D732E1C59BA3
+// INDEX 1334
+uiQH_5	[如何辨别方位]
+
+// HASH_VALUE 80A0F4028EC11734
+// INDEX 1335
+uiGuildForumTitle	[公会论坛]
+
+// HASH_VALUE 80A0F4028EC11734
+// INDEX 1336
+uimwGuildForum	[公会论坛]
+
+// HASH_VALUE 8C7064230801D836
+// INDEX 1337
+uiMailboxTitle	[邮箱]
+
+// HASH_VALUE 8C7064230801D836
+// INDEX 1338
+uimwMailbox	[邮箱]
+
+// HASH_VALUE 70DC94347098F4A4
+// INDEX 1339
+uimCompassMissions	[任务]
+
+// HASH_VALUE E976503860C21845
+// INDEX 1340
+uimCompassLandMarks	[地标]
+
+// HASH_VALUE 6C5854506C585450
+// INDEX 1341
+uimCompassTeam	[小队]
+
+// HASH_VALUE 6C56D84CACD4D06C
+// INDEX 1342
+uimCompassAnimal	[动物]
+
+// HASH_VALUE D310CC1C52CDC429
+// INDEX 1343
+uiBubbleBR	[右下]
+
+// HASH_VALUE 04830037C92F2F11
+// INDEX 1344
+uiBubbleTR	[右上]
+
+// HASH_VALUE 494227284ABF0804
+// INDEX 1345
+uiBubbleBL	[左下]
+
+// HASH_VALUE 2014F45054905430
+// INDEX 1346
+uiBubbleTL	[左上]
+
+// HASH_VALUE C4B25C1BC4C1A41B
+// INDEX 1347
+uiCaracsTable	[属性]
+
+// HASH_VALUE CC71B03A08B2F02C
+// INDEX 1348
+uiScoreTable	[数值]
+
+// HASH_VALUE 819E3F26766C6A23
+// INDEX 1349
+uiGuildTeam	[公会 & 小队]
+
+// HASH_VALUE 89F2C402CD7FF42F
+// INDEX 1350
+uiPhraseBookTitle	[动作进阶]
+
+// HASH_VALUE 95F6F07B1EE6C88F
+// INDEX 1351
+uimPhraseDel	[删除动作]
+
+// HASH_VALUE 18C5AC5819673456
+// INDEX 1352
+uimPhraseEdit	[编辑动作]
+
+// HASH_VALUE 5698807293B65B75
+// INDEX 1353
+uimPhraseNew	[新建动作]
+
+// HASH_VALUE E6E73C38AB06C7B5
+// INDEX 1354
+uiPhraseDisplayTextList	[详细列表]
+
+// HASH_VALUE A5F81C808F522778
+// INDEX 1355
+uiPhraseAutoFold	[自动折叠]
+
+// HASH_VALUE ACB9C0819FC81891
+// INDEX 1356
+uitabPhraseActions	[动作]
+
+// HASH_VALUE 70D8045470584484
+// INDEX 1357
+uitabPhraseUpgrades	[升级]
+
+// HASH_VALUE F9F0C824C02FC419
+// INDEX 1358
+uiPhraseCreate	[创建新动作]
+
+// HASH_VALUE 6CD834246CD83424
+// INDEX 1359
+uiPhraseEditIcon	[图标]
+
+// HASH_VALUE 6458143864581438
+// INDEX 1360
+uiPhraseEditName	[名称]
+
+// HASH_VALUE 22F9E08CAE670CB6
+// INDEX 1361
+uiPhraseCOMPOSITION	[组成]
+
+// HASH_VALUE 6D5AB093DE93EB3D
+// INDEX 1362
+uiPhraseRESTRICTION	[武器兼容性： ]
+
+// HASH_VALUE 1697B07397958B63
+// INDEX 1363
+uittPhraseEditNewOptional	[添加选项]
+
+// HASH_VALUE 5746BC52D6E4AB51
+// INDEX 1364
+uittPhraseEditNewCredit	[添加点数]
+
+// HASH_VALUE E8542A626A7A4AC4
+// INDEX 1365
+uittPhraseEditValidate	[学习该动作]
+
+// HASH_VALUE 241A5F576D349B5D
+// INDEX 1366
+uittPhraseFaberBuild	[制造该物品]
+
+// HASH_VALUE 1860C614E07EC90E
+// INDEX 1367
+uittExecutingPhrase	[动作执行中。\n
+	@{6F6F}点击此处@{FFFF}取消该动作。]
+
+// HASH_VALUE E22AEC25E2D95CF7
+// INDEX 1368
+uittNextExecutingPhrase	[下一动作]
+
+// HASH_VALUE A300F8875985E0A0
+// INDEX 1369
+uiCancelCast	[取消当前动作]
+
+// HASH_VALUE E8C9BF40D675D644
+// INDEX 1370
+uiPhraseFaberExecute	[制造物品：%item]
+
+// HASH_VALUE 276B10FC1E047356
+// INDEX 1371
+uiTextHelpSelectFaberPlan	[请先选择要制造的物品。]
+
+// HASH_VALUE B706DD1057ECA8AB
+// INDEX 1372
+uittSelectPlan	[选择要制造物品的图样]
+
+// HASH_VALUE 404B14A424E099BC
+// INDEX 1373
+uiTextHelpSelectMp	[为每个槽位选择原材料]
+
+// HASH_VALUE 14A4182DE5D57B58
+// INDEX 1374
+uittSelectMp	[点击以添加原材料]
+
+// HASH_VALUE 7BB65DCA8D1ED22C
+// INDEX 1375
+uiTextHelpSelectFaberPlanSlot	[<- 点击“图样”槽位以选择要制造的物品。]
+
+// HASH_VALUE 68387C87E6877CAB
+// INDEX 1376
+uiFaberMpRemove	[移除]
+
+// HASH_VALUE 0DA1DC3D8EF3FC35
+// INDEX 1377
+uiFaberItemResultHeader	[预览]
+
+// HASH_VALUE EF07504A6243603A
+// INDEX 1378
+uittFaberItemResult	[制造的物品]
+
+// HASH_VALUE 5314133E6B85C774
+// INDEX 1379
+uiBuyFrom	[购买自 ]
+
+// HASH_VALUE 6C18544C20D84480
+// INDEX 1380
+uiSellTo	[出售给 ]
+
+// HASH_VALUE 9225AC3CEB474EA6
+// INDEX 1381
+uiLearnFrom	[学习自 ]
+
+// HASH_VALUE 441054505494F440
+// INDEX 1382
+uiTeleport	[传送]
+
+// HASH_VALUE C85184314810C82D
+// INDEX 1383
+uiLearn	[学习]
+
+// HASH_VALUE 7038904D65E4A053
+// INDEX 1384
+uittPlayerMoney	[你的达珀]
+
+// HASH_VALUE 118810F6F01976D3
+// INDEX 1385
+uittGuildMoney	[你公会的达珀]
+
+// HASH_VALUE 3CCCF0FC3CCCF0FC
+// INDEX 1386
+uiBadPrice	[？？？]
+
+// HASH_VALUE 630944A663A8549B
+// INDEX 1387
+uiRegenerateDM	[重新生成]
+
+// HASH_VALUE A78780552665C484
+// INDEX 1388
+uiAcceptDM	[接受]
+
+// HASH_VALUE 50D494345090F424
+// INDEX 1389
+uiBotChatMissions	[任务]
+
+// HASH_VALUE 6AB894E6D6F0ECAC
+// INDEX 1390
+uiSelectMission	[选择一个任务]
+
+// HASH_VALUE 70DC543870DC5438
+// INDEX 1391
+uiBotChatNews	[新闻]
+
+// HASH_VALUE 0000000000000000
+// INDEX 1392
+uiBotChatMissionEnd	[]
+
+// HASH_VALUE C9621033C25EA82E
+// INDEX 1393
+uiBotChatDynamicMission	[动态任务]
+
+// HASH_VALUE 0AF2802B07C1BC1F
+// INDEX 1394
+uiMapTitle	[地图]
+
+// HASH_VALUE 1AF8006B1FC53C7F
+// INDEX 1395
+uiMap	[地图]
+
+// HASH_VALUE 48327C47C6837C4B
+// INDEX 1396
+uiRemove	[移除]
+
+// HASH_VALUE 04D370123E71CC24
+// INDEX 1397
+uiCreateUserLM	[创建地标]
+
+// HASH_VALUE 8B04AC48FE634E3B
+// INDEX 1398
+uiCreateUserLMAtUserPos	[在当前位置创建地标]
+
+// HASH_VALUE 086F0F3E7E60DC28
+// INDEX 1399
+uiTargetLM	[在罗盘中锁定目标]
+
+// HASH_VALUE 5864AFA5A7778451
+// INDEX 1400
+uittZoomIn	[放大]
+
+// HASH_VALUE 6CD8F468745CF480
+// INDEX 1401
+uittZoomOut	[缩小]
+
+// HASH_VALUE 9CF4EF6E6B2463BE
+// INDEX 1402
+uiCreateNewLandMark	[创建新地标]
+
+// HASH_VALUE CF3C040A4EED1F17
+// INDEX 1403
+uiMenuCenter	[以自己为中心显示地图]
+
+// HASH_VALUE E53254296572F077
+// INDEX 1404
+uittCenter	[地图居中]
+
+// HASH_VALUE 0A8FFE0384D1EEF4
+// INDEX 1405
+uiGuildXP	[公会经验：]
+
+// HASH_VALUE 2C58584B68037853
+// INDEX 1406
+uiUnitValue	[单位价值]
+
+// HASH_VALUE 6C585444781C94D0
+// INDEX 1407
+uiQtty	[数量]
+
+// HASH_VALUE 68582B3B23474C99
+// INDEX 1408
+uiImmediatePrice	[基础价格]
+
+// HASH_VALUE 5FDEEE55DE504FCF
+// INDEX 1409
+uittPriceWithFameEqual	[此价格取决于你的名望]
+
+// HASH_VALUE AAC268F338260ED5
+// INDEX 1410
+uittPriceWithFameDiff	[此价格取决于你的名望（商贩会加收差价）]
+
+// HASH_VALUE 1DA66482D971649C
+// INDEX 1411
+uiResaleHeader	[转售价格]
+
+// HASH_VALUE 1328C87D6145E89A
+// INDEX 1412
+uiResaleMargin	[转售差价]
+
+// HASH_VALUE D898448E6738D304
+// INDEX 1413
+uiUnitResalePrice	[单位转售价格]
+
+// HASH_VALUE 6DCA54230E540360
+// INDEX 1414
+uiBonusOnResale	[转售加成]
+
+// HASH_VALUE BD02703DFB63DB3E
+// INDEX 1415
+uiLetResell	[转售给他人]
+
+// HASH_VALUE BB4B5813A5CE33B5
+// INDEX 1416
+uittResellButton	[启用物品转售（ENTER）]
+
+// HASH_VALUE 1D29B058C74AC86D
+// INDEX 1417
+uitabBuyResale	[转售]
+
+// HASH_VALUE 20D004386418144C
+// INDEX 1418
+uitabBuyNpc	[商人]
+
+// HASH_VALUE 2A38688B4F746B76
+// INDEX 1419
+uitabBuyPlayer	[你的]
+
+// HASH_VALUE B9F4528B1814D624
+// INDEX 1420
+uiUnitFPPrice	[%fac 阵营点单价]
+
+// HASH_VALUE CD72133B8DE36634
+// INDEX 1421
+uiSkillPoints	[技能点]
+
+// HASH_VALUE 96976B67D6854695
+// INDEX 1422
+uiSkillPoints0	[战斗系可用 ]
+
+// HASH_VALUE 14F62F6412542A7A
+// INDEX 1423
+uiSkillPoints1	[魔法系可用 ]
+
+// HASH_VALUE D6A7AB5BD9C5628C
+// INDEX 1424
+uiSkillPoints2	[制造系可用 ]
+
+// HASH_VALUE 749C1420201C3494
+// INDEX 1425
+uiSkillPoints3	[采集系可用 ]
+
+// HASH_VALUE 0B8188367CE31F2C
+// INDEX 1426
+uimGcmTradePhase	[发展技能]
+
+// HASH_VALUE 5010042050100420
+// INDEX 1427
+uiHP	[HP]
+
+// HASH_VALUE 81CF12CA2FCAC592
+// INDEX 1428
+uittHP	[在角色头顶显示角色的生命值]
+
+// HASH_VALUE 4C5054504C505450
+// INDEX 1429
+uiTeam	[小队]
+
+// HASH_VALUE 29827894D3D81B9C
+// INDEX 1430
+uiDebugCommand	[调试命令]
+
+// HASH_VALUE 68E20B3AA5B3A783
+// INDEX 1431
+uiDebugShowTimedFXs	[调试显示限时特效]
+
+// HASH_VALUE 1DB76F86E0E26861
+// INDEX 1432
+uittActionIcon	[动作图标]
+
+// HASH_VALUE 6B98909065484495
+// INDEX 1433
+uiPhraseTotal	[总计]
+
+// HASH_VALUE 174BEC861F672037
+// INDEX 1434
+uiBalanceCost	[无法施放]
+
+// HASH_VALUE 52D01470EE5C8CB0
+// INDEX 1435
+uiBalanceCred	[难度加成]
+
+// HASH_VALUE 67672C79A0B7E88C
+// INDEX 1436
+uiBalanceEqual	[持平]
+
+// HASH_VALUE F1F8A77003958E6B
+// INDEX 1437
+uiEnterDontQuitCB	[“回车”不关闭聊天框]
+
+// HASH_VALUE 2496548ED4145771
+// INDEX 1438
+uiFontSize	[字体大小]
+
+// HASH_VALUE 5008E4244490540C
+// INDEX 1439
+uigcInSceneInterface	[场景内]
+
+// HASH_VALUE 5050345450503454
+// INDEX 1440
+uigcInSceneInterfaceUser	[玩家信息]
+
+// HASH_VALUE C910BC26C852C02B
+// INDEX 1441
+uigcInSceneInterfaceFriend	[友方信息]
+
+// HASH_VALUE CA10A82588C1B026
+// INDEX 1442
+uigcInSceneInterfaceEnemy	[敌人信息]
+
+// HASH_VALUE C990F32F48EEE007
+// INDEX 1443
+uigcInSceneChatMessages	[聊天消息]
+
+// HASH_VALUE AF57B35FF2F65E7C
+// INDEX 1444
+uiGuildSymbol	[公会徽记]
+
+// HASH_VALUE B6DF6D302E3B10CD
+// INDEX 1445
+uittGuildSymbol	[在角色头顶显示公会徽记]
+
+// HASH_VALUE 87D19512706F54B9
+// INDEX 1446
+uittName	[在角色头顶显示角色的名字]
+
+// HASH_VALUE 6B18F73DDF27A4A4
+// INDEX 1447
+uiTitle	[称号]
+
+// HASH_VALUE A1FCE2C344AB41D9
+// INDEX 1448
+uittTitle	[在角色头顶显示角色的称号]
+
+// HASH_VALUE 29C46F66D8349B81
+// INDEX 1449
+uigcGuildName	[公会名称]
+
+// HASH_VALUE 31003C9AABDB00C6
+// INDEX 1450
+uittGuildName	[在角色头顶显示公会名称]
+
+// HASH_VALUE E5D3F77B6BE94CA8
+// INDEX 1451
+uiSTA	[耐力]
+
+// HASH_VALUE 5A6D8F2D9E50FAF9
+// INDEX 1452
+uittSTA	[在角色头顶显示角色的耐力条]
+
+// HASH_VALUE 1C591877A0875485
+// INDEX 1453
+uiSAP	[树液]
+
+// HASH_VALUE DF3C16CBBFAB2ADA
+// INDEX 1454
+uittSAP	[在角色头顶显示角色的树液条]
+
+// HASH_VALUE A797BF3DDF08009C
+// INDEX 1455
+uiFOC	[专注]
+
+// HASH_VALUE DFBD9AD6A191CEEC
+// INDEX 1456
+uittFocus	[在角色头顶显示角色的专注条]
+
+// HASH_VALUE 698737366867538A
+// INDEX 1457
+uiActionBar	[角色动作栏]
+
+// HASH_VALUE 8910F18A4A05D53C
+// INDEX 1458
+uittActionBar	[在角色头顶显示动作栏]
+
+// HASH_VALUE 6CD8F430509C0480
+// INDEX 1459
+uiPvpLogo	[PvP 徽标]
+
+// HASH_VALUE 0CD7A5C8761B7DD6
+// INDEX 1460
+uittPvpLogo	[如适用，在角色头顶显示 PvP 徽标]
+
+// HASH_VALUE 98AA0081EE42D4A6
+// INDEX 1461
+uiMissionIcon	[任务信息]
+
+// HASH_VALUE F970BA8066A28799
+// INDEX 1462
+uittMissionIcon	[在 NPC 头顶和罗盘上显示任务信息]
+
+// HASH_VALUE 6BA9731C58FAA393
+// INDEX 1463
+uiMiniMissionIcon	[小图标]
+
+// HASH_VALUE 83767BD6624A20D3
+// INDEX 1464
+uittMiniMissionIcon	[在罗盘上显示小图标]
+
+// HASH_VALUE 8D23FC32CE322841
+// INDEX 1465
+uigcEntityColor	[实体颜色]
+
+// HASH_VALUE 9928088F26F55C9E
+// INDEX 1466
+uiEntityColors	[实体颜色]
+
+// HASH_VALUE 7058345470583454
+// INDEX 1467
+uiUserColor	[玩家]
+
+// HASH_VALUE C4E6A9F3695B05C2
+// INDEX 1468
+uittUserColor	[显示你自己角色所用的颜色]
+
+// HASH_VALUE 2F2AB096E518889A
+// INDEX 1469
+uiPlayerColor	[其他玩家]
+
+// HASH_VALUE 440B7957C5FC1EE4
+// INDEX 1470
+uittPlayerColor	[显示玩家角色所用的颜色]
+
+// HASH_VALUE 0A51C82F8B019431
+// INDEX 1471
+uiNPCColor	[NPC]
+
+// HASH_VALUE C352E50ECA0FEA2D
+// INDEX 1472
+uittNPCColor	[显示 NPC 所用的颜色]
+
+// HASH_VALUE A9B7087AE127EC8E
+// INDEX 1473
+uiFaunaColor	[动物]
+
+// HASH_VALUE 46EB2403E9D949BB
+// INDEX 1474
+uittFaunaColor	[显示怪物所用的颜色]
+
+// HASH_VALUE 27E9787FA607C490
+// INDEX 1475
+uiTargetColor	[目标]
+
+// HASH_VALUE 005BE5058A70A23E
+// INDEX 1476
+uittTargetColor	[显示当前目标所用的颜色]
+
+// HASH_VALUE EDA9742AEDE994F6
+// INDEX 1477
+uiGroupColor	[小队成员]
+
+// HASH_VALUE 1FE862514031BA9A
+// INDEX 1478
+uittGroupColor	[显示小队成员所用的颜色]
+
+// HASH_VALUE 6F62BC92149903A5
+// INDEX 1479
+uiGuildRadarColor	[公会成员]
+
+// HASH_VALUE B952164AC7FF839C
+// INDEX 1480
+uittGuildRadarColor	[显示公会成员所用的颜色]
+
+// HASH_VALUE F007989E26687CA4
+// INDEX 1481
+uiMountColor	[坐骑]
+
+// HASH_VALUE A390D8902E1A55C9
+// INDEX 1482
+uittMountColor	[显示你的坐骑所用的颜色]
+
+// HASH_VALUE AAC7F48E1DD73C8A
+// INDEX 1483
+uiBeastColor	[动物]
+
+// HASH_VALUE E090D8032E6B05BF
+// INDEX 1484
+uittBeastColor	[显示你的动物所用的颜色]
+
+// HASH_VALUE A90AE8A9A8B96C8E
+// INDEX 1485
+uiSourceColor	[来源]
+
+// HASH_VALUE 2490A5F5E95B55C9
+// INDEX 1486
+uittSourceColor	[显示你的原材料来源所用的颜色]
+
+// HASH_VALUE A6F6F880DBE7047C
+// INDEX 1487
+uiDeadColor	[尸体]
+
+// HASH_VALUE 20C5A07C2BD731C9
+// INDEX 1488
+uittDeadColor	[显示尸体所用的颜色]
+
+// HASH_VALUE 11688377AAF37CA5
+// INDEX 1489
+uiPvpEnemyColor	[PvP 敌方]
+
+// HASH_VALUE BE666DFE6A368E35
+// INDEX 1490
+uittPvpEnemyColor	[显示你的 PvP 敌方所用的颜色]
+
+// HASH_VALUE DB26FC821AE6D766
+// INDEX 1491
+uiPvpAllyColor	[PvP 友方]
+
+// HASH_VALUE BD2689FC6936C143
+// INDEX 1492
+uittPvpAllyColor	[显示你的 PvP 友方所用的颜色]
+
+// HASH_VALUE DB620082D607563F
+// INDEX 1493
+uiPvpAllyInTeamColor	[小队内 PvP 友方]
+
+// HASH_VALUE B632A3EC778A411A
+// INDEX 1494
+uittPvpAllyInTeamColor	[显示小队内的 PvP 友方所用的颜色]
+
+// HASH_VALUE CFE3088AAAD2F2B8
+// INDEX 1495
+uiPvpAllyInGuildColor	[公会内 PvP 友方]
+
+// HASH_VALUE B6789FF47BB9411A
+// INDEX 1496
+uittPvpAllyInGuildColor	[显示公会内的 PvP 友方所用的颜色]
+
+// HASH_VALUE 0927CC801E79889E
+// INDEX 1497
+uiPvpNeutralColor	[PvP 中立方]
+
+// HASH_VALUE 88B14E1185E56E8A
+// INDEX 1498
+uittPvpNeutralColor	[显示 PvP 中立方所用的颜色]
+
+// HASH_VALUE 9E95234B4E265B9B
+// INDEX 1499
+uiUserIS	[场景内玩家信息]
+
+// HASH_VALUE 8F56B017D498748D
+// INDEX 1500
+uiFriendIS	[场景内好友信息]
+
+// HASH_VALUE 9D4058205D049499
+// INDEX 1501
+uiEnemyIS	[场景内敌人信息]
+
+// HASH_VALUE 5ED4E0FC1D5077AA
+// INDEX 1502
+uiChatIS	[场景内聊天气泡]
+
+// HASH_VALUE D9C89F96E5D5B865
+// INDEX 1503
+uiUserMessages	[玩家聊天气泡]
+
+// HASH_VALUE 06B68C64AECD84AE
+// INDEX 1504
+uittUserMessages	[在你的角色头顶显示你的聊天消息]
+
+// HASH_VALUE 15357C7D15167489
+// INDEX 1505
+uiFriendMessages	[好友聊天气泡]
+
+// HASH_VALUE BA45BD20741F393A
+// INDEX 1506
+uittFriendMessages	[在好友角色头顶显示其聊天消息]
+
+// HASH_VALUE 5F15AC2D291962C0
+// INDEX 1507
+uiEnemyMessages	[敌人聊天气泡]
+
+// HASH_VALUE E0AD0618B2ACD1C7
+// INDEX 1508
+uittEnemyMessages	[在敌方角色头顶显示其聊天消息]
+
+// HASH_VALUE E8C62C801EB7048D
+// INDEX 1509
+uiHands	[动作]
+
+// HASH_VALUE 20196F9226A2C061
+// INDEX 1510
+uiPhraseBook	[动作进阶]
+
+// HASH_VALUE 6C58143478D82480
+// INDEX 1511
+uiMailBox	[邮箱]
+
+// HASH_VALUE 90A8F442AEC797B4
+// INDEX 1512
+uiGuildForum	[公会论坛]
+
+// HASH_VALUE E4B4E4982957003E
+// INDEX 1513
+uiTalkMem	[常用语]
+
+// HASH_VALUE 66FAB49864B7FC7A
+// INDEX 1514
+uiTalkMemMsg	[消息]
+
+// HASH_VALUE D7065F6B15C44E92
+// INDEX 1515
+uiTalkMemMsg00	[你好！]
+
+// HASH_VALUE 2058940820589408
+// INDEX 1516
+uiTalkMemMsg01	[再见！]
+
+// HASH_VALUE 2CDC54642CDC5464
+// INDEX 1517
+uiTalkMemMsg02	[是]
+
+// HASH_VALUE 8C9E6B39D4A0665A
+// INDEX 1518
+uiTalkMemMsg03	[否]
+
+// HASH_VALUE DC82073A2E220386
+// INDEX 1519
+uiTalkMemMsg04	[跟我来]
+
+// HASH_VALUE 701854202C58D480
+// INDEX 1520
+uiTalkMemMsg05	[帮帮我]
+
+// HASH_VALUE 5514175957B45C52
+// INDEX 1521
+uiTalkMemMsg06	[我需要治疗]
+
+// HASH_VALUE 6B948F45CE207BA4
+// INDEX 1522
+uiTalkMemMsg07	[我在找队员]
+
+// HASH_VALUE 2CD854202CD85420
+// INDEX 1523
+uiTalkMemMsg08	[拥抱]
+
+// HASH_VALUE 1387034721131F43
+// INDEX 1524
+uiTalkMemMsg09	[太好了！]
+
+// HASH_VALUE ECF88C8C50D0148E
+// INDEX 1525
+uiTalkMemMsg10	[怎么了？]
+
+// HASH_VALUE 9E37735DE0D4774C
+// INDEX 1526
+uiTalkMemMsg11	[哥们？]
+
+// HASH_VALUE 9B75BF5855D98CA8
+// INDEX 1527
+uiTalkMemMsg12	[为什么不呢？]
+
+// HASH_VALUE F30E1038EE7E0438
+// INDEX 1528
+uiTalkMemMsg13	[在路上]
+
+// HASH_VALUE 6818002470583480
+// INDEX 1529
+uiTalkMemMsg14	[您好，先生]
+
+// HASH_VALUE 6CC7BC8C5D10001D
+// INDEX 1530
+uiTalkMemMsg15	[别和我说话]
+
+// HASH_VALUE D918B039A7B23F8C
+// INDEX 1531
+uiTalkMemMsg16	[别烦我！]
+
+// HASH_VALUE 509AFB6A48F702A8
+// INDEX 1532
+uiTalkMemMsg17	[你疯了吗？]
+
+// HASH_VALUE 60A6147960A61479
+// INDEX 1533
+uiTalkMemMsg18	[啊哈哈哈哈]
+
+// HASH_VALUE F3B08357711CE844
+// INDEX 1534
+uiTalkMemMsg19	[就是这么回事]
+
+// HASH_VALUE F35954A5EA082E2B
+// INDEX 1535
+uiShowContextHelp	[显示上下文帮助]
+
+// HASH_VALUE CC325C42C310CCFC
+// INDEX 1536
+uimGcmZoneCharge	[查看领地税责]
+
+// HASH_VALUE 4BE0AC063D40DB1A
+// INDEX 1537
+uimGcmCancelZoneCharge	[放弃领地税责]
+
+// HASH_VALUE 3E00DC18D0704716
+// INDEX 1538
+uimGcmChooseBuilding	[建造建筑]
+
+// HASH_VALUE 5092D40CB2F2C42C
+// INDEX 1539
+uimGcmDestroyBuilding	[拆除建筑]
+
+// HASH_VALUE 8D6F6030F9D11F0C
+// INDEX 1540
+uimGcmDeclareWar	[宣战]
+
+// HASH_VALUE 85E0F4043E61CC3A
+// INDEX 1541
+uimGcmBuyRM	[雇佣职业导师]
+
+// HASH_VALUE CE5FA83F34E19400
+// INDEX 1542
+uimGcmUpgradeRM	[升级职业导师]
+
+// HASH_VALUE 997945DC8DF6E070
+// INDEX 1543
+uiDayBeforeNextZCDistrib	[距下次税责发放的剩余天数： ]
+
+// HASH_VALUE E108509750242758
+// INDEX 1544
+uiRearView	[后视角]
+
+// HASH_VALUE 69787898652874A0
+// INDEX 1545
+uiDecline	[拒绝]
+
+// HASH_VALUE 2F59A889A1D5436C
+// INDEX 1546
+uiFrontSelection	[选取前方目标]
+
+// HASH_VALUE 641C9450641C9450
+// INDEX 1547
+uiFrontSelectionType	[类型]
+
+// HASH_VALUE E918BC86E058408B
+// INDEX 1548
+uiFrontSelectionFriend	[朋友]
+
+// HASH_VALUE 6498E414705894B4
+// INDEX 1549
+uiFrontSelectionEnnemy	[敌人]
+
+// HASH_VALUE B344E44CEDADC0E9
+// INDEX 1550
+uittInvSlots	[已用@{6F6F}槽位@{FFFF}/最大值]
+
+// HASH_VALUE 6BC7037FE6E85069
+// INDEX 1551
+uittForageTime	[可用提取时间]
+
+// HASH_VALUE 6BBAD4ABE2843044
+// INDEX 1552
+uittForageContent	[来源内容]
+
+// HASH_VALUE 23A79F965FF43058
+// INDEX 1553
+uittForageLife	[来源储量]
+
+// HASH_VALUE E295EB9AA4E7D8A0
+// INDEX 1554
+uittForageDanger	[提取风险]
+
+// HASH_VALUE E1496390D590684D
+// INDEX 1555
+uittForageKami	[当地 Kami 容忍度]
+
+// HASH_VALUE 28897B5DEC77428A
+// INDEX 1556
+uimEnterStable	[进入马厩]
+
+// HASH_VALUE B027335E30461E77
+// INDEX 1557
+uimLeaveStable	[离开马厩]
+
+// HASH_VALUE AA489885A0C73C81
+// INDEX 1558
+uiAnimals	[动物]
+
+// HASH_VALUE 8A40982588C1BC21
+// INDEX 1559
+uiAnimalsTitle	[动物]
+
+// HASH_VALUE 2EE6A09C38655ED5
+// INDEX 1560
+uittAliveLandscape	[该动物存活且在马厩外。\n
+	@{6F6F}左键点击@{FFFF}选中。\n
+	@{6F6F}右键点击@{FFFF}下达指令。]
+
+// HASH_VALUE 3CB6917B84CD2195
+// INDEX 1561
+uittStable	[该动物在马厩中。\n
+	@{6F6F}右键点击@{FFFF}下达指令。]
+
+// HASH_VALUE AF075E2295E176F7
+// INDEX 1562
+uittDead	[该动物已死亡。\n
+	@{6F6F}左键点击@{FFFF}选中。\n
+	@{6F6F}右键点击@{FFFF}下达指令。]
+
+// HASH_VALUE 309E23DB19F9A563
+// INDEX 1563
+uittDeathTimer	[死亡动物消失前的剩余时间]
+
+// HASH_VALUE 48D0144030082414
+// INDEX 1564
+uimMtPaPacker0	[驮兽 1]
+
+// HASH_VALUE 48D0144030082414
+// INDEX 1565
+uimMtPaPacker1	[驮兽 2]
+
+// HASH_VALUE 48D0144030082414
+// INDEX 1566
+uimMtPaPacker2	[驮兽 3]
+
+// HASH_VALUE 48D0144034082414
+// INDEX 1567
+uimMtPaPacker3	[驮兽 4]
+
+// HASH_VALUE FC801C3F0E30B6F2
+// INDEX 1568
+uimMtPaMount0	[坐骑 1]
+
+// HASH_VALUE 3C801C3F0E40BAF3
+// INDEX 1569
+uimMtPaMount1	[坐骑 2]
+
+// HASH_VALUE 7C801C3F0E50BEF4
+// INDEX 1570
+uimMtPaMount2	[坐骑 3]
+
+// HASH_VALUE BD801C3F0E60C2F5
+// INDEX 1571
+uimMtPaMount3	[坐骑 4]
+
+// HASH_VALUE BAAEC025887F6AE3
+// INDEX 1572
+uimMtPaDemon0	[恶魔 1]
+
+// HASH_VALUE FAAEC025888F6EE4
+// INDEX 1573
+uimMtPaDemon1	[恶魔 2]
+
+// HASH_VALUE 3AAEC025889F72E5
+// INDEX 1574
+uimMtPaDemon2	[恶魔 3]
+
+// HASH_VALUE 7BAEC02588AF76E6
+// INDEX 1575
+uimMtPaDemon3	[恶魔 4]
+
+// HASH_VALUE CB21A82C8BA1B420
+// INDEX 1576
+uimMtGuild	[公会]
+
+// HASH_VALUE 4CD0F4484CD0F448
+// INDEX 1577
+uimMtRoom	[房间]
+
+// HASH_VALUE 5126B04C19D4C86B
+// INDEX 1578
+uitabBag	[背包]
+
+// HASH_VALUE 68D8144030082494
+// INDEX 1579
+uitabPacker0	[驮兽 1]
+
+// HASH_VALUE 68D8144030082494
+// INDEX 1580
+uitabPacker1	[驮兽 2]
+
+// HASH_VALUE 68D8144030082494
+// INDEX 1581
+uitabPacker2	[驮兽 3]
+
+// HASH_VALUE 68D8144034082494
+// INDEX 1582
+uitabPacker3	[驮兽 4]
+
+// HASH_VALUE 4402F8023CD1EC0F
+// INDEX 1583
+uiWebOnQuit	[填写调查问卷]
+
+// HASH_VALUE 64DC5448485400D0
+// INDEX 1584
+uiTaskbarResetUI	[重置界面]
+
+// HASH_VALUE 6C1C54046C1C5404
+// INDEX 1585
+uiConfigAuto	[自动]
+
+// HASH_VALUE 40D4943440D49434
+// INDEX 1586
+uiCaracMisc	[杂项]
+
+// HASH_VALUE 1099CF8010269298
+// INDEX 1587
+uiTotalMalus	[总减益 ]
+
+// HASH_VALUE C9B2BB39E243FB2A
+// INDEX 1588
+uiBagBulk	[背包体积 ]
+
+// HASH_VALUE A283A38D94F8EF4A
+// INDEX 1589
+uiWeightSpeedFactor	[速度系数 ]
+
+// HASH_VALUE E1595C8AE4B79496
+// INDEX 1590
+uiYes	[是]
+
+// HASH_VALUE 6C90F4386C90F438
+// INDEX 1591
+uiNo	[否]
+
+// HASH_VALUE 175B848F9AC20C7F
+// INDEX 1592
+uiAlwaysSendReport	[始终发送报告]
+
+// HASH_VALUE A5F53F2482444ED5
+// INDEX 1593
+uiStatReport	[是否发送统计报告？\n
+	此报告将帮助我们跟踪并修复游戏问题。]
+
+// HASH_VALUE 721C44C672FAE4BE
+// INDEX 1594
+uiCSBase	[客服支持]
+
+// HASH_VALUE 7458244074582440
+// INDEX 1595
+uiBrowseUndoButton	[上一页]
+
+// HASH_VALUE 741C5438741C5438
+// INDEX 1596
+uiBrowseRedoButton	[下一页]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 1597
+uiBrowseRefresh	[刷新]
+
+// HASH_VALUE 6458F4206458F420
+// INDEX 1598
+uiBrowseHome	[主页]
+
+// HASH_VALUE DA45F4396E56C8B2
+// INDEX 1599
+uittBrowseUndo	[浏览上一页]
+
+// HASH_VALUE 6FE5FC7706B5046F
+// INDEX 1600
+uittBrowseRedo	[浏览下一页]
+
+// HASH_VALUE 4869847D05A9F49D
+// INDEX 1601
+uittBrowseRefresh	[刷新当前页面]
+
+// HASH_VALUE 6D70788D1C50A88C
+// INDEX 1602
+uittBrowseHome	[浏览主页]
+
+// HASH_VALUE 10F0B412CEB0AC10
+// INDEX 1603
+uimwEncyclopedia	[百科全书]
+
+// HASH_VALUE 10F0B412CEB0AC10
+// INDEX 1604
+uiEncyclopedia	[百科全书]
+
+// HASH_VALUE A79A55E425442C20
+// INDEX 1605
+uiEncyExplanation	[这是你的百科全书。\n
+	\n
+	此窗口用于展示你在 Atys 上寻得的知识收藏。琥珀色方块对应一个主题。主题归入合集之中。]
+
+// HASH_VALUE 1C09E47B1F4AB09D
+// INDEX 1606
+uiThemeProgression	[进度：]
+
+// HASH_VALUE 4B51742F48D0C025
+// INDEX 1607
+uiEncyAlbum	[合集]
+
+// HASH_VALUE 07F19C2ECB71BC2B
+// INDEX 1608
+uiEncyTheme	[主题]
+
+// HASH_VALUE 8BB4C8540F91521F
+// INDEX 1609
+uiRite	[仪式：由 NPC 名字发布的仪式……]
+
+// HASH_VALUE 26EF7898DE522F7E
+// INDEX 1610
+uiTask1	[仪式任务 1：由 NPC 名字发布的任务……]
+
+// HASH_VALUE 26EF7898DE522F7F
+// INDEX 1611
+uiTask2	[仪式任务 2：由 NPC 名字发布的任务……]
+
+// HASH_VALUE 26EF7898DE522F80
+// INDEX 1612
+uiTask3	[仪式任务 3：由 NPC 名字发布的任务……]
+
+// HASH_VALUE 26EF7898DE522F81
+// INDEX 1613
+uiTask4	[仪式任务 4：由 NPC 名字发布的任务……]
+
+// HASH_VALUE 26EF7898DE522F82
+// INDEX 1614
+uiTask5	[仪式任务 5：由 NPC 名字发布的任务……]
+
+// HASH_VALUE 26EF7898DE522F83
+// INDEX 1615
+uiTask6	[仪式任务 6：由 NPC 名字发布的任务……]
+
+// HASH_VALUE 26EF7898DE522F84
+// INDEX 1616
+uiTask7	[仪式任务 7：由 NPC 名字发布的任务……]
+
+// HASH_VALUE F07AF43C26B0E2AC
+// INDEX 1617
+uiQuitingRyzom	[正在离开 Ryzom……]
+
+// HASH_VALUE 69AD08699B76E8FF
+// INDEX 1618
+uiQuitingRules	[注意：如果你移动或受到攻击，退出将被取消。\n
+	注意：如果你选择“立即退出”，你的角色仍将保持在线 30 秒。]
+
+// HASH_VALUE 7458544474D8E480
+// INDEX 1619
+uiQuitNow	[立即退出]
+
+// HASH_VALUE 76FA8CC65B825C6E
+// INDEX 1620
+uiPayingAccount	[限时期间 Ryzom 授权免费！\n
+	立即订阅即可完整畅玩 Ryzom，仅需支付月度订阅费。]
+
+// HASH_VALUE 4D9FFC178C00FC3E
+// INDEX 1621
+uiTitlePayingAccount	[立即注册]
+
+// HASH_VALUE C43073118362DC40
+// INDEX 1622
+uiNotYet	[暂不]
+
+// HASH_VALUE 8DFFDC2E3FB20B25
+// INDEX 1623
+uiUpgradeNow	[立即升级]
+
+// HASH_VALUE DA87076E9EF62683
+// INDEX 1624
+uiBCFilterPrice	[价格：]
+
+// HASH_VALUE 6C585444385C44A4
+// INDEX 1625
+uiBCFilterQuality	[品质：]
+
+// HASH_VALUE 6197175AA0B54E8A
+// INDEX 1626
+uiBCFilterClass	[品级：]
+
+// HASH_VALUE 4621C87908F5289B
+// INDEX 1627
+uiBCMPItemPart	[原材料部件：]
+
+// HASH_VALUE 22D7CB47A983BF33
+// INDEX 1628
+uiBCItemType	[物品类型：]
+
+// HASH_VALUE D666185AA1B41885
+// INDEX 1629
+uiBCNoItemTypeFilter	[全部]
+
+// HASH_VALUE A0D45B8193642864
+// INDEX 1630
+uiBCTitleFilterPrice	[选择价格范围：]
+
+// HASH_VALUE 9688AC88DEA05C72
+// INDEX 1631
+uiBCTitleFilterQuality	[选择品质范围：]
+
+// HASH_VALUE A2043B7B4F45685C
+// INDEX 1632
+uiBCTitleFilterClass	[选择品级范围：]
+
+// HASH_VALUE DA580C3F5CE42F9C
+// INDEX 1633
+uiBCTitleMPItemPart	[选择物品部件筛选：]
+
+// HASH_VALUE DA580C3F98C48FA0
+// INDEX 1634
+uiBCTitleMPItemType	[选择物品类型筛选：]
+
+// HASH_VALUE 3898943438989434
+// INDEX 1635
+uiBCFilterMin	[最低：]
+
+// HASH_VALUE 381C1434381C1434
+// INDEX 1636
+uiBCFilterMax	[最高：]
+
+// HASH_VALUE 3D76CF43DE2EDEDE
+// INDEX 1637
+uittBCNoItemPartFilter	[显示所有原材料，不按部件筛选。]
+
+// HASH_VALUE AB087C9022F9449E
+// INDEX 1638
+uiBCFilterReset	[重置]
+
+// HASH_VALUE 1E03F6C436507FA0
+// INDEX 1639
+uiBCFilterClass0	[初级 (1)]
+
+// HASH_VALUE 64989418288C8080
+// INDEX 1640
+uiBCFilterClass1	[优良 (2)]
+
+// HASH_VALUE C85F7AF9D7627F48
+// INDEX 1641
+uiBCFilterClass2	[上选 (3)]
+
+// HASH_VALUE DDD2B65298A52C66
+// INDEX 1642
+uiBCFilterClass3	[优秀 (4)]
+
+// HASH_VALUE D5F107580B349A74
+// INDEX 1643
+uiBCFilterClass4	[极品 (5)]
+
+// HASH_VALUE F29BFC906368489E
+// INDEX 1644
+uiBCDestroy	[销毁]
+
+// HASH_VALUE 7366E11A67CF8728
+// INDEX 1645
+uiBCAutoReset	[打开时重置筛选条件]
+
+// HASH_VALUE C22FCC4FDB97D70B
+// INDEX 1646
+uittBCAutoReset	[勾选后，再次打开窗口时，所有 @{6F6F}筛选条件@{FFFF} 都会重置。\n
+	取消勾选此选项可保留 @{6F6F}品级@{FFFF}、@{6F6F}品质@{FFFF} 和 @{6F6F}价格@{FFFF} 筛选。]
+
+// HASH_VALUE 72D8400F70580435
+// INDEX 1647
+uiCriticalHit	[暴击]
+
+// HASH_VALUE 619924766177348A
+// INDEX 1648
+uiParry	[格挡]
+
+// HASH_VALUE AD6B0C9EE6F85089
+// INDEX 1649
+uiDodge	[闪避]
+
+// HASH_VALUE 74582440705CF4A4
+// INDEX 1650
+uiMP3Prev	[上一首]
+
+// HASH_VALUE 7858C4407858C440
+// INDEX 1651
+uiMP3Play	[播放]
+
+// HASH_VALUE EAA93089A5C8289D
+// INDEX 1652
+uiMP3Pause	[暂停]
+
+// HASH_VALUE 70D8444C70D8444C
+// INDEX 1653
+uiMP3Stop	[停止]
+
+// HASH_VALUE 741C5438741C5438
+// INDEX 1654
+uiMP3Next	[下一首]
+
+// HASH_VALUE EEC7E4856C66BC9C
+// INDEX 1655
+uiMP3Volume	[音量]
+
+// HASH_VALUE 7858C44074DC94B0
+// INDEX 1656
+uiMP3Playlist	[播放列表]
+
+// HASH_VALUE 5850C44054D49430
+// INDEX 1657
+uiPlaylistTitle	[播放列表]
+
+// HASH_VALUE 1673A06395223B35
+// INDEX 1658
+uimwMP3Player	[MP3 播放器]
+
+// HASH_VALUE CA92A4228801E834
+// INDEX 1659
+uimwCosmetics	[外观道具]
+
+// HASH_VALUE 9759D85E1014FC38
+// INDEX 1660
+uiCosmColor	[更改发色]
+
+// HASH_VALUE 2624A84EA0109C72
+// INDEX 1661
+uiCosmTatoo	[更改纹身]
+
+// HASH_VALUE 5D733E0FA02A84AD
+// INDEX 1662
+uiCreatorHeader	[工匠： ]
+
+// HASH_VALUE 649C1420649C14DC
+// INDEX 1663
+uiMouseHardware	[硬件]
+
+// HASH_VALUE 45C5C008EB1984B7
+// INDEX 1664
+uiCannotWriteDynChat	[ 你无法在此频道发言。]
+
+// HASH_VALUE CC112431CA83BC39
+// INDEX 1665
+uiMagicProtectTable	[防护]
+
+// HASH_VALUE 276E3F52A73FB865
+// INDEX 1666
+uittMagicProtectTable	[@{6F6F}魔法防护@{FFFF}可吸收所受魔法伤害的一定百分比。吸收量取决于：\n
+	@{T4}- 魔法造成的@{6F6F}伤害类型@{FFFF}\n
+	@{T4}- 所穿戴@{6F6F}首饰@{FFFF}提供的魔法防护特性\n
+	@{T4}- 所穿戴首饰的总@{6F6F}品质@{FFFF}\n
+	@{T4}- 玩家的@{6F6F}种族@{FFFF}。]
+
+// HASH_VALUE 049B1C4DD74B2041
+// INDEX 1667
+uiProtect_MaxAbsorb	[最大吸收]
+
+// HASH_VALUE BE3C7E33592B3BA4
+// INDEX 1668
+uittProtect_MaxAbsorb	[可吸收的魔法伤害上限。\n
+	为首饰的@{6F6F}最大吸收伤害@{FFFF}总和 + 玩家的@{6F6F}最大等级@{FFFF}。]
+
+// HASH_VALUE 0F43D4330BE3FC4C
+// INDEX 1669
+uiResistsTable	[抗性]
+
+// HASH_VALUE 3B5AB94F4DCF2CF8
+// INDEX 1670
+uittMagicResistTable	[生物和玩家施放的法术可能被完全@{6F6F}抵抗@{FFFF}。\n
+	抵抗的@{6F6F}几率百分比@{FFFF}取决于：\n
+	@{T4}- 若是 affliction（诅咒）类法术，则取决于法术的@{6F6F}强度@{FFFF}\n
+	@{T4}- 若是元素类法术，则取决于施法者的@{6F6F}技能等级@{FFFF}\n
+	@{T4}- 你在该法术所属@{6F6F}魔法领域@{FFFF}中的@{6F6F}抗性分数@{FFFF}\n
+	\n
+	@{T0}你的@{6F6F}抗性分数@{FFFF}由以下各项相加：\n
+	@{T4}- 所有@{6F6F}战斗@{FFFF}、@{6F6F}魔法@{FFFF}或@{6F6F}采集/2@{FFFF}技能中的最高等级减去 26\n
+	@{T4}- 该魔法领域中的@{6F6F}首饰抗性@{FFFF}加成\n
+	@{T4}- @{6F6F}种族加成@{FFFF}（例如：Fyros 在沙漠中 +10）\n
+	@{T4}- @{6F6F}生态系统减益@{FFFF}（例如：若你身处沙漠，在沙漠中为 -10]
+
+// HASH_VALUE 6858142C6858142C
+// INDEX 1671
+uiFactionPoint_Kami	[Kami]
+
+// HASH_VALUE E8BAAC7F1ED7F090
+// INDEX 1672
+uiFactionPoint_Karavan	[Karavan]
+
+// HASH_VALUE B11894A16659889A
+// INDEX 1673
+uiFactionPoint_Fyros	[Fyros]
+
+// HASH_VALUE ABC7588A22682C9D
+// INDEX 1674
+uiFactionPoint_Matis	[Matis]
+
+// HASH_VALUE ECC90886AE770897
+// INDEX 1675
+uiFactionPoint_Tryker	[Tryker]
+
+// HASH_VALUE 29D8949365585096
+// INDEX 1676
+uiFactionPoint_Zorai	[Zoraï]
+
+// HASH_VALUE 4FA1CC2240810F31
+// INDEX 1677
+uiFactionPointTable	[阵营与国家点数]
+
+// HASH_VALUE 9340C82653FDD415
+// INDEX 1678
+uiENRequired	[仪式任务]
+
+// HASH_VALUE 4414944844149448
+// INDEX 1679
+uiENRite	[仪式]
+
+// HASH_VALUE 8263473683720A41
+// INDEX 1680
+uiENGiver	[发布者：]
+
+// HASH_VALUE 03E25BFA0890530C
+// INDEX 1681
+uiENName	[任务名称：]
+
+// HASH_VALUE 62F5049CECE91B4A
+// INDEX 1682
+uiMissionPrereq	[前置条件：]
+
+// HASH_VALUE 55F70330EE7AE893
+// INDEX 1683
+uiMissionDesc	[描述：]
+
+// HASH_VALUE 0A65BC9DA7C55E13
+// INDEX 1684
+uiMissionTitle	[标题：]
+
+// HASH_VALUE 64D8145C64D8145C
+// INDEX 1685
+uittMissionWake	[唤醒]
+
+// HASH_VALUE AB48987ADE27208D
+// INDEX 1686
+uimCompassDialogs	[对话]
+
+// HASH_VALUE 5E07187358A2309C
+// INDEX 1687
+uiMouseInverted	[反转鼠标]
+
+// HASH_VALUE 2378A89A9C759B66
+// INDEX 1688
+uiItemTextEdition	[物品文本]
+
+// HASH_VALUE 6C7960A2E8888C99
+// INDEX 1689
+uimItemTextEdit	[编写]
+
+// HASH_VALUE DBC89089E5521B69
+// INDEX 1690
+uiTabInfo	[右键点击以分离]
+
+// HASH_VALUE 1636774FAB85CC9C
+// INDEX 1691
+uittReturnToMainland	[返回主大陆]
+
+// HASH_VALUE CA70DC0EC8219E3C
+// INDEX 1692
+uiR2EDActionCategory	[RYZOM RING 命令]
+
+// HASH_VALUE 3046E45D6DE4087C
+// INDEX 1693
+uiRingAccessPointFilter	[筛选]
+
+// HASH_VALUE 84260386980486C9
+// INDEX 1694
+uiFilterScenarioText	[选择筛选条件，过滤你有权访问的窗口集合]
+
+// HASH_VALUE 5F846F74039950A4
+// INDEX 1695
+uiMk_mode	[切换显示模式]
+
+// HASH_VALUE E8985418705824D0
+// INDEX 1696
+uiMk_tab1	[窗口]
+
+// HASH_VALUE ACB9C0819FC81891
+// INDEX 1697
+uiMk_tab2	[动作]
+
+// HASH_VALUE 6C584424E81C94D0
+// INDEX 1698
+uiMk_window1	[身份]
+
+// HASH_VALUE A738C48A6BF7B49F
+// INDEX 1699
+uiMk_window2	[背包]
+
+// HASH_VALUE ACB9C0819FC81891
+// INDEX 1700
+uiMk_window3	[动作]
+
+// HASH_VALUE 70DC94347098F4A4
+// INDEX 1701
+uiMk_window4	[任务]
+
+// HASH_VALUE 6AB8F07DE1C7F88E
+// INDEX 1702
+uiMk_window5	[地图]
+
+// HASH_VALUE C736C394ECA7C74C
+// INDEX 1703
+uiMk_window6	[通讯……]
+
+// HASH_VALUE 6418940464189404
+// INDEX 1704
+uiMk_window7	[帮助]
+
+// HASH_VALUE 2A97EC78EE98D88A
+// INDEX 1705
+uiMk_window8	[客服支持]
+
+// HASH_VALUE 91A40ACE615023DC
+// INDEX 1706
+uiMk_window9	[系统……]
+
+// HASH_VALUE FA6083731CD21ACB
+// INDEX 1707
+uiMk_window10	[帮助……]
+
+// HASH_VALUE E1DD6C4684778F1F
+// INDEX 1708
+uiMk_action1_0	[移动]
+
+// HASH_VALUE DFB12FA7A8399F58
+// INDEX 1709
+uiMk_action1_0_tt	[点击以@{6F6F}移动@{FFFF}。\n
+	也可以按住鼠标的两个按键。]
+
+// HASH_VALUE 70D8444C70D8444C
+// INDEX 1710
+uiMk_action1_1	[停止]
+
+// HASH_VALUE 8DECD25E643E5382
+// INDEX 1711
+uiMk_action1_1_tt	[点击以@{6F6F}停止@{FFFF}。\n
+	也可以同时按下并松开鼠标的两个按键。]
+
+// HASH_VALUE EE186C9062B94490
+// INDEX 1712
+uiMk_action2_0	[坐下]
+
+// HASH_VALUE 4A87BCEC6F2D6E60
+// INDEX 1713
+uiMk_action2_0_tt	[你正处于@{6F6F}坐下@{FFFF}状态。\n
+	坐下期间，你的生命值、耐力、树液和专注的回复速度加倍。\n
+	点击站起。]
+
+// HASH_VALUE 2CE7B85FAA05F490
+// INDEX 1714
+uiMk_action2_1	[站立]
+
+// HASH_VALUE C3B320EC18D4D541
+// INDEX 1715
+uiMk_action2_1_tt	[你正处于@{6F6F}站立@{FFFF}状态。\n
+	坐下可使你的生命值、耐力、树液和专注的回复速度加倍。\n
+	点击坐下。]
+
+// HASH_VALUE 61A82C74E1553C8F
+// INDEX 1716
+uiMk_action3_0	[步行]
+
+// HASH_VALUE 7A3F1E4BFA7531B4
+// INDEX 1717
+uiMk_action3_0_tt	[你正处于@{6F6F}步行@{FFFF}模式。\n
+	点击切换为奔跑]
+
+// HASH_VALUE 6C19D86EABF6B09E
+// INDEX 1718
+uiMk_action3_1	[奔跑]
+
+// HASH_VALUE D74EF23C399585C3
+// INDEX 1719
+uiMk_action3_1_tt	[你正处于@{6F6F}奔跑@{FFFF}模式。\n
+	点击切换为步行]
+
+// HASH_VALUE AD6B0C9EE6F85089
+// INDEX 1720
+uiMk_action4_0	[闪避]
+
+// HASH_VALUE 39FA40D13D91D381
+// INDEX 1721
+uiMk_action4_0_tt	[你正处于@{6F6F}闪避@{FFFF}模式。\n
+	闪避几率取决于你的闪避值，尤其取决于你的装备（见@{6F6F}身份@{FFFF}窗口）。\n
+	点击切换为格挡模式。]
+
+// HASH_VALUE 619924766177348A
+// INDEX 1722
+uiMk_action4_1	[格挡]
+
+// HASH_VALUE 90DC71A86F7FFD98
+// INDEX 1723
+uiMk_action4_1_tt	[你正处于@{6F6F}格挡@{FFFF}模式。\n
+	格挡几率取决于你的格挡值，尤其取决于你的装备（见@{6F6F}身份@{FFFF}窗口）。\n
+	点击切换为闪避模式。]
+
+// HASH_VALUE 601C4404705854C4
+// INDEX 1724
+uiMk_action5_0	[攻击]
+
+// HASH_VALUE 54FC5F595D478E32
+// INDEX 1725
+uiMk_action5_0_tt	[点击以@{6F6F}攻击@{FFFF}选定的目标。\n
+	你也可以使用动作栏（默认位于屏幕顶部）中的战斗动作。]
+
+// HASH_VALUE 48E7AA788577A28A
+// INDEX 1726
+uiMk_action5_1	[脱离战斗]
+
+// HASH_VALUE C2B68950DFDA59AB
+// INDEX 1727
+uiMk_action5_1_tt	[点击以@{6F6F}脱离战斗@{FFFF}]
+
+// HASH_VALUE 701C8414649C9484
+// INDEX 1728
+uiMk_action6	[提取]
+
+// HASH_VALUE 4194992211935C5F
+// INDEX 1729
+uiMk_action6_tt	[点击以@{6F6F}提取@{FFFF}选定的资源。\n
+	你也可以使用动作栏（默认位于屏幕顶部）中的提取动作。]
+
+// HASH_VALUE 6C9A0896E4083C94
+// INDEX 1730
+uiMk_action7	[邀请]
+
+// HASH_VALUE 6F417F62E8F510BE
+// INDEX 1731
+uiMk_action7_tt	[点击以@{6F6F}邀请@{FFFF}选定的玩家加入你的小队。\n
+	也可以通过右键菜单（右键点击角色）邀请玩家。]
+
+// HASH_VALUE 6DA3E802EDEBECC1
+// INDEX 1732
+uiMk_action8	[离开小队]
+
+// HASH_VALUE D30B28A72E50A43F
+// INDEX 1733
+uiMk_action8_tt	[点击以@{6F6F}离开@{FFFF}你的小队。\n
+	也可以通过右键菜单（右键点击角色）离开小队。]
+
+// HASH_VALUE 6C9C1440E0082494
+// INDEX 1734
+uiMk_action9	[交谈]
+
+// HASH_VALUE 46BCF3453997A04A
+// INDEX 1735
+uiMk_action9_tt	[点击与选定的玩家@{6F6F}交谈@{FFFF}。\n
+	也可以通过右键菜单（右键点击角色）与玩家交谈。]
+
+// HASH_VALUE 7498F40C701C3484
+// INDEX 1736
+uiMk_interaction1	[联系人列表]
+
+// HASH_VALUE ECE6F05B2EC4B078
+// INDEX 1737
+uiMk_interaction2	[公会]
+
+// HASH_VALUE 2FD854976557609A
+// INDEX 1738
+uiMk_interaction3	[论坛]
+
+// HASH_VALUE 6C9854486478D4B4
+// INDEX 1739
+uiMk_interaction4	[名望]
+
+// HASH_VALUE 2AF7907CAA77948A
+// INDEX 1740
+uiMk_interaction5	[邮箱]
+
+// HASH_VALUE 6909C46F6B06949A
+// INDEX 1741
+uiMk_interaction6	[小队]
+
+// HASH_VALUE 2ED99885A017748F
+// INDEX 1742
+uiMk_interaction7	[动物]
+
+// HASH_VALUE 6CD7A77F9BC7BFA7
+// INDEX 1743
+uiMk_interaction8	[Ryzom Ring]
+
+// HASH_VALUE AC26EC796A2AC8B7
+// INDEX 1744
+uiMk_system1	[配置]
+
+// HASH_VALUE 2769C09B25C97094
+// INDEX 1745
+uiMk_system2	[按键]
+
+// HASH_VALUE E8985418705824D0
+// INDEX 1746
+uiMk_system3	[窗口]
+
+// HASH_VALUE 6C36A06C28D4E88E
+// INDEX 1747
+uiMk_system4	[宏]
+
+// HASH_VALUE E1F64089AC59E8B0
+// INDEX 1748
+uiMk_system5	[连接]
+
+// HASH_VALUE E0C17071CE06AE8C
+// INDEX 1749
+uiMk_system6	[MP3 播放器]
+
+// HASH_VALUE 2F7A1CA32829789C
+// INDEX 1750
+uiMk_system7	[退出]
+
+// HASH_VALUE 9D75879672873A8F
+// INDEX 1751
+uiWelcomeTitle	[欢迎来到 Atys！]
+
+// HASH_VALUE 56E429B73958EE09
+// INDEX 1752
+uiWelcomeIntro	[这颗不断演化的有机星球宛如一株巨大的植物，沐浴在其脉动太阳的光辉之下。]
+
+// HASH_VALUE 5D3AA67CC8B6D41D
+// INDEX 1753
+uiWelcomeMoveTitle	[移动]
+
+// HASH_VALUE D4C71AF9D6A92989
+// INDEX 1754
+uiWelcomeMove	[使用方向键，或同时按住两个鼠标键，即可四处移动。]
+
+// HASH_VALUE D0571F855967D681
+// INDEX 1755
+uiWelcomeWhatTitle	[该做些什么？]
+
+// HASH_VALUE D44A5D740D58483D
+// INDEX 1756
+uiWelcomeWhat	[按照屏幕左侧任务日志中的指引行动]
+
+// HASH_VALUE C39F0F4139781ED3
+// INDEX 1757
+uittIdentityTitle	[点击当前@{6F6F}称号@{FFFF}可显示你已获得的@{6F6F}称号@{FFFF}列表，并从中选择你最引以为傲的一个。\n
+	随着游戏进程的推进，你将获得新的@{6F6F}称号@{FFFF}，并自动加入此列表。]
+
+// HASH_VALUE AFAB8CAFEE6868F2
+// INDEX 1758
+uittIdentityInfo	[显示获得当前@{6F6F}称号@{FFFF}所需的条件。]
+
+// HASH_VALUE CC9875537F4EABA4
+// INDEX 1759
+uittIdentityHP	[@{6F6F}生命值@{FFFF} %n\n
+	当你的生命值降至 0 时会陷入昏迷，若未被队友及时治疗则会死亡。]
+
+// HASH_VALUE E62E03C44CC6CCDF
+// INDEX 1760
+uittIdentitySap	[@{6F6F}树液@{FFFF} %n\n
+	当你的树液值过低时，将无法施放法术。]
+
+// HASH_VALUE 96475BB346DF4BF2
+// INDEX 1761
+uittIdentitySta	[@{6F6F}耐力@{FFFF} %n\n
+	当你的耐力值过低时，将无法再进行特殊攻击，只能使用默认攻击，直至耐力恢复。]
+
+// HASH_VALUE 5429E1693D81762D
+// INDEX 1762
+uittIdentityFoc	[@{6F6F}专注@{FFFF} %n\n
+	当你的专注值过低时，将无法进行采集动作或含有强化节的制造动作。]
+
+// HASH_VALUE 98A8D5EC1A1065BF
+// INDEX 1763
+uittIdentityHPReg	[@{6F6F}生命值回复@{FFFF}：%n\n
+	每 10 秒回复一次生命值。]
+
+// HASH_VALUE 0DA80D1162D9EB76
+// INDEX 1764
+uittIdentitySapReg	[@{6F6F}树液回复@{FFFF}：%n\n
+	每 10 秒回复一次树液。]
+
+// HASH_VALUE CBC3826C632A9CB8
+// INDEX 1765
+uittIdentityStaReg	[@{6F6F}耐力回复@{FFFF}：%n\n
+	每 10 秒回复一次耐力。]
+
+// HASH_VALUE 5D4AE956019C7A23
+// INDEX 1766
+uittIdentityFocReg	[@{6F6F}专注回复@{FFFF}：%n\n
+	每 10 秒回复一次专注。]
+
+// HASH_VALUE 45CB3DCB2618D3E3
+// INDEX 1767
+uittIdentityCons	[决定你的@{6F6F}生命值@{FFFF}的最大值]
+
+// HASH_VALUE 0AF967701E2A651C
+// INDEX 1768
+uittIdentityInt	[决定你的@{6F6F}树液@{FFFF}的最大值]
+
+// HASH_VALUE 898D28DF26669351
+// INDEX 1769
+uittIdentityStr	[决定你的@{6F6F}耐力@{FFFF}的最大值]
+
+// HASH_VALUE A69334314CCC506D
+// INDEX 1770
+uittIdentityDex	[决定你的@{6F6F}专注@{FFFF}的最大值]
+
+// HASH_VALUE 697AE7D97DF4582E
+// INDEX 1771
+uittIdentityMeta	[决定你的@{6F6F}生命值@{FFFF}的@{6F6F}回复@{FFFF}速度]
+
+// HASH_VALUE 618C7912422282D3
+// INDEX 1772
+uittIdentityWis	[决定你的@{6F6F}树液@{FFFF}的@{6F6F}回复@{FFFF}速度]
+
+// HASH_VALUE 69C8A747C1B64342
+// INDEX 1773
+uittIdentityWB	[决定你的@{6F6F}耐力@{FFFF}的@{6F6F}回复@{FFFF}速度]
+
+// HASH_VALUE 8F2E6463DEBC4F94
+// INDEX 1774
+uittIdentityWill	[决定你的@{6F6F}专注@{FFFF}的@{6F6F}回复@{FFFF}速度]
+
+// HASH_VALUE 42260C22B0E4EADA
+// INDEX 1775
+uittIdentitySkillFight	[用于在@{6F6F}战士训练师@{FFFF}（NPC）处学习技能的点数。你在@{6F6F}战斗@{FFFF}技能树中提升技能等级时获得点数。]
+
+// HASH_VALUE E50736A49821FBE0
+// INDEX 1776
+uittIdentitySkillMagic	[用于在@{6F6F}法师训练师@{FFFF}（NPC）处学习技能的点数。你在@{6F6F}魔法@{FFFF}技能树中提升技能等级时获得点数。]
+
+// HASH_VALUE 2DDB84478A798721
+// INDEX 1777
+uittIdentitySkillCraft	[用于在@{6F6F}工匠训练师@{FFFF}（NPC）处学习技能的点数。你在@{6F6F}制造@{FFFF}技能树中提升技能等级时获得点数。]
+
+// HASH_VALUE FB2D95494A554AA9
+// INDEX 1778
+uittIdentitySkillHarvest	[用于向@{6F6F}采集者训练师@{FFFF}（NPC）学习新技能的点数。你在@{6F6F}采集@{FFFF}技能树中提升技能等级时获得点数。]
+
+// HASH_VALUE 28E872070328510A
+// INDEX 1779
+uittIdentityTotalMalus	[表示你施放法术、战斗、采集或制造时所受的整体动作减益。\n
+	@{6F6F}减益过高@{FFFF}意味着能量消耗大、施法时间长、动作范围小。\n
+	该总值由你所装备的服装、护甲和武器的@{6F6F}动作减益@{FFFF}合计得出。]
+
+// HASH_VALUE A95088E49CCB1C0F
+// INDEX 1780
+uittIdentitBagBulk	[显示背包内所有物品占用的@{6F6F}总空间@{FFFF}。达到最大体积后，将无法再向背包添加物品。]
+
+// HASH_VALUE 23F7EA654AA1CB4D
+// INDEX 1781
+uittIdentitySpeedFactor	[表示背包中的物品以及你穿戴或携带的装备对@{6F6F}移动速度@{FFFF}的影响。法术也可能对其产生影响（正面或负面）。]
+
+// HASH_VALUE 8272D64679BD9704
+// INDEX 1782
+uittIdentityDodge	[@{6F6F}闪避@{FFFF}：%n\n
+	闪避来自 @{6F6F}%l@{FFFF} 级敌人的近战攻击的几率：@{6F6F}%p@{FFFF}%。]
+
+// HASH_VALUE 7E36CADC9DBA9B29
+// INDEX 1783
+uittIdentityParry	[@{6F6F}格挡@{FFFF}：%n\n
+	格挡来自 @{6F6F}%l@{FFFF} 级敌人的近战攻击的几率：@{6F6F}%p@{FFFF}%。]
+
+// HASH_VALUE 6B1A85A1D4FFAC37
+// INDEX 1784
+uittIdentityFaction	[参与@{6F6F}特殊活动或任务@{FFFF}即可获得阵营与国家点数：阵营为 Kami 与 Karavan，国家为 Fyros、Tryker、Matis 和 Zoraï。这些点数可在各主城兑换实用且独特的物品。]
+
+// HASH_VALUE 7BE20A882E207871
+// INDEX 1785
+uittGaugesActionBar	[显示正在执行的@{6F6F}动作@{FFFF}的进度。]
+
+// HASH_VALUE 4D1DFC058F6A8F05
+// INDEX 1786
+uittGaugesHP	[@{6F6F}生命值@{FFFF}：\n
+	当你的生命值降至 0 时会陷入昏迷，若未被队友及时治疗则会死亡。]
+
+// HASH_VALUE 3218DC16D5185B23
+// INDEX 1787
+uittGaugesSap	[@{6F6F}树液@{FFFF}：\n
+	当你的树液值过低时，将无法施放法术。]
+
+// HASH_VALUE BCFAB72720F87E38
+// INDEX 1788
+uittGaugesSta	[@{6F6F}耐力@{FFFF}：\n
+	当你的耐力值过低时，将无法再进行特殊攻击，只能使用默认攻击，直至耐力恢复。]
+
+// HASH_VALUE 21A49D1370B3A93A
+// INDEX 1789
+uittGaugesFoc	[@{6F6F}专注@{FFFF}：\n
+	当你的专注值过低时，将无法再进行采集动作。]
+
+// HASH_VALUE 1AC7CE1C76B16FB8
+// INDEX 1790
+uittHandR	[@{6F6F}右手\n
+	@{FFFF}点击查看此手可用的所有物品。]
+
+// HASH_VALUE 1AC7CE10F4122BBB
+// INDEX 1791
+uittHandL	[@{6F6F}左手\n
+	@{FFFF}点击查看此手可用的所有物品。]
+
+// HASH_VALUE D0DC28E41A1C9C9D
+// INDEX 1792
+uittHandSet	[更改当前动作组。]
+
+// HASH_VALUE BE3F0692797C90AA
+// INDEX 1793
+uittAnimalBar	[@{E42F}生命 @{FFFF}- 饱食度 - @{EB2F}体积]
+
+// HASH_VALUE 5767725E0D249E29
+// INDEX 1794
+uittAnimalWeight	[你的动物所承载的总@{6F6F}重量@{FFFF}。]
+
+// HASH_VALUE D92907CA57A0A70A
+// INDEX 1795
+uittAnimalInv	[@{6F6F}背包@{FFFF}用于存取该动物携带的物品。]
+
+// HASH_VALUE EC6515C0797E672F
+// INDEX 1796
+uittChatAround	[@{6F6F}周围\n
+	@{FFFF}向你周围 25 米范围内的所有玩家显示消息。\n
+	右键点击以分离。]
+
+// HASH_VALUE 71DAEEB31452DCEA
+// INDEX 1797
+uittChatRegion	[@{6F6F}地区\n
+	@{FFFF}向你所在地区的所有玩家显示消息。\n
+	右键点击以分离。]
+
+// HASH_VALUE 899B178F5AD9368A
+// INDEX 1798
+uittChatUniverse	[@{6F6F}宇宙\n
+	@{FFFF}向游戏中的所有玩家显示消息（请谨慎使用）。\n
+	右键点击以分离。]
+
+// HASH_VALUE 165BD172D9A11956
+// INDEX 1799
+uittChatUser	[@{6F6F}用户\n
+	@{FFFF}在窗口中右键点击，可修改此频道所显示消息的过滤条件。]
+
+// HASH_VALUE 0F80B12F2D86C0D5
+// INDEX 1800
+uittChatGuild	[@{6F6F}公会\n
+	@{FFFF}右键点击以分离。]
+
+// HASH_VALUE 1250E12BAD86C0D5
+// INDEX 1801
+uittChatTeam	[@{6F6F}小队\n
+	@{FFFF}右键点击以分离。]
+
+// HASH_VALUE 3E6C1A6BDD69D5F5
+// INDEX 1802
+uittChatSysInfo	[@{6F6F}系统信息\n
+	@{FFFF}显示与动作相关的消息及其他系统信息。\n
+	右键点击以分离。]
+
+// HASH_VALUE C5D74B8FF574901A
+// INDEX 1803
+uittCompassRange	[@{6F6F}范围\n
+	@{FFFF}罗盘的最大探测范围。\n
+	使用@{6F6F}罗盘@{FFFF}窗口上的滚动按钮，或右键点击并选择@{6F6F}放大@{FFFF}或@{6F6F}缩小@{FFFF}来修改@{6F6F}范围@{FFFF}的值。]
+
+// HASH_VALUE 70874AF6596CE72C
+// INDEX 1804
+uittCompassDistance	[你与罗盘上所选物体之间的@{6F6F}距离@{FFFF}。]
+
+// HASH_VALUE E78C50DD64F5F5B7
+// INDEX 1805
+uittPhraseActions	[@{6F6F}动作 @{FFFF}可拖入动作栏，方便使用。]
+
+// HASH_VALUE 5236A0B56A20D732
+// INDEX 1806
+uittPhraseUpgrades	[动作或属性类 @{6F6F}升级 @{FFFF}：无法施放，也无法放入动作栏。]
+
+// HASH_VALUE 33E06D99C6DEE206
+// INDEX 1807
+uittPhraseXPMalus	[@{6F6F}死亡惩罚\n
+	@{FFFF}死亡时该惩罚会增加。\n
+	所获经验将用于减少该惩罚。]
+
+// HASH_VALUE 29532B61D5EBA4EA
+// INDEX 1808
+uittInventoryWeight	[背包的@{6F6F}总重量@{FFFF}]
+
+// HASH_VALUE 9BC3D805B99BB138
+// INDEX 1809
+uittFriendsOnline	[连接至同一主大陆或 Ring 场景]
+
+// HASH_VALUE 2E70DEE13D796052
+// INDEX 1810
+uittTargetHp	[目标的@{6F6F}生命值@{FFFF}。\n
+	当目标的@{6F6F}生命值@{FFFF}降至 0 时，目标即死亡。]
+
+// HASH_VALUE 2B64B02F2A00CC6C
+// INDEX 1811
+uiQuickEmote	[/hello]
+
+// HASH_VALUE 6DD99C906287949B
+// INDEX 1812
+uimChatTab	[页签]
+
+// HASH_VALUE 6CF5C7605795B386
+// INDEX 1813
+uimQuickChat	[快捷聊天]
+
+// HASH_VALUE 6A389AE8C238BCB6
+// INDEX 1814
+uiToggleDodgeParry	[闪避 / 格挡]
+
+// HASH_VALUE 6498944864989448
+// INDEX 1815
+uiR2EDRingWindow	[Ring]
+
+// HASH_VALUE 6A68FC298FF8D0AA
+// INDEX 1816
+uiR2EDScoresWindow	[场景分数]
+
+// HASH_VALUE 64D0D4D8EE7A9CAE
+// INDEX 1817
+uiUniverseChanelWarningTitle	[宇宙频道]
+
+// HASH_VALUE 4450F4204450F420
+// INDEX 1818
+uiR2EDHomeButton	[主页]
+
+// HASH_VALUE D4CD14EFCFC47DD6
+// INDEX 1819
+uiUniverseChanelWarningContent	[宇宙频道首先供询问游戏问题的玩家以及为他们提供帮助的玩家使用。这是一个友好的频道，也可用于一般聊天。滥用此频道的行为将由客服团队处理。]
+
+// HASH_VALUE 091458309CC6A08A
+// INDEX 1820
+uiUniverseChanelWarningAvoid	[不再显示此消息。]
+
+// HASH_VALUE 6E75FF30933AF805
+// INDEX 1821
+uittBonusMalusWindow	[增益/减益窗口]
+
+// HASH_VALUE 9E56F43342EE765D
+// INDEX 1822
+uiDockUndockChat	[停靠/解除停靠聊天窗口]
+
+// HASH_VALUE 6C58344C6C582484
+// INDEX 1823
+uiR2EDScenario	[场景]
+
+// HASH_VALUE AF4A109463D63890
+// INDEX 1824
+uiR2EDRules	[控制权]
+
+// HASH_VALUE AC5B04744873DCB4
+// INDEX 1825
+uiR2EDScenarioControl	[列表选项]
+
+// HASH_VALUE B4141C30522C5450
+// INDEX 1826
+uiR2EDInviteTeam	[邀请你的队伍]
+
+// HASH_VALUE 8AC0A00847A0C403
+// INDEX 1827
+uiR2EDScenarioInformation	[场景信息]
+
+// HASH_VALUE 64D8144864D81448
+// INDEX 1828
+uiR2EdRace	[种族]
+
+// HASH_VALUE B11894A16659889A
+// INDEX 1829
+uiR2EDRaceFyros	[Fyros]
+
+// HASH_VALUE ABC7588A22682C9D
+// INDEX 1830
+uiR2EDRaceMatis	[Matis]
+
+// HASH_VALUE ECC90886AE770897
+// INDEX 1831
+uiR2EDRaceTryker	[Tryker]
+
+// HASH_VALUE 29D8949365585096
+// INDEX 1832
+uiR2EDRaceZorai	[Zoraï]
+
+// HASH_VALUE 681854486CD8949C
+// INDEX 1833
+uiR2EDReligion	[宗教]
+
+// HASH_VALUE 6858142C6858142C
+// INDEX 1834
+uiR2EDReligionKami	[Kami]
+
+// HASH_VALUE E8BAAC7F1ED7F090
+// INDEX 1835
+uiR2EDReligionKaravan	[Karavan]
+
+// HASH_VALUE 2CDB049C6657048D
+// INDEX 1836
+uiR2EDReligionNeutral	[中立]
+
+// HASH_VALUE 1DE507916ADADC61
+// INDEX 1837
+uiR2EDNonGuildPlayers	[非公会玩家]
+
+// HASH_VALUE 7058844C38083490
+// INDEX 1838
+uiR2EDShard	[服务器：]
+
+// HASH_VALUE 6604244CE930386A
+// INDEX 1839
+uiR2EDCombatLevel	[战斗等级]
+
+// HASH_VALUE 4C80AC2789814F0E
+// INDEX 1840
+uiR2EDGlobalAccess	[允许新人]
+
+// HASH_VALUE 48D0140848D01408
+// INDEX 1841
+uiR2EDChooseScenario	[返回]
+
+// HASH_VALUE 28C8604E28C84F9A
+// INDEX 1842
+uiR2EDScenarioName	[场景名称]
+
+// HASH_VALUE 6498143064D814D4
+// INDEX 1843
+uiR2EDLanguage	[语言]
+
+// HASH_VALUE 641C9450641C9450
+// INDEX 1844
+uiR2EDType	[类型]
+
+// HASH_VALUE 9D8BA089ED17FCB6
+// INDEX 1845
+uiR2EDScenarioDescription	[描述]
+
+// HASH_VALUE 6C48C896E697B087
+// INDEX 1846
+uiR2EDScenarioLevel	[难度]
+
+// HASH_VALUE DF061C871F86E477
+// INDEX 1847
+uiR2EDAutoInvite	[自动邀请]
+
+// HASH_VALUE 6DA79C9DA4787894
+// INDEX 1848
+uiRAP_Owner	[所有者]
+
+// HASH_VALUE 4A3AA45AECD87C6E
+// INDEX 1849
+uiRAP_Title	[目的地名称]
+
+// HASH_VALUE 6C48C896E697B087
+// INDEX 1850
+uiRAP_Level	[难度]
+
+// HASH_VALUE 6AFAE414CE78CCAA
+// INDEX 1851
+uiRAP_Flags	[受邀/主持人]
+
+// HASH_VALUE 641C9450641C9450
+// INDEX 1852
+uiRAP_ScenarioType	[类型]
+
+// HASH_VALUE 0FB5574DA6521B85
+// INDEX 1853
+uiRAP_PlayerCount	[玩家人数]
+
+// HASH_VALUE 4C50F4284C50F428
+// INDEX 1854
+uiRAP_Join	[加入]
+
+// HASH_VALUE 4C1054504C105450
+// INDEX 1855
+uiRAP_Tell	[密语]
+
+// HASH_VALUE 7EC22B2B77811F2D
+// INDEX 1856
+uiRAP_AskForInvite	[请求邀请]
+
+// HASH_VALUE 80D0B02A4B42D821
+// INDEX 1857
+uiRAP_NewDestination	[新目的地]
+
+// HASH_VALUE D428978759DA5BBE
+// INDEX 1858
+uiRAP_MenuJoin	[进入该场景]
+
+// HASH_VALUE 32DF17B8DB85B3AE
+// INDEX 1859
+uiRAP_MenuTell	[请求场景所有者让你加入]
+
+// HASH_VALUE 6498143064D814D4
+// INDEX 1860
+uiRAP_Language	[语言]
+
+// HASH_VALUE 20298F8A66C29C58
+// INDEX 1861
+uiRAP_LaunchDate	[启动日期]
+
+// HASH_VALUE 1F822822A7538076
+// INDEX 1862
+uiRAP_AuthorRRPRating	[作者 RRP]
+
+// HASH_VALUE A456A443CCA497BC
+// INDEX 1863
+uiRAP_OwnerRRPRating	[所有者 RRP]
+
+// HASH_VALUE 25672C2765A76835
+// INDEX 1864
+uiRAP_ScenarioRRPRating	[场景 RRP]
+
+// HASH_VALUE 1A877C6FE605609E
+// INDEX 1865
+uiRAP_RateFun	[趣味性]
+
+// HASH_VALUE 6C48C896E697B087
+// INDEX 1866
+uiRAP_RateDifficulty	[难度]
+
+// HASH_VALUE A817F083A6C90CB1
+// INDEX 1867
+uiRAP_RateAccessibility	[可达性]
+
+// HASH_VALUE A189BC8F2E16F4B0
+// INDEX 1868
+uiRAP_RateOriginality	[原创性]
+
+// HASH_VALUE 60E72C8A2A69BCA3
+// INDEX 1869
+uiRAP_RateDirection	[指引性]
+
+// HASH_VALUE 29037B25BC79BCE8
+// INDEX 1870
+uiRAP_HowToJoin	[你已收到此 Ring 场景的邀请。双击该场景，或选中后使用本窗口右下角的@{6F6F}“加入”@{FFFF}按钮，即可进入场景。]
+
+// HASH_VALUE 67F864ACAB26075C
+// INDEX 1871
+uiRAP_WinTitle	[Ring 目的地]
+
+// HASH_VALUE CF0B8F962A0230A6
+// INDEX 1872
+uiRAP_Enlarge	[适应列宽]
+
+// HASH_VALUE 86BC45D4F149AC50
+// INDEX 1873
+uiRAP_EnlargeTooltip	[加宽各列，使内容完整可见。若内容过大，可使用横向和纵向滚动条。]
+
+// HASH_VALUE 1F4DC91D2FC75906
+// INDEX 1874
+uiRAP_FlagsTooltip	[当场景所有者邀请你加入场景时，会显示@{6F6F}对勾@{FFFF}。\n
+	@{6F6F}眼睛@{FFFF}图标表示所有者正在此场景中。点击可按此条件排序。]
+
+// HASH_VALUE 7DACB1DE78A79DE0
+// INDEX 1875
+uiRAP_OwnerTooltip	[创建该场景的玩家的名字。你可以通过鼠标右键菜单或该窗口右下角的按钮，向该玩家发送@{6F6F}密语@{FFFF}。双击一个你尚未受邀的场景，会向场景所有者发送密语以请求邀请。点击可按所有者排序。]
+
+// HASH_VALUE 99D70A17296D53C2
+// INDEX 1876
+uiRAP_TitleTooltip	[创建者为场景所起的标题。点击可按标题排序。]
+
+// HASH_VALUE 65D648A61C519477
+// INDEX 1877
+uiRAP_LevelTooltip	[场景的难度。该等级决定了可在此场景中获得的奖励点数类型，以及赚取点数所需使用的技能等级。\n
+	@{6F6F}新手@{FFFF}：不限等级的技能\n
+	@{6F6F}学徒@{FFFF}：至少 21 级的技能\n
+	@{6F6F}熟手@{FFFF}：至少 51 级的技能\n
+	@{6F6F}进阶@{FFFF}：至少 101 级的技能\n
+	@{6F6F}专家@{FFFF}：至少 151 级的技能\n
+	@{6F6F}大师@{FFFF}：至少 201 级的技能\n
+	点击可按此条件排序。]
+
+// HASH_VALUE 810ABC32257B9A31
+// INDEX 1878
+uiRAP_PlayerCountTooltip	[当前正在该场景中游戏的玩家人数。点击可按在线人数对场景排序。]
+
+// HASH_VALUE B15FDF894C0F74DF
+// INDEX 1879
+uiRAP_LanguageTooltip	[场景的语言。点击可按语言对场景排序。]
+
+// HASH_VALUE B5C383C44CEC3B6B
+// INDEX 1880
+uiRAP_LaunchDateTooltip	[场景开始的时间。点击可按开始时间对场景排序。]
+
+// HASH_VALUE 18F87CAC4C1322C4
+// INDEX 1881
+uiRAP_ScenarioTypeTooltip	[创建者所设的场景类型。点击可按场景类型对场景排序。]
+
+// HASH_VALUE 425165B00E6543E3
+// INDEX 1882
+uiRAP_AuthorRRPRatingTooltip	[场景作者的奖励点数]
+
+// HASH_VALUE 81F06DBE0E657AE6
+// INDEX 1883
+uiRAP_OwnerRRPRatingTooltip	[场景所有者的奖励点数]
+
+// HASH_VALUE 6BF9C446DE544EC1
+// INDEX 1884
+uiRAP_ScenarioRRPRatingTooltip	[此场景的奖励点数]
+
+// HASH_VALUE 6776B863AA44808B
+// INDEX 1885
+uiAddTellerToFriends	[加为好友]
+
+// HASH_VALUE E67BA5A407A5C4C4
+// INDEX 1886
+uiAddTellerToFriendsToolip	[将此人加入你的好友列表。]
+
+// HASH_VALUE E8878C72E635849B
+// INDEX 1887
+uiAddTellerToIgnoreList	[屏蔽]
+
+// HASH_VALUE 098D5E90649D1E19
+// INDEX 1888
+uiAddTellerToIgnoreListTooltip	[将此人加入你的屏蔽列表。之后将不再收到此人发来的消息。]
+
+// HASH_VALUE A8A9AC7CE9D688A7
+// INDEX 1889
+uiInviteToRingSession	[邀请]
+
+// HASH_VALUE 2E70FEF04CCFE0DF
+// INDEX 1890
+uiInviteToRingSessionTooltip	[邀请该角色加入此 Ring 场景，其可通过@{6F6F}Ring 终端@{FFFF}加入]
+
+// HASH_VALUE A13B79A707E6A00D
+// INDEX 1891
+uiAddTellerToIgnoreListWarning	[要将该玩家加入你的屏蔽列表吗？]
+
+// HASH_VALUE 6C58F488C23ADCA0
+// INDEX 1892
+uiRAP_CharsTitle	[玩家追踪]
+
+// HASH_VALUE 6CDA7A4EEA3AE48C
+// INDEX 1893
+uiRAP_CharFlags	[在线玩家]
+
+// HASH_VALUE 738710663076287B
+// INDEX 1894
+uiRAP_CharName	[玩家]
+
+// HASH_VALUE EB27288CA3A73480
+// INDEX 1895
+uiRAP_CharGuild	[公会]
+
+// HASH_VALUE 64D8144864D81448
+// INDEX 1896
+uiRAP_CharRace	[种族]
+
+// HASH_VALUE 681854486CD8949C
+// INDEX 1897
+uiRAP_CharReligion	[宗教]
+
+// HASH_VALUE 27F80491E217488A
+// INDEX 1898
+uiRAP_CharShard	[服务器]
+
+// HASH_VALUE 6604244CE930386A
+// INDEX 1899
+uiRAP_CharLevel	[战斗等级]
+
+// HASH_VALUE E0236EB8BEBBDA8B
+// INDEX 1900
+uiRAP_CharFlagsTooltip	[眼睛图标表示该玩家正在此场景中。点击可按此条件排序。]
+
+// HASH_VALUE C1F77B1087622C01
+// INDEX 1901
+uiRAP_CharNameTooltip	[被邀请玩家的名字。你可以通过右键菜单或该窗口右下角的按钮，向该玩家发送@{6F6F}密语@{FFFF}、将其@{6F6F}踢出@{FFFF}或@{6F6F}传送至其身边@{FFFF}。点击可按此条件排序。]
+
+// HASH_VALUE 87FE819401AF7A96
+// INDEX 1902
+uiRAP_CharGuildTooltip	[玩家所属公会的名称（若有）。点击可按此条件排序。]
+
+// HASH_VALUE 11682E61448D7B0D
+// INDEX 1903
+uiRAP_CharRaceTooltip	[玩家的种族。点击可按此条件排序。]
+
+// HASH_VALUE DF37145D4FE4767E
+// INDEX 1904
+uiRAP_CharReligionTooltip	[玩家的宗教信仰。点击可按此条件排序。]
+
+// HASH_VALUE 6A07FA5D0DD06C3A
+// INDEX 1905
+uiRAP_CharShardTooltip	[玩家所在的服务器。点击可按此条件排序。]
+
+// HASH_VALUE 4836C73AF7CA1B31
+// INDEX 1906
+uiRAP_CharLevelTooltip	[最佳战斗/魔法技能等级。点击可按此条件排序。]
+
+// HASH_VALUE E7B77016F0413C53
+// INDEX 1907
+uiRingAutoInviteToggle	[当@{6F6F}未勾选@{FFFF}时，玩家必须先请求邀请，才能在@{6F6F}Ring 终端@{FFFF}加入此场景。]
+
+// HASH_VALUE 7F3877CFCE661A29
+// INDEX 1908
+uiRingGlobalAccessToggle	[当@{6F6F}未勾选@{FFFF}时，只有受邀玩家才能在@{6F6F}Ring 终端@{FFFF}看到此场景。]
+
+// HASH_VALUE BADC46EEDC730E8E
+// INDEX 1909
+uiRingFilterFyros	[当@{6F6F}未勾选@{FFFF}时，未受邀的 Fyros 玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE BADC2EF0D6E30E8E
+// INDEX 1910
+uiRingFilterMatis	[当@{6F6F}未勾选@{FFFF}时，未受邀的 Matis 玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE BA3B0EEE59B40E8E
+// INDEX 1911
+uiRingFilterZorai	[当@{6F6F}未勾选@{FFFF}时，未受邀的 Zoraï 玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE D2E7A5B1A79E23DD
+// INDEX 1912
+uiRingFilterTryker	[当@{6F6F}未勾选@{FFFF}时，未受邀的 Tryker 玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE C95390E570D1BC39
+// INDEX 1913
+uiRingFilterGuild	[当@{6F6F}未勾选@{FFFF}时，你未邀请的、且不属于你公会的玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。\n
+	如果你没有公会，此选项无效。]
+
+// HASH_VALUE AD832E7F8FBC8C6A
+// INDEX 1914
+uiRingFilterCombatLevel0	[当@{6F6F}未勾选@{FFFF}时，你未邀请的、最佳战斗技能等级不高于 @{6F6F}20@{FFFF} 级的玩家，将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 74E8F3F8129FE704
+// INDEX 1915
+uiRingFilterCombatLevel1	[当@{6F6F}未勾选@{FFFF}时，你未邀请的、最佳战斗技能等级在 @{6F6F}21@{FFFF} 至 @{6F6F}50@{FFFF} 级之间的玩家，将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 2C9DED97CB154CDD
+// INDEX 1916
+uiRingFilterCombatLevel2	[当@{6F6F}未勾选@{FFFF}时，你未邀请的、最佳战斗技能等级在 @{6F6F}51@{FFFF} 至 @{6F6F}100@{FFFF} 级之间的玩家，将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 71D2AB828CA0D2C2
+// INDEX 1917
+uiRingFilterCombatLevel3	[当@{6F6F}未勾选@{FFFF}时，你未邀请的、最佳战斗技能等级在 @{6F6F}101@{FFFF} 至 @{6F6F}150@{FFFF} 级之间的玩家，将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 30E2AB828CA0E6C2
+// INDEX 1918
+uiRingFilterCombatLevel4	[当@{6F6F}未勾选@{FFFF}时，你未邀请的、最佳战斗技能等级在 @{6F6F}151@{FFFF} 至 @{6F6F}200@{FFFF} 级之间的玩家，将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 71E2AB828CA0D2C3
+// INDEX 1919
+uiRingFilterCombatLevel5	[当@{6F6F}未勾选@{FFFF}时，你未邀请的、最佳战斗技能等级在 @{6F6F}201@{FFFF} 至 @{6F6F}250@{FFFF} 级之间的玩家，将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE C926ECD900DFDE26
+// INDEX 1920
+uiRingFilterReligionKami	[当@{6F6F}未勾选@{FFFF}时，信奉 Kami 的玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 3DAAD1B84B617D5A
+// INDEX 1921
+uiRingFilterReligionKaravan	[当@{6F6F}未勾选@{FFFF}时，信奉 Karavan 的玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 671857FABB67D633
+// INDEX 1922
+uiRingFilterReligionNeutral	[当@{6F6F}未勾选@{FFFF}时，未效忠任何阵营的玩家将无法在@{6F6F}Ring 终端@{FFFF}看到你的场景。]
+
+// HASH_VALUE 88A3AC3CC9D28847
+// INDEX 1923
+uiRAP_Invite	[邀请]
+
+// HASH_VALUE 48D0942C48D0942C
+// INDEX 1924
+uiRAP_Kick	[踢出]
+
+// HASH_VALUE EA58480EC9612117
+// INDEX 1925
+uiRAP_MenuCharTell	[发送密语给 ]
+
+// HASH_VALUE 1436DF3FDE82FF39
+// INDEX 1926
+uiRAP_MenuKick	[踢出 ]
+
+// HASH_VALUE D7A9B8389B0AE054
+// INDEX 1927
+uiRAP_MenuTeleportTo	[传送到 ]
+
+// HASH_VALUE 1438989724F33B43
+// INDEX 1928
+uiRAP_MenuUnkick	[取消踢出 ]
+
+// HASH_VALUE 663A6491652864B9
+// INDEX 1929
+uiRAP_Resize	[调整大小]
+
+// HASH_VALUE F564DD68C3782C1F
+// INDEX 1930
+uiRAP_ResizeTooltip	[将列宽调整至与内容相称]
+
+// HASH_VALUE 510AC44FAFC4FCBB
+// INDEX 1931
+uiRAP_TeleportTo	[传送到]
+
+// HASH_VALUE 09F1C4384A92B826
+// INDEX 1932
+uiRAP_Unkick	[取消踢出]
+
+// HASH_VALUE 2C17789A63E86C8E
+// INDEX 1933
+uiR2EDother_lang	[其他]
+
+// HASH_VALUE B6A20AC0306A751A
+// INDEX 1934
+uiNoAvailableMissions	[Ring 中无法使用任务日志]
+
+// HASH_VALUE D82A99D541A5B0A0
+// INDEX 1935
+uiNoAvailableAnimals	[Ring 中无法使用动物]
+
+// HASH_VALUE 5F203841D40B5317
+// INDEX 1936
+uiRingLaunchScenarioTooltip	[为你所选的场景启动一个会话。]
+
+// HASH_VALUE C834A8A7421A909F
+// INDEX 1937
+uiRingDescriptionScenarioTooltip	[描述你将要启动的场景。所有玩家都能在每个 Ring 终端看到该描述。]
+
+// HASH_VALUE 84B0468E03833CAE
+// INDEX 1938
+uiRingWarningFreeTrial	[免费试用限制：\n
+	\n
+	免费试用账号无法加入此 Ring 冒险。\n
+	\n
+	如需完整使用 Ryzom Ring，你需要订阅 Ryzom。\n
+	\n
+	如需升级账号，请访问\n
+	www.ryzom.com\n
+	]
+
+// HASH_VALUE CF3B4C5857A765C5
+// INDEX 1939
+uiRingWarningNewcomer	[你无法邀请该玩家，因为你们中有一方是新人。\n
+	]
+
+// HASH_VALUE 50A91151AFCA7798
+// INDEX 1940
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Name	[@{6F6F}文件名\n
+	@{FFFF}要加载的场景的文件名。]
+
+// HASH_VALUE 59BE229752871595
+// INDEX 1941
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Title	[@{6F6F}标题\n
+	@{FFFF} 所选场景的标题。]
+
+// HASH_VALUE 60C8536472BD561B
+// INDEX 1942
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Description	[@{6F6F}描述\n
+	@{FFFF} 所选场景的描述，由作者提供。]
+
+// HASH_VALUE B347D4DBDA147171
+// INDEX 1943
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Rules	[@{6F6F}主持方式\n
+	@{FFFF} 有主持表示你将在此场景中担任冒险主持人\n
+	无主持表示你将以玩家身份参与此场景。]
+
+// HASH_VALUE FC2BD65951F97767
+// INDEX 1944
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Level	[@{6F6F}难度\n
+	@{FFFF} 所选场景的难度。]
+
+// HASH_VALUE AFBD81929D869A76
+// INDEX 1945
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Language	[@{6F6F}语言\n
+	@{FFFF} 场景的语言，由场景作者声明。]
+
+// HASH_VALUE 66CEF50ED8DC276E
+// INDEX 1946
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_RingPointsLevel	[@{6F6F}要求\n
+	@{FFFF} 表示你是否被允许加载此场景。你只能加载包含你有权访问内容的场景。通过探索 Atys 的各大主大陆，可以获得更多内容的访问权限。]
+
+// HASH_VALUE 2F284F3398091766
+// INDEX 1947
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Author	[@{6F6F}作者\n
+	@{FFFF} 所选场景的作者。括号内为作者给自己场景的评分。]
+
+// HASH_VALUE 87960AF7A45D2658
+// INDEX 1948
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Fun	[@{6F6F}趣味性评分\n
+	@{FFFF} 所选场景的趣味性评分。]
+
+// HASH_VALUE CDB27963AD12DDA0
+// INDEX 1949
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Difficulty	[@{6F6F}难度评分\n
+	@{FFFF} 所选场景的难度评分。]
+
+// HASH_VALUE D46FE1B7F50CEE11
+// INDEX 1950
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Accessibility	[@{6F6F}可达性评分\n
+	@{FFFF} 所选场景的可达性评分。]
+
+// HASH_VALUE 3D328CC9DBB9483A
+// INDEX 1951
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Originality	[@{6F6F}原创性评分\n
+	@{FFFF} 所选场景的原创性评分。]
+
+// HASH_VALUE 57E6B4C838791D1A
+// INDEX 1952
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_Direction	[@{6F6F}指引性评分\n
+	@{FFFF} 所选场景的指引性评分。]
+
+// HASH_VALUE 585781307E13678D
+// INDEX 1953
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_RRPTotal	[@{6F6F}Ryzom Ring Points 总值\n
+	@{FFFF} 所选场景的 Ryzom Ring Points 总值。]
+
+// HASH_VALUE DEB31F903CC13218
+// INDEX 1954
+uiR2EdPropertyToolTip_LoadScenario_LoadScenario_TreeInfo	[@{6F6F}示例\n
+	@{FFFF}Ryzom 自带的示例场景，展示了 Ryzom Ring 能实现的一些玩法。\n
+	@{6F6F}Pioneer Scenarios\n
+	@{FFFF}由其他玩家与客服支持提供，未经审核。\n
+	@{6F6F}我的文件\n
+	@{FFFF}你电脑上“我的场景（My Scenarios）”文件夹中的文件。]
+
+// HASH_VALUE 26367F872144C855
+// INDEX 1955
+uiR2EDLoadScenarioWindow	[加载场景]
+
+// HASH_VALUE ED388C486ED8B037
+// INDEX 1956
+uiR2EDProp_LoadScenario_Description	[场景描述]
+
+// HASH_VALUE EBE85C8EA7783C99
+// INDEX 1957
+uiR2EDProp_LoadScenario_Title	[标题]
+
+// HASH_VALUE 2D98146570650893
+// INDEX 1958
+uiR2EDProp_LoadScenario_Author	[作者]
+
+// HASH_VALUE 6C48C896E697B087
+// INDEX 1959
+uiR2EDProp_LoadScenario_Level	[难度]
+
+// HASH_VALUE 6498143064D814D4
+// INDEX 1960
+uiR2EDProp_LoadScenario_Language	[语言]
+
+// HASH_VALUE F1CBAC72EF0AE089
+// INDEX 1961
+uiR2EDProp_LoadScenario_RingPointsLevel	[要求]
+
+// HASH_VALUE 5F1608794E52FF5A
+// INDEX 1962
+uiR2EDProp_LoadScenario_Name	[文件名]
+
+// HASH_VALUE 1A877C6FE605609E
+// INDEX 1963
+uiR2EDProp_LoadScenario_FunRating	[趣味性]
+
+// HASH_VALUE 6C48C896E697B087
+// INDEX 1964
+uiR2EDProp_LoadScenario_DifficultyRating	[难度]
+
+// HASH_VALUE A817F083A6C90CB1
+// INDEX 1965
+uiR2EDProp_LoadScenario_AccessibilityRating	[可达性]
+
+// HASH_VALUE A189BC8F2E16F4B0
+// INDEX 1966
+uiR2EDProp_LoadScenario_OriginalityRating	[原创性]
+
+// HASH_VALUE 60E72C8A2A69BCA3
+// INDEX 1967
+uiR2EDProp_LoadScenario_DirectionRating	[指引性]
+
+// HASH_VALUE 95B6849CA6A3979B
+// INDEX 1968
+uiR2EDProp_LoadScenario_RRPTotal	[Ryzom Ring Points]
+
+// HASH_VALUE AAC8204867A84443
+// INDEX 1969
+uiR2EDRollout_ScenarioInfo	[场景信息]
+
+// HASH_VALUE 6458F4306458F430
+// INDEX 1970
+uiR2EDRollout_Load	[加载]
+
+// HASH_VALUE AA39B49063B9389A
+// INDEX 1971
+uiR2EDRollout_Ratings	[评分]
+
+// HASH_VALUE 48D0B43C48D0B43C
+// INDEX 1972
+uiR2EDValidateForm	[确定]
+
+// HASH_VALUE 0350481983A0741B
+// INDEX 1973
+uiR2EDCancelForm	[取消]
+
+// HASH_VALUE 6ED970AE66C9BC9B
+// INDEX 1974
+uiR2EDBasicSkills	[数值]
+
+// HASH_VALUE 6498944864989448
+// INDEX 1975
+uiR2EDRingSkills	[高级数值]
+
+// HASH_VALUE 2CD4FB8A6DF7CB69
+// INDEX 1976
+uiR2EDEcosystemPointsTitle	[Atys 知识]
+
+// HASH_VALUE 6879AC7F1E76E886
+// INDEX 1977
+uiR2EDBasicsPoints	[通用]
+
+// HASH_VALUE 28D9906D28E6CC9B
+// INDEX 1978
+uiR2EDDesertPoints	[沙漠]
+
+// HASH_VALUE E6E8548FED6BE0BD
+// INDEX 1979
+uiR2EDSubtropicPoints	[湖泊]
+
+// HASH_VALUE AAE9E0712C26F49E
+// INDEX 1980
+uiR2EDForestPoints	[森林]
+
+// HASH_VALUE 6836DC6EECF49C90
+// INDEX 1981
+uiR2EDJunglePoints	[丛林]
+
+// HASH_VALUE 52199848EDF6AF9D
+// INDEX 1982
+uiR2EDPrimeRootPoints	[原始根须]
+
+// HASH_VALUE 0E24671ACE438724
+// INDEX 1983
+uiR2EDDesertPointsTooltip	[@{6F6F}沙漠@{FFFF}：%n/%p\n
+	]
+
+// HASH_VALUE 89F4F7154AE4B410
+// INDEX 1984
+uiR2EDSubtropicPointsTooltip	[@{6F6F}湖泊@{FFFF}：%n/%p\n
+	]
+
+// HASH_VALUE 4E2463244E438724
+// INDEX 1985
+uiR2EDForestPointsTooltip	[@{6F6F}森林@{FFFF}：%n/%p\n
+	]
+
+// HASH_VALUE 8D44532A4F438715
+// INDEX 1986
+uiR2EDJunglePointsTooltip	[@{6F6F}丛林@{FFFF}：%n/%p\n
+	]
+
+// HASH_VALUE 113F47AD9C83370A
+// INDEX 1987
+uiR2EDPrimeRootPointsTooltip	[@{6F6F}原始根须@{FFFF}：%n/%p\n
+	]
+
+// HASH_VALUE E4F4FB7720E1A7B3
+// INDEX 1988
+uiR2EDRrpsLevelTitle	[奖励点数（RRP）]
+
+// HASH_VALUE EA26E864ABC1C079
+// INDEX 1989
+uiR2EDRrpsLevel20	[新手级]
+
+// HASH_VALUE 6E12AC48EA3A2494
+// INDEX 1990
+uiR2EDRrpsLevel50	[学徒级]
+
+// HASH_VALUE E968A7361D26C4B6
+// INDEX 1991
+uiR2EDRrpsLevel100	[熟手级]
+
+// HASH_VALUE E8F9A03CA5D36079
+// INDEX 1992
+uiR2EDRrpsLevel150	[进阶级]
+
+// HASH_VALUE E8666C61AA615C8E
+// INDEX 1993
+uiR2EDRrpsLevel200	[专家级]
+
+// HASH_VALUE 70C6AC646E91F07C
+// INDEX 1994
+uiR2EDRrpsLevel250	[大师级]
+
+// HASH_VALUE 118869B320D7EDCD
+// INDEX 1995
+uiR2EDRrpsLevel20Tooltip	[@{6F6F}新手级 Ring 奖励点数@{FFFF}：%n。\n
+	在“新手”场景中获得的点数\n
+	]
+
+// HASH_VALUE EF966A1FB8731D23
+// INDEX 1996
+uiR2EDRrpsLevel50Tooltip	[@{6F6F}学徒级 Ring 奖励点数@{FFFF}：%n。\n
+	在“学徒”场景中获得的点数（使用至少 21 级的技能）\n
+	]
+
+// HASH_VALUE 5B2F7EAB79E12023
+// INDEX 1997
+uiR2EDRrpsLevel100Tooltip	[@{6F6F}熟手级 Ring 奖励点数@{FFFF}：%n。\n
+	在“熟手”场景中获得的点数（使用至少 51 级的技能）\n
+	]
+
+// HASH_VALUE BB8E4159D1270158
+// INDEX 1998
+uiR2EDRrpsLevel150Tooltip	[@{6F6F}进阶级 Ring 奖励点数@{FFFF}：%n。\n
+	在“进阶”场景中获得的点数（使用至少 101 级的技能）\n
+	]
+
+// HASH_VALUE 867F514CB2A03C2D
+// INDEX 1999
+uiR2EDRrpsLevel200Tooltip	[@{6F6F}专家级 Ring 奖励点数@{FFFF}：%n。\n
+	在“专家”场景中获得的点数（使用至少 151 级的技能）\n
+	]
+
+// HASH_VALUE 4350293FB42F5C2B
+// INDEX 2000
+uiR2EDRrpsLevel250Tooltip	[@{6F6F}大师级 Ring 奖励点数@{FFFF}：%n。\n
+	在“大师”场景中获得的点数（使用至少 201 级的技能）\n
+	]
+
+// HASH_VALUE AB584C2DEF88F0FB
+// INDEX 2001
+uiR2EDRingRatingTitle	[Ring 评分]
+
+// HASH_VALUE 1A180078A796F49C
+// INDEX 2002
+uiR2EDAuthorRingRating	[作者评分]
+
+// HASH_VALUE 3F60907F6A181F20
+// INDEX 2003
+uiR2EDAMRingRating	[AM 评分]
+
+// HASH_VALUE 60369282641A94C4
+// INDEX 2004
+uiR2EDMasterlessRingRating	[组织者评分]
+
+// HASH_VALUE B4F03AFFA31F6D0B
+// INDEX 2005
+uiRingNoRatings	[主大陆中无法查看场景评分。]
+
+// HASH_VALUE 4A01C80AFF1F901B
+// INDEX 2006
+uiR2EDScenarioScores	[场景平均评分]
+
+// HASH_VALUE 6C05A88ADDA13E69
+// INDEX 2007
+uiClickToSelectAMission	[点击此处选择任务。]
+
+// HASH_VALUE 6F6AD0A31C58BBD9
+// INDEX 2008
+uiNoAvailableMission	[你的任务日志为空。]
+
+// HASH_VALUE D5EF87890D23D659
+// INDEX 2009
+uittExpandMissionList	[点击以在展开列表与下拉菜单显示之间切换。]
+
+// HASH_VALUE D191FA72CB9FB222
+// INDEX 2010
+uittMissionCombo	[这是你的任务日志与当前任务。点击进行选择，或使用@{6F6F}向上滚动鼠标滚轮@{FFFF}或@{6F6F}向下滚动鼠标滚轮@{FFFF}在可用任务之间切换。]
+
+// HASH_VALUE 2EF9BCB21D59A4B4
+// INDEX 2011
+uittMissionJournal	[这是你的任务日志]
+
+// HASH_VALUE 6C7A4A8CE2187A28
+// INDEX 2012
+uiCaptionToggle	[标题栏开/关]
+
+// HASH_VALUE 94788C8D28547B63
+// INDEX 2013
+uiR2WinColors	[Ring 标题栏颜色]
+
+// HASH_VALUE ECAA9C82E0372C9D
+// INDEX 2014
+uiR2Palette	[调色板]
+
+// HASH_VALUE 6C58344C6C582484
+// INDEX 2015
+uiR2Scenario	[场景]
+
+// HASH_VALUE EE98048EAE982089
+// INDEX 2016
+uiR2Prop_window	[属性]
+
+// HASH_VALUE AE576C9563B85898
+// INDEX 2017
+uiR2Form	[表单]
+
+// HASH_VALUE 2DE9E3872057208A
+// INDEX 2018
+uiR2Custom_look	[自定义外观]
+
+// HASH_VALUE AB48987ADE27208D
+// INDEX 2019
+uiR2Dialogs	[对话]
+
+// HASH_VALUE AF473863B1452C92
+// INDEX 2020
+uiR2Events	[事件]
+
+// HASH_VALUE 68F8A490E609A490
+// INDEX 2021
+uiR2Activities	[活动]
+
+// HASH_VALUE 5E4888694988BC98
+// INDEX 2022
+uiR2Feature_help	[功能帮助]
+
+// HASH_VALUE E958C48EE157287F
+// INDEX 2023
+uiR2Connect	[连接]
+
+// HASH_VALUE EFDBE88CCD44D4B0
+// INDEX 2024
+uiR2Session_browser	[会话浏览器]
+
+// HASH_VALUE 2B98E01C8FE8CCAC
+// INDEX 2025
+uiR2Scenario_control	[场景筛选]
+
+// HASH_VALUE EB99488FE0C29FAE
+// INDEX 2026
+uiR2Player_tracking	[玩家追踪]
+
+// HASH_VALUE 5779246256A6A3B0
+// INDEX 2027
+uittR2_Palette	[选择“调色板”的标题栏颜色]
+
+// HASH_VALUE 9599CCAA578657B9
+// INDEX 2028
+uittR2_Scenario	[选择“场景”的标题栏颜色]
+
+// HASH_VALUE E0C1B9A41A8667BB
+// INDEX 2029
+uittR2_Prop_window	[选择“属性”的标题栏颜色]
+
+// HASH_VALUE D859FC3BCDD19FB8
+// INDEX 2030
+uittR2_Form	[选择“表单”的标题栏颜色]
+
+// HASH_VALUE 33BC85B520EB4C2E
+// INDEX 2031
+uittR2_Custom_look	[选择“自定义外观”的标题栏颜色]
+
+// HASH_VALUE 94F9F462D9D58FB7
+// INDEX 2032
+uittR2_Dialogs	[选择“对话”的标题栏颜色]
+
+// HASH_VALUE 95CAF83BC696A3B9
+// INDEX 2033
+uittR2_Events	[选择“事件”的标题栏颜色]
+
+// HASH_VALUE 22D07DA41AF5ABB4
+// INDEX 2034
+uittR2_Activities	[选择“活动”的标题栏颜色]
+
+// HASH_VALUE AF0F9D5B5686432F
+// INDEX 2035
+uittR2_Feature_help	[选择“功能帮助”的标题栏颜色]
+
+// HASH_VALUE D759F0621A9567B9
+// INDEX 2036
+uittR2_Connect	[选择“连接”的标题栏颜色]
+
+// HASH_VALUE F3E0B98234AB4435
+// INDEX 2037
+uittR2_Session_browser	[选择“会话浏览器”的标题栏颜色]
+
+// HASH_VALUE 70CF4C1632AD2827
+// INDEX 2038
+uittR2_Scenario_control	[选择“场景控制”的标题栏颜色]
+
+// HASH_VALUE 6C3FEDB6DE6C0C2F
+// INDEX 2039
+uittR2_Player_tracking	[选择“玩家追踪”的标题栏颜色]
+
+// HASH_VALUE 2B27D4766A97FC8C
+// INDEX 2040
+uiBGD_WindowTitle	[下载器]
+
+// HASH_VALUE 2957F04D21D5A0AF
+// INDEX 2041
+uiAutomaticCamera	[自动镜头]
+
+// HASH_VALUE C238DC5E6A1884C6
+// INDEX 2042
+uiMouseDblClickMode	[双击模式]
+
+// HASH_VALUE 3A67F68BFEEC9DDD
+// INDEX 2043
+uiAutoEquipTool	[自动装备模式]
+
+// HASH_VALUE D51ACCF3858BA4D0
+// INDEX 2044
+uiDeathWarningTitle	[昏迷与死亡]
+
+// HASH_VALUE 38DAD4E07D7667A5
+// INDEX 2045
+uiDeathWarningContent	[你陷入昏迷。\n
+	\n
+	计时器显示你的生命能量正在流逝。当它降到危急的低点时，Atys 的神力会将你复活到复活点地图上所选的复活点。\n
+	\n
+	你可以让其他玩家治疗你，以避免蒙受与死亡相关的惩罚；也可以按下“复活”按钮，立即呼唤神力。]
+
+// HASH_VALUE A752DDE8C09704A2
+// INDEX 2046
+uiDeathWarningAvoid	[不再显示此消息。]
+
+// HASH_VALUE D963345468890479
+// INDEX 2047
+uiScreenShotPNG	[截图 PNG]
+
+// HASH_VALUE 6FD5933B0E232C9E
+// INDEX 2048
+uiNightWarningTitle	[夜晚]
+
+// HASH_VALUE 2D829EBA6CB63CF9
+// INDEX 2049
+uiNightWarningContent	[现在是 Atys 的夜晚。\n
+	\n
+	你可以按键盘上的“L”键（默认）照亮周围。\n
+	]
+
+// HASH_VALUE D666185AA1B41885
+// INDEX 2050
+uitabBuyAll	[全部]
+
+// HASH_VALUE ACB9C0819FC81891
+// INDEX 2051
+uitabBuyAction	[动作]
+
+// HASH_VALUE 70D8045470584484
+// INDEX 2052
+uitabBuyUpgrade	[升级]
+
+// HASH_VALUE DEF61087D57120A9
+// INDEX 2053
+uitabBuyPower	[能力/光环]
+
+// HASH_VALUE ABDA7C922847EC6E
+// INDEX 2054
+uitabBuyCarac	[属性]
+
+// HASH_VALUE 5964638E6B88C460
+// INDEX 2055
+uittConsiderTargetNoSelection	[未选择目标]
+
+// HASH_VALUE 2ED574482B685C4E
+// INDEX 2056
+uittTabBuyAll	[显示所有可用的训练]
+
+// HASH_VALUE 4E5A9F97A623DCA8
+// INDEX 2057
+uittTabBuyAction	[新动作]
+
+// HASH_VALUE 567AE84B92E694AA
+// INDEX 2058
+uittTabBuyUpgrade	[技能升级]
+
+// HASH_VALUE E9C76744D94A6366
+// INDEX 2059
+uittTabBuyPower	[新能力与光环]
+
+// HASH_VALUE F298C84F29398785
+// INDEX 2060
+uittTabBuyCarac	[属性提升]
+
+// HASH_VALUE 333B4CF6A8AB7410
+// INDEX 2061
+uiNoTrainingAvailable	[此类别没有可用的训练]
+
+// HASH_VALUE 5FA7D8A4CB502E07
+// INDEX 2062
+uittDisableTime	[重复使用时间：@{FFFF}]
+
+// HASH_VALUE 15B6E48990EABC69
+// INDEX 2063
+uiShowTimesInChatCB	[在聊天中显示时间戳]
+
+// HASH_VALUE 3D0B2453397DF2BC
+// INDEX 2064
+uittShowTimesInChat	[勾选后，在所有聊天消息前显示当前时间。]
+
+// HASH_VALUE 2E428F9A99366770
+// INDEX 2065
+uiShowClock	[在罗盘中显示时钟]
+
+// HASH_VALUE E80563EA6265AD11
+// INDEX 2066
+uittShowClock	[勾选后，在罗盘中显示当前时间。]
+
+// HASH_VALUE 1DE6E33299B77FDC
+// INDEX 2067
+uiShow3dItemPreview	[显示 3D 物品预览]
+
+// HASH_VALUE 2740E55A1C979355
+// INDEX 2068
+uittShow3dItemPreview	[勾选后，将显示所查看物品的 3D 预览。]
+
+// HASH_VALUE C2BAF45AC14F102F
+// INDEX 2069
+uiShowDynChannelNameInChatCB	[在用户频道中显示动态频道名称]
+
+// HASH_VALUE 68467226378FE4E8
+// INDEX 2070
+uittShowDynChannelNameInChat	[勾选后，若消息显示在用户页签中，将在其前方显示动态聊天频道的名称。]
+
+// HASH_VALUE 92BA6C7192D6743F
+// INDEX 2071
+uiShowReticle	[显示目标准星]
+
+// HASH_VALUE DEF8FF70C06E611F
+// INDEX 2072
+uittShowReticle	[勾选后，鼠标悬停及选中目标时显示目标准星。]
+
+// HASH_VALUE 1B989391681BEB61
+// INDEX 2073
+uittContactInfo	[打开好友资料]
+
+// HASH_VALUE 5FC44FA59BD42F78
+// INDEX 2074
+uimwHands2	[动作栏 #2]
+
+// HASH_VALUE B374A35AB0FA28BF
+// INDEX 2075
+uiRunShortcut2	[执行快捷操作 #2]
+
+// HASH_VALUE 64636618A3BDC326
+// INDEX 2076
+uittFilterTP	[过滤@{6F6F}传送契约\n
+	@{FFFF}右键点击可仅选中@{6F6F}传送契约@{FFFF}。]
+
+// HASH_VALUE 08D8B8FE2B893831
+// INDEX 2077
+uiShowOnlineOfflineNotifications	[显示上线/离线通知]
+
+// HASH_VALUE 4CD4D1CC173C6E8A
+// INDEX 2078
+uittShowOnlineOfflineNotifications	[当公会成员或好友上线或离线时显示通知。]
+
+// HASH_VALUE E619A4D703E8A8AA
+// INDEX 2079
+uiDynColor0	[动态频道 0]
+
+// HASH_VALUE D7E5C437EA19905C
+// INDEX 2080
+uiCCDDyn0	[“动态频道 0”消息颜色]
+
+// HASH_VALUE E0A73C8619718AA7
+// INDEX 2081
+uittChooseDynColor0	[选择动态频道 0 消息的颜色]
+
+// HASH_VALUE E619A4D803E8A8AA
+// INDEX 2082
+uiDynColor1	[动态频道 1]
+
+// HASH_VALUE D7E5C837EA19905C
+// INDEX 2083
+uiCCDDyn1	[“动态频道 1”消息颜色]
+
+// HASH_VALUE E0B73C8619718AA7
+// INDEX 2084
+uittChooseDynColor1	[选择动态频道 1 消息的颜色]
+
+// HASH_VALUE E619A4D903E8A8AA
+// INDEX 2085
+uiDynColor2	[动态频道 2]
+
+// HASH_VALUE D7E5CC37EA19905C
+// INDEX 2086
+uiCCDDyn2	[“动态频道 2”消息颜色]
+
+// HASH_VALUE E0C73C8619718AA7
+// INDEX 2087
+uittChooseDynColor2	[选择动态频道 2 消息的颜色]
+
+// HASH_VALUE E619A4DA03E8A8AA
+// INDEX 2088
+uiDynColor3	[动态频道 3]
+
+// HASH_VALUE D7E5D037EA19905C
+// INDEX 2089
+uiCCDDyn3	[“动态频道 3”消息颜色]
+
+// HASH_VALUE E0D73C8619718AA7
+// INDEX 2090
+uittChooseDynColor3	[选择动态频道 3 消息的颜色]
+
+// HASH_VALUE E619A4DB03E8A8AA
+// INDEX 2091
+uiDynColor4	[动态频道 4]
+
+// HASH_VALUE D7E5D437EA19905C
+// INDEX 2092
+uiCCDDyn4	[“动态频道 4”消息颜色]
+
+// HASH_VALUE E0E73C8619718AA7
+// INDEX 2093
+uittChooseDynColor4	[选择动态频道 4 消息的颜色]
+
+// HASH_VALUE E619A4DC03E8A8AA
+// INDEX 2094
+uiDynColor5	[动态频道 5]
+
+// HASH_VALUE D7E5D837EA19905C
+// INDEX 2095
+uiCCDDyn5	[“动态频道 5”消息颜色]
+
+// HASH_VALUE E0F73C8619718AA7
+// INDEX 2096
+uittChooseDynColor5	[选择动态频道 5 消息的颜色]
+
+// HASH_VALUE E619A4DD03E8A8AA
+// INDEX 2097
+uiDynColor6	[动态频道 6]
+
+// HASH_VALUE D7E5DC37EA19905C
+// INDEX 2098
+uiCCDDyn6	[“动态频道 6”消息颜色]
+
+// HASH_VALUE E0073C8619718AA7
+// INDEX 2099
+uittChooseDynColor6	[选择动态频道 6 消息的颜色]
+
+// HASH_VALUE E619A4DE03E8A8AA
+// INDEX 2100
+uiDynColor7	[动态频道 7]
+
+// HASH_VALUE D7E5E037EA19905C
+// INDEX 2101
+uiCCDDyn7	[“动态频道 7”消息颜色]
+
+// HASH_VALUE E0173C8619718AA7
+// INDEX 2102
+uittChooseDynColor7	[选择动态频道 7 消息的颜色]
+
+// HASH_VALUE 68D8F43068D8F430
+// INDEX 2103
+uimLockItem	[锁定]
+
+// HASH_VALUE 16E88465D3567378
+// INDEX 2104
+uimSetTeamLeader	[设为队长]
+
+// HASH_VALUE FE501000FF300C01
+// INDEX 2105
+uiJoinLeagueProposal	[联盟邀请]
+
+// HASH_VALUE 65C71C3EEC5A0FC8
+// INDEX 2106
+uiRpTags	[角色扮演标签]
+
+// HASH_VALUE 011E7DD3846A697E
+// INDEX 2107
+uittRpTags	[在角色头顶显示角色扮演标签]
+
+// HASH_VALUE 68DC145070582480
+// INDEX 2108
+uimwTaskBar	[任务栏]
+
+// HASH_VALUE 20D0043864581438
+// INDEX 2109
+uiWindowNpcName	[NPC 名称]
+
+// HASH_VALUE F926A4436B4D184B
+// INDEX 2110
+uittNpcName	[在角色头顶显示友善 NPC 的名称]
+
+// HASH_VALUE 7F73C093A7248307
+// INDEX 2111
+uiNpcTitle	[NPC 头衔]
+
+// HASH_VALUE CE3119F23A3FD1F4
+// INDEX 2112
+uittNpcTitle	[在角色头顶显示友善 NPC 的称号]
+
+// HASH_VALUE C6C48E46D588B347
+// INDEX 2113
+uiHands2	[动作 #2]
+
+// HASH_VALUE 6C669F5DD9357859
+// INDEX 2114
+uittChooseLMFiberColor	[选择“纤维”地标的颜色]
+
+// HASH_VALUE 9B4A6C691004BB09
+// INDEX 2115
+uiSelectShortcutBar2	[选择快捷栏 #2]
+
+// HASH_VALUE 5854C7639701383B
+// INDEX 2116
+uiFXAA	[启用 FXAA]
+
+// HASH_VALUE DC75700D1144549D
+// INDEX 2117
+uiVREnable	[启用 VR]
+
+// HASH_VALUE EFCBC4603996C0AE
+// INDEX 2118
+uiVRGeneral	[虚拟现实选项]
+
+// HASH_VALUE CF42883683C0EC33
+// INDEX 2119
+uigcVR	[虚拟现实]
+
+// HASH_VALUE 9C58F47FED081B8E
+// INDEX 2120
+uigcFxAnisotropicFilter	[各向异性过滤：]
+
+// HASH_VALUE 050BB49718B1CAD4
+// INDEX 2121
+uiShowClock12h	[使用 12 小时制]
+
+// HASH_VALUE BCF4DB5845BC4EDA
+// INDEX 2122
+uittShowClock12h	[勾选后，在罗盘和聊天消息中使用 12 小时制。]
+
+// HASH_VALUE 68F99C8C69A81273
+// INDEX 2123
+uiRadarUseCamera	[罗盘跟随镜头旋转]
+
+// HASH_VALUE B83EBD58DE9C068F
+// INDEX 2124
+uittRadarUseCamera	[勾选后，罗盘视图将随镜头旋转。]
+
+// HASH_VALUE 6878DC2CC23A6CB6
+// INDEX 2125
+uiDebugProfileFillRate	[分析填充率]
+
+// HASH_VALUE CAB123089C80B66B
+// INDEX 2126
+uiNoFiles	[无文件……]
+
+// HASH_VALUE 6DA7FC912D38D095
+// INDEX 2127
+uiHorizontal	[水平]
+
+// HASH_VALUE 749C54586C5834A4
+// INDEX 2128
+uiVertical	[垂直]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 2129
+uiPlaylistRefresh	[刷新]
+
+// HASH_VALUE 781CF40C781CF40C
+// INDEX 2130
+uiCopy	[复制]
+
+// HASH_VALUE AF4704666E75D097
+// INDEX 2131
+uiBrowse	[浏览]
+
+// HASH_VALUE 3267346D71E53896
+// INDEX 2132
+uimGroup	[群组]
+
+// HASH_VALUE 0C8BC4F4AE78A6B7
+// INDEX 2133
+uiMacroItemGroupEquip	[装备物品组]
+
+// HASH_VALUE 5614A7A2A707B055
+// INDEX 2134
+uiMacroItemGroupName	[物品组名称]
+
+// HASH_VALUE AC27CF9914116C1B
+// INDEX 2135
+uiMacroItemGroupMove	[移动物品组]
+
+// HASH_VALUE A7A1CC916E59E066
+// INDEX 2136
+uiMacroItemGroupDestination	[物品组目标位置]
+
+// HASH_VALUE 1627848455283B93
+// INDEX 2137
+uiMapSearch	[地图搜索]
+
+// HASH_VALUE 1627848455283B93
+// INDEX 2138
+uittMapSearch	[地图搜索]
+
+// HASH_VALUE AB97946A68B6A07A
+// INDEX 2139
+uittInventorySearch	[搜索]
+
+// HASH_VALUE 5814F40C5814F40C
+// INDEX 2140
+uimMacroCopy	[复制]
+
+// HASH_VALUE 5814F40C5814F40C
+// INDEX 2141
+uimMCCopy	[复制]
+
+// HASH_VALUE 649C144C649C144C
+// INDEX 2142
+uiSaveUI	[保存]
+
+// HASH_VALUE 250AD73C1E3664A5
+// INDEX 2143
+uiInterfaceScale	[界面缩放]
+
+// HASH_VALUE 9B8AE76A2B9A5CC3
+// INDEX 2144
+uiInterfaceScaleAuto	[自动界面缩放]
+
