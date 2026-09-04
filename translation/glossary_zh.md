@@ -346,3 +346,12 @@ botchat：SELL TO MERCHANT→出售给商人；Retire Price→回收价格；Res
 **聊天/界面**：FILTER 与频道标题 GUILD/TEAM/REGION/UNIVERSE→公会/小队/地区/宇宙（地区/领地分治沿用 c1a）、REGION/UNIVERSE CHAT→地区聊天/宇宙聊天；Windowed→窗口化；LOD 档 低/中/高/普通/自定义；Unlock→解锁、Leave Editor→离开编辑器、临时背包标题（拾取物/剖割材料/背包已满/制造物品/获得的物品/晶化法术/采集的材料/物品，wait 行"…请稍候……"）；键位组 uiCP_KeysetName_bi_wasd/zqsd→使用"WASD/ZQSD"移动、wow_alike→其他 1、Import→导入该角色的键位组配置+@{6F6F}仅编辑器/仅游戏/游戏 & 编辑器。
 **备案例外**：uiRAP_WaitMsg0..2 尾随 ASCII "."/".."/"..." 为帧动画计数非省略号，原样保留；uiMissionAnd 纯空白值 " -    " 原样；iompfUnknown 与暴击飘字两空值保空；identity 115 键（种族名/Atys 历名/键面/拉丁专名）属规则保留。
 
+
+## 批次 2.7（表情系统 uiEM_ 族 260 条）定译
+
+**检索机制（第四级盲区）**：表情分类菜单标签 = CI18N::get(sheet 存储的 uiEM_<Key> 动态 id)（interface_manager.cpp initEmotes/CEmoteEntry::operator</translateEmote，路径数据 game_element/emotes/list.text_emotes 的 "Access Path" 字段，段间以 | 分隔：uiEM_Emotes|uiEM_类别|uiEM_表情词）。**译文兼作 /命令词**（toLower+空格→_），故本族译文一律**无空格、无标点**，2~4 字行为名/性状词。uiEmoteTitle（批2已译"表情动作"）为表情按钮 hardtext；菜单根标题是 uiEM_Emotes，同译"表情动作"。
+**类别 16**：EMOTES→表情动作；POSITIVE/NEUTRAL/NEGATIVE→积极/中性/消极；ATTITUDE/GESTURE/OPINION→态度/姿势/观点；组合=积极态度/中性观点/…（uiEM_PosAtt 等 9 类菜单名）；裸类 uiEM_Pos/Neu/Neg/Att/Ges/Opi 六键虽无菜单引用（en.uxt 冗余），一并补译防其他入口。
+**情绪/方式叶词 244 风格**：与既有快速表情 10 条（挥手/鞠躬/感谢/欢呼/舞蹈/滑稽/戏剧性/英勇/典雅/Hiha）同调；动作类用动词（打嗝/打哈欠/叹气/鼓掌类）、性状类用形容词（傲慢/谨慎/固执）。
+**同义词群分层定译（防空降同名单）**：轻蔑群 轻蔑(Contemptuous)/不屑(Disdainful)/傲慢群 傲慢(Arrogant)/高傲(Haughty)/浮夸(Pompous)/得意(Smug)/狂妄自大(Megalomaniac)；恶意群 邪恶(Evil)/狠毒(Wicked)/阴险(Malevolent)/恶意(Malicious)/刻毒(Spiteful)/刻薄(Mean)；复仇群 复仇(Vengeful)/记仇(Revengeful)；恐惧群 胆怯(Fearful)/害怕(Scared)/惊恐(Terrified)/恐慌(Panick)；嘲戏群 嘲弄(Mocking)/讥笑(Ridicule)/戏弄(Taunting)/挑衅(Provocative)；忠诚群 忠实(Faithful)/忠诚(Loyal)；沮丧群 沮丧(Depressed)/气馁(Dismayed)/受挫(Frustrated)/烦恼(Troubled)/阴郁(Gloomy)；绝望群 绝望(Despaired)/无望(Hopeless)。
+**特殊裁定**：uiEM_Sorry→**抱歉**（与 uiEmote3 apologize→道歉 错峰，防 /道歉 命令重名）；uiEM_FBT→**FBT** 保拉丁（阵营/测试者身份专名，界面按 CHARACTER_TITLE::FBT 过滤，与 Hiha 同例）；uiEM_Rice→米饭、uiEM_Gimme5→击掌（Gimme five）、uiEM_Youandme→你和我、uiEM_Stop→稍等（en 值 Hold On）、uiEM_Smack→掌掴（en 值 Slap）、uiEM_Hardsilence→肃静（与 Silence→沉默 分级）、uiEM_Clinical→公事公办、uiEM_Noclue→一头雾水、uiEM_Pointback/front/left/right→指后/指前/指左/指右（uiEmote22 point→指 先例）；en 源拼写错 4 处按语义正译（Dissapointed→失望、Indiffferent→冷漠、Indulgetn→纵容、Revellious→叛逆）；uiEM_Die→去死、uiEM_Over→结束、uiEM_None→无、uiEM_Ready→就绪。
+**罗盘缩放 "250m" 结论（批次 2.7 定位，非缺陷）**：显示点为 uxt 标签 uiRadarZoom0..3（compass.xml:202/417 link→range:hardtext，值即 'uiRadarZoom0'..'uiRadarZoom3'，批2已译且按"25m·50m·125m·250m 保留原文值"裁定与 en 同值）——英文形态是**定译结果非漏翻**；若用户期望"250米"需改 glossary 该裁定并回填 4 键，属词条调整非代码缺陷（uiMeterUnit=米 仅用于目标距离路径 group_compas.cpp:417，两路不冲突）。
