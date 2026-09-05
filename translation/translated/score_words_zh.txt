@@ -1,0 +1,5 @@
+﻿*HASH_VALUE	score_ID	name	point	ia	points
+_BE6C89EE2F599BBE	HitPoints	HP	生命值		生命值
+_B0DF4A6ECA004C1B	Stamina	耐力	耐力值		耐力值
+_174A57AA672A04AA	Sap	树液	树液值		树液值
+_DB69E9025629B0BA	Focus	专注	专注值		专注值

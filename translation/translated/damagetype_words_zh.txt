@@ -1,0 +1,11 @@
+﻿*HASH_VALUE	damageTypeId	name	ia	da	p	pia	pda	description
+_EC08606C264890AB	Slashing	劈砍			劈砍			
+_2D98306326487C9B	Piercing	穿刺			穿刺			
+_6CF60460721A84D2	Blunt	砸击			砸击			
+_26D818876787A4A9	Rot	腐蚀			腐蚀			
+_6476EC4AA5162881	Acid	酸蚀			酸蚀			
+_28B6544E2AE66886	Cold	冰霜			冰霜			
+_A8483056EBB76C90	Fire	火焰			火焰			
+_E5B98496A6B8D8A1	Poison	毒素			毒素			
+_5659CC92EA58A491	Electricity	闪电			闪电			
+_E4569C6C6E78B4B4	Shock	冲击波			冲击波			

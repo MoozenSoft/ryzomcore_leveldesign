@@ -430,3 +430,25 @@ botchat：SELL TO MERCHANT→出售给商人；Retire Price→回收价格；Res
 - fill_rem_diff.py（全量版）：3029/3029 ADD 填充、**零删除、零重编号**、SWAP 3603 行原样保留、仅删尾标记 2 行；**merge 模拟终态 == translated/wk.uxt 标签序列（逐位一致）**——与历轮"剥 SWAP 尾部追加"不同，本批 zh.uxt 顺序自此对齐 wk 空间。
 - AA_clean（12690 注释行扫描保留，0 删除——计数为扫描数）→ B_merge：日志无 not translated；merge 后 zh.uxt **6646** 条、标签唯一、LanguageName=简体中文、顺序==wk、**旧 3617 条 0 改动**、新 3029 条与 rem_zh_all.json 逐字节一致；其余 6 语言文件 0 变化（git 实证）；diff 归档 history/。
 - **对齐审计：en.uxt 键集 − zh.uxt 键集 = ∅；zh − en = ∅**——uxt 域与 en 完全对齐，引用盲区闭合，**无残差清单**。
+
+## 批次 3A（服务端 words 小族 ×11）定译
+
+**域**：`translated/<word>_words_zh.txt`（IOS 词条表，tab 分隔，en=9 列布局含冠词列）。列策略：文本列（name/p/member/point/points/description）按 en 基准翻译，**冠词列 ia/da/pia/pda/mda/mia 一律置空**（中文无冠词，列存在防 phrase 按列名取空）；`*` 前缀参考列（* noms français 等）原样保留；`*HASH_VALUE`/id 列原样（全语言共享冻结哈希，行关联依据）。译文值逐列继承 en 源的首尾 ASCII 空格（career 三行 Attack/Buffer/Healer Caster 尾随空格备案）。
+
+**characteristic 八维**（沿用 c1a）：体质/新陈代谢/智力/智慧/力量/**平衡**(Balance)/灵巧/意志。
+
+**damagetype 十系**：劈砍(Slashing)/穿刺(Piercing)/砸击(Blunt)/腐蚀(Rot)/酸蚀(Acid)/冰霜(Cold)/火焰(Fire)/毒素(Poison)/闪电(Electricity)/**冲击波**(Shock，en 源词 Shock、与 2.6 Shockwave 同根)。
+
+**score**：name=HP(保留)/耐力/树液/专注；point/points=X值（生命值/耐力值/树液值/专注值，"点"不写入值内，phrase 数字拼接用 "N 点X" 句式由 phrase 侧承担——待 phrase 批次复核）。
+
+**bodypart 部位**：头部/胸部/手臂/手部/腿部/脚部/身体/前腿/后腿/翅膀/前鳍/后鳍；植物（P 系）：树干/上部树干/下部树干/叶/可见根须（Trunk→树干，区别于 r2 长鼻 Yubo trunk 语境分治备案）。
+
+**career/job 职业族**：career=近战战士/远程战士/进攻施法者/增益施法者/治疗施法者/游侠/商人/工匠；job 沿用 r1/r3 词根：狂战士/浪荡剑客/Kami 之拳/持刃者/风之子/跑者/斥候/烈焰枪兵/枯萎者/污染者/扰乱者/Kami 之怒/**灵能护盾**(暂)/**风之守卫**(暂)/Kami 守护者/**第二呼吸**(暂)/汲血者/**第二生命**(暂)/树液水晶/绯红猎手/翠绿猎手/暗影猎手/Atys 守护者/**沙海商队者**(暂；与 r1 沙丘行商 Dune Caravaneer、行商 Hawker 三分避撞)/帝国补给官/管家/行商/火焰大师(暂)/花卉大师(暂)/湖泊大师(暂)/树液大师。
+
+**powertype 光环/能力族**（Aura→光环沿用 c3）：嘲讽/护盾(暂)/加速/生命·耐力·树液冥想(暂)/转化耐力·转化树液(暂)/**狂暴**(Berserk 光环名，与 job 狂战士错峰备案)/生命·耐力·树液光环/远程·近战防护光环/抗魔护盾光环(暂)/无敌(暂)/火墙·荆棘墙·水墙·闪电墙光环(暂)/战吼(暂)/治疗/平衡 HP/属性强化(暂)/防护修正/防御成功率修正/制造·近战·远程·魔法·挖掘加成（desc 无句号随 en）。
+
+**ecosystem**：沙漠/森林/湖泊/丛林/原始根须（沿用 c1a/r4）。**classificationtype**：人形生物/homin/退化 homin(暂)/动物/植物/犬科/跑者(暂，wk 法语 capriné=羊亚科)/马科/鸟类/Kitin/飞行 Kitin/鱼类/**Ryzom 生物**(ryzomian 造词)/大型 Ryzom 生物/厚皮动物/甲壳类/Kami/Karavan/全部；description 列=en p 列同值。**faction**：部落名全部沿用 r3 终表（反 Kami 者/黑环/永恒之树社团/…/刀耕火种/编织缰绳）；非部落行：强盗(bandit)/**平民**(civil 暂)/**退化者**(degen 暂)/动物·食肉动物·食草动物·植物(暂，c1a 地标 动物/植物 的复数族扩展)/胶质/Kami/Karavan/Kitin；专名保留新增拼写裁定：**Cholorogoos**（取 wk 拼写，r3 先例；en 文件作 Chlorogoos 备案）。**race**：四族+Karavan/Kami/Kitin 与全部物种名逐字节保留拉丁（Arma…Gubani、Tyrancha、Yetin、Wombaï 含 ï）；Tribe→部落、Common→普通；goo 族=X→"胶质 X"（r2 中西空格规则），zh 无复数形态故 p 列=name 列。
+
+**words 流实测**（供 3B-3E 沿用）：diff 文件=表头(DIFF_CMD+冻结hash+id+各列)+每行 "DIFF ADD n "（cmd 单元尾随空格）+各列 **wk 母本原文**（非空待填、法文残留常见，产译基准须回读 en 文件按 id 对齐）+尾 2 行未译标记。填充=替换文本列/清空冠词列/删标记行；merge 仅合无标记文件。**merge 对新语言文件首次建表的 off-by-one**：translated/<f>_words_<lang>.txt 不存在时 merge 用 work 表头+多余 1 字符建 bootstrap，最终文件尾多 1 行垃圾（id=wk 首行首字符，如 `\tH`）——merge 后须删该行尾（本批 11 族全部剥离；上游 fr/de/es/ru 成品无此行=非上游格式）。同批 merge 会为全部未填族生成 header-only 孤儿 `<f>_words_zh.txt`（不入库，后续批次覆盖）。fill_words.py 模板在 code/personal/zh_localization/b3a/（族名+字典 JSON 入参，token 多重集断言/未覆盖即错/幂等）。
+
+**服务端落位**：`3_install.py -ipj shard/data_language`（translated/*.txt 全量→pipeline/install/data_language）→`b2_shard_data.py`（→**pipeline/shard/data_language**，运行时权威目录）；b3_shard_dev.py 只再生 local.cfg（Paths→pipeline/shard/*）不复制数据。IOS 经 `#optional "../local.cfg"`（NeL cfg 指令非注释）解析该目录，启动 reload 按 `_LanguageCode`（wk,en,de,fr,ru,es,**zh**）×traits 载入 `<word>_words_<lang>.txt`。**ios.string_cache 不必删**：append-only string→id 表（每次 storeString 追加，路径=StringManagerCacheDirectory=shard_dev/data_shard_mainland|ring/ios.string_cache），phrase/words 文件每次启动必重解析；仅重排 id 才需 smClearCache（删除+reload+广播 STRING_MANAGER:RELOAD_CACHE，客户端 impulseReloadCache 弃本地 dev_90x_<lang>.string_cache）。生效需重启 ios 或控制台 smReload（本批未重启用户 shard）。

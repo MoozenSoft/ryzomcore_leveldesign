@@ -1,0 +1,21 @@
+﻿*HASH_VALUE	classification_type	name	ia	da	p	pia	pda	description
+_3A05A61DFA348A48	TypeHumanoid	人形生物			人形生物			人形生物
+_45506C09EB15E8F6	TypeHomin	homin			homin			homin
+_8E983B69E6751B5B	TypeDegenerated	退化 homin			退化 homin			退化 homin
+_A9DA837C2389848E	TypeFauna	动物			动物			动物
+_EB29AF7C2428C08C	TypeFlora	植物			植物			植物
+_418079E7A7FCBDE4	TypeDog	犬科			犬科			犬科
+_2ADE76E9CAEF61FD	TypeRunner	跑者			跑者			跑者
+_E66DB1300A4F65FE	TypeHorse	马科			马科			马科
+_41C17C16195279E3	TypeBird	鸟类			鸟类			鸟类
+_86208D03AB86D000	TypeKitin	Kitin			Kitin			Kitin
+_6BA9A101DCF285C2	TypeLandKitin	Kitin			Kitin			Kitin
+_084D91AFD5E36708	TypeFlyingKitin	飞行 Kitin			飞行 Kitin			飞行 Kitin
+_473159828751A1F6	TypeFish	鱼类			鱼类			鱼类
+_2117AAF84DF7627F	TypeRyzomian	Ryzom 生物			Ryzom 生物			Ryzom 生物
+_367CB4F6AA3221AE	TypeGreatRyzomian	大型 Ryzom 生物			大型 Ryzom 生物			大型 Ryzom 生物
+_FABC37E2BA5ACB87	TypePachyderm	厚皮动物			厚皮动物			厚皮动物
+_20C7038A1FE556FD	TypeShellfish	甲壳类			甲壳类			甲壳类
+_15EA8409E9C8749E	TypeKami	Kami			Kami			Kami
+_84632E6705B131E4	TypeKaravan	Karavan			Karavan			Karavan
+_66BC409E659A149E	TypeAll	全部			全部			全部

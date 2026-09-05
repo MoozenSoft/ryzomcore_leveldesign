@@ -1,0 +1,6 @@
+﻿*HASH_VALUE	ecosysteme ID	name	* nom en français	ia	da	p	pia	pda
+_28DB5483EC2808B8	desert	沙漠	désert			沙漠		
+_AAEBA4866E5808B9	forest	森林	forêt			森林		
+_6478AC8C64A86065	lake	湖泊	lacustre			湖泊		
+_6838DC8A2C2798A7	jungle	丛林	jungle			丛林		
+_4AFF510A91EB3922	primeroots	原始根须	primes racines			原始根须		

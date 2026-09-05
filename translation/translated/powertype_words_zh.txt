@@ -1,0 +1,32 @@
+﻿*HASH_VALUE	powerType	name	ia	da	p	pia	pda	description
+_6DCA609CECF858BE	Taunt	嘲讽						
+_2AB8D88D6969889E	Shielding	护盾						
+_23E3F07BA6C9808C	SpeedingUp	加速						
+_FE6DF5A5685844B3	MeditationLife	生命冥想						
+_F0CD8E578A5F7D05	MeditationStamina	耐力冥想						
+_279839E098D918C1	MeditationSap	树液冥想						
+_872EA1EBE6F753A8	ConvertStamina	转化耐力						
+_29D5CF7D27CAE486	ConvertSap	转化树液						
+_29CC88822549147E	Berserk	狂暴						
+_25797445A52B8007	LifeAura	生命光环						
+_9C84C0AA1F379CBA	StaminaAura	耐力光环						
+_59B6EC98A07774B3	SapAura	树液光环						
+_FD34328D8A827302	Umbrella	远程防护光环						使你和附近的队友免疫远程攻击。
+_92F0C1BB89BC5683	MeleeProtection	近战防护光环						使你和附近的队友免疫近战攻击。
+_86197EEC1899F525	AntiMagicShield	抗魔护盾光环						使你和附近的队友免疫魔法攻击。
+_8758671228A5AB28	Invulnerability	无敌						使你无敌，但无法使用动作。
+_29AB5F80EF88004E	FireWall	火墙光环						
+_D8C8F48265958CB5	ThornWall	荆棘墙光环						
+_D7A9E48525959CAC	WaterWall	水墙光环						
+_F0BE55DDA9AB7D23	LightningWall	闪电墙光环						
+_1D5ABBA0DE1B6FB4	WarCry	战吼						
+_ABB88C82DEB650A9	Heal	治疗						
+_2305443A60C86CAF	BalanceHp	平衡 HP						
+_B6604DDCE6C6ACA1	ChgCharac	属性强化						
+_16F116141048A371	ModMagicProtection	防护修正			防护修正			改变你的魔法防护值
+_3A7CADB6DF38F847	ModDefense	防御成功率修正			防御成功率修正			改变你的防御成功率
+_A25E08467860F1F2	ModCraftSuccess	制造加成			制造加成			提升你的制造技巧
+_24BA6F597234C2DA	ModMeleeSuccess	近战加成			近战加成			提升你的近战技巧
+_8F7EEBA94B68D5F8	ModRangeSuccess	远程加成			远程加成			提升你的远程战斗技巧
+_9CAFEDAD47AFE1C5	ModMagicSuccess	魔法加成			魔法加成			提升你的魔法技巧
+_A043E58C54A010EF	ModForageSuccess	挖掘加成			挖掘加成			提升你的挖掘技巧

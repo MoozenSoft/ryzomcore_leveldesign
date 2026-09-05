@@ -1,0 +1,136 @@
+﻿*HASH_VALUE	race ID	name	ia	da	p	pia	pda
+_A6AB2C9934550CBC	Fyros	Fyros			Fyros		
+_E7CB9C9EA95430A4	Matis	Matis			Matis		
+_ECC9D489AE5810A4	Tryker	Tryker			Tryker		
+_AB51CA9C65185C9F	Zorai	Zoraï			Zoraï		
+_6738B082E379F0AE	Karavan	Karavan			Karavan		
+_EA288C91A3585095	Tribe	部落			部落		
+_2CD6E862AC34E48E	Common	普通			普通		
+_E78B54642B0A586C	Arma	Arma			Arma		
+_E877986CA4D9ECB9	Balduse	Baldusa			Baldusa		
+_DED93048E8DADC79	Bul	Bodoc			Bodoc		
+_6CA9A875A45934BC	Capryni	Capryni			Capryni		
+_6E6B247C28A74478	Cephaloplant	Jubla			Jubla		
+_2AD80C589E8AEC9F	Chonari	Gingo			Gingo		
+_24C9E46CA6B9D8A5	Clapclap	Prakker			Prakker		
+_E4B9D85F2C7898A7	Cococlaw	Clopper			Clopper		
+_649A4C5A645B502A	Cute	Cute			Cute		
+_DA38848EEE1644B3	Dag	Yubo			Yubo		
+_1E8AA48F531984B9	Diranak	Horncher			Horncher		
+_A2EA7080DC795CC1	Electroalgs	Stinga			Stinga		
+_69CCFC7DEBFCA4C5	Estrasson	Cray			Cray		
+_25B91083A2C75CAD	Filin	Messab			Messab		
+_6CA6C855AE370484	Frahar	Frahar			Frahar		
+_85D668582A47BE85	Gibbai	Gibbaï			Gibbaï		
+_66C6F45CE74B50B2	Hachtaha	Goari			Goari		
+_5F589092269A58AE	Jungler	Torbak			Torbak		
+_A8FAFC95E5B884D3	Kakty	Lumper			Lumper		
+_E91844799DE6E889	Kalab	Kalab			Kalab		
+_66B8AC6A67086042	Kami	Kami			Kami		
+_6DE9185A9E88EC9F	Kazoar	Igara			Igara		
+_22295C8D619B8CB0	Kitifly	Kizoar			Kizoar		
+_A967B071AF99D886	Kitihank	Kinrey			Kinrey		
+_2D1928895C3A9488	Kitiharak	Kizarak			Kizarak		
+_AA98C87D29A9ECB4	Kitikil	Kipesta			Kipesta		
+_6A985489668810B3	Kitimandib	Kincher			Kincher		
+_EED9D491A3E70895	Kitin	Kitin			Kitin		
+_AB79507DDF8958A2	Kitinagan	Kipucka			Kipucka		
+_24FB707EE636C4B2	Kitinega	Kirosta			Kirosta		
+_1EE70896B148CC9A	Kitinokto	Kiban			Kiban		
+_6A75F4806EFA64A9	Lightbird	Izam			Izam		
+_6B18A47CA78864B4	Mektoub	Mektoub			Mektoub		
+_A87A0070E91A20A1	Phytopsy	Psykopla			Psykopla		
+_2BD83C686EBB78A1	Pucetron	Kipee			Kipee		
+_2BFA0C9566B710A4	Regus	Ragus			Ragus		
+_A28AF86F9CA484CB	Ryzerb	Najab			Najab		
+_E648F0812DAACC99	Ryzoholo	Timari			Timari		
+_B027688DF0E9E0B5	Ryzoholok	Vorax			Vorax		
+_DD9A98FDE6A9B4AB	SapEnslaver	Slaveni			Slaveni		
+_ABDE4DD566A924AB	SpittingWeeds	Cratcha			Cratcha		
+_662AE099E1986CAE	Swarmplants	Shooki			Shooki		
+_AD98A88EAAEA94AF	Vampignon	Yelk			Yelk		
+_6E4A088360B94CA6	Varinx	Varinx			Varinx		
+_EAB8B4862D886C6C	Yber	Yber			Yber		
+_658AD094682B948D	Zerx	Zerx			Zerx		
+_2D3828AC5F265890	race_c1	Javing			Javing		
+_EBF8B8C11E15F09D	race_c2	Cuttler			Cuttler		
+_649ADC991AD39BAA	race_c3	Ocyx			Ocyx		
+_E93AECC05FF65096	race_c4	Jugula			Jugula		
+_68C778AE1F65A889	race_c5	Kidinak			Kidinak		
+_29A93CAC6176389C	race_h1	Raspal			Raspal		
+_2AB80CAC5DE63883	race_h2	Bawaab			Bawaab		
+_6BBAE4BD5EC6749F	race_h3	Frippo			Frippo		
+_6B2828B061077096	race_h4	Rendor			Rendor		
+_A538C48C91A6BC8B	race_h5	Gnoof			Gnoof		
+_A878E0BA5D963C98	race_h6	Bolobi			Bolobi		
+_A5D8F8B3A1963894	race_h7	Shalah			Shalah		
+_A209A0C46156BCB1	race_h8	Ploderos			Ploderos		
+_A8A838BAA2C6388B	race_h9	Wombaï			Wombaï		
+_2109609496264C93	race_h10	Madakam			Madakam		
+_2CB6848F1C656C82	race_h11	Arana			Arana		
+_6756C0945C4550A1	race_h12	Gubani			Gubani		
+_E5B890C2A4E598AF	race_c6	Tyrancha			Tyrancha		
+_2629B4959676A893	race_c7	Yetin			Yetin		
+_01A8F8B90018E492	gooArma	胶质 Arma			胶质 Arma		
+_9E846FA06CAA4C7E	gooBalduse	胶质 Baldusa			胶质 Baldusa		
+_8A7824AB6140B89A	gooBul	胶质 Bodoc			胶质 Bodoc		
+_DE947FA3AF0C9483	gooCapryni	胶质 Capryni			胶质 Capryni		
+_9C49D4A995B9544D	gooCephaloplant	胶质 Jubla			胶质 Jubla		
+_9C94DC8FD548B4B9	gooChonari	胶质 Gingo			胶质 Gingo		
+_9075A0A02799D4BC	gooClapclap	胶质 Prakker			胶质 Prakker		
+_4CE5A0A0E90914B9	gooCococlaw	胶质 Clopper			胶质 Clopper		
+_0ED6C4C45682E09F	gooCute	胶质 Cute			胶质 Cute		
+_9894E48A2EB7885F	gooDag	胶质 Yubo			胶质 Yubo		
+_98F2C8956EF850B9	gooDiranak	胶质 Horncher			胶质 Horncher		
+_1D0804A366573C5A	gooElectroalgs	胶质 Stinga			胶质 Stinga		
+_18D8646167EA3C8A	gooEstrasson	胶质 Cray			胶质 Cray		
+_A5D92892A0E2889B	gooFilin	胶质 Messab			胶质 Messab		
+_DD77508FD5194CAF	gooFrahar	胶质 Frahar			胶质 Frahar		
+_1BF65486932938A1	gooGibbai	胶质 Gibbaï			胶质 Gibbaï		
+_D0F8384FEDB97092	gooHachtaha	胶质 Goari			胶质 Goari		
+_DA2760536988CCBD	gooJungler	胶质 Torbak			胶质 Torbak		
+_E5F87C916783F0A2	gooKakty	胶质 Lumper			胶质 Lumper		
+_9CC94C6C6996FB8A	gooKalab	胶质 Kalab			胶质 Kalab		
+_0B96B8A95342D484	gooKami	胶质 Kami			胶质 Kami		
+_1D365CB79E64CCC1	gooKazoar	胶质 Igara			胶质 Igara		
+_D9967C5A27C830AD	gooKitifly	胶质 Kizoar			胶质 Kizoar		
+_5A1693A6E74BB48C	gooKitihank	胶质 Kinrey			胶质 Kinrey		
+_8D18ACAE24E7F06A	gooKitiharak	胶质 Kizarak			胶质 Kizarak		
+_E2148B966B5B9093	gooKitikil	胶质 Kipesta			胶质 Kipesta		
+_2118E88CA318D852	gooKitimandib	胶质 Kincher			胶质 Kincher		
+_A0CB8C6C6E961BAA	gooKitin	胶质 Kitin			胶质 Kitin		
+_4E78A89FAA47F06A	gooKitinagan	胶质 Kipucka			胶质 Kipucka		
+_508474A8B13884B0	gooKitinega	胶质 Kirosta			胶质 Kirosta		
+_63A787A9674AA06E	gooKitinokto	胶质 Kiban			胶质 Kiban		
+_E2091C4EAC59E45F	gooLightbird	胶质 Izam			胶质 Izam		
+_623463A36F3A988C	gooMektoub	胶质 Mektoub			胶质 Mektoub		
+_09F9DCBB28F84491	gooPhytopsy	胶质 Psykopla			胶质 Psykopla		
+_D5C85460EC88ACB4	gooPucetron	胶质 Kipee			胶质 Kipee		
+_68295C7A6BD703B0	gooRegus	胶质 Ragus			胶质 Ragus		
+_E9B9FCA7DBF4D0A7	gooRyzerb	胶质 Najab			胶质 Najab		
+_5F568BA4ABFA08A3	gooRyzoholo	胶质 Timari			胶质 Timari		
+_24568BB3670B1090	gooRyzoholok	胶质 Vorax			胶质 Vorax		
+_26A9CCAA6CF3A794	gooSapEnslaver	胶质 Slaveni			胶质 Slaveni		
+_1E78FC5ADAF97CAC	gooSpittingWeeds	胶质 Cratcha			胶质 Cratcha		
+_2248FCA724482C72	gooSwarmplants	胶质 Shooki			胶质 Shooki		
+_A0D85055E75AD07C	gooVampignon	胶质 Yelk			胶质 Yelk		
+_E16790959A59C8B0	gooVarinx	胶质 Varinx			胶质 Varinx		
+_CF08BCA217B4D87D	gooYber	胶质 Yber			胶质 Yber		
+_D07808B21824248D	gooZerx	胶质 Zerx			胶质 Zerx		
+_13299C8E12444055	gooc1	胶质 Javing			胶质 Javing		
+_EA294C6E6C99982D	gooc2	胶质 Cuttler			胶质 Cuttler		
+_5F62BBBD6D874B74	gooc3	胶质 Ocyx			胶质 Ocyx		
+_16D8E49A0F852856	gooc4	胶质 Jugula			胶质 Jugula		
+_24287466A698C025	gooc5	胶质 Kidinak			胶质 Kidinak		
+_1749689D51947448	gooh1	胶质 Raspal			胶质 Raspal		
+_53E9687E92940C49	gooh2	胶质 Bawaab			胶质 Bawaab		
+_17D8E8914FA55059	gooh3	胶质 Frippo			胶质 Frippo		
+_1459B091D1D48C59	gooh4	胶质 Rendor			胶质 Rendor		
+_5F64A8ACA4459833	gooh5	胶质 Gnoof			胶质 Gnoof		
+_D6A8A48CD174284E	gooh6	胶质 Bolobi			胶质 Bolobi		
+_16E8849A4E04684E	gooh7	胶质 Shalah			胶质 Shalah		
+_2A69B7A22D86EF7F	gooh8	胶质 Ploderos			胶质 Ploderos		
+_93B8A094D2747C50	gooh9	胶质 Wombai			胶质 Wombai		
+_DFF68BA2E8546E64	gooh10	胶质 Madakam			胶质 Madakam		
+_17A60B671616F740	gooh11	胶质 Arana			胶质 Arana		
+_2AD6DB5BAC46271A	gooh12	胶质 Gubani			胶质 Gubani		

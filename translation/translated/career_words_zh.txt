@@ -1,0 +1,9 @@
+﻿*HASH_VALUE	career ID	name	* noms français	ia	da	p	pia	pda
+_1700C956C37FB64F	MeleeFighter	近战战士	Combattant Contact			近战战士		
+_9720B95DC35FBA54	RangeFighter	远程战士	Combattant Distance			远程战士		
+_D32171700AD23D57	AttackCaster	进攻施法者 	Caster Attaque			进攻施法者		
+_9A511D668371AE04	BufferCaster	增益施法者 	Caster Buffer			增益施法者		
+_1C01F56701816E0A	HealerCaster	治疗施法者 	Caster Healer			治疗施法者		
+_A6473C7A6A380099	Ranger	游侠	Ranger			游侠		
+_EA665D00EAE788B3	Shopkeeper	商人	Marchand			商人		
+_2D28B08D636AEC9E	Artisan	工匠	Crafter			工匠		
