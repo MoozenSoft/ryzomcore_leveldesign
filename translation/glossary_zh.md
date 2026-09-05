@@ -294,6 +294,20 @@ Team → 小队（Leave Team → 离开小队；Team Members → 小队成员；
 
 全 491 键自查（make_c1b.py 产译 + 独立复核脚本）：键集合与顺序一致；`@{` 色码 254 处、`$` 1 处（$P 占位符）、`%` 18 处、字面 \n 68 处、真实换行 68 处、真实制表 68 处（典型单元为 字面\n+真实换行+真实制表，同 c2/c3/c1a 型）、`&` 1 处（备案偏差）——除备案项外逐键计数一致；12 条值与原文相同（x、%、%、DEUTSCH、ENGLISH、FRANCAIS、ESPANOL、РУССКИЙ、HUD、16:9、4:3、PVP）均属规则保留集。
 
+## 批次 2.8-r2（rem_en_r2 758 条：if*/mpcat*/mpfam* 原材料名族）定译
+
+**构词模式**：物种拉丁名 + 材料中文，中西边界以空格连接（"Abhaya 木材""腐化 Yber 骨""新鲜 kitin 茧"）；Kitin→kitin（小写，沿用既有裁定）。"X Wood Node"→"X 木节"（区别于地标 Node→节点）。
+
+**状态/加工词**：Fresh 新鲜 / Dry、Dried 干燥 / Damp 潮湿 / Rotting 腐烂 / Living 活体 / Dead 死亡 / Old 陈旧 / Blooming 盛开 / Redhot 炽热 / Refined 精炼 / Modified 改性 / Purificated 净化 / Corrupted 腐化 / Crystallized 晶化（沿用 c1b）/ Goo 胶质（沿用 c1a）/ Glue 黏胶 / Stellar 星辰 / Silvery 银色 / Golden 金色 / Loose Soil 松土 / Dry|Damp Wood Sawdust 干燥|潮湿木屑。
+
+**部位/材料词**（新定，供同根沿用）：Skull 头骨 / Bone 骨 / Claw 爪 / Fang 獠牙 / Nail 趾甲 / Hoof 蹄 / Horn 角 / Tail 尾巴 / Wing 翅膀 / Skin 皮 / Leather 皮革 / Fur 毛皮 / Hair、Hairs 毛发 / Blood 血液 / Meat、Flesh 肉（不区分，备案）/ Beak 喙 / Rostrum 吻 / Spur 距 / Mandible 颚 / Jaw 颌 / Sting 毒刺 / Pincer 螯 / Sack 囊 / Carapace 甲壳 / Ligament 韧带 / Pelvis 骨盆 / Abdomen 腹部 / Spine 脊柱 / Trunk、Trunks 长鼻 / Crest 冠羽 / Head 头部 / Eye 眼睛 / Tongue 舌头 / Tooth 牙齿 / Parasite 寄生虫 / Larva 幼虫 / Egg 卵 / Cocoon 茧 / Saliva 唾液 / Secretion 分泌物 / Spider 蜘蛛 / Web 网 / Silk 丝 / Pollen 花粉 / Resin 树脂 / Sap 树液 / Wood 木材（沿用 c1a 地标）/ Bark 树皮 / Amber 琥珀 / Oil 油 / Fiber 纤维 / Seed 种子 / Leaf 叶（Green|Dead|Rotting Leaf 绿叶|枯叶|腐叶）/ Shell 甲壳 / Moss 苔藓 / Mushroom 蘑菇 / Cotton 棉 / Linen 亚麻 / Sponge 海绵 / Stem 茎 / Bud 花蕾 / Pistil 花蕊 / Berry 浆果 / Fruit 果实 / Honey 蜂蜜 / Wax 蜡 / Cereal 谷物 / Thorn 尖刺 / Reed 芦苇 / Straw 稻草 / Dust 尘土 / Pigment 颜料 / Fossil 化石 / Residue 残渣 / Splinter 碎片（Splinter Shell 碎屑甲壳）/ Bramble 荆棘 / Liana 藤蔓 / Lichen 地衣 / Strand 丝束（暂定）/ Gum 树胶 / Juice 汁液 / Acid 酸蚀（沿用 2.6 七系，作物品名待复核）/ Nodule 结节 / Part 部件 / Fish Scale 鱼鳞 / Firefly 萤火虫 / Dandelion 蒲公英 / Flower Petal 花瓣。
+
+**甲壳虫族名译出**（英语描述性物种名，非拉丁专名）：Big 大型 / Bitters 苦味 / Champion 冠军 / Hero 英雄 / Horny 多角 / Insects 昆虫 / Smart 聪慧 / Sliders 滑行者 / Slamers 猛击者 / Whisperers 低语者 / Cuty、Cute 可爱（两物种合并译名，若为不同生物则撞车，待复核）+ 甲壳。
+
+**订单/勋章/系统件**：Order Form 订购单 / Military Package 军用包裹 / Royal-Imperial-Theocratic-Federation Token 王室-帝国-神权-联邦令牌 / Merit Badge 功勋徽章 / Nano Builders 纳米建造器 / Sap Power Crystal 树液能量水晶（暂定）/ Crystallized Sap 晶化树液 / Atrium 中庭（暂定）/ System 系统 / Oath Bark 誓言树皮、Moon Resin 月亮树脂（普通名词性物种名译出，与 Silverweed/Tansy/Enola/Isabella 等留拉丁的分界待统一）/ Primitive Necklace 原始项链 / Jewelry 首饰（沿用 c1b）/ Taming-Training Tool 驯服-训练工具 / Living Seed 活体种子 / Melee weapon-Range weapon 近战-远程武器（沿用 2.6）/ Melee Warrior 近战战士 / Exotic 奇异（mpcat，暂定）/ Crafter 工匠（沿用批次 1）/ Upgrade 升级 / Undefined 未定义（沿用 2.6）/ Raw Material 原材料（沿用 2.5）/ Eucomina 留拉丁（纯专名，全片唯一与 en 逐字节同值键）。
+
+**实测**：全 758 键自查（make_rem_zh_r2.py，token 引擎+未知词即错，337 不重复词全覆盖）：键集合与顺序一致；值内无任何标记（$ %@{}&<>、字面\n、换行/制表实测 en 为 0，逐键一致）；U+FFFD=0；非保留拉丁残留=0。报告 `.superpowers/sdd/2026-09-03-chinese-localization/task-b28-r2-report.md`。
+
 ## 批次 2 汇合裁定（分治词按多数派统一 · 最终定译，覆盖上文各分片记录中的冲突行）
 
 合并 4 分片（c1a 490 / c1b 491 / c2 245 / c3 633 = 1859 键）时统计各分治词覆盖键数，**多数派胜出**；语境合理者保留并备案。改动清单（6 键，已落入 ingame_zh_all.json 与 translated/zh.uxt）：
@@ -325,33 +339,94 @@ botchat：SELL TO MERCHANT→出售给商人；Retire Price→回收价格；Res
 
 ### 批次 2.5 实测：标记与结构保留
 
-全 474 键自查（make_cpp_zh.py + cpp_tr_p1..p5.py 程序化产译，规避 heredoc 折叠坑）：键集合一致；`@{` 931、`%` 486、`&` 38（=19 对 &CHK&/&SYS&/&BC&/&ISE&/&CHKCB& 频道前缀）、字面 `\n` 318、真实 LF 318、真实 TAB 318 **逐键计数一致**（单元一一对应：每个字面 `\n` 后恰为 LF+TAB，每个 LF 前恰为字面 `\n`）；`@{}` token 多重集逐键一致；无 `[ ]`、无行首 `#`；25 键值与 en 逐字节相同（纯色码标签 uiItem*Color、???、B/KiB/MiB、AC/JY、CTRL/ALT/SHIFT、{AFK}、", "、" - "、单空格、%f、%custom_text、%channel @{T8}/%shortcut、uihelpItemCosmetic/ScrollR2 纯 token 值）。具名 %token 由 strFindReplace **按名**替换（user_entity.cpp:3100 msgRollDiceLocal 实测），语序可安全调整；printf 序位占位（uiTipsTeleport 的 %s/%d 串）保持原序。uiBotChatPhrase 空值→空串。
-
-## 批次 2.6（动态拼接盲区 712+26 条）定译
-
-**七系元素统一**（dt/pt/rs/mpstat 同根）：Acid→酸蚀、Cold→冰霜、Rot→腐蚀、Fire→火焰、Poison→毒素、Electricity→闪电、Shockwave→冲击波。近战三系沿用 2.5：Slashing→劈砍、Smashing→砸击、Piercing→穿刺。
-**魔法域词**：Elemental→元素、Off./Def. Affliction→进攻/防御诅咒（沿用 c1b Affliction=诅咒暂定）、Healing→治疗；Cast Speed→施法速度、Power→威力。
-**RM 数值族（mpstat0..33）**：Durability→耐久度、Lightness→轻量化、Sap Load→树液储量（2.5）、Damage→伤害、Range→射程、Dodge/Parry Modifier→闪避/格挡修正、Adversary→对手、Protection Factor→防护系数、Max. X Protection→X防护上限、X Resistance→X抗性（沙漠/森林/湖泊/丛林/原始根须沿用 c1a）。**qualifier 裁定：只留名词、省略 of/with 介词**（运行时 "%p %n %s" 后缀位插于物品名后，直译"…之/的X"生硬；具名 token 按序拼接安全）。
-**RM 制造目标族（mpft，fix round 1 补正——toString 返回 stringTable 码 MpL..MpMF 非数字）**：Blade→刀刃、Hammer→锤头、Point→尖头、Shaft→柄杆、Grip→握柄、Counterweight→配重、Trigger→扳机、Firing Pin→击针、Barrel→枪管、Explosive→炸药、Ammo Jacket→弹壳、Ammo Bullet→弹头、Armor Shell→甲壳、Lining→内衬、Stuffing→填充物、Armor Clip→甲扣、Jewel Setting→宝石托、Jewel→宝石、Blacksmith Tool→铁匠工具、Pestle→研杵、Sharpening Tool→磨刃工具、Tunneling Knife→掘进刀、Jewelry Hammer→装身具锤、Campfire→营火、Clothes→服装、Magic Focus→魔法聚焦器（暂定）；裸 mpft（Unknown）沿用现译"未定义的原材料目标"。
-**品质与颜色**：mpfq Mediocre/Average/Very Good/Excellent→平庸/普通/很好/优秀（与 RM 品级 初级/优良/上选/优秀/极品 并存，Excellent=优秀 同词）；mpcol 八色用"X色"双字（红色…黑色、米色、青绿色）。
-**Ring 场景词**（uiRAP_*，沿用 c2/2.5 暂定）：等级段 新手/学徒/熟手/进阶/专家/大师；取向 新手训练/叙事/悬疑/砍杀/公会训练/其他；语言码 uiR2EDfr/de/en→法语/德语/英语。
-**语句评价（SENTENCE_APPRAISAL 16）**：ChildPlay→小儿科、RealEasy→非常简单、Easy→简单、FairlyEasy→比较简单、Average→中等难度、QuiteDifficult→颇为困难、Difficult→困难、ReallyDifficult→非常困难、Harsh→严酷、ExtremelyDifficult→极度困难；**sentence→短语**（无效短语/不完整短语/创建短语出错）；FeatureUnderConstruction→功能建造中、Cheater→作弊可不好哦……、Undefined→未定义。
-**战斗飘字/物品特效**：Life Stealer→汲血、Instant Cast→瞬发、Divine Intervention→神圣干预（暂定）、All Stats/Stat Bonus→全属性/属性增益、Forage Bonus→采集增益、No-Risk Forage→无风险采集；"% chance of" 句式统一"有 @{...}%p% @{...} 的概率…"（概率沿用 uiTS_Chances 先例）。
-**武器限制族（uiawr 74）**：Close-Combat→近战（uiawrSF"全部武器与近战"先例）、Hand-to-Hand→徒手、Melee/Range Weapon→近战/远程武器、One-/Two-handed→单手/双手；武器 Mace→锤、Staff→杖、Spear→矛、Pike→长矛、Axe→斧、Sword→剑、Dagger→匕首、Pistol→手枪、Rifle→步枪、Bow-Pistol→弓手枪、Bowrifle→弓式步枪、Launcher/Auto-Launcher→发射器/连发发射器；词缀 Burning/Electric/Living/Waving→燃烧/电击/生命/波动（直接拼武器名，暂定）。
-**键名（uiKey 143）**：字母/F1-F24 保拉丁面；NUMPAD n→小键盘 n；常用键中译：退格/回车/空格/删除/插入/行首/行末/上翻页/下翻页/截屏/暂停/大写锁定/数字锁定/滚动锁定/帮助；方向←↑→↓；鼠标左/中/右键；组合键沿用 2.5 CTRL/ALT/SHIFT 拉丁：左CTRL/右ALT 式；ESCAPE→ESC、TAB→TAB；标点键全译（逗号/句号/斜杠/反斜杠/分号/撇号/等号/连字符/波浪号/左方括号/右方括号/加号/减号/乘号/除号/小数点）；IME 冷僻键（ATTN/CRSEL/HANGEUL/KANA 等）保面。
-**Atys 历专名**：月份 uiWinderly..uiNivia（12）与星期 uiPrima..uiHoleth（6）**保留拉丁**（待全服统一定名后音译回填）；西历 uiDay0..6→星期日..星期六、uiMonth01..12→一月..十二月；季节→春/夏/秋/季按"季节"语境：春季/夏季/秋季/冬季（配 uiTipsTeleport"季节为 %s"）；序数 uiAtysianCycle1..4Ordinal→第 N 个（后接保留的"AC"）；罗盘 16 向→北/东北偏北/…/西北偏北（uiNorth=北 先例扩展）。
-**表情词（uiEmote0..29，兼 /命令词，暂定待实机复核）**：afk→挂机、agree→同意、wave→挥手、victory→胜利、lol→哈哈哈、go away→走开 等；Hiha 类拟声按既有规则保留。
-**加载趣味语（uiLoadingString 54）**：Atys 专名保拉丁（Yubo、Ragus、Frahar、Ma-Duk、Stinga、Yber、Gingo、Kincher、Jena、Fairhaven、Pyr、IRC；kitin/homin 沿用拉丁）；firewine→火酒、RAM→内存；尾随空格逐键保留。
-**PvP 交易**：NOT ENOUGH X POINTS→"X 阵营点数不足"（faction→阵营沿用 c1a）；tooltip→"你没有足够的 X 阵营点数，无法购买此物品。"；BUY/RETRIEVE→购买/回收（沿用 2.5 回收价格）。
-**聊天/界面**：FILTER 与频道标题 GUILD/TEAM/REGION/UNIVERSE→公会/小队/地区/宇宙（地区/领地分治沿用 c1a）、REGION/UNIVERSE CHAT→地区聊天/宇宙聊天；Windowed→窗口化；LOD 档 低/中/高/普通/自定义；Unlock→解锁、Leave Editor→离开编辑器、临时背包标题（拾取物/剖割材料/背包已满/制造物品/获得的物品/晶化法术/采集的材料/物品，wait 行"…请稍候……"）；键位组 uiCP_KeysetName_bi_wasd/zqsd→使用"WASD/ZQSD"移动、wow_alike→其他 1、Import→导入该角色的键位组配置+@{6F6F}仅编辑器/仅游戏/游戏 & 编辑器。
-**备案例外**：uiRAP_WaitMsg0..2 尾随 ASCII "."/".."/"..." 为帧动画计数非省略号，原样保留；uiMissionAnd 纯空白值 " -    " 原样；iompfUnknown 与暴击飘字两空值保空；identity 115 键（种族名/Atys 历名/键面/拉丁专名）属规则保留。
+全 474 键自查（make_cpp_zh.py + cpp_tr_p1..p5.py 程序化产译，规避 heredoc 折叠坑）：键集合一致；`@{` 931、`%` 486、`&` 38（=19 对 &CHK&/&SYS&/&BC&/&ISE&/&CHKCB& 频道前缀）、字面 `
+` 318、真实 LF 318、真实 TAB 318 **逐键计数一致**（单元一一对应：每个字面 \n 后恰为 LF+TAB，每个 LF 前恰为字面 
+）；`@{}` token 多重集逐键一致；无 `[ ]`、无行首 `#`；25 键值与 en 逐字节相同（纯色码标签 uiItem*Color、???、B/KiB/MiB、AC/JY、CTRL/ALT/SHIFT、{AFK}、", "、" - "、单空格、%f、%custom_text、%channel @{T8}/%shortcut、uihelpItemCosmetic/ScrollR2 纯 token 值）。具名 %token 由 strFindReplace **按名**替换（user_entity.cpp:3100 msgRollDiceLocal 实测），语序可安全调整；printf 序位占位（uiTipsTeleport 的 %s/%d 串）保持原序。uiBotChatPhrase 空值→空串。
 
 
-## 批次 2.7（表情系统 uiEM_ 族 260 条）定译
+### 批次 2.8-r3（剩余词条全量对齐 r3 片，758 键）新增定译
 
-**检索机制（第四级盲区）**：表情分类菜单标签 = CI18N::get(sheet 存储的 uiEM_<Key> 动态 id)（interface_manager.cpp initEmotes/CEmoteEntry::operator</translateEmote，路径数据 game_element/emotes/list.text_emotes 的 "Access Path" 字段，段间以 | 分隔：uiEM_Emotes|uiEM_类别|uiEM_表情词）。**译文兼作 /命令词**（toLower+空格→_），故本族译文一律**无空格、无标点**，2~4 字行为名/性状词。uiEmoteTitle（批2已译"表情动作"）为表情按钮 hardtext；菜单根标题是 uiEM_Emotes，同译"表情动作"。
-**类别 16**：EMOTES→表情动作；POSITIVE/NEUTRAL/NEGATIVE→积极/中性/消极；ATTITUDE/GESTURE/OPINION→态度/姿势/观点；组合=积极态度/中性观点/…（uiEM_PosAtt 等 9 类菜单名）；裸类 uiEM_Pos/Neu/Neg/Att/Ges/Opi 六键虽无菜单引用（en.uxt 冗余），一并补译防其他入口。
-**情绪/方式叶词 244 风格**：与既有快速表情 10 条（挥手/鞠躬/感谢/欢呼/舞蹈/滑稽/戏剧性/英勇/典雅/Hiha）同调；动作类用动词（打嗝/打哈欠/叹气/鼓掌类）、性状类用形容词（傲慢/谨慎/固执）。
-**同义词群分层定译（防空降同名单）**：轻蔑群 轻蔑(Contemptuous)/不屑(Disdainful)/傲慢群 傲慢(Arrogant)/高傲(Haughty)/浮夸(Pompous)/得意(Smug)/狂妄自大(Megalomaniac)；恶意群 邪恶(Evil)/狠毒(Wicked)/阴险(Malevolent)/恶意(Malicious)/刻毒(Spiteful)/刻薄(Mean)；复仇群 复仇(Vengeful)/记仇(Revengeful)；恐惧群 胆怯(Fearful)/害怕(Scared)/惊恐(Terrified)/恐慌(Panick)；嘲戏群 嘲弄(Mocking)/讥笑(Ridicule)/戏弄(Taunting)/挑衅(Provocative)；忠诚群 忠实(Faithful)/忠诚(Loyal)；沮丧群 沮丧(Depressed)/气馁(Dismayed)/受挫(Frustrated)/烦恼(Troubled)/阴郁(Gloomy)；绝望群 绝望(Despaired)/无望(Hopeless)。
-**特殊裁定**：uiEM_Sorry→**抱歉**（与 uiEmote3 apologize→道歉 错峰，防 /道歉 命令重名）；uiEM_FBT→**FBT** 保拉丁（阵营/测试者身份专名，界面按 CHARACTER_TITLE::FBT 过滤，与 Hiha 同例）；uiEM_Rice→米饭、uiEM_Gimme5→击掌（Gimme five）、uiEM_Youandme→你和我、uiEM_Stop→稍等（en 值 Hold On）、uiEM_Smack→掌掴（en 值 Slap）、uiEM_Hardsilence→肃静（与 Silence→沉默 分级）、uiEM_Clinical→公事公办、uiEM_Noclue→一头雾水、uiEM_Pointback/front/left/right→指后/指前/指左/指右（uiEmote22 point→指 先例）；en 源拼写错 4 处按语义正译（Dissapointed→失望、Indiffferent→冷漠、Indulgetn→纵容、Revellious→叛逆）；uiEM_Die→去死、uiEM_Over→结束、uiEM_None→无、uiEM_Ready→就绪。
-**罗盘缩放 "250m" 结论（批次 2.7 定位，非缺陷）**：显示点为 uxt 标签 uiRadarZoom0..3（compass.xml:202/417 link→range:hardtext，值即 'uiRadarZoom0'..'uiRadarZoom3'，批2已译且按"25m·50m·125m·250m 保留原文值"裁定与 en 同值）——英文形态是**定译结果非漏翻**；若用户期望"250米"需改 glossary 该裁定并回填 4 键，属词条调整非代码缺陷（uiMeterUnit=米 仅用于目标距离路径 group_compas.cpp:417，两路不冲突）。
+**原材料/生物族（mpfam787-819 / mpgroup / mpsapload）**：Corrupted→**腐化**（长尾族统一，兼对齐 uiMoreMFy CORRUPTER→腐化者）；queen（kitin 语境）→**蜂后**（la reine，批次 1"kitin 蜂群"延伸）；Lair→**巢穴**；Deposit→**矿藏**；Exotic（raw mats）→**异域**（Desert/Forest/Jungle/Lakes Exotic Raw Materials→X异域原材料，生态名沿用 c1a）；物种名保留拉丁：Koorin/Manath/Miakoda/Mitexi/Moojoo/Motega/Nita/Olathe/Omalita/Paddooa/Patee/Mooshy/Cray/Arma/Lumper/Mektoub/Moor；人名 Lixie/Sirgio/Pei 保留；Oath Wood→**誓言木**、Moon Linen→**月光亚麻**、Wood Knot→**树瘤**；Marauder(s)→**劫掠者**（与 c2 劫掠部落同族）；Token→**凭证**、Pack（组）→**驮包**（c3）、Meat→**肉**、Fur→**毛皮**、Blood→**血液**、Skull→**头骨**、Creature→**生物**、Aggressive Plant→**攻击性植物**、Mineral→**矿物**、Paper→**纸张**；树液储量档 Low/Medium/High/Very High→低/中/高/极高（与 uiConfigPoor/Medium/Super 对齐）。
+**历法/地名族**：place_* 19 键全部**逐字节保留拉丁**（城市专名，Arena 亦作地名保留）；region_* 8 键译描述名：瞬息花园/困惑之林/异端陋室/隐秘之源/异见之丘/威严花园/**Matis 森林**（Matisian→Matis）/上部沼泽；uiContinent*：Abyss of Ichor→**灵液深渊**、Witherings→**枯萎之地**、Sicklands→**疫病之地**（uiMoreMMa 疫病者同族）、Fyros/Tryker Lands→X 之地、Living Islands→活岛、Sources→源泉、Forgotten Lands→遗忘之地；Silan→**Silan 保留**（Ruins of Silan→Silan 废墟）。
+**部落名（uiFame_tribe_* 53）**：描述性名按语义直译（远古树妖/反 Kami 者/黑环/蟑螂/永恒之树社团/海盗/沙丘骑手/生态战士/纵火者/初代逃兵/Frahar 猎手/胶质脑袋/绿之种/死之种子的 Hamazan/圣像崇拜者/守护者/kitin 采集者/泻湖兄弟/不法之徒/胶质大师/Matis 边境守卫/转夜者/绿洲掘井者/火术士/回收者/变节者/守望者(Watchers)/根须采割者/神圣树液/树液拾取者/树液奴隶/焚烧者/暗影行者/杂草同胞/淤泥雕刻者/奴隶贩子/走私者/旱地 Matis/刀耕火种/训导师/破水者/编织缰绳/海滩拾荒者/吠叫者/暗化树液）；构词专名 6 个保留拉丁：Cholorogoos、Cuzans、Fraiders、Gibads、Leviers、Kuilde。Theist/Atheist→有神论者/无神论者；Hominist→**homin 至上者**；Tryton 保留。
+**职业/人物族**：rpjob "Apprentice X"→**学徒X**（屠夫/花匠/挑水工/磁性制图师/工具匠/医师/幼虫采集者(Larvester)/卷轴匠）；攻击/增益/治疗施法者（ATTACK/BUFFER/HEALER CASTER）、近战/远程战士、采集者(Harvester)、商人(Merchant)——BUFFER CASTER→增益施法者（暂定）；range_warrior "Range Warrior"→**远程战士**（与 Ranger→游侠 按源词区分）；职阶头衔族 uiMore*：持剑者/浪荡剑客/Kami 之拳/腐化者/疫病者/惑心者/Kami 之怒/绯红猎手（Kamic→Kami 之）。
+**下载器 uiBGD_*（49）**：Ryzom Downloader→**Ryzom 下载器**；Torrent Mode→Torrent 模式（BitTorrent、Torrent 保留拉丁）；package→数据包；{0} 格式占位逐键保留；" a {0}/s"→" 速度 {0}/秒"。
+**配置 uiConfig*（75）**：bits→位（2.5）；AGP/EAX/FMod/OpenGL/Direct3D/FX/Hz/FPS/VRAM→Mb 数值保留；Renderer→渲染器；Poor/Medium/Normal/Super→低/中/普通/高（LOD 档沿用 2.6）；& 助记符 5 处逐键保留（&应用/&取消/&默认/&确定/&关于 Ryzom 配置...）；菜单尾 "..." 保留 ASCII 三点。
+**经 de/es.uxt 官方译文消歧的暂定词**：uiFair=晴（**天气词**，de klar/es Despejado，非品质）；uiCap=上限（de GRENZE）；uiAcceptZCCharge=接受税责？（de Gebühr annehmen，沿用 c3 领地税责）；uiFinished=完成（de Abschließen 为按钮）；uiMasterFilter→大师筛选（暂定）；uiEnterCrZoneProposal→提交危险区域提案（de 证实 ENTER=提交义）。
+**本批暂译待复核**：所受效果（Affected）、全部系列（All Sets）、应用区域（App Zone，de/es 亦未译）、臂甲（ARMPAD）、鞍垫（Milko PAD）、职阶（Grade/Echelon）、勘探（Prospection）、精炼（Refine）、增幅器（Amplifier）、筒仓（Silo）、归属旗帜（Claims Flag）、毁灭者（Destroyer）、掌控中（Under Control）、税责已就任/已当选（Charge applied/elected）、领地税责就任语境、工坊（Workshop，de Werkstatt 佐证）、幼虫采集者（Larvester）、异域（Exotic）、灵液（Ichor）、第 N 桌面（1st DESKTOP）、与…交谈（TALK TO，动态拼接风险）、主聊天沿用 c3、Ranger 后缀族、TODO : 前缀（802-814 法语长尾，保留 "TODO : " 字面，正文意译）。
+**保留拉丁专名新增**：Moor、Kitins'→kitin 巢穴、Frahar、Hamazan、Kami/Karavan/Fyros/Matis/Tryker/Zoraï/Atys/Ring/Ryzom/Silan/Tryton/Lixie/Sirgio/Pei/BETA。Homins→homin（复数并入 homin 单形，批次 1 规则）。
+**实测**：全 758 键（make_r3_zh.py 产译、check_r3.py 独立复核）：键集合与顺序一致；`@{XXXX}` 色码 15 键（@{6F6F}/@{FFFF}/@{C02F}）token 多重集逐键一致；`{0}` 10 键、%day/%month/%year、&（5 Qt 助记 + uiGuildInfoTitle 1 字面 &）、字面 `
+`/真实 LF/真实 TAB **逐键计数一致**且单元同构（每个字面 \n 后恰为 LF+TAB）；数字序列逐键一致；首尾空白逐键一致（uiMFMailContent 修正为无尾空格，en 实值无尾随）；空串 6 键保空；单字母/专名/URL/纯 token 值 52 键逐字节保留；U+FFFD=0。
+
+## 批次 2.8-r1（全量对齐收口·片 r1：758 条）新定译
+
+**角色称号阶梯（character_title 族，前缀式）**：Novice X → 新手X；Apprentice X / X Apprentice → X学徒（尾随空格逐键保留）；Advanced X → 进阶X；Expert X → 专家X；Master X → 大师X；Master of X → X大师。词根沿用 c2 段位（新手/学徒/熟手/进阶/专家/大师），en 无 level 字样故不带"级"后缀。
+**战斗称号词根**：Warrior → 武士（与 Fighter=战士 区分）；Fighter → 战士；Close Fighter → 近身斗士（暂定，与 Melee Fighter=近战战士 错峰）；Range Fighter → 远程战士；Hand to Hand Fighter → 徒手斗士；Ire Fighter → 狂战士（de 值即 Berserker，沿用批次 1 暂译）。武器使用者：弓手/重弓手/弩手/火枪手/步枪手/手枪射手/神枪手/炮手/重炮手/锤手/斧手/剑士/矛手/长矛手/短刃手（暂定）/蛮士（暂定）/轻·重武器手/劈砍手/砸击手/穿刺手/串刺手/钝击手/斩裂手（暂定）/剑客/持刃者/烈焰枪兵。拳跤：Boxing/Wrestling → 拳击/摔跤。
+**制造职阶**：Armorer → 甲匠（重/轻/中甲匠）；Weaponsmith → 武器匠（近战/远程、轻/重）；Shieldsmith → 盾牌匠；Gunsmith → 枪械匠；Munitioner → 弹药匠；Jeweler → 珠宝匠；Forager → 采集者（与 Harvest→采集、Harvester→采集者 同词根，三词同译备案）；Crafter/Craftsman/Faber → 工匠（沿用批1）。
+**魔法称号**：Attack/Buffer/Healer Caster → 进攻/增益/治疗施法者；Offensive/Defensive Magician → 进攻/防御法师；Mentalist → 心灵师；Mind Lord → 心灵主宰；Biomancer → 生物术士（暂定）；Warlock → 术士；Witherer → 枯萎者；Disturber → 扰乱者；Affliction Bringer → 降咒者（暂定）；Fouler → 污染者（暂定；fr=Contamineur、ru=Осквернитель，非"缩绒匠"）；Faker → 佯攻者（fr=Feinteur）；Life Stealer → 汲血者（沿用 2.5 汲血）；Cure/Curse/Sickness → 治愈/诅咒/疾病（Curse 与 Affliction=诅咒 同文，语境分治备案）；Sap → 树液（树液水晶/树液大师）；Wind Child → 风之子；Green/Scarlet/Shadow Hunter → 绿色/绯红/暗影猎人。
+**fct_* NPC 职业后缀**（前导空格逐键保留，括号用全角）：Guard/Guard Chief/Intendant → 卫兵/卫兵队长/行政官；Welcomer → 迎宾员；Trainer → 培训师 与 Instructor → 教官 区分；Supplier/Messenger → 补给官/信使；Outlands → 荒野（暂定）；pact giver → 契约授予者（Pact=契约沿用 c3）；Kami Adept → Kami 信徒（暂定）；composition merchant → 配方商人（暂定，p* 复合键族）；Rookie Guard → 见习卫兵；foreman/Overseer → 监工；journeyman → 熟练工匠；prospector → 探矿者；patroller → 巡逻兵；stable boy/girl → 男/女马夫；barman/maid → 男/女酒保；Corporal/Sergeant/Captain → 下士/中士/队长（军阶暂定按西化三档，待实机复核）；Sage → 贤者；Scout → 斥候；Hawker → 行商；Steward → 管家；Cutthroat → 割喉者；tax collector → 收税官；Guild Clerk → 公会书记官；City/Village/Outpost/tribe welcomer → 城市/村庄/前哨站/部落迎宾员；Kitin threat watcher → Kitin 威胁监视者（Kitin 随原文大写、保留拉丁）。
+**gn_class 守卫/佣兵阶级矩阵**（本批裁定）：Young/Senior/Veteran → 新锐/资深/老练；Regular/Strong/Powerful/Master/Elite → 普通/强健/强力/大师/精英；Warrior/Shooter/Magician/Healer → 武士/射手/法师/治疗师。**备案偏差**：gn_class 键名含军阶面名（conscript/private/corporal/sergent/captain/major/legionnaire…）但显示值是"经验+强度+职业"三元组，译文按值不按键（fr/de 同法）；"Veteran Strong Wrrior"、"Matis/Zoraï Voluteer" 源拼写错按语义正译（沿批次 2.7 惯例）。
+**gn_bandit 匪帮名（136 条）**：全部创造性意译；人名/地名/生僻虚构生物保留拉丁（Tyler/Eva/Jena/Diller/Vinni/Cooky/Zora/Dyron/Frahar/Pyr/Thesos/Natae/Davae/Avalae/Highcliff/Nexus/Fount/Windy Gate/Cristabell/Stalia/Muse/Kovans/Mektoubs/Slathes/Lams/Jaks/Stavons/Ichor/Homin）。词根沿用：巨龙之眼（Great Dragon=巨龙）、树液哨卫/树液刮取者（Sap=树液）、原始根须亲王、胶质擒拿者/多情胶质滴（Goo=胶质）、自由游侠（Ranger=游侠）、劈砍手（Slashing=劈砍）、暗影强盗、割喉者、穿刺手、躲龙帮（泛称 Dragon→龙，与"巨龙"区分）。
+**聊天前缀三件套**：Say/Shout/Whisper → 说话：/喊话：/低语：（汇合裁定 说话/喊话 沿用；Whisper=低语 与 tell=密语 区分；尾随空格逐键保留，冒号后空格随原文）。
+**职员称号**：G/SG/GM/SGM → 向导/资深向导/游戏管理员/资深游戏管理员（CSR 官职，character_title.h BeginGmTitle 段实证）。FBT 键值 'Elder of Atys' → Atys 长老（与批2.7 uiEM_FBT 保留拉丁的键无关，此处译值）。
+**其它新定译**：Chosen of Atys → Atys 天选者（暂定）；Celestial Guardian → 天界守护者；Avatar of Destruction/Sorrow → 毁灭/悲伤化身；Kamic Fist/Fury/Guardian → Kami 之拳/之怒/守护者；Imperial/Frontier/Local/Outlands Supplier → 帝国/边境/本地/荒野补给官；Warden → 监管官（暂定，de=Aufseher）；Escort/Comrade/Warmaster → 护卫/战友/战争大师；Green Seed → 绿种（暂定，fr=Graine Verte）；Leviers 保留拉丁；if 类目：Stanza→节（沿用 c1b）、Carrion→腐肉、Dead Seed→死种（暂定）、Crafting/Harvesting Tool→制造/采集工具；Sickness→疾病；PropertyNotFound→未找到属性（句号为译文正文）；TRAINING STATS/CHARACTERISTICS → 训练数值/训练属性；MAGIC ALTERATION SKILLS → 魔法变化技能（暂定）；Dune Caravaneer → 沙丘行商；Runner/Faker（Trader 支线）→ 跑者/佯攻者。
+**实测**：全 758 键（make_rem_zh_r1.py 产译 + check_rem_r1.py 独立复核）：键集合与顺序一致；本片值域干净——`$ % & @{ 字面
+ 真实LF 真实TAB` 全批次总量为 0，逐键计数恒一致；219 键首尾空白逐键回填一致；空串 1 键（fct_civil）保空；恒等值 5 键（32 连字符分隔线 ___faber_skill_sep___、Homin、ifAI、Zora Kovans、fct_civil）；U+FFFD=0；fct_tb/tc_intendant 源键名与值地名列/反（tb 值 Crystabell、tc 值 Avendale），按值翻译并在产译脚本备案。
+
+
+## 批次 2.8-r4（剩余词条全集 · 片4，755 键）新定译（暂译待汇合复核）
+
+**沿用裁定**：名望/效忠/密语/喊话/格挡/闪避/场景/契约/职业导师/领地税责/达珀/前哨站/主大陆/服务器（Shard）/节（Stanza）/未定义/诅咒（Affliction）/七系元素（酸蚀 冰霜 腐蚀 火焰 毒素 闪电 冲击波）/提取/采集/转售/附魔/充能/树液储量/命中/分钟/弹匣容量/攻击距离/对劈砍·砸击·穿刺最大吸收/旗手—无/评分五维（可达性 难度 指引性 趣味性 原创性）/有主持·无主持/主持方式/新手训练·叙事·悬疑·公会训练·其他。
+
+**新词族定译（本片新增）**：
+- **魔法领域**：X Domain → X领域（沙漠领域/森林领域/丛林领域/湖泊领域/原始根须领域）；Elemental Magic→元素魔法、Affliction Magic→诅咒魔法。领域内咒法类型词（暂定）：Blind→致盲、Madness→疯狂、Sleep→催眠、Slow Move→缓行、Rooting→定身、Slow Attack→迟缓、Stun→眩晕、Fear→恐惧。
+- **名望效忠 tooltip（uittFame*）**：magistrate→行政官（暂译）、priest→祭司（暂译）、bonze→僧侣（暂译）、sage→贤者（暂译）；stateless person→无国籍者、unbeliever→无信者、undetermined→待定（效忠语境）；swear allegiance→宣誓效忠、renounce→放弃效忠、enroll→招收。
+- **Marauder/Ranger 组织族**：Organization→组织（暂译）、Organization Points→组织点数、Marauders→**劫掠者**（与 r3 及 c2 劫掠部落同根对齐；本片初稿"掠夺者"已废）、Ranger（组织）→游侠（与职业 Ranger 同译，同屏撞名待复核）。
+- **RP 行业族**：Occupation→行业（与 Career=职业 分治，暂译）；基础/高级/角色扮演行业。
+- **制造动作窗（phrase 编辑器）**：EFFECTS→效果、CREDITS→动作点数（2.5 沿用）、Add Credit→增加点数、Add Option→增加选项、Forget Action→遗忘动作、Remove Stanza→移除节、Success Rate→成功率、Spell Level→法术等级、Needed points/Total cost→所需点数/总花费、unshaded→不再灰显（暂译）、magic amplifier→魔法增幅器（暂译）、sap crystal→树液水晶（暂译）。
+- **Sheath 族**：Sheath→**工具鞘**（暂译；Next/Previous Sheath→下一/上一工具鞘，uimMtSheath→工具鞘）。
+- **PvP 状态**：Faction PvP→阵营 PvP、PvP Tagged→PvP 标记（c1b 沿用）、PvP Flagged→**PvP 挂旗**（暂译）、Not PvP Tagged→未被 PvP 标记。
+- **聊天**：Whisper→低语（暂译）、Support Chat→客服聊天、NEW PARTY CHAT→新建群聊、NEW/REMOVE USER CHAT→新建/删除玩家聊天、/saveChannel 与 /name 命令词保留拉丁。
+- **PvP 区域基地 tooltip（uiPvPEffect_region_*，78 键）**："Base of <区域名>"→"<区域名> 基地"，**Atys 地名一律保留拉丁**（Bounty Beaches/Nexus/Silan/Frahar/Umbra/Ichor/Loria/Oflovak/Muse 等；与 2.6 加载语专名保留、批1 正文 Fairhaven/New Lands 保留一致）。effect 句式"X提升/降低 @{2F2F}%p"；aggressivity of extractions→提取敌意（暂译）、thorny shield→荆棘之盾（暂译）、throwing weapons→投掷武器。
+- **天气词**：Rainy→多雨、Snowy→多雪、Thundery→雷暴、Wind→大风、Sand storm→沙暴、Sap storm→树液风暴。
+- **uiit_* 区域短标签 54 键**：逐字节保留拉丁小写 token（fr/de/es/ru 官方译文行为相同，实为专名键非漏翻）。
+- **长尾/遗留键语境考证**：uiSelectPackage→选择安装包（client_install 工具 CClientInstallForm 引用实证）；uimTouchpad→触控板、uimCall→呼叫、uimItemTextDisplay→阅读、uimJournal→日志、uimFreezeJob/uimSwapJob→冻结职业/交换职业、uimwBuff→受效状态、uimwBGDownloader→补丁程序、uiScores→数值、uiPeople→人物、uiSeeding→保留"Seeding"（de/es/ru 官方均保留）、uiTechno→科技、uiSelPos→新手之地、uiProgressionTitle→我的成长、uiS2→黑与白之季、uiS2E0→第1集：Nexus 重见天日、uiInBag→收入背包/放出背包——**均未在现存 UI/代码中找到引用（遗留文本），语境内存疑待实机复核**。
+- **welcome_phrase**（Matis 出生地 NPC 长对白，{break} 标记保留）：Mission Officers→任务军官（暂译）、Masters→导师（暂译）、Guards→卫兵、lift→升降梯。
+- **Tryton 文档（uiTryton2..4）**：Mega Corp、E. Tryton 保留拉丁；"the New Beginning of Mankind"→人类的新开端（暂译）；uiMoreR* 游侠头衔：翠绿猎手/暗影猎手/Atys 守护者（暂译）。
+
+**实测与备案偏差**：
+- 全 755 键自查（make_r4_zh.py 产译 [字典 604+模板 97+保留 54]、check_r4.py 独立复核）：键集合与顺序一致；字面 `\n` 330/真实 LF 330/真实 TAB 330（单元一一对应：每个字面 \n 后恰为 LF+TAB，en/zh 双侧核验）、`@{` 829、色码 token 序列逐键多重集一致、`%` 157、`$` 0、`<name>`/`<party_chat>` 3 对、`{break}` 1——**逐键计数一致，0 偏差**；U+FFFD=0；逐字节保留 86 键（uiit* 54、等级段 6、种族名 4、Kami/Karavan 2、ZIG 标题 6、"00"/"???"/","/"NPC"/"Seeding"/"AppZone"/空串×8 等）。
+- 备案偏差 2 项：`uiR2EDso_hack_slash` "&"→"与"（c1b 先例，白名单）；`uittInfoArmor{Blunt,Pierc,Slash}` 文内 ASCII 引号 "smashing"→全角引号"砸击"（c3 撇号消失先例延伸，白名单）。
+- `uiRAP_WaitChars0..2` 尾随 ASCII "."/".."/"..." 为帧动画计数，**原样保留**（2.6 uiRAP_WaitMsg 同案）；`uiThousandsSeparator` "," 为程序化千分位值，逐字节保留。
+
+## 批次 2.8 合并对账（4 片汇合 · 跨片一致性裁定 · 最终译值）
+
+**合并基数**：r1 758 + r2 758 + r3 758 + r4 755 = **3029**；跨片键零重叠、zh/en 键集相等；键集 == pending diff ADD 块 label 集（6A9B6AD3，全等硬断言通过，diff 即剩余全集）。rem_zh_all.json 为唯一填充字典。
+
+### 基准漂移备案（en 基准 vs diff/wk 原文）
+- diff 块内嵌值为 **translated/wk.uxt**（原始工作文本，含法文残段与 sheet-id 占位），本批译文基准为 **translated/en.uxt**（上游策展英文明文）——两文件在 3029 键中漂移 **1039** 条（纯措辞 1019、空白 2、**结构标记计数差 18**）。
+- 18 条逐一核查 + oracle 实证：en.uxt 为策展文本（wk 占位如 `gn_r_03_38_bandit`=r_03_38_bandit、`uittOrganization`="Organization tooltip"、`uiTextCommand2..3` 为法文长段而 en 已定空串）；**官方 de/fr/es 全部按 en 系文本翻译（ru 个别抄 wk 占位）**，zh 依 en 基准与上游主流一致。`welcome_phrase` 的 `<**`/`**>` 富文本标记 en 基准即无（zh 同步，`{break}` 保留）；`uittOutpostWar*` 数字差为 en"1 天"vs wk 法文"6666"（措辞性非标记）。
+- 填充标记断言以 **zh vs en 基准**为准：3029 键 0 偏差（白名单外）；白名单 = 批次契约已批的 2 项（`uiR2EDso_hack_slash` &→与；`uittInfoArmor{Blunt,Pierc,Slash}` ASCII 引号→全角）。LF⇐`\n` 双侧约定 0 违规。
+
+### 跨片族一致性裁定（最终值，已写入 rem_zh_all.json；补丁共 103 键）
+| # | 族/键 | 冲突 | 裁定与依据 | 终值 |
+|---|---|---|---|---|
+| 1 | `uiPvPEffect_region_*`×76 + `gn_bandit_*`×6 + hovel×2 | r4 区域名保留拉丁 vs r3 region_*×8 直译 | **官方 de/fr/es/ru 4/4 在 Base-of 复合词中直译区域名**；r3 region_* 与 r3 uiContinentBagne 为批内先例；批1 规则"描述名直译、纯专名留拉丁"；按此统一，r1 bandit 名内区域引用同步对齐（Ichor/Windy Gate/Fount/Hovel×2 共 6 键改中文词根） | 见下表 39 名 |
+| 2 | Cute/Cuty（mpfam284/307/31） | 两物种撞译"可爱" | 官方 3/3 将 Cute/Cuty 作**物种专名保留拉丁**（Cute-Schädel/Crâne de Cute/Concha de Cuty）；撞名即消解 | Cute 头骨 / Cute 毛发 / Cuty 甲壳 |
+| 3 | Meat/Flesh（mpfam263-332 等 46 键） | 同译"肉" | 可接受（同义归并）；oracle：de 亦合并为 Fleisch（fr 区分 Viande/Chair，不取） | 均 肉（备案） |
+| 4 | `uiMissionTimerDay` | r3 单字母逐字节保留 vs 2.5 家族已译 | **2.5 旧值 Hour/Minute/Second=小时/分钟/秒**（旧 zh.uxt 实证），族根一致压倒单字母保留规则 | 天 |
+| 5 | `uiMK_Action_3` TALK TO | 与…交谈 拼接风险 | **全工作区零引用**（code/ryzom、client data、patchman、leveldesign game_element 全 grep 无 uiMK 消费点，整族为死键保险翻）——无运行时拼接点，风险为零；官方 de/fr/es 为前缀式（REDE MIT/Parler à/HABLAR CON），中文介宾结构不可前缀化 | 维持 与…交谈（若上游复活消费点再改） |
+| 6 | Forager/Harvester→采集者 | 与 2.6"新手采集者" | 旧 zh.uxt 词根核对一致；r1 族内 31 键全 采集者 无例外；Forager=Harvester 系同职双标签（gn_class_forager/harvester/Forager en 异词同指），同文可接受 | 采集者（备案） |
+| 7 | Curse/Affliction→诅咒 | 同文 | 旧 2.6/2.7 家族根 mpstat28-31、uihelpItemMagicBonus*Affliction、uittMagicResistTable"affliction（诅咒）"全为 诅咒；本批 Curse=诅咒 一致；Affliction_Bringer=降咒者 为构词派生 | 诅咒（确认） |
+| 8 | kitin 大小写 | 16 键 kitin vs 源 Kitin | 批1 规则"kitin 保留拉丁、**随原文大小写**"——r2/r3 违例回改（mpfam77/309-312/310/695/716/774/797-801、mpgroup31/42、uiFame_tribe_kitin_gatheres） | Kitin |
+| 9 | 组织 Ranger vs 职业 Ranger | 同译"游侠" | 官方 4/4 对 uiOrganization_7 保留"Ranger"（专名），**但批2.8 用户裁定"全部照翻，官方未译不构成豁免"（r1 匪帮名先例）**且 r3/r4 家族（uiWelcome_ranger、uittIdentityOrganization、fct_h_welcomer）已全译 游侠——批内多数派 + 裁定优先于 oracle；同词异指备案 | 游侠（备案，待实机） |
+| 10 | Silan 废墟/遗迹 | r4 批内自撞 ×4:×1 | uiBuildingRuins=废墟 多数派 | 身处 Silan 废墟时… |
+| 11 | Ichor | r1 留拉丁 vs r3 灵液 | 旧"汲血"实为 VAMPIRISM（r1 报告援引不成立）；r3 uiContinentBagne=灵液深渊 为批内唯一 Ichor 译根 | 灵液（深渊/杀手） |
+| 12 | Fount→泉源 | 避开 uiContinentSources=源泉（r3） | 双词分治 | 泉源 |
+
+**PvP 区域名终表**（slug→en→zh）：bountybeaches 丰饶海滩 · citiesofintuition 直觉之城 · dewdrops 露珠 · dunesofexil 流亡沙丘 · enchantedisle 魔法之岛 · fleetinggarden 瞬息花园* · forbidden_depths 禁忌深处 · frahartowers Frahar 之塔 · gate_of_obscurity 晦暗之门 · groveofconfusion 困惑之林* · groveofumbra 幽影之林 · havenofpurity 纯净庇护所 · hereticshovel 异端陋室* · hiddensource 隐秘之源* · imperialdunes 帝国沙丘 · knollofdissent 异见之丘* · knotofdementia 痴乱之结 · lagoonsofloria Loria 泻湖 · libertylake 自由湖 · maidengrove 处女之林 · majesticgarden 威严花园* · nexus Nexus（官方 4/4 留） · oflovaksoasis Oflovak 绿洲 · outlawcanyon 亡命峡谷 · restingwater 静水 · sawdustmines 木屑矿场 · the_abyss_of_ichor 灵液深渊* · the_elusive_forest 迷踪之林 · the_land_of_continuty 延续之地 · the_sunken_city 沉没之城 · the_trench_of_trials 试炼之堑 · the_under_spring 地下之泉 · the_windy_gate 狂风之门 · thefount 泉源 · thesavagedunes 蛮荒沙丘 · thescorchedcorridor 焦土走廊 · thevoid 虚空 · upperbog 上部沼泽* · windsofmuse Muse 之风（r1 保留先例）。*=r3 先例复用。uiit_* 54 键逐字节保留（官方 54/54 与 en 同值，程序关键词）。r1..r4 地名直译违例扫描（多词拉丁残留 43 种）：除本表外无违例，仅 Winch Gate Property Limited（版权公司名，留）。
+
+### 合并/填充/merge 结果
+- fill_rem_diff.py（全量版）：3029/3029 ADD 填充、**零删除、零重编号**、SWAP 3603 行原样保留、仅删尾标记 2 行；**merge 模拟终态 == translated/wk.uxt 标签序列（逐位一致）**——与历轮"剥 SWAP 尾部追加"不同，本批 zh.uxt 顺序自此对齐 wk 空间。
+- AA_clean（12690 注释行扫描保留，0 删除——计数为扫描数）→ B_merge：日志无 not translated；merge 后 zh.uxt **6646** 条、标签唯一、LanguageName=简体中文、顺序==wk、**旧 3617 条 0 改动**、新 3029 条与 rem_zh_all.json 逐字节一致；其余 6 语言文件 0 变化（git 实证）；diff 归档 history/。
+- **对齐审计：en.uxt 键集 − zh.uxt 键集 = ∅；zh − en = ∅**——uxt 域与 en 完全对齐，引用盲区闭合，**无残差清单**。
