@@ -1,0 +1,714 @@
+﻿*HASH_VALUE	outpost ID	name	description
+_5B321558ABD3F7D2	fyros_outpost_04.outpost	Malmont 农场	前哨站建于 2489 年，废弃于 2494 年\n 面向专家级公会的挑战\n 这座前哨站建在 Malmont 与龙尾以南，其活动集中于这片敌对地区的资源开采。部分资源被运往 Dyron 村与附近的作坊。其余材料则在重兵护送下沿通往 Pyr 的道路运出。
+_50ED8AA90BF8EFF5	fyros_outpost_09.outpost	高塔群农场	前哨站建于 2491 年，废弃于 2494 年\n 面向进阶级公会的挑战\n 这座前哨站的活动在 Frahar 猎手的影响下发展起来，他们意图开采本地区的资源。该部落频繁的武士巡逻队为保卫矿藏作出了巨大贡献，使采集者能够安心勘探、无惧袭击。
+_53FC998C546B1C65	fyros_outpost_13.outpost	西 Blackburn 边境哨站	前哨站建于 2490 年，废弃于 2494 年\n 面向熟手级公会的挑战\n 这座前哨站建于一处位于燃烬森林边缘的节点之上，用于持续监视森林之火，以防其蔓延至绿洲地区。帝国的士兵们都将派驻西线视为一种荣耀。
+_89C748F535AAF4B7	fyros_outpost_14.outpost	Blackburn 商栈	前哨站建于 2489 年，废弃于 2494 年\n 面向学徒级公会的挑战\n 这座前哨站是燃烧沙漠中最早设立的集散点之一。来自南方的旅人常在抵达首都之前在此停留休整、进行交易。它的名字取自西南方的燃烬森林。
+_6BA8D5A58D8A1A4E	fyros_outpost_25.outpost	南端沙丘农场	前哨站建于 2490 年，废弃于 2494 年\n 面向专家级公会的挑战\n 这座前哨站建在本地区南部一处由 Kami 发现的节点之上，曾引发 Pyr 当局与拒绝向帝国效忠的 Fyros 诸氏族之间的摩擦。在收到一笔可观的贡金之后，这些蛮族的首领最终默许了这座农庄的存在。
+_CA34A30E77B90623	fyros_outpost_27.outpost	焚木魔法图腾	前哨站建于 2490 年，废弃于 2494 年\n 面向大师级公会的挑战\n 这座建在燃烬森林深处、由帝国元素师控制的前哨站，旨在开发火焰之力。得益于法师们的实验，新的法术被创造出来，使秘术在 Fyros 社会中升格为真正的战争艺术。
+_BDE3EE74BFBEBE61	fyros_outpost_28.outpost	焚木要塞	前哨站建于 2491 年，废弃于 2494 年\n 面向大师级公会的挑战\n 这座前哨站奉摄政官 Leanon 之令设防，保护燃烬森林免受掠夺者与帝国之敌的侵害。在其存续期间，驻守此地的守军不得不频繁面对焚烧者部落——那些觊觎魔火泉源的法师。
+_FD20D1D4049E722D	tryker_outpost_06.outpost	翠谷商栈	前哨站建于 2489 年，废弃于 2493 年\n 面向学徒级公会的挑战\n 这座前哨站建在 Fairhaven 以西一处被悬崖环绕、枝叶繁茂的小谷中，很快就发展起繁荣的贸易活动，尤其与 Windermeer 村往来密切。然而，它也持续遭受强盗的袭击。
+_5B18CB8946250B0A	tryker_outpost_10.outpost	泉源厅商栈	前哨站建于 2486 年，废弃于 2493 年\n 面向进阶级公会的挑战\n 这座交易站由走私者部落发展起来。Tryker 联邦的商人公会数次试图掌控本地区的交易，均收效甚微。民谚有云：在泉源厅，你能找到任何东西，甚至包括不可能之物。
+_4EFEA1E7C0439509	tryker_outpost_16.outpost	墓园门研究中心	前哨站建于 2489 年，废弃于 2493 年\n 面向专家级公会的挑战\n 当一名探矿者在这座前哨站附近发现奇异的骨骸时，联邦的学者们对其进行了检验，却无从辨认其来历。尽管海滩拾荒者提出抗议——他们极不愿看到成群的钻机涌入墓园步道周边——一座研究中心还是在此建立。这片土地对他们而言神圣不可侵犯，被视为通往部落墓园的仪式之路。
+_D8762257F536008A	tryker_outpost_22.outpost	双峰工坊	前哨站建于 2487 年，废弃于 2493 年\n 面向专家级公会的挑战\n 这座工坊在一位富有的 Tryker 工匠的经营下不断扩张。当人们发现他的财富源自与奴隶贩子部落的密切合作时，丑闻爆发了。这名工匠被捕，前哨站随后由一家联邦公会打理，直至被废弃。
+_B11ACD519839AD43	tryker_outpost_24.outpost	狂风之路工坊	前哨站建于 2484 年，废弃于 2493 年\n 面向熟手级公会的挑战\n 这座前哨站围绕 Karavan 在 New Lands 安装的第一台大钻机而建。多亏了这台受 Jena 祝福的机器，淤泥雕刻者部落的工匠们成为最先试验来自 Atys 深处新材料的人。他们是前哨站手工业的先驱。
+_D35FE6C01736C84C	tryker_outpost_29.outpost	Loria 要塞	前哨站建于 2490 年，废弃于 2493 年\n 面向大师级公会的挑战\n 大钻机安装完毕后，这座前哨站遭到泻湖兄弟的袭击，钻机采出的珍贵资源被洗劫一空。联邦派出了一个军团收复前哨站。士兵们剿灭了海盗，随后建起一座要塞，献给著名的 Tryker 女英雄 Loria。
+_14719DD3A0341BBF	tryker_outpost_31.outpost	旋风要塞	前哨站建于 2489 年，废弃于 2493 年\n 面向大师级公会的挑战\n 这座前哨站毗邻通往自由湖的漩涡，其战略位置长久以来使它成为盘踞 Loria 泻湖一带的强盗与其他海盗的觊觎目标。为抵御袭击，一座堡垒在此建成。在前哨站被废弃之前，城墙下曾爆发无数次交锋。
+_A8E93FA99BDB4436	zorai_outpost_02.outpost	Gu-Qin 工坊	前哨站建于 2490 年，废弃于 2494 年\n 面向专家级公会的挑战\n 这座工坊由一位名叫 Gu-Qin 的 Zoraï 工匠发展起来，他曾决意直面胶质的威胁。不幸的是，他染上了紫色瘟疫。尽管学徒们悉心照料，他仍陷入了癫狂。他在一个冬夜失踪；直到数年后前哨站被废弃，工坊的工匠们仍发誓说，他们有时会听到他癫狂的笑声随着风从丛林中飘来。
+_CAD14424711A6CBD	zorai_outpost_08.outpost	Qai-Du 工坊	前哨站建于 2490 年，废弃于 2494 年\n 面向学徒级公会的挑战\n 这座工坊由珠宝大师 Qai-Du 建立，他是声名显赫的圣像崇拜者部落成员。他的学识与虔敬使 Zoraï 工艺赢得了守旧派的认可——后者长期以来都认为制造世俗器物是浪费时间。
+_9AF53CB170CAA29D	zorai_outpost_10.outpost	Sai-Shun 要塞	前哨站建于 2490 年，废弃于 2494 年\n 面向熟手级公会的挑战\n Sai-Shun 要塞坐落于处女之林丛林腹地，是 2490 年开启的讨伐 Kitin 之战的最前线。Sai-Shun 将军将指挥部设在前哨站内，发誓在蜂群之患解除之前绝不撤离此地。他信守誓言，与博爱军团并肩作战了两年。
+_E344209D01FD73B5	zorai_outpost_15.outpost	Zo-Kian 废墟工坊	前哨站建于 2492 年，废弃于 2494 年\n 面向大师级公会的挑战\n 这座前哨站建立在 Zo-Kian 废墟的东北方。Zo-Kian 原本是由 Zoraï 猎人建立的小村庄。这些猎人追猎 gibbaïs——当时那片丛林中 gibbaïs 成群——并对族人的迷信嗤之以鼻：杀死这些与 homin 极其相似的动物会带来厄运。一天夜里，村庄遭到未知生物的集群袭击，被彻底摧毁。数年后，探险者发现了本地区存在高级 gibbaïs。许多人认为，正是它们导致了 Zo-Kian 的覆灭——它们想必是在对猎人的攻击作出反击。
+_A9B1E17037E0BF79	zorai_outpost_16.outpost	失落之谷要塞	前哨站建于 2491 年，废弃于 2494 年\n 面向大师级公会的挑战\n 在遭受被胶质污染的动物反复袭击后，这座前哨站进行了设防。西北方的失落之谷中发现了传染温床。数次远征被派往当地试图将其摧毁，但收效甚微。当前哨站里的钻木机因染上紫色瘟疫而开始枯萎时，这座要塞的死期也随之到来，很快便遭废弃。
+_E897424AD4725452	zorai_outpost_22.outpost	恶魔十字外交前哨站	前哨站建于 2492 年，废弃于 2494 年\n 面向进阶级公会的挑战\n 在这座前哨站安装钻木机后不久，一只丛林恶魔被 Kami 的活动吸引，在周围一带徘徊不去。它被胶质折磨得形销骨立，怒火中烧。一位永恒之树社团的 Zoraï 贤者发现了它，并成功治愈了它的疾病。恶魔化作光辉之灵，为这位 Zoraï 赐福，使其成为圣者中的圣人。这一奇迹之后，前哨站便作为整个地区 Kami 信徒的聚会之所。
+_0F508D96CC6A8DA7	zorai_outpost_29.outpost	大荒原工坊	前哨站建于 2491 年，废弃于 2494 年\n 面向专家级公会的挑战\n 这座前哨站的活动由 Fyros 枪械匠 Cardarus Vekian 在痴乱之结的沙漠地区发展起来。这里没有过多的植被，使这位工匠得以运用本族基于用火传统的制造技艺，而无引发大火之虞。Zora 的商人们起初心存戒备，最终也对这位 Fyros 匠人的作品产生了兴趣。Vekian 成为名扬枯萎之地的工匠，许多 Zoraï 武士都以佩戴他锻造的武器为荣。
+_6FE48772D9E253F3	matis_outpost_03.outpost	畏惧泥沼农场	前哨站建于 2492 年，废弃于 2493 年\n 面向专家级公会的挑战\n 这座前哨站建立在畏惧泥沼附近，活动以采集资源、清理被胶质入侵的沼泽为中心。当生态战士部落发现受污染的材料并未被销毁，而是被送往 Yrkanis 或东南方进行各种实验时，双方爆发了冲突。他们据此指控 Matis 在散播胶质。王室科学家断然否认这些指控，并保证已采取一切预防措施避免污染。
+_640FA7D9C6414BD7	matis_outpost_07.outpost	寻宝人农场	前哨站建于 2491 年，废弃于 2493 年\n 面向熟手级公会的挑战\n 一位追寻神启的 Matis 学者决定定居在这座前哨站，借助大钻机得以接触被女神圣化的稀有材料。他进行了大量实验，尤其发现了一种新型钻粉，能使数处泉源同时涌向地表。这座前哨站因而成为想要尝试这种神奇粉末的探矿者的聚会之所。 
+_D6CD5001FB9E622C	matis_outpost_15.outpost	Psykopla 之丘贸易站	前哨站建于 2491 年，废弃于 2493 年\n 面向学徒级公会的挑战\n 一家小型商会在前哨站发展贸易。起初，许多探矿者就在 Karavan 安设的这台大钻机旁以物易物。一位 Tryker 商贩灵机一动，搭起了一处便于交易的设施，只收取微薄佣金。他与 Matis 商人们共同创立的公会生意兴隆，直至前哨站关闭。
+_DCD910ED7E62A2C2	matis_outpost_17.outpost	Wooky 工坊	前哨站建于 2490 年，废弃于 2493 年\n 面向进阶级公会的挑战\n 这座工坊建在通往原始根须深处的漩涡附近，是翠绿高丘上建立的第一座。它的名字象征着 Matis 族人一段繁忙岁月的开端：设立前哨站、抗击 kitin、开辟新的贸易路线。
+_34B4FC4C6451CC84	matis_outpost_24.outpost	西林要塞	前哨站建于 2492 年，废弃于 2493 年\n 面向大师级公会的挑战\n 这座前哨站建在困惑之林的密林深处，为讨伐树妖部落而设防——那是一群自视为植物守护者的狂热 homin。许多 Matis 植物学家被指控虐待 Atys 的植物，惨死在他们手中。
+_0C19BCC74DB35B36	matis_outpost_27.outpost	Ginti 工坊	前哨站建于 2491 年，废弃于 2493 年\n 面向大师级公会的挑战\n Sevalda Ginti 是 25 世纪最负盛名的 Matis 植物学家之一，师从 Bravichi Lenardi。当 Karavan 将大钻机安放到困惑之林时，她离开了 Yrkanis 的温室，深入丛林工作。她开展了大量研究，并凭借对树脂的发现完善了护甲制造工艺。她最终在神秘的情况下失踪。
+_F1B1343B89EF309D	matis_outpost_30.outpost	Berello 峡谷边境哨站	前哨站建于 2491 年，废弃于 2493 年\n 面向专家级公会的挑战\n 这座边境哨站由 Matis 队长 Arcando Berello 指挥设防，曾与编织缰绳部落爆发多次交锋。此地利害攸关——谁控制了这座前哨站，谁就扼住了本地区北方绿洲与南方干旱高原之间的通道。Berello 展现出顽强的意志与战术素养，连 Fyros 蛮人也开始敬重他们的对手。
+_431F0D331FF1DD57	marauder_light_melee_fighter_b.outpost_squad	劫掠者武士小队	
+_431F0D331FF1E157	marauder_light_melee_fighter_c.outpost_squad	劫掠者武士小队	
+_431F0D331FF1E557	marauder_light_melee_fighter_d.outpost_squad	劫掠者武士小队	
+_431F0D331FF1E957	marauder_light_melee_fighter_e.outpost_squad	劫掠者武士小队	
+_431F0D331FF1ED57	marauder_light_melee_fighter_f.outpost_squad	劫掠者武士小队	
+_243AE24310D10D5D	marauder_light_range_fighter_b.outpost_squad	劫掠者远程战士小队	
+_243AE24310D1115D	marauder_light_range_fighter_c.outpost_squad	劫掠者远程战士小队	
+_243AE24310D1155D	marauder_light_range_fighter_d.outpost_squad	劫掠者远程战士小队	
+_243AE24310D1195D	marauder_light_range_fighter_e.outpost_squad	劫掠者远程战士小队	
+_243AE24310D11D5D	marauder_light_range_fighter_f.outpost_squad	劫掠者远程战士小队	
+_302F323E1AB2D6B3	marauder_light_mixed_fighter_b.outpost_squad	劫掠者战士小队	
+_302F323E1AB2DAB3	marauder_light_mixed_fighter_c.outpost_squad	劫掠者战士小队	
+_302F323E1AB2DEB3	marauder_light_mixed_fighter_d.outpost_squad	劫掠者战士小队	
+_302F323E1AB2E2B3	marauder_light_mixed_fighter_e.outpost_squad	劫掠者战士小队	
+_302F323E1AB2E6B3	marauder_light_mixed_fighter_f.outpost_squad	劫掠者战士小队	
+_CA7E8470D81A655E	free_squad_light_melee_fighter_b.outpost_squad	民兵小队	八人学徒级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成。
+_EA0D947415F96160	free_squad_light_melee_fighter_c.outpost_squad	民兵小队	八人熟手级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成。
+_0EDB1B3AD99DEBE8	free_squad_light_melee_fighter_d.outpost_squad	民兵小队	八人进阶级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成。
+_0EDB4543550E13E4	free_squad_light_melee_fighter_e.outpost_squad	民兵小队	八人专家级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成。
+_0EDB094359F5B7EC	free_squad_light_melee_fighter_f.outpost_squad	民兵小队	八人大师级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成。
+_AEFD62A80D8439DC	outpost_squad_light_melee_fighter_b.outpost_squad	散兵小队	八人学徒级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成
+_2E1546AC0EC331DB	outpost_squad_light_melee_fighter_c.outpost_squad	散兵小队	八人熟手级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成
+_916FBA4FBDE5DA3D	outpost_squad_light_melee_fighter_d.outpost_squad	散兵小队	八人进阶级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成
+_907FBADAFFF4F647	outpost_squad_light_melee_fighter_e.outpost_squad	散兵小队	八人专家级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成
+_928FBACBFFE5F030	outpost_squad_light_melee_fighter_f.outpost_squad	散兵小队	八人大师级佣兵小队，由配备速射武器与轻甲的武士和两名治疗师组成
+_DA9562D33825667D	outpost_squad_medium_melee_fighter_b.outpost_squad	斗士小队	八人学徒级佣兵小队，由身着中甲、配备轻武器的武士（部分持盾）与一名治疗师组成
+_99846A5376667671	outpost_squad_medium_melee_fighter_c.outpost_squad	斗士小队	八人熟手级佣兵小队，由身着中甲、配备轻武器的武士（部分持盾）与一名治疗师组成
+_C8A275AF3AE0C006	outpost_squad_medium_melee_fighter_d.outpost_squad	斗士小队	八人进阶级佣兵小队，由身着中甲、配备轻武器的武士（部分持盾）与一名治疗师组成
+_CA4365AF3A89E4F7	outpost_squad_medium_melee_fighter_e.outpost_squad	斗士小队	八人专家级佣兵小队，由身着中甲、配备轻武器的武士（部分持盾）与一名治疗师组成
+_A9D285AF3A98E406	outpost_squad_medium_melee_fighter_f.outpost_squad	斗士小队	八人大师级佣兵小队，由身着中甲、配备轻武器的武士（部分持盾）与一名治疗师组成
+_31917ACDA8B6D507	outpost_squad_heavy_melee_fighter_b.outpost_squad	重装武士小队	八人学徒级佣兵小队，由身着重甲、配备双手武器的武士与一名治疗师组成
+_74E072CC28BEB902	outpost_squad_heavy_melee_fighter_c.outpost_squad	重装武士小队	八人熟手级佣兵小队，由身着重甲、配备双手武器的武士与一名治疗师组成
+_5F9729077C762AA3	outpost_squad_heavy_melee_fighter_d.outpost_squad	重装武士小队	八人进阶级佣兵小队，由身着重甲、配备双手武器的武士与一名治疗师组成
+_A1B645117B762A2E	outpost_squad_heavy_melee_fighter_e.outpost_squad	重装武士小队	八人专家级佣兵小队，由身着重甲、配备双手武器的武士与一名治疗师组成
+_A1B73FFA7D762A1F	outpost_squad_heavy_melee_fighter_f.outpost_squad	重装武士小队	八人大师级佣兵小队，由身着重甲、配备双手武器的武士与一名治疗师组成
+_2B09BFC50EF80C5E	outpost_squad_tank_b.outpost_squad	护卫小队	八人学徒级佣兵小队，由身着重甲、配备轻武器与盾牌的武士与一名治疗师组成
+_2A29C1BE0F38DC5C	outpost_squad_tank_c.outpost_squad	护卫小队	八人熟手级佣兵小队，由身着重甲、配备轻武器与盾牌的武士与一名治疗师组成
+_F8B55F7529227DE0	outpost_squad_tank_d.outpost_squad	护卫小队	八人进阶级佣兵小队，由身着重甲、配备轻武器与盾牌的武士与一名治疗师组成
+_BB755F75CCB341E7	outpost_squad_tank_e.outpost_squad	护卫小队	八人专家级佣兵小队，由身着重甲、配备轻武器与盾牌的武士与一名治疗师组成
+_35F55F7508B37D65	outpost_squad_tank_f.outpost_squad	护卫小队	八人大师级佣兵小队，由身着重甲、配备轻武器与盾牌的武士与一名治疗师组成
+_5601C36FA8D20761	outpost_squad_light_range_fighter_b.outpost_squad	手枪射手小队	八人学徒级佣兵小队，由身着中甲、配备手枪的射手与一名治疗师组成
+_76A0D373A5B10363	outpost_squad_light_range_fighter_c.outpost_squad	手枪射手小队	八人熟手级佣兵小队，由身着中甲、配备手枪的射手与一名治疗师组成
+_A5F22FBC0B41E9D0	outpost_squad_light_range_fighter_d.outpost_squad	手枪射手小队	八人进阶级佣兵小队，由身着中甲、配备手枪的射手与一名治疗师组成
+_A50259C547B211CC	outpost_squad_light_range_fighter_e.outpost_squad	手枪射手小队	八人专家级佣兵小队，由身着中甲、配备手枪的射手与一名治疗师组成
+_A5121DC50B99B5D4	outpost_squad_light_range_fighter_f.outpost_squad	手枪射手小队	八人大师级佣兵小队，由身着中甲、配备手枪的射手与一名治疗师组成
+_C403E2D6AEC519C7	outpost_squad_medium_range_fighter_b.outpost_squad	步枪手小队	八人学徒级佣兵小队，由身着中甲、配备步枪的射手与一名治疗师组成
+_C323E4CFAF05E9C5	outpost_squad_medium_range_fighter_c.outpost_squad	步枪手小队	八人熟手级佣兵小队，由身着中甲、配备步枪的射手与一名治疗师组成
+_89DC33F311346898	outpost_squad_medium_range_fighter_d.outpost_squad	步枪手小队	八人进阶级佣兵小队，由身着中甲、配备步枪的射手与一名治疗师组成
+_4C9C33F3B4C52C9F	outpost_squad_medium_range_fighter_e.outpost_squad	步枪手小队	八人专家级佣兵小队，由身着中甲、配备步枪的射手与一名治疗师组成
+_C61C33F3F0C5681D	outpost_squad_medium_range_fighter_f.outpost_squad	步枪手小队	八人大师级佣兵小队，由身着中甲、配备步枪的射手与一名治疗师组成
+_1043FDD2C7CB4EF4	outpost_squad_heavy_range_fighter_b.outpost_squad	炮手小队	八人学徒级佣兵小队，由配备机枪与榴弹发射器的射手与一名治疗师组成
+_1192F5D147D332F8	outpost_squad_heavy_range_fighter_c.outpost_squad	炮手小队	八人熟手级佣兵小队，由配备机枪与榴弹发射器的射手与一名治疗师组成
+_99F2301FEE875442	outpost_squad_heavy_range_fighter_d.outpost_squad	炮手小队	八人进阶级佣兵小队，由配备机枪与榴弹发射器的射手与一名治疗师组成
+_DB114C29ED8754CD	outpost_squad_heavy_range_fighter_e.outpost_squad	炮手小队	八人专家级佣兵小队，由配备机枪与榴弹发射器的射手与一名治疗师组成
+_DB124612EF8754BE	outpost_squad_heavy_range_fighter_f.outpost_squad	炮手小队	八人大师级佣兵小队，由配备机枪与榴弹发射器的射手与一名治疗师组成
+_70CFDE9FE7F12A5B	outpost_squad_light_mixed_fighter_b.outpost_squad	掠袭小队	八人学徒级佣兵小队，由配备速射武器与手枪的武士和射手及一名治疗师组成
+_6DBEDAA107803A5F	outpost_squad_light_mixed_fighter_c.outpost_squad	掠袭小队	八人熟手级佣兵小队，由配备速射武器与手枪的武士和射手及一名治疗师组成
+_BBDA84BDC96B2A68	outpost_squad_light_mixed_fighter_d.outpost_squad	掠袭小队	八人进阶级佣兵小队，由配备速射武器与手枪的武士和射手及一名治疗师组成
+_F75BACB9C96B5471	outpost_squad_light_mixed_fighter_e.outpost_squad	掠袭小队	八人专家级佣兵小队，由配备速射武器与手枪的武士和射手及一名治疗师组成
+_BB5250C1C96B1871	outpost_squad_light_mixed_fighter_f.outpost_squad	掠袭小队	八人大师级佣兵小队，由配备速射武器与手枪的武士和射手及一名治疗师组成
+_314148BBFC1D44FA	outpost_squad_medium_mixed_fighter_b.outpost_squad	战士小队	八人学徒级佣兵小队，由配备轻武器与步枪的武士和射手（部分持盾）及一名治疗师组成
+_30614AB4FD5D14F8	outpost_squad_medium_mixed_fighter_c.outpost_squad	战士小队	八人熟手级佣兵小队，由配备轻武器与步枪的武士和射手（部分持盾）及一名治疗师组成
+_AE1C15053C1DCD73	outpost_squad_medium_mixed_fighter_d.outpost_squad	战士小队	八人进阶级佣兵小队，由配备轻武器与步枪的武士和射手（部分持盾）及一名治疗师组成
+_71DC1505DFAE917A	outpost_squad_medium_mixed_fighter_e.outpost_squad	战士小队	八人专家级佣兵小队，由配备轻武器与步枪的武士和射手（部分持盾）及一名治疗师组成
+_EB5C15051BAECDF8	outpost_squad_medium_mixed_fighter_f.outpost_squad	战士小队	八人大师级佣兵小队，由配备轻武器与步枪的武士和射手（部分持盾）及一名治疗师组成
+_83F65F3F71561BD2	outpost_squad_nukers_b.outpost_squad	元素师小队	八人学徒级佣兵小队，由精通毁灭法术的法师与一名治疗师组成
+_84362F3D307621CB	outpost_squad_nukers_c.outpost_squad	元素师小队	八人熟手级佣兵小队，由精通毁灭法术的法师与一名治疗师组成
+_58207E496F02F1FB	outpost_squad_nukers_d.outpost_squad	元素师小队	八人进阶级佣兵小队，由精通毁灭法术的法师与一名治疗师组成
+_FBB14250F2C2F5FB	outpost_squad_nukers_e.outpost_squad	元素师小队	八人专家级佣兵小队，由精通毁灭法术的法师与一名治疗师组成
+_37B17ECE2C42F9FB	outpost_squad_nukers_f.outpost_squad	元素师小队	八人大师级佣兵小队，由精通毁灭法术的法师与一名治疗师组成
+_A60073A524657344	outpost_squad_offensive_linkers_b.outpost_squad	扰乱者小队	八人学徒级佣兵小队，由精通进攻系联结法术（削弱与元素）的法师与一名治疗师组成
+_E441839AA3547BC4	outpost_squad_offensive_linkers_c.outpost_squad	扰乱者小队	八人熟手级佣兵小队，由精通进攻系联结法术（削弱与元素）的法师与一名治疗师组成
+_C95D4E469B8A51DF	outpost_squad_offensive_linkers_d.outpost_squad	扰乱者小队	八人进阶级佣兵小队，由精通进攻系联结法术（削弱与元素）的法师与一名治疗师组成
+_C90672385D2B41DF	outpost_squad_offensive_linkers_e.outpost_squad	扰乱者小队	八人专家级佣兵小队，由精通进攻系联结法术（削弱与元素）的法师与一名治疗师组成
+_C9157248FCBA61DF	outpost_squad_offensive_linkers_f.outpost_squad	扰乱者小队	八人大师级佣兵小队，由精通进攻系联结法术（削弱与元素）的法师与一名治疗师组成
+_0CA62202F8B8D9E1	outpost_squad_mixed_casters_b.outpost_squad	法师小队	八人学徒级佣兵小队，由修习不同魔法流派（毁灭与回复）的法师组成
+_8B952A8236F9E9D6	outpost_squad_mixed_casters_c.outpost_squad	法师小队	八人熟手级佣兵小队，由修习不同魔法流派（毁灭与回复）的法师组成
+_660DE14ACBEFDAD3	outpost_squad_mixed_casters_d.outpost_squad	法师小队	八人进阶级佣兵小队，由修习不同魔法流派（毁灭与回复）的法师组成
+_28AED14ACB98FEC5	outpost_squad_mixed_casters_e.outpost_squad	法师小队	八人专家级佣兵小队，由修习不同魔法流派（毁灭与回复）的法师组成
+_C73DF14ACBA7FED5	outpost_squad_mixed_casters_f.outpost_squad	法师小队	八人大师级佣兵小队，由修习不同魔法流派（毁灭与回复）的法师组成
+_27C70004295AFD33	driller_bountybeaches_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_27C700046A5AFD33	driller_bountybeaches_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_27C70004296AFD33	driller_bountybeaches_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_5223406B8AC3F2A5	driller_bountybeaches_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_B43AE8DBD548D9F4	driller_bountybeaches_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_5223406B8AD3F2A5	driller_bountybeaches_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_B285735D1C570E40	driller_bountybeaches_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_B285735D5D570E40	driller_bountybeaches_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_B285735D1C670E40	driller_bountybeaches_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_D8CA151470F9417D	driller_bountybeaches_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_D8CA1514B1F9417D	driller_bountybeaches_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_D8CA15147009417D	driller_bountybeaches_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_40213497BD469797	driller_bountybeaches_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_40713497BD469797	driller_bountybeaches_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_40213897BD469797	driller_bountybeaches_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_57B84C949990AB65	driller_bountybeaches_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_344B6E0E2EE83210	driller_bountybeaches_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_57B850949990AB65	driller_bountybeaches_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_155C215B40A809FB	driller_bountybeaches_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_15AC215B40A809FB	driller_bountybeaches_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_155C255B40A809FB	driller_bountybeaches_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_83F0DA2890B1565B	driller_bountybeaches_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_8340DA2890B1565B	driller_bountybeaches_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_83F0DE2890B1565B	driller_bountybeaches_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_03912D6F5054EBF7	driller_citiesofintuition_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_1A28456DEC9EFFC5	driller_citiesofintuition_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_594C2A3553B65953	driller_citiesofintuition_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_4660D30362BFAABB	driller_citiesofintuition_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_1BA9D853164E187F	driller_citiesofintuition_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_DACEA81747D13C04	driller_citiesofintuition_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_CB67AF2F6E83263A	driller_citiesofintuition_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_402BF182855E8B68	driller_citiesofintuition_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_83B6EBF2A31BB739	driller_couloirbrule_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_83B6EBF3A31BB739	driller_couloirbrule_kami_u1_150b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_83B6EBF2A3CBBB39	driller_couloirbrule_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_83B6EBF3A3CBBB39	driller_couloirbrule_kami_u1_200b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_83B6EBF2A31BBB39	driller_couloirbrule_kami_u1_250a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_83B6EBF3A31BBB39	driller_couloirbrule_kami_u1_250b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_5F00FFC0BAB2CF36	driller_couloirbrule_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_5F00FFC1BAB2CF36	driller_couloirbrule_kami_u2_150b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_5F00FFC0BA62D336	driller_couloirbrule_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_5F00FFC1BA62D336	driller_couloirbrule_kami_u2_200b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_5F00FFC0BAB2D336	driller_couloirbrule_kami_u2_250a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_5F00FFC1BAB2D336	driller_couloirbrule_kami_u2_250b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_0618594EF9D6B4FD	driller_couloirbrule_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0618594FF9D6B4FD	driller_couloirbrule_kami_u3_150b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0618594EF986B8FD	driller_couloirbrule_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0618594FF986B8FD	driller_couloirbrule_kami_u3_200b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0618594EF9D6B8FD	driller_couloirbrule_kami_u3_250a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0618594FF9D6B8FD	driller_couloirbrule_kami_u3_250b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_5621AAB6E6EA5DCA	driller_couloirbrule_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5621AAB7E6EA5DCA	driller_couloirbrule_kami_u4_150b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5621AAB6E69A61CA	driller_couloirbrule_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5621AAB7E69A61CA	driller_couloirbrule_kami_u4_200b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5621AAB6E6EA61CA	driller_couloirbrule_kami_u4_250a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5621AAB7E6EA61CA	driller_couloirbrule_kami_u4_250b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_9DFD943F87EF73E0	driller_couloirbrule_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_DDFD943F87EF73E0	driller_couloirbrule_karavan_u1_150b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_9DFD804087EF73E0	driller_couloirbrule_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_DDFD804087EF73E0	driller_couloirbrule_karavan_u1_200b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_9DFD944087EF73E0	driller_couloirbrule_karavan_u1_250a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_DDFD944087EF73E0	driller_couloirbrule_karavan_u1_250b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_CE80B8C4062443A4	driller_couloirbrule_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_0E80B8C4062443A4	driller_couloirbrule_karavan_u2_150b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_CE80A4C5062443A4	driller_couloirbrule_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_0E80A4C5062443A4	driller_couloirbrule_karavan_u2_200b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_CE80B8C5062443A4	driller_couloirbrule_karavan_u2_250a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_0E80B8C5062443A4	driller_couloirbrule_karavan_u2_250b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_F532A2FAB7CD4ABC	driller_couloirbrule_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_3532A2FAB7CD4ABC	driller_couloirbrule_karavan_u3_150b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F5328EFBB7CD4ABC	driller_couloirbrule_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_35328EFBB7CD4ABC	driller_couloirbrule_karavan_u3_200b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F532A2FBB7CD4ABC	driller_couloirbrule_karavan_u3_250a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_3532A2FBB7CD4ABC	driller_couloirbrule_karavan_u3_250b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0C0D0728EBA18C0F	driller_couloirbrule_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_4C0D0728EBA18C0F	driller_couloirbrule_karavan_u4_150b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_0C0DF329EBA18C0F	driller_couloirbrule_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_4C0DF329EBA18C0F	driller_couloirbrule_karavan_u4_200b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_0C0D0729EBA18C0F	driller_couloirbrule_karavan_u4_250a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_4C0D0729EBA18C0F	driller_couloirbrule_karavan_u4_250b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_077EFFE25C972BFC	driller_dunesofexil_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_077EFFE25C973FFC	driller_dunesofexil_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_077EFFE25C972BFD	driller_dunesofexil_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E499E608F912E1CA	driller_dunesofexil_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_86B3CFA68D1A6381	driller_dunesofexil_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_86B3CFA68D1A4F82	driller_dunesofexil_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_375CD6BDB22C59BB	driller_dunesofexil_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_375CD6BDB22C6DBB	driller_dunesofexil_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_375CD6BDB22C59BC	driller_dunesofexil_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6B301811CBA79EE5	driller_dunesofexil_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_6B301811CBA7B2E5	driller_dunesofexil_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_6B301811CBA79EE6	driller_dunesofexil_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_B0C28F47AFCE74AB	driller_dunesofexil_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_B0C28F4CAFCE74AB	driller_dunesofexil_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_B0C28F47EFCE74AB	driller_dunesofexil_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_7868EEF4634679E4	driller_dunesofexil_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_20CC2FD450AE3E5E	driller_dunesofexil_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_20CC2FCF90AE3E5E	driller_dunesofexil_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_E716DB0A9C1AAAE0	driller_dunesofexil_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_E716DB0F9C1AAAE0	driller_dunesofexil_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_E716DB0ADC1AAAE0	driller_dunesofexil_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_BB1ED26327E89E71	driller_dunesofexil_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_BB1ED26827E89E71	driller_dunesofexil_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_BB1ED26367E89E71	driller_dunesofexil_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_6857140A297BD112	driller_enchantedisle_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_6857140A6A7BD112	driller_enchantedisle_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_6857140A298BD112	driller_enchantedisle_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F5CAFCE19469ADD3	driller_enchantedisle_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_93B35471CBE4C684	driller_enchantedisle_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_93B354718AF4C684	driller_enchantedisle_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_F31587631C78E21F	driller_enchantedisle_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F31587635D78E21F	driller_enchantedisle_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F31587631C88E21F	driller_enchantedisle_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_195A291A701A155C	driller_enchantedisle_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_195A291AB11A155C	driller_enchantedisle_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_195A291A702A155C	driller_enchantedisle_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_81B1489DBD676B76	driller_enchantedisle_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_8101489DBD676B76	driller_enchantedisle_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_81B14C9DBD676B76	driller_enchantedisle_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_758B82142E0906EF	driller_enchantedisle_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_9898609A99B17F44	driller_enchantedisle_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_9848649A99B17F44	driller_enchantedisle_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_56EC356140C9DDDA	driller_enchantedisle_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_563C356140C9DDDA	driller_enchantedisle_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_56EC396140C9DDDA	driller_enchantedisle_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_C480EE2E90D22A3A	driller_enchantedisle_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_C4D0EE2E90D22A3A	driller_enchantedisle_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_C480F22E90D22A3A	driller_enchantedisle_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_F1DB7B25F42C7CB2	driller_fleetinggarden_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_1F08FC026C3B4069	driller_fleetinggarden_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_61E51BAD950C4665	driller_fleetinggarden_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_4A643C69CDA439DA	driller_fleetinggarden_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E7AFDFF0E278B2E7	driller_fleetinggarden_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_AAC66F5B5F385974	driller_fleetinggarden_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_FC37BE416C46A678	driller_fleetinggarden_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_D00B1112B3DA90B0	driller_fleetinggarden_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_4BB0CA779F970E16	driller_fleetinggarden_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_03C01D62D0E3CF7C	driller_fleetinggarden_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_AC19BFE9CAF34E7D	driller_fleetinggarden_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_1A5735606C2DE34A	driller_fleetinggarden_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_3C6DDB842A65A169	driller_fleetinggarden_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_D8FB0A28D34541E0	driller_fleetinggarden_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_924F0EC1509A2326	driller_fleetinggarden_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_468FC3F6E24E8E40	driller_fleetinggarden_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_05D6B7FAE6EBDB2B	driller_frahartowers_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_05D6B7FAE63BDB2B	driller_frahartowers_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_42538BEDDFB8730C	driller_frahartowers_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E120CBC8FD82F328	driller_frahartowers_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E120CBC8FDD2F328	driller_frahartowers_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_01785BB1103B9791	driller_frahartowers_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_883825563CA6D8EF	driller_frahartowers_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_883825563CF6D8EF	driller_frahartowers_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F21162C8354DA1CB	driller_frahartowers_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_D84176BE29BA81BC	driller_frahartowers_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_D84176BE290A81BC	driller_frahartowers_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_67D5A41C4EC8E6F5	driller_frahartowers_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_1F1D4C47CA0F97D2	driller_frahartowers_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_1F1D6047CA0F97D2	driller_frahartowers_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_3A83C73800BCB977	driller_frahartowers_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_50A070CC49446796	driller_frahartowers_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_50A084CC49446796	driller_frahartowers_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_AA8D67C0A1AC7F2A	driller_frahartowers_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_77525A02FAED6EAE	driller_frahartowers_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_77526E02FAED6EAE	driller_frahartowers_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_71D713FBED28E7AC	driller_frahartowers_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_8E2DBF302EC1B001	driller_frahartowers_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_8E2DD3302EC1B001	driller_frahartowers_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_45DF0A547806D73D	driller_frahartowers_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_768BE32AB63C64AD	driller_groveconfusion_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_769BE32AB63C64AD	driller_groveconfusion_kami_u1_150b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_768BE325F63C64AD	driller_groveconfusion_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_769BE325F63C64AD	driller_groveconfusion_kami_u1_200b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_768BE32AF63C64AD	driller_groveconfusion_kami_u1_250a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_769BE32AF63C64AD	driller_groveconfusion_kami_u1_250b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E69583B2571C2E60	driller_groveconfusion_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E6A583B2571C2E60	driller_groveconfusion_kami_u2_150b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E69583AD971C2E60	driller_groveconfusion_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E6A583AD971C2E60	driller_groveconfusion_kami_u2_200b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E69583B2971C2E60	driller_groveconfusion_kami_u2_250a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E6A583B2971C2E60	driller_groveconfusion_kami_u2_250b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_6C5F47F5A4889AE2	driller_groveconfusion_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6C6F47F5A4889AE2	driller_groveconfusion_kami_u3_150b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6C5F47F0E4889AE2	driller_groveconfusion_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6C6F47F0E4889AE2	driller_groveconfusion_kami_u3_200b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6C5F47F5E4889AE2	driller_groveconfusion_kami_u3_250a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6C6F47F5E4889AE2	driller_groveconfusion_kami_u3_250b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_81E726462E568E73	driller_groveconfusion_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_81F726462E568E73	driller_groveconfusion_kami_u4_150b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_81E726416E568E73	driller_groveconfusion_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_81F726416E568E73	driller_groveconfusion_kami_u4_200b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_81E726466E568E73	driller_groveconfusion_kami_u4_250a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_81F726466E568E73	driller_groveconfusion_kami_u4_250b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_1160327761A7F611	driller_groveconfusion_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_1160327761A7FA11	driller_groveconfusion_karavan_u1_150b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_D070327761A7F611	driller_groveconfusion_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_D070327761A7FA11	driller_groveconfusion_karavan_u1_200b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_1170327761A7F611	driller_groveconfusion_karavan_u1_250a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_1170327761A7FA11	driller_groveconfusion_karavan_u1_250b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_72C927E98C033678	driller_groveconfusion_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_72C927E98C033A78	driller_groveconfusion_karavan_u2_150b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_31D927E98C033678	driller_groveconfusion_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_31D927E98C033A78	driller_groveconfusion_karavan_u2_200b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_72D927E98C033678	driller_groveconfusion_karavan_u2_250a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_72D927E98C033A78	driller_groveconfusion_karavan_u2_250b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_021D4384EC758964	driller_groveconfusion_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_021D4384EC758D64	driller_groveconfusion_karavan_u3_150b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_C12D4384EC758964	driller_groveconfusion_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_C12D4384EC758D64	driller_groveconfusion_karavan_u3_200b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_022D4384EC758964	driller_groveconfusion_karavan_u3_250a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_022D4384EC758D64	driller_groveconfusion_karavan_u3_250b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_58FF76C112AA0B21	driller_groveconfusion_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_58FF76C112AA0F21	driller_groveconfusion_karavan_u4_150b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_170F76C112AA0B21	driller_groveconfusion_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_170F76C112AA0F21	driller_groveconfusion_karavan_u4_200b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_580F76C112AA0B21	driller_groveconfusion_karavan_u4_250a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_580F76C112AA0F21	driller_groveconfusion_karavan_u4_250b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_04B6ABF1680ACF2F	driller_groveofumbra_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_04B6ABF1685ACF2F	driller_groveofumbra_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_04B6ABF1680AD32F	driller_groveofumbra_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E000BFBF7FA1E72C	driller_groveofumbra_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_7558466A5C3409A6	driller_groveofumbra_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_E000BFBF7FA1EB2C	driller_groveofumbra_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_8718194DBEC5CCF3	driller_groveofumbra_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_8718194DBE15CCF3	driller_groveofumbra_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_8718194DBEC5D0F3	driller_groveofumbra_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_D7216AB5ABD975C0	driller_groveofumbra_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_D7216AB5AB2975C0	driller_groveofumbra_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_D7216AB5ABD979C0	driller_groveofumbra_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_1EFD403E4C2E8BD6	driller_groveofumbra_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_1EFD543E4C2E8BD6	driller_groveofumbra_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_1EFD403F4C2E8BD6	driller_groveofumbra_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_4F8064C3CB635B9A	driller_groveofumbra_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_BB780A0C294972FC	driller_groveofumbra_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_4F8064C4CB635B9A	driller_groveofumbra_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_76324EF97C0C62B2	driller_groveofumbra_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_763262F97C0C62B2	driller_groveofumbra_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_76324EFA7C0C62B2	driller_groveofumbra_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_8D0DB327B0E0A405	driller_groveofumbra_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_8D0DC727B0E0A405	driller_groveofumbra_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_8D0DB328B0E0A405	driller_groveofumbra_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_A9E7041EEC9AD533	driller_havenofpurity_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_A9E7041E2D9AD533	driller_havenofpurity_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_9634CFFE24FA5824	driller_havenofpurity_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_D44344854D03CAA5	driller_havenofpurity_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_D44344858E03CAA5	driller_havenofpurity_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_327EE3CC3B917022	driller_havenofpurity_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_34A57777DF97E640	driller_havenofpurity_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_34A577772097E640	driller_havenofpurity_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_99963D5A7AB555EA	driller_havenofpurity_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_5AEA192E3339197D	driller_havenofpurity_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5AEA192E7439197D	driller_havenofpurity_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_A89F8EC267C9FEB8	driller_havenofpurity_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_C24138B180866F97	driller_havenofpurity_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_C29138B180866F97	driller_havenofpurity_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_5C2EFC863C120308	driller_havenofpurity_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_D9D850AE5CD08365	driller_havenofpurity_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_D92850AE5CD08365	driller_havenofpurity_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_8DB1200BFB37D3CC	driller_havenofpurity_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_977C257503E8E1FB	driller_havenofpurity_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_97CC257503E8E1FB	driller_havenofpurity_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_B4630A41ECD0DAE4	driller_havenofpurity_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0510DE4253F12E5B	driller_havenofpurity_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_0560DE4253F12E5B	driller_havenofpurity_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_CB3E6F6F61941C37	driller_havenofpurity_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_8115C7FAE6DBCB2F	driller_hiddensource_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_8115C7FAE62BCB2F	driller_hiddensource_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_8115C7FAE6DBCF2F	driller_hiddensource_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F2B76273DAB505A6	driller_hiddensource_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_5D5FDBC8FDC2E32C	driller_hiddensource_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_5D5FDBC8FD72E72C	driller_hiddensource_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_047735563C96C8F3	driller_hiddensource_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_047735563CE6C8F3	driller_hiddensource_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_047735563C96CCF3	driller_hiddensource_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_548086BE29AA71C0	driller_hiddensource_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_548086BE29FA71C0	driller_hiddensource_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_548086BE29AA75C0	driller_hiddensource_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_9B5C5C47CAFF87D6	driller_hiddensource_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_9B5C7047CAFF87D6	driller_hiddensource_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_9B5C5C48CAFF87D6	driller_hiddensource_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_38D71215A71A6EFC	driller_hiddensource_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_CCDF94CC4934579A	driller_hiddensource_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_CCDF80CD4934579A	driller_hiddensource_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_F3916A02FADD5EB2	driller_hiddensource_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F3917E02FADD5EB2	driller_hiddensource_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F3916A03FADD5EB2	driller_hiddensource_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0A6CCF302EB1A005	driller_hiddensource_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_0A6CE3302EB1A005	driller_hiddensource_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_0A6CCF312EB1A005	driller_hiddensource_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_D2240BEE23AA4022	driller_imperialdunes_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_6E6E1FBC3A415820	driller_imperialdunes_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_D586794A79653DE8	driller_imperialdunes_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_E48FCAB26679E6B6	driller_imperialdunes_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_981E38763BC2EB06	driller_imperialdunes_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_C9A15CFBFAE7BBCA	driller_imperialdunes_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_F0534631EB80C2E2	driller_imperialdunes_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_072EAB5F60440435	driller_imperialdunes_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_F38BCB2C34ACACB3	driller_knollofdissent_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F38BCB3134ACACB3	driller_knollofdissent_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_21B84C09ACBB706A	driller_knollofdissent_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_63956BB4D58C7666	driller_knollofdissent_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_63956BB9D58C7666	driller_knollofdissent_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_4C148C700D2469DB	driller_knollofdissent_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_E95F2FF722F8E2E8	driller_knollofdissent_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_E95F2FFC22F8E2E8	driller_knollofdissent_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_AC76BF629FB88975	driller_knollofdissent_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_FEE70E48ACC6D679	driller_knollofdissent_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_FEE70E4DACC6D679	driller_knollofdissent_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_D2BB6119F35AC0B1	driller_knollofdissent_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_4D601A7EDF173E17	driller_knollofdissent_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_8E601A7EDF173E17	driller_knollofdissent_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_05706D691063FF7D	driller_knollofdissent_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_AEC90FF00A737E7E	driller_knollofdissent_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_EFC90FF00A737E7E	driller_knollofdissent_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_1C078567ACAD134B	driller_knollofdissent_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_3E1D2B8B6AE5D16A	driller_knollofdissent_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_7F1D2B8B6AE5D16A	driller_knollofdissent_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_DAAB5A2F13C571E1	driller_knollofdissent_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_94FF5EC8901A5327	driller_knollofdissent_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_D5FF5EC8901A5327	driller_knollofdissent_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_483F13FD22CEBE41	driller_knollofdissent_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_B93A9330748C3CB1	driller_knotofdementia_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_B93A9335748C3CB1	driller_knotofdementia_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_B93A9330B48C3CB1	driller_knotofdementia_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_81E0F2DD280441EA	driller_knotofdementia_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_294433BD156C0664	driller_knotofdementia_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_294433B8556C0664	driller_knotofdementia_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_AF0EF7FB62D872E6	driller_knotofdementia_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_AF0EF70062D872E6	driller_knotofdementia_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_AF0EF7FBA2D872E6	driller_knotofdementia_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_C496D64CECA66677	driller_knotofdementia_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_C496D651ECA66677	driller_knotofdementia_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_C496D64C2CA66677	driller_knotofdementia_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_130FE2821FF7CE15	driller_knotofdementia_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_540FE2821FF7CE15	driller_knotofdementia_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_131FE2821FF7CE15	driller_knotofdementia_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_7EFDBE43AC6AB6EC	driller_knotofdementia_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_B578D7F44A530E7C	driller_knotofdementia_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_7488D7F44A530E7C	driller_knotofdementia_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_04CCF38FAAC56168	driller_knotofdementia_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_45CCF38FAAC56168	driller_knotofdementia_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_04DCF38FAAC56168	driller_knotofdementia_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_5AAE26CCD0FAE325	driller_knotofdementia_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_9BAE26CCD0FAE325	driller_knotofdementia_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_5ABE26CCD0FAE325	driller_knotofdementia_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_F6CA7B2FF67D5CB1	driller_lagoonsofloria_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F6DA7B2FF67D5CB1	driller_lagoonsofloria_kami_u1_150b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F6CA7B2A367D5CB1	driller_lagoonsofloria_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F6DA7B2A367D5CB1	driller_lagoonsofloria_kami_u1_200b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F6CA7B2F367D5CB1	driller_lagoonsofloria_kami_u1_250a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F6DA7B2F367D5CB1	driller_lagoonsofloria_kami_u1_250b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_66D41BB7975D2664	driller_lagoonsofloria_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_66E41BB7975D2664	driller_lagoonsofloria_kami_u2_150b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_66D41BB2D75D2664	driller_lagoonsofloria_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_66E41BB2D75D2664	driller_lagoonsofloria_kami_u2_200b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_66D41BB7D75D2664	driller_lagoonsofloria_kami_u2_250a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_66E41BB7D75D2664	driller_lagoonsofloria_kami_u2_250b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_EC9EDFFAE4C992E6	driller_lagoonsofloria_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_ECAEDFFAE4C992E6	driller_lagoonsofloria_kami_u3_150b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_EC9EDFF524C992E6	driller_lagoonsofloria_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_ECAEDFF524C992E6	driller_lagoonsofloria_kami_u3_200b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_EC9EDFFA24C992E6	driller_lagoonsofloria_kami_u3_250a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_ECAEDFFA24C992E6	driller_lagoonsofloria_kami_u3_250b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0126BE4B6E978677	driller_lagoonsofloria_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0136BE4B6E978677	driller_lagoonsofloria_kami_u4_150b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0126BE46AE978677	driller_lagoonsofloria_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0136BE46AE978677	driller_lagoonsofloria_kami_u4_200b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0126BE4BAE978677	driller_lagoonsofloria_kami_u4_250a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0136BE4BAE978677	driller_lagoonsofloria_kami_u4_250b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_919FCA7CA1E8EE15	driller_lagoonsofloria_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_919FCA7CA1E8F215	driller_lagoonsofloria_karavan_u1_150b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_50AFCA7CA1E8EE15	driller_lagoonsofloria_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_50AFCA7CA1E8F215	driller_lagoonsofloria_karavan_u1_200b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_91AFCA7CA1E8EE15	driller_lagoonsofloria_karavan_u1_250a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_91AFCA7CA1E8F215	driller_lagoonsofloria_karavan_u1_250b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_F208BFEECC442E7C	driller_lagoonsofloria_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_F208BFEECC44327C	driller_lagoonsofloria_karavan_u2_150b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_B118BFEECC442E7C	driller_lagoonsofloria_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_B118BFEECC44327C	driller_lagoonsofloria_karavan_u2_200b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_F218BFEECC442E7C	driller_lagoonsofloria_karavan_u2_250a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_F218BFEECC44327C	driller_lagoonsofloria_karavan_u2_250b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_825CDB892CB68168	driller_lagoonsofloria_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_825CDB892CB68568	driller_lagoonsofloria_karavan_u3_150b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_416CDB892CB68168	driller_lagoonsofloria_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_416CDB892CB68568	driller_lagoonsofloria_karavan_u3_200b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_826CDB892CB68168	driller_lagoonsofloria_karavan_u3_250a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_826CDB892CB68568	driller_lagoonsofloria_karavan_u3_250b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_D83E0EC652EB0325	driller_lagoonsofloria_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_D83E0EC652EB0725	driller_lagoonsofloria_karavan_u4_150b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_974E0EC652EB0325	driller_lagoonsofloria_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_974E0EC652EB0725	driller_lagoonsofloria_karavan_u4_200b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_D84E0EC652EB0325	driller_lagoonsofloria_karavan_u4_250a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_D84E0EC652EB0725	driller_lagoonsofloria_karavan_u4_250b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_405AB588D9C6B2E1	driller_libertylake_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E14A7B3B49D05269	driller_libertylake_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_2EC6E3BDCF9A16AC	driller_libertylake_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_B8A4D34EE422F5FD	driller_libertylake_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_DA980217AC4E3472	driller_libertylake_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_05F4427E0DB72DE3	driller_libertylake_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_6566956A9D0B4D7D	driller_libertylake_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_8B9B1727F3ED84B9	driller_libertylake_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_C7BEE3E29FA727EE	driller_maidengrove_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_00CAC1975AA59AD4	driller_maidengrove_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_46F3B3A6D02A4B73	driller_maidengrove_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_A1BA874ACAAF3A5C	driller_maidengrove_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_F79CBABDF53C55AD	driller_maidengrove_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_EE36EFCC5079FE9F	driller_maidengrove_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_2B70FC110EB79AD7	driller_maidengrove_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_7814DF5D6501DDF0	driller_maidengrove_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_70027347F2DE709D	driller_maidengrove_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_9A080E262D2D1C65	driller_maidengrove_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_E00C13CF93BE3A50	driller_maidengrove_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_C5644E8D8E9615D6	driller_maidengrove_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_A756BF0ADF2AA6D2	driller_maidengrove_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_25D6A1791EEA3570	driller_maidengrove_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_7B5EB6636AF89A63	driller_maidengrove_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_4B0B233674CC6CAC	driller_maidengrove_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_1F58D0096BEB6C68	driller_majesticgarden_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_4AB41070CC5465D9	driller_majesticgarden_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_AA1643625EE88573	driller_majesticgarden_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_D05BE519B28ABCAF	driller_majesticgarden_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0310F169CF93FB7B	driller_majesticgarden_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_1AA709676BDD0F49	driller_majesticgarden_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_D84BDE2FD2F56DDF	driller_majesticgarden_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_46DF97FDE1FEBA3F	driller_majesticgarden_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_C6F5BFEDE65A9740	driller_oflovakoasis_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_037293E0DF272F21	driller_oflovakoasis_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_A23FD3BBFDF1AF3D	driller_oflovakoasis_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_C29763A410AA53A6	driller_oflovakoasis_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_49572D493C159404	driller_oflovakoasis_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_B3306ABB35BC5DE0	driller_oflovakoasis_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_99607EB129293DD1	driller_oflovakoasis_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_28F4AC0F4E37A20A	driller_oflovakoasis_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_E03C543ACA7E53E7	driller_oflovakoasis_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_FBA2CF2B002B758C	driller_oflovakoasis_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_11BF78BF49B323AB	driller_oflovakoasis_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_6BAC6FB3A11B3B3F	driller_oflovakoasis_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_387162F5FA5C2AC3	driller_oflovakoasis_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_32F61BEEED97A3C1	driller_oflovakoasis_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_4F4CC7232E306C16	driller_oflovakoasis_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_06FE124778759352	driller_oflovakoasis_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_E869E736E810FA94	driller_thefount_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E8B9E736E810FA94	driller_thefount_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E1367F17258DCE87	driller_thefount_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_FF00FF33C45A0E62	driller_thefount_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_FF50FF33C45A0E62	driller_thefount_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_12B9A39CE4B29E4B	driller_thefount_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_3E24E4FA6B7268F0	driller_thefount_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_3E74E4FA6B7268F0	driller_thefount_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_37CBADD6D54BA562	driller_thefount_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_2B388DC7BB7BB958	driller_thefount_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_2B888DC7BB7BB958	driller_thefount_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5046F2004A0FE7B6	driller_thefount_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_CC8DA3DD02578FE1	driller_thefount_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_CC8DA3DD0257A3E1	driller_thefount_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_023AC5821DBD0AD2	driller_thefount_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_4BC273A133DAB366	driller_thefount_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_4BC273A133DAC766	driller_thefount_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_A32A8B358DC7AA5A	driller_thefount_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_FC6B7AB95A8C9D9C	driller_thefount_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_FC6B7AB95A8CB19C	driller_thefount_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_EFA6F3B754115695	driller_thefount_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_303FBC0C716702CA	driller_thefount_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_303FBC0C716716CA	driller_thefount_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_7A84E34828194DEE	driller_thefount_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_F60B7731F45CC49F	driller_thesavagedunes_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F60B7736F45CC49F	driller_thesavagedunes_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_F60B7731345CC49F	driller_thesavagedunes_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_661517B9953C8E52	driller_thesavagedunes_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_BEB1D6E3A8D4C9D8	driller_thesavagedunes_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_661517B9D53C8E52	driller_thesavagedunes_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_ECDFDBFCE2A8FAD4	driller_thesavagedunes_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_ECDFDB01E2A8FAD4	driller_thesavagedunes_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_ECDFDBFC22A8FAD4	driller_thesavagedunes_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_0167BA4D6C76EE65	driller_thesavagedunes_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0167BA526C76EE65	driller_thesavagedunes_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_0167BA4DAC76EE65	driller_thesavagedunes_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_50E0C6839FC75603	driller_thesavagedunes_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_91E0C6839FC75603	driller_thesavagedunes_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_50F0C6839FC75603	driller_thesavagedunes_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_B149BBF5CA23966A	driller_thesavagedunes_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_FCCEA2442C3A3EDA	driller_thesavagedunes_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_B159BBF5CA23966A	driller_thesavagedunes_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_419DD7902A95E956	driller_thesavagedunes_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_829DD7902A95E956	driller_thesavagedunes_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_41ADD7902A95E956	driller_thesavagedunes_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_977F0ACD50CA6B13	driller_thesavagedunes_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_D87F0ACD50CA6B13	driller_thesavagedunes_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_978F0ACD50CA6B13	driller_thesavagedunes_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_E4F657F56AA9F67D	driller_thevoid_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_24F657F56AA9F67D	driller_thevoid_kami_u1_150b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E4F643F66AA9F67D	driller_thevoid_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_24F643F66AA9F67D	driller_thevoid_kami_u1_200b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_E4F657F66AA9F67D	driller_thevoid_kami_u1_250a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_24F657F66AA9F67D	driller_thevoid_kami_u1_250b.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_15797B7AE9DEC641	driller_thevoid_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_55797B7AE9DEC641	driller_thevoid_kami_u2_150b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_1579677BE9DEC641	driller_thevoid_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_5579677BE9DEC641	driller_thevoid_kami_u2_200b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_15797B7BE9DEC641	driller_thevoid_kami_u2_250a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_55797B7BE9DEC641	driller_thevoid_kami_u2_250b.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_3A8B85B49A87CD58	driller_thevoid_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_7A8B85B49A87CD58	driller_thevoid_kami_u3_150b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_3A8B71B59A87CD58	driller_thevoid_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_7A8B71B59A87CD58	driller_thevoid_kami_u3_200b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_3A8B85B59A87CD58	driller_thevoid_kami_u3_250a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_7A8B85B59A87CD58	driller_thevoid_kami_u3_250b.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_5306CADECE5B0FAC	driller_thevoid_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_9306CADECE5B0FAC	driller_thevoid_kami_u4_150b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5306B6DFCE5B0FAC	driller_thevoid_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_9306B6DFCE5B0FAC	driller_thevoid_kami_u4_200b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_5306CADFCE5B0FAC	driller_thevoid_kami_u4_250a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_9306CADFCE5B0FAC	driller_thevoid_kami_u4_250b.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_372D8CA413ED86E7	driller_thevoid_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_372D8CA413FD86E7	driller_thevoid_karavan_u1_150b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_772D8CA413ED86E2	driller_thevoid_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_772D8CA413FD86E2	driller_thevoid_karavan_u1_200b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_772D8CA413ED86E7	driller_thevoid_karavan_u1_250a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_772D8CA413FD86E7	driller_thevoid_karavan_u1_250b.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_D80D565783F7266F	driller_thevoid_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_D80D56578307266F	driller_thevoid_karavan_u2_150b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_180D565783F7266A	driller_thevoid_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_180D56578307266A	driller_thevoid_karavan_u2_200b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_180D565783F7266F	driller_thevoid_karavan_u2_250a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_180D56578307266F	driller_thevoid_karavan_u2_250b.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_2479C2D94A41D2AA	driller_thevoid_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_2479C2D94A51D2AA	driller_thevoid_karavan_u3_150b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6479C2D94A41D2A5	driller_thevoid_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6479C2D94A51D2A5	driller_thevoid_karavan_u3_200b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6479C2D94A41D2AA	driller_thevoid_karavan_u3_250a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_6479C2D94A51D2AA	driller_thevoid_karavan_u3_250b.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_AF47B66A1E49C903	driller_thevoid_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_AF47B66A1E59C903	driller_thevoid_karavan_u4_150b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_EF47B66A1E49C9FE	driller_thevoid_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_EF47B66A1E59C9FE	driller_thevoid_karavan_u4_200b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_EF47B66A1E49C903	driller_thevoid_karavan_u4_250a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_EF47B66A1E59C903	driller_thevoid_karavan_u4_250b.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_A81A0737A420AE97	driller_upperbog_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_A86A0737A420AE97	driller_upperbog_kami_u1_150a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_A81A0B37A420AE97	driller_upperbog_kami_u1_200a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_BFB11F34806AC265	driller_upperbog_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_9C4441AE15C24910	driller_upperbog_kami_u2_150a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品
+_BFB12334806AC265	driller_upperbog_kami_u2_200a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_FED504FB27821CF3	driller_upperbog_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_FE2504FB27821CF3	driller_upperbog_kami_u3_150a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_FED508FB27821CF3	driller_upperbog_kami_u3_200a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_EBE9ADC8778B6D5B	driller_upperbog_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_EB39ADC8778B6D5B	driller_upperbog_kami_u4_150a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_EBE9B1C8778B6D5B	driller_upperbog_kami_u4_200a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_8C3EC3DEBE6743E4	driller_upperbog_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_8C3EC3DEBE6757E4	driller_upperbog_karavan_u1_150a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_8C3EC3DEBE6743E5	driller_upperbog_karavan_u1_200a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_0B7393A2EFEA6769	driller_upperbog_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_6959AA045BE20DB2	driller_upperbog_karavan_u2_150a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品
+_0B7393A2EFEA676A	driller_upperbog_karavan_u2_200a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_BC1C9ABA169C519F	driller_upperbog_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_BC1C9ABA169C659F	driller_upperbog_karavan_u3_150a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_BC1C9ABA169C51A0	driller_upperbog_karavan_u3_200a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_F0F0DC0D2D77B6CD	driller_upperbog_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_F0F0DC0D2D77CACD	driller_upperbog_karavan_u4_150a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_F0F0DC0D2D77B6CE	driller_upperbog_karavan_u4_200a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_C70EF7F25E972BFC	driller_windsofmuse_kami_u1_100a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_001AD5A719959EE2	driller_windsofmuse_kami_u1_50a.outpost_building	钻木机供品	制造原材料 + 消耗品 
+_4643C7B68F1A4F81	driller_windsofmuse_kami_u2_100a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_A10A9B5A899F3E6A	driller_windsofmuse_kami_u2_50a.outpost_building	水晶钻木机供品	制造原材料 + 双倍消耗品 
+_F7ECCECDB42C59BB	driller_windsofmuse_kami_u3_100a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_EE8603DC0F6902AD	driller_windsofmuse_kami_u3_50a.outpost_building	加固钻木机供品	制造原材料 + 消耗品（速度 x1.5） 
+_2BC01021CDA79EE5	driller_windsofmuse_kami_u4_100a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_7864F36D24F1E1FE	driller_windsofmuse_kami_u4_50a.outpost_building	高级钻木机供品	制造原材料 + 消耗品（速度 x2） 
+_70528757B1CE74AB	driller_windsofmuse_karavan_u1_100a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_9A582236EC1D2073	driller_windsofmuse_karavan_u1_50a.outpost_building	大钻机供品	制造原材料 + 消耗品 
+_E05C27DF52AE3E5E	driller_windsofmuse_karavan_u2_100a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_C5B4629D4D8619E4	driller_windsofmuse_karavan_u2_50a.outpost_building	水晶大钻机供品	制造原材料 + 双倍消耗品 
+_A7A6D31A9E1AAAE0	driller_windsofmuse_karavan_u3_100a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_2526B589DDDA397E	driller_windsofmuse_karavan_u3_50a.outpost_building	高速大钻机供品	制造原材料 + 消耗品（速度 x1.5） 
+_7BAECA7329E89E71	driller_windsofmuse_karavan_u4_100a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_4B5B374633BC70BA	driller_windsofmuse_karavan_u4_50a.outpost_building	高级大钻机供品	制造原材料 + 消耗品（速度 x2） 
+_274A8C626D2AC980	placeholder_bountybeaches_a.outpost_building	可建造地块	还原为空地
+_8120C2FAF16B6046	placeholder_citiesofintuition_a.outpost_building	可建造地块	还原为空地
+_1B67A0193668832F	placeholder_couloirbrule_a.outpost_building	可建造地块	还原为空地
+_1B67A4193668832F	placeholder_couloirbrule_b.outpost_building	可建造地块	还原为空地
+_43563FF2E5492BD3	placeholder_dunesofexil_a.outpost_building	可建造地块	还原为空地
+_276B6041AEBADD86	placeholder_enchantedisle_a.outpost_building	可建造地块	还原为空地
+_30BB492FF0FF3FBF	placeholder_fleetinggarden_a.outpost_building	可建造地块	还原为空地
+_5E87C40BB8884F37	placeholder_frahartowers_a.outpost_building	可建造地块	还原为空地
+_F2CB312A75AFA7BF	placeholder_groveconfusion_a.outpost_building	可建造地块	还原为空地
+_32CB312A75AFA7BF	placeholder_groveconfusion_b.outpost_building	可建造地块	还原为空地
+_E0A6B80FB768432E	placeholder_groveofumbra_a.outpost_building	可建造地块	还原为空地
+_EA8A6462EF4ACD9A	placeholder_havenofpurity_a.outpost_building	可建造地块	还原为空地
+_5E77B40F34C75F37	placeholder_hiddensource_a.outpost_building	可建造地块	还原为空地
+_E93A4C602B3A098A	placeholder_imperialdunes_a.outpost_building	可建造地块	还原为空地
+_703B7930F2AF8FC6	placeholder_knollofdissent_a.outpost_building	可建造地块	还原为空地
+_B01B092EB85E57CA	placeholder_knotofdementia_a.outpost_building	可建造地块	还原为空地
+_320C292EF5EE3FC4	placeholder_lagoonsofloria_a.outpost_building	可建造地块	还原为空地
+_720C292EF5EE3FC4	placeholder_lagoonsofloria_b.outpost_building	可建造地块	还原为空地
+_058753F1E51903C4	placeholder_libertylake_a.outpost_building	可建造地块	还原为空地
+_86663BE4A5890FD3	placeholder_maidengrove_a.outpost_building	可建造地块	还原为空地
+_2F6B752EF04F13C6	placeholder_majesticgarden_a.outpost_building	可建造地块	还原为空地
+_5EF6802079A7572A	placeholder_oflovakoasis_a.outpost_building	可建造地块	还原为空地
+_73786B38884FF7AF	placeholder_thefount_a.outpost_building	可建造地块	还原为空地
+_30EB911CF52F3BCB	placeholder_thesavagedunes_a.outpost_building	可建造地块	还原为空地
+_202AFBD5F3FF7E84	placeholder_thevoid_a.outpost_building	可建造地块	还原为空地
+_202AFBD5F3FF7E85	placeholder_thevoid_b.outpost_building	可建造地块	还原为空地
+_2F881F3B480017B0	placeholder_upperbog_a.outpost_building	可建造地块	还原为空地
+_45563FF2A5D923E3	placeholder_windsofmuse_a.outpost_building	可建造地块	还原为空地
+_3B0E370CEE023CAD	town_hall.outpost_building	前哨站大厅	前哨站的主建筑
